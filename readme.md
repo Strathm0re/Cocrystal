@@ -6,14 +6,14 @@
 
 ## **Summary**
 
-This library consists of two parts: the Cocrystal prediction by machine learning section (using `Python 3.7`)  and the computer vision classification section (using `Python 3.10 `). 
+This library consists of two parts: the Cocrystal prediction by machine learning section (using `Python 3.7`)  and the computer vision classification section (using `Python 3.10`). 
 
 Corresponding scientific report:
 
 ## **Git Clone**
 
 ```sh
-git clone https://xxxxxxx.git
+git clone https://github.com/Strathm0re/Cocrystal.git
 ```
 
 ## **Segment 1: Cocrystal Prediction Section**
