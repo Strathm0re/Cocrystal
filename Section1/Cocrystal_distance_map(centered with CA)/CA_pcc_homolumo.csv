@@ -1,0 +1,57 @@
+﻿label,smiles,highlight,Pcc,HOMO-LUMO
+Phz,c1ccc2nc3ccccc3nc2c1,1,0.99 ,3.5
+QUI-23CH,CC1=NC2=CC=CC=C2N=C1C,1,0.90 ,4.68
+"pyrazino[2,3-g]quinoxaline",c1cnc2cc3nccnc3cc2n1,0,0.95 ,0
+"1H-imidazo[4,5-b]phenazine",c1nc2cc3nc4ccccc4nc3cc2[nH]1,0,0.67 ,0
+HATNA,c1ccc2nc3c(nc2c1)c1nc2ccccc2nc1c1nc2ccccc2nc31,1,0.95 ,3.63
+BQUI,c1ccc2cc3nccnc3cc2c1,1,0.99 ,3.4
+2-iodophenazine,Ic1ccc2nc3ccccc3nc2c1,0,0.85 ,0
+PQUI,c1cc2cnc3ccccc3n2c1,1,0.64 ,4.21
+phenazin-2-ol,Oc1ccc2nc3ccccc3nc2c1,0,0.64 ,0
+2-chlorophenazine,Clc1ccc2nc3ccccc3nc2c1,0,0.86 ,0
+"2,8-dibromophenazine",Brc1ccc2nc3ccc(Br)cc3nc2c1,0,0.89 ,0
+2-fluorophenazine,Fc1ccc2nc3ccccc3nc2c1,0,0.88 ,0
+2-methylphenazine,Cc1ccc2nc3ccccc3nc2c1,0,0.95 ,0
+2-bromophenazine,Brc1ccc2nc3ccccc3nc2c1,0,0.89 ,0
+"1H-imidazo[4,5-g]quinoxaline",c1nc2cc3nccnc3cc2[nH]1,0,0.67 ,0
+QUI-2OH,Oc1cnc2ccccc2n1,1,0.61 ,4.56
+phenazin-2-amine,Nc1ccc2nc3ccccc3nc2c1,0,0.69 ,0
+"5H-pyrrolo[3,2-b:4,5-b']dipyridine",c1cnc2c(c1)[nH]c1cccnc21,0,0.72 ,0
+8H-cyclohepta[b] quinoxalin-8-one oxime,ON=c1ccc2nc3ccccc3nc2cc1,0,0.74 ,0
+quinoxaline-2-thiol,Sc1cnc2ccccc2n1,0,0.87 ,0
+QUI-2Me,Cc1cnc2ccccc2n1,1,0.95 ,4.62
+benzo[a]phenazine,c1ccc2c(c1)ccc1nc3ccccc3nc21,0,0.99 ,0
+"dibenzo[a,i]phenazine",c1ccc2cc3nc4c(ccc5ccccc45)nc3cc2c1,0,0.99 ,0
+QUI-2NH2,Nc1cnc2ccccc2n1,1,0.60 ,4.22
+5-methylphenazin-5-ium,C[n+]1c2ccccc2nc2ccccc12,0,0.65 ,0
+quinoxalin-2(1H)-one,O=c1cnc2ccccc2[nH]1,0,0.74 ,0
+QUI-2Cl,Clc1cnc2ccccc2n1,1,0.86 ,4.61
+QUI-[Zn+],[Zn+]c1ccc2nccnc2c1,0,0.92 ,0
+PHEN,c1cnc2c(c1)ccc1cccnc21,1,0.99 ,4.57
+phenazine 5-oxide,[O-][n+]1c2ccccc2nc2ccccc12,0,0.63 ,0
+QUI-6Cl,Clc1ccc2nccnc2c1,1,0.86 ,4.52
+QUI-6Me,Cc1ccc2nccnc2c1,1,0.95 ,4.62
+QUI-6OH,Oc1ccc2nccnc2c1,1,0.64 ,4.3
+QUI-[Mg+],[Mg+]c1ccc2nccnc2c1,0,0.92 ,0
+QUI-6F,Fc1ccc2nccnc2c1,1,0.88 ,4.63
+QUI-6NH2,Nc1ccc2nccnc2c1,1,0.69 ,3.91
+"dibenzo[a,c]phenazine",c1ccc2nc3c4ccccc4c4ccccc4c3nc2c1,0,0.99 ,0
+"2,3-dimethylphenazine",Cc1cc2nc3ccccc3nc2cc1C,0,0.90 ,0
+"tribenzo[a,c,i]phenazine",c1ccc2cc3nc4c5ccccc5c5ccccc5c4nc3cc2c1,0,0.99 ,0
+"tetrabenzo[a,c,h,j]phenazine",c1ccc2c(c1)c1ccccc1c1nc3c4ccccc4c4ccccc4c3nc21,0,0.99 ,0
+"quinoxaline-2,3-diol",Oc1nc2ccccc2nc1O,0,0.55 ,0
+"phenazine-2,3-diamine",Nc1cc2nc3ccccc3nc2cc1N,0,0.60 ,0
+"quinoxaline-2,3-dithiol",Sc1nc2ccccc2nc1S,0,0.76 ,0
+"1,4-dihydroquinoxaline-2,3-dithione",S=c1[nH]c2ccccc2[nH]c1=S,0,0.70 ,0
+"2,3-dibromoquinoxaline",Brc1nc2ccccc2nc1Br,0,0.84 ,0
+Ppyz,c1cnc2cnccc2n1,1,0.95 ,4.55
+1-methylquinoxalin-1-ium,C[n+]1ccnc2ccccc12,0,0.65 ,0
+"1H-pyrrolo[3,2-h]quinoline",c1cc2ccc3cccnc3c2[nH]1,0,0.75 ,0
+"phenazine 5,10-dioxide",[O-][n+]1c2ccccc2[n+]([O-])c2ccccc12,0,0.56 ,0
+QUIdione,O=c1[nH]c2ccccc2[nH]c1=O,1,0.68 ,4.62
+"quinoxaline-2,3-diamine",Nc1nc2ccccc2nc1N,0,0.50 ,0
+QUI-23Cl,Clc1nc2ccccc2nc1Cl,1,0.83 ,4.6
+"1H-imidazo[4,5-f]quinoxaline",c1nc2ccc3nccnc3c2[nH]1,0,0.67 ,0
+QUIoxide,[O-][n+]1ccnc2ccccc12,1,0.63 ,3.97
+DHIC,c1ccc2c(c1)[nH]c1c2ccc2c3ccccc3[nH]c12,1,0.65 ,4.22
+PHEN-Cl,ClC1=CC2=C(C3=C1C=CC=N3)N=CC=C2,1,0.86 ,4.57
