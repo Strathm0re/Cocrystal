@@ -1,0 +1,17 @@
+********************Powder*********************
+Powder classes divided in the ratio of 0.6: 0.2: 0.2, 165 images in total
+train set: 100 images
+val set: 33 images
+test set: 32 images
+********************SingleCrystal*********************
+SingleCrystal classes divided in the ratio of 0.6: 0.2: 0.2, 182 images in total
+train set: 110 images
+val set: 36 images
+test set: 36 images
+********************Liquid*********************
+Liquid classes divided in the ratio of 0.6: 0.2: 0.2, 127 images in total
+train set: 77 images
+val set: 25 images
+test set: 25 images
+Dataset splitting completed
+train set: 287 images, val set: 94 images, test set: 93 images
