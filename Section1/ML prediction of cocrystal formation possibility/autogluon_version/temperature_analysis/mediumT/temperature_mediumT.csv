@@ -1,0 +1,1341 @@
+Original Item,Refcode,Temperature,SMILES,Spacegroup,Polymorph,Temperature_Num,Temperature_Category,coformer1,coformer2
+FAYYAI,FAYYAI,183 K,Nc1ccc(C(O)=O)c(O)c1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/c,False,183.0,mediumT,Nc1ccc(C(O)=O)c(O)c1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+NUQHIS,NUQHIS,150 K,Cc1c(O)cccc1O.c1cc(ccn1)N=Nc1ccncc1,P21/c,False,150.0,mediumT,Cc1c(O)cccc1O,c1cc(ccn1)N=Nc1ccncc1
+HAYLEC,HAYLEC,150 K,Oc1ccc(C=O)c(O)c1O.c1cc(ccn1)c1ccncc1,P-1,False,150.0,mediumT,Oc1ccc(C=O)c(O)c1O,c1cc(ccn1)c1ccncc1
+IJUPEI,IJUPEI,at 223 K,CC1=CC2[NH+](CC1)CC1CCCCC21O.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,Pna21,False,223.0,mediumT,CC1=CC2[NH+](CC1)CC1CCCCC21O,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+FEPFOX,FEPFOX,at 180 K,c1ccc2nc3ccccc3nc2c1.CC(=CC(O)=O)C(O)=O,Pna21,False,180.0,mediumT,c1ccc2nc3ccccc3nc2c1,CC(=CC(O)=O)C(O)=O
+QOFKEC,QOFKEC,at 200 K,O=C1C(=O)c2cccnc2c2[nH+]cccc12.FC(F)(F)S(=O)(=O)[O-],P21,False,200.0,mediumT,O=C1C(=O)c2cccnc2c2[nH+]cccc12,FC(F)(F)S(=O)(=O)[O-]
+FEPFEN,FEPFEN,at 129 K,ON=C(C#N)c1ccc(cc1)C(=NO)C#N.CS(C)=O,P-1,False,129.0,mediumT,ON=C(C#N)c1ccc(cc1)C(=NO)C#N,CS(C)=O
+YAJGIC,YAJGIC,154 K,O=S1(=O)NC(=S)c2ccccc12.NC(=O)N1c2ccccc2CCc2ccccc12,P-1,False,154.0,mediumT,O=S1(=O)NC(=S)c2ccccc12,NC(=O)N1c2ccccc2CCc2ccccc12
+HOLKUQ,HOLKUQ,at 140 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1=CN(CC[NH2+][BH3-])C=C1,P-1,False,140.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[N+]1=CN(CC[NH2+][BH3-])C=C1
+ZUYLAI,ZUYLAI,173 K,NC(N)=O.NC(=O)c1cccnc1,P21/n,False,173.0,mediumT,NC(N)=O,NC(=O)c1cccnc1
+HOTGOP,HOTGOP,130 K,CN(C)c1ccc(cc1)C=NNC(N)=S.CN(C)c1ccc(C=O)cc1,P-1,False,130.0,mediumT,CN(C)c1ccc(cc1)C=NNC(N)=S,CN(C)c1ccc(C=O)cc1
+VOSWOS,VOSWOS,173 K,OC(C(=O)[O-])c1ccc(Br)cc1.[NH3+]C(CO)C(O)c1ccc(cc1)N(=O)=O,P21,False,173.0,mediumT,OC(C(=O)[O-])c1ccc(Br)cc1,[NH3+]C(CO)C(O)c1ccc(cc1)N(=O)=O
+UXOBIT,UXOBIT,at 150 K,CCCCCCC(O)=O.Nc1ncnc(N)n1,Pmn21,False,150.0,mediumT,CCCCCCC(O)=O,Nc1ncnc(N)n1
+BOVZAP,BOVZAP,at 150 K,C(Cc1ccncc1)c1ccncc1.OC(=O)c1ccc(F)c(F)c1,P21/c,False,150.0,mediumT,C(Cc1ccncc1)c1ccncc1,OC(=O)c1ccc(F)c(F)c1
+RAVLOS,RAVLOS,150 K,OC(=O)c1cc(Cl)cc(Cl)c1O.O=Cc1ccncc1,P-1,False,150.0,mediumT,OC(=O)c1cc(Cl)cc(Cl)c1O,O=Cc1ccncc1
+TORZAE,TORZAE,150 K,c1cc(ccn1)C=Cc1ccncc1.Nc1ccc(cc1)C(O)=O,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Nc1ccc(cc1)C(O)=O
+HOGJAR,HOGJAR,180 K,O=C(NN=Cc1[nH+]cccc1)c1ccccc1.OC(=O)CC(=O)[O-],P-1,False,180.0,mediumT,O=C(NN=Cc1[nH+]cccc1)c1ccccc1,OC(=O)CC(=O)[O-]
+HIQMAX,HIQMAX,at 150 K,OC(=O)CCC(O)=O.NC(=O)c1ccc(Br)cc1,P21/c,False,150.0,mediumT,OC(=O)CCC(O)=O,NC(=O)c1ccc(Br)cc1
+CIMNAQ,CIMNAQ,150 K,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.COc1ccc(cc1)C(O)C[N+]1=CC=CN1,P212121,False,150.0,mediumT,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,COc1ccc(cc1)C(O)C[N+]1=CC=CN1
+WIVPUM,WIVPUM,at 173 K,Clc1ccc(c(Cl)c1)C(=O)[O-].[NH3+]Cc1ccc(Cl)cc1,P21/c,False,173.0,mediumT,Clc1ccc(c(Cl)c1)C(=O)[O-],[NH3+]Cc1ccc(Cl)cc1
+GAGPIR,GAGPIR,150 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(CCc1ccccc1)C(=O)[O-],P61,False,150.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(CCc1ccccc1)C(=O)[O-]
+CEPMOC,CEPMOC,170 K,c1ccc2nc3ccccc3cc2c1.Oc1ccc(Br)cc1,P21,False,170.0,mediumT,c1ccc2nc3ccccc3cc2c1,Oc1ccc(Br)cc1
+MAYTIT,MAYTIT,200.0 K,Cc1ccc(cc1)S(=O)(=O)[O-].O=C(C[NH+]1CCCCC1)c1ccccc1,Pbca,False,200.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],O=C(C[NH+]1CCCCC1)c1ccccc1
+VAKVIN,VAKVIN,at 153 K,NC(=O)c1ccncc1.Oc1ccc(O)cc1,P21/c,False,153.0,mediumT,NC(=O)c1ccncc1,Oc1ccc(O)cc1
+TIJMUU,TIJMUU,at 150 K,CC(=NO)C1(C)NCC(C)(C)CN1.CC(=O)C(C)=NO,P-1,False,150.0,mediumT,CC(=NO)C1(C)NCC(C)(C)CN1,CC(=O)C(C)=NO
+LUNZOJ,LUNZOJ,at 180 K,CCCCCCCCC(O)=O.c1cnccn1,P-1,False,180.0,mediumT,CCCCCCCCC(O)=O,c1cnccn1
+RASCAQ,RASCAQ,at 223 K,c1cc(ccn1)C=Cc1ccncc1.Oc1cc(O)cc(c1)C(c1ccccc1O)c1ccccc1O,P21/c,False,223.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Oc1cc(O)cc(c1)C(c1ccccc1O)c1ccccc1O
+RASBOD,RASBOD,at 223 K,c1cc(ccn1)c1ccncc1.Oc1cc(O)cc(c1)C(c1ccccc1O)c1ccccc1O,Pbcn,False,223.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1cc(O)cc(c1)C(c1ccccc1O)c1ccccc1O
+XEZJAR,XEZJAR,150.2 K,c1ccc2c(c1)c1ccccc1c1ccccc21.ClC1=C(Cl)C(=O)C(=C(C#N)C1=O)C#N,P21/n,False,150.0,mediumT,c1ccc2c(c1)c1ccccc1c1ccccc21,ClC1=C(Cl)C(=O)C(=C(C#N)C1=O)C#N
+LATLAV,LATLAV,at 173 K,CC(C)=NNC(=O)c1ccncc1.OC(=O)c1ccccc1O,P21/n,False,173.0,mediumT,CC(C)=NNC(=O)c1ccncc1,OC(=O)c1ccccc1O
+TAKJOH,TAKJOH,173 K,Cc1ccc(cc1)S(=O)(=O)[O-].[NH3+]C(CC1=CNc2ccccc12)C(O)=O,P21/c,False,173.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],[NH3+]C(CC1=CNc2ccccc12)C(O)=O
+EJEZAX,EJEZAX,150 K,S=C([S-])N1CCOCC1.C[N+](C)(C)CCO,P21/c,False,150.0,mediumT,S=C([S-])N1CCOCC1,C[N+](C)(C)CCO
+BEPTOH,BEPTOH,at 173 K,[NH2+]1CCOCC1.OC(=O)C=CC(=O)[O-],P-1,False,173.0,mediumT,[NH2+]1CCOCC1,OC(=O)C=CC(=O)[O-]
+TUYKUV,TUYKUV,173 K,CN(C)C=O.OC(=O)c1cccc2C(=O)c3c(cccc3C(=O)c12)C(O)=O,P21/c,False,173.0,mediumT,CN(C)C=O,OC(=O)c1cccc2C(=O)c3c(cccc3C(=O)c12)C(O)=O
+RIMCAR,RIMCAR,at 173K,C1COCCO1.CC(=O)C1(C(C)=O)C(C#N)(C#N)C1(C#N)C#N,P21,False,173.0,mediumT,C1COCCO1,CC(=O)C1(C(C)=O)C(C#N)(C#N)C1(C#N)C#N
+WIVQIB,WIVQIB,at 173 K,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-].[NH3+]Cc1ccc(Cl)cc1,C2/c,False,173.0,mediumT,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-],[NH3+]Cc1ccc(Cl)cc1
+BOWJUU,BOWJUU,at 150 K,OC(=O)c1cc(F)c(F)c(F)c1.C(Cc1ccncc1)c1ccncc1,P21/n,False,150.0,mediumT,OC(=O)c1cc(F)c(F)c(F)c1,C(Cc1ccncc1)c1ccncc1
+AZUSET,AZUSET,at 150 K,Cc1ccc(cc1)S(=O)(=O)[O-].[NH3+]CC1CCC2COc3c(Br)cc(OC)c1c23,P-1,False,150.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],[NH3+]CC1CCC2COc3c(Br)cc(OC)c1c23
+GUZFAJ,GUZFAJ,at 173 K,FC(F)(F)S(=O)(=O)[O-].CCN1C=CC=CB1[n+]1ccc(cc1)N(C)C,P-1,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CCN1C=CC=CB1[n+]1ccc(cc1)N(C)C
+TAJSUV,TAJSUV,173 K,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.[NH3+]C(CC1=CNc2ccccc12)C(O)=O,P212121,False,173.0,mediumT,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,[NH3+]C(CC1=CNc2ccccc12)C(O)=O
+CANFAC,CANFAC,132.1 K,Cc1[nH+]cc(CO)c(CO)c1O.OC1=C([O-])C(=O)C1=O,P21/c,False,132.0,mediumT,Cc1[nH+]cc(CO)c(CO)c1O,OC1=C([O-])C(=O)C1=O
+ABELEY,ABELEY,at 173 K,COc1cc(O)cc(O)c1.c1cc(ccn1)C=Cc1ccncc1,P21/c,False,173.0,mediumT,COc1cc(O)cc(O)c1,c1cc(ccn1)C=Cc1ccncc1
+EYOLOU,EYOLOU,at 125 K,OC(CC=C)(C(F)(F)F)C(F)(F)F.C1CNCCN1,P21/n,False,125.0,mediumT,OC(CC=C)(C(F)(F)F)C(F)(F)F,C1CNCCN1
+OFEQAR,OFEQAR,at 173 K,Cc1ccc(N)cc1C.Oc1ccc(cc1)C1(CCCCC1)c1ccc(O)cc1,P-1,False,173.0,mediumT,Cc1ccc(N)cc1C,Oc1ccc(cc1)C1(CCCCC1)c1ccc(O)cc1
+RINQOW,RINQOW,at 173 K,Cc1ccc(C)c(c1)S(=O)(=O)[O-].CN(C)C1=CC=C(S1)C=Cc1cc[n+](C)cc1,P-1,False,173.0,mediumT,Cc1ccc(C)c(c1)S(=O)(=O)[O-],CN(C)C1=CC=C(S1)C=Cc1cc[n+](C)cc1
+GAGPUD,GAGPUD,150 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(CCc1ccccc1)C(=O)[O-],P212121,False,150.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(CCc1ccccc1)C(=O)[O-]
+WADMIA,WADMIA,213.1 K,[NH3+]Cc1ccc(Br)cc1.CCCCCCCCCCCCC(=O)[O-],P-1,False,213.0,mediumT,[NH3+]Cc1ccc(Br)cc1,CCCCCCCCCCCCC(=O)[O-]
+ABEBUF,ABEBUF,at 150 K,c1ccncc1.O=C1Nc2ccccc2C(=O)Nc2ccccc12,Pbca,False,150.0,mediumT,c1ccncc1,O=C1Nc2ccccc2C(=O)Nc2ccccc12
+PEBZII,PEBZII,170 K,NC(=O)c1ccncc1.Oc1ccc(cc1)C=Cc1cc(O)cc(O)c1,P21/n,False,170.0,mediumT,NC(=O)c1ccncc1,Oc1ccc(cc1)C=Cc1cc(O)cc(O)c1
+IJOCOZ,IJOCOZ,at 150 K,O[B-](c1c(F)c(F)c(F)c(F)c1F)(c1c(F)c(F)c(F)c(F)c1F)c1c(F)c(F)c(F)c(F)c1F.OC1CCCCC1[NH2+]Cc1ccccc1,P21/n,False,150.0,mediumT,O[B-](c1c(F)c(F)c(F)c(F)c1F)(c1c(F)c(F)c(F)c(F)c1F)c1c(F)c(F)c(F)c(F)c1F,OC1CCCCC1[NH2+]Cc1ccccc1
+GUXYEF,GUXYEF,223 K,c1cc(ccn1)c1ccncc1.CSC1=C(SC)SC(S1)=C1SC=C(S1)C(O)=O,P2/c,False,223.0,mediumT,c1cc(ccn1)c1ccncc1,CSC1=C(SC)SC(S1)=C1SC=C(S1)C(O)=O
+MOXWAY,MOXWAY,at 173 K,OC(=O)c1ccccc1O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,173.0,mediumT,OC(=O)c1ccccc1O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+PORNER,PORNER,153 K,FC(F)(F)S(=O)(=O)[O-].CC1=[NH+]N(C(=C1)C)c1ncccc1N(=O)=O,P-1,False,153.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC1=[NH+]N(C(=C1)C)c1ncccc1N(=O)=O
+LILFOE,LILFOE,149.9 K,CC1=CC(=O)NC(=[NH+]1)N.O=C1[N-]S(=O)(=O)c2ccccc12,P-1,False,149.0,mediumT,CC1=CC(=O)NC(=[NH+]1)N,O=C1[N-]S(=O)(=O)c2ccccc12
+VAQSIQ,VAQSIQ,at 203 K,O=C([O-])c1ccccc1.COc1cc(C)[nH+]c(N)n1,P-1,False,203.0,mediumT,O=C([O-])c1ccccc1,COc1cc(C)[nH+]c(N)n1
+LUNYIC,LUNYIC,at 180 K,CCC(O)=O.c1cnccn1,P21/n,False,180.0,mediumT,CCC(O)=O,c1cnccn1
+UPOQEW,UPOQEW,at 150 K,OC(CN1C=NC=N1)(CN1C=NC=N1)c1ccc(F)cc1F.OC(=O)C=CC(O)=O,P-1,False,150.0,mediumT,OC(CN1C=NC=N1)(CN1C=NC=N1)c1ccc(F)cc1F,OC(=O)C=CC(O)=O
+WUZYEX,WUZYEX,170 K,NC(N)=S.Cc1cnc(C)cn1,P-1,False,170.0,mediumT,NC(N)=S,Cc1cnc(C)cn1
+GAHFAX,GAHFAX,at 184 K,c1ccc2nc3ccccc3cc2c1.OC(=O)C=CC(O)=O,P21/c,False,184.0,mediumT,c1ccc2nc3ccccc3cc2c1,OC(=O)C=CC(O)=O
+QAMQUR,QAMQUR,at 150 K,Oc1ccc(O)cc1.c1cnccn1,P21/c,False,150.0,mediumT,Oc1ccc(O)cc1,c1cnccn1
+VAXRAP,VAXRAP,at 180 K,C(Cc1ccncc1)c1ccncc1.OC(=O)C1=Cc2ccccc2OC1=O,P21/n,False,180.0,mediumT,C(Cc1ccncc1)c1ccncc1,OC(=O)C1=Cc2ccccc2OC1=O
+ZOHVUP,ZOHVUP,at 150 K,Oc1ccc(Cl)c(Cl)c1Cl.Nc1ccc(Cl)cc1,P21/c,False,150.0,mediumT,Oc1ccc(Cl)c(Cl)c1Cl,Nc1ccc(Cl)cc1
+WAXSOG,WAXSOG,173 K,O=C1N(C2CCC2)C(=O)C2=C1SC1=C(S2)C(=O)N(C2CCC2)C1=O.Brc1c2ccccc2cc2ccccc12,P-1,False,173.0,mediumT,O=C1N(C2CCC2)C(=O)C2=C1SC1=C(S2)C(=O)N(C2CCC2)C1=O,Brc1c2ccccc2cc2ccccc12
+LODGAO,LODGAO,150 K,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl.CN(C)C=O,P21/c,False,150.0,mediumT,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl,CN(C)C=O
+LASGUJ,LASGUJ,at 150 K,Cc1ccc2ncccc2c1.OC(=O)C=CC(O)=O,P21/c,False,150.0,mediumT,Cc1ccc2ncccc2c1,OC(=O)C=CC(O)=O
+CIWNON,CIWNON,at 173 K,[NH3+]NC(=O)N[NH3+].O=N(=O)[N-]C1=NON=C1C1=NON=C1[N-]N(=O)=O,P212121,False,173.0,mediumT,[NH3+]NC(=O)N[NH3+],O=N(=O)[N-]C1=NON=C1C1=NON=C1[N-]N(=O)=O
+PERCAU,PERCAU,173 K,Nc1[nH+]cc(Cl)cc1.O=C([O-])c1c2ccccc2cc2ccccc12,P-1,False,173.0,mediumT,Nc1[nH+]cc(Cl)cc1,O=C([O-])c1c2ccccc2cc2ccccc12
+ZABWIM,ZABWIM,150.2 K,c1cncc(c1)C=Cc1cccnc1.Oc1ccc(O)cc1,P-1,False,150.0,mediumT,c1cncc(c1)C=Cc1cccnc1,Oc1ccc(O)cc1
+WELCID,WELCID,130 K,NCC=C.CCCCCCCO,P21/c,False,130.0,mediumT,NCC=C,CCCCCCCO
+EKEYEB,EKEYEB,150 K,[N-]=[N+]=NC1=NN=N[N-]1.C[N+]1=NOC(=C1)N,P21/n,False,150.0,mediumT,[N-]=[N+]=NC1=NN=N[N-]1,C[N+]1=NOC(=C1)N
+CAKNUA,CAKNUA,223 K,FC(F)(F)S(=O)(=O)[O-].C[Si](C)(C)N1C=Cc2c[nH+]ccc12,P-1,False,223.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[Si](C)(C)N1C=Cc2c[nH+]ccc12
+XULCEP,XULCEP,140.0 K,CC(C)[N+](=NNC(=O)C(C)=C(C)C)C(C)C.FC(F)(F)S(=O)(=O)[O-],P21/n,False,140.0,mediumT,CC(C)[N+](=NNC(=O)C(C)=C(C)C)C(C)C,FC(F)(F)S(=O)(=O)[O-]
+ESAXAA24,ESAXAA24,223 K,[2H]OC(=O)c1c(F)c(F)c(c(F)c1F)C(=O)[O-].[2H][N+]([2H])=CN([2H])[2H],C2/c,False,223.0,mediumT,[2H]OC(=O)c1c(F)c(F)c(c(F)c1F)C(=O)[O-],[2H][N+]([2H])=CN([2H])[2H]
+IDUNOK,IDUNOK,at 220 K,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O.Oc1c[nH+]ccc1,P21/c,False,220.0,mediumT,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O,Oc1c[nH+]ccc1
+PUCSIS,PUCSIS,173 K,OC(=O)c1cccc(O)c1.Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,Pbca,False,173.0,mediumT,OC(=O)c1cccc(O)c1,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+QEWHEH,QEWHEH,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccc(O)cc1,P21/c,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccc(O)cc1
+ZOHXAX,ZOHXAX,at 150 K,OC(=O)c1cc(O)cc(O)c1.NC(=O)c1ccc(N)cc1,P-1,False,150.0,mediumT,OC(=O)c1cc(O)cc(O)c1,NC(=O)c1ccc(N)cc1
+WIDNED,WIDNED,at 193 K,C1CN2CCN1CC2.Oc1ccc(Br)cc1,P21/n,False,193.0,mediumT,C1CN2CCN1CC2,Oc1ccc(Br)cc1
+KICVOJ,KICVOJ,180 K,Oc1ccc(cc1)C=CC(=O)[O-].CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,P-1,False,180.0,mediumT,Oc1ccc(cc1)C=CC(=O)[O-],CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+CIHQUJ,CIHQUJ,239 K,O=C1c2ccccc2c2nc(C#N)c(nc12)C#N.c1cc2ccc3cccc4ccc(c1)c2c34,P21/n,False,239.0,mediumT,O=C1c2ccccc2c2nc(C#N)c(nc12)C#N,c1cc2ccc3cccc4ccc(c1)c2c34
+NOZXIJ,NOZXIJ,at 173 K,C1COCCOCCOCCO1.O=S(=O)(NS(=O)(=O)c1ccccc1)c1ccccc1,P21/n,False,173.0,mediumT,C1COCCOCCOCCO1,O=S(=O)(NS(=O)(=O)c1ccccc1)c1ccccc1
+ESEDAK22,ESEDAK22,223 K,[2H][N+]([2H])([2H])C1CCCCC1C.[2H]OC(=O)c1c(F)c(F)c(c(F)c1F)C(=O)[O-],P21/c,False,223.0,mediumT,[2H][N+]([2H])([2H])C1CCCCC1C,[2H]OC(=O)c1c(F)c(F)c(c(F)c1F)C(=O)[O-]
+NUKWEW01,NUKWEW01,at 180 K,Nc1ncccn1.OC(=O)c1ccccc1,Pnma,False,180.0,mediumT,Nc1ncccn1,OC(=O)c1ccccc1
+NUQLAO,NUQLAO,150 K,Cc1c(O)cccc1O.c1ccc2c(c1)ccc1cccnc21,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,c1ccc2c(c1)ccc1cccnc21
+DEBJEA,DEBJEA,at 223 K,c1cc(ccn1)C=Cc1ccncc1.Oc1ccc(cc1)C(c1ccccc1O)c1ccccc1O,P-1,False,223.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Oc1ccc(cc1)C(c1ccccc1O)c1ccccc1O
+EGUXAG,EGUXAG,at 150 K,c1cc(ccn1)c1ccncc1.OC(=O)CC(O)(CC(O)=O)C(O)=O,P21/n,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)CC(O)(CC(O)=O)C(O)=O
+UZUZAS,UZUZAS,173 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.Clc1cccnc1,P-1,False,173.0,mediumT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,Clc1cccnc1
+XESXOJ,XESXOJ,at 220 K,NC(=NO)C(N)=NO.O=C1C(=O)c2cccnc2c2ncccc12,P-1,False,220.0,mediumT,NC(=NO)C(N)=NO,O=C1C(=O)c2cccnc2c2ncccc12
+UGOVIX,UGOVIX,130 K,O=C1CCC(=O)N1.OC(=O)c1cc(O)c(O)c(O)c1,P212121,False,130.0,mediumT,O=C1CCC(=O)N1,OC(=O)c1cc(O)c(O)c(O)c1
+BOVXOB,BOVXOB,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cc(F)c(F)cc1F,P21/n,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cc(F)c(F)cc1F
+WADPEZ,WADPEZ,173 K,[NH3+]Cc1ccc(Br)cc1.BrCCCCCCCCCCCC(=O)[O-],P1,False,173.0,mediumT,[NH3+]Cc1ccc(Br)cc1,BrCCCCCCCCCCCC(=O)[O-]
+LUNMAI,LUNMAI,at 173 K,NC(=O)c1ccncc1.OC(=O)C=Cc1ccccc1,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)C=Cc1ccccc1
+VITKEP,VITKEP,at 173 K,CN1c2ccccc2N=C1c1ccncc1.ON=Cc1c(F)c(F)c(F)c(F)c1F,P212121,False,173.0,mediumT,CN1c2ccccc2N=C1c1ccncc1,ON=Cc1c(F)c(F)c(F)c(F)c1F
+TUQYIQ,TUQYIQ,150 K,C1COCCO1.N#CC1(C#N)C2(CCOCC2)C1(C#N)C#N,P21/c,False,150.0,mediumT,C1COCCO1,N#CC1(C#N)C2(CCOCC2)C1(C#N)C#N
+GOGCAJ,GOGCAJ,150 K,NC(=S)NN=Cc1cc[nH+]cc1.OC(=O)c1cccc(n1)C(=O)[O-],P-1,False,150.0,mediumT,NC(=S)NN=Cc1cc[nH+]cc1,OC(=O)c1cccc(n1)C(=O)[O-]
+QETMUY,QETMUY,at 190 K,Nc1cccc(O)c1.c1cc(ccn1)C#Cc1ccncc1,P-1,False,190.0,mediumT,Nc1cccc(O)c1,c1cc(ccn1)C#Cc1ccncc1
+MISNUX,MISNUX,at 198 K,NC(N)=O.CC(=O)CCCCCCCCCC(C)=O,P3112,False,198.0,mediumT,NC(N)=O,CC(=O)CCCCCCCCCC(C)=O
+AJALAY,AJALAY,at 203 K,CN(C)c1cccc(c1)C(O)=O.NC(=O)c1ccc(Cl)cc1,P-1,False,203.0,mediumT,CN(C)c1cccc(c1)C(O)=O,NC(=O)c1ccc(Cl)cc1
+QALXAE,QALXAE,at 173 K,O=N(=O)N=C1NN=N[N-]1.[NH3+]NC(=O)NN,Pn,False,173.0,mediumT,O=N(=O)N=C1NN=N[N-]1,[NH3+]NC(=O)NN
+WORNID,WORNID,220 K,Nc1ccc(cc1)C(O)=O.COc1c2OC=Cc2cc2C=CC(=O)Oc12,P21/c,False,220.0,mediumT,Nc1ccc(cc1)C(O)=O,COc1c2OC=Cc2cc2C=CC(=O)Oc12
+WADMEW,WADMEW,213.1 K,CCCCCCCC(=O)[O-].[NH3+]Cc1ccc(Br)cc1,P-1,False,213.0,mediumT,CCCCCCCC(=O)[O-],[NH3+]Cc1ccc(Br)cc1
+GESCIS,GESCIS,at 150 K,NC(=O)c1ccc(O)cc1.OC(=O)C=CC(O)=O,P-1,False,150.0,mediumT,NC(=O)c1ccc(O)cc1,OC(=O)C=CC(O)=O
+TOQPOH,TOQPOH,150 K,NC(=S)NN=Cc1cc[nH+]cc1.OC(=O)CCCC(=O)[O-],P21/c,False,150.0,mediumT,NC(=S)NN=Cc1cc[nH+]cc1,OC(=O)CCCC(=O)[O-]
+ZUHFIR,ZUHFIR,at 200 K,OC(=O)C=CC(=O)[O-].C[NH+](C)CCC(c1ccc(Br)cc1)c1ccccn1,P1,False,200.0,mediumT,OC(=O)C=CC(=O)[O-],C[NH+](C)CCC(c1ccc(Br)cc1)c1ccccn1
+PEXPIT,PEXPIT,150 K,c1cc(ccn1)c1ccncc1.Nc1ccc(C(O)=O)c(O)c1,P21/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,Nc1ccc(C(O)=O)c(O)c1
+HOGJIZ,HOGJIZ,180 K,OC(=O)CCCC(O)=O.O=C(NN=Cc1ccccn1)c1ccccc1,P21/c,False,180.0,mediumT,OC(=O)CCCC(O)=O,O=C(NN=Cc1ccccn1)c1ccccc1
+EHENIO,EHENIO,at 210 K,ClP(Cl)(=O)[O-].CC(C)N1C(=C(C)[N+](=C1Cl)C(C)C)C,Pnma,False,210.0,mediumT,ClP(Cl)(=O)[O-],CC(C)N1C(=C(C)[N+](=C1Cl)C(C)C)C
+QAFZUT,QAFZUT,at 173 K,c1ccc(C=Cc2ccncc2)nc1.Oc1ccc(Cl)c(O)c1,P-1,False,173.0,mediumT,c1ccc(C=Cc2ccncc2)nc1,Oc1ccc(Cl)c(O)c1
+TIHGAT,TIHGAT,at 150 K,Fc1ccc2NC(=O)C(=O)c2c1.CS(C)=O,P-1,False,150.0,mediumT,Fc1ccc2NC(=O)C(=O)c2c1,CS(C)=O
+FUHPAA,FUHPAA,at 173 K,OCc1ccccc1O.c1cnc2c(c1)ccc1cccnc21,P21/n,False,173.0,mediumT,OCc1ccccc1O,c1cnc2c(c1)ccc1cccnc21
+IWARON,IWARON,at 203 K,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12.c1ccc2ncccc2c1,C2/c,False,203.0,mediumT,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,c1ccc2ncccc2c1
+RUYXAM,RUYXAM,150 K,c1cc(ccn1)c1ccncc1.OC(=O)CCCCCCCC(O)=O,C2/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)CCCCCCCC(O)=O
+VAKTUX,VAKTUX,at 153 K,Oc1cccc(O)c1.NC(=O)c1ccncc1,P-1,False,153.0,mediumT,Oc1cccc(O)c1,NC(=O)c1ccncc1
+EMAVUM,EMAVUM,193.0 K,OC(=O)C=CC(=O)[O-].C[NH+](Cc1cc(Br)cc(Br)c1N)C1CCCCC1,P21/n,False,193.0,mediumT,OC(=O)C=CC(=O)[O-],C[NH+](Cc1cc(Br)cc(Br)c1N)C1CCCCC1
+MOXWEC,MOXWEC,at 173 K,OC(=O)c1ccc2ccccc2c1O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/c,False,173.0,mediumT,OC(=O)c1ccc2ccccc2c1O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+VAQSAI,VAQSAI,at 203 K,Clc1cccc(c1)C(=O)[O-].COc1cc(C)[nH+]c(N)n1,P-1,False,203.0,mediumT,Clc1cccc(c1)C(=O)[O-],COc1cc(C)[nH+]c(N)n1
+NUQRAT,NUQRAT,at 200 K,O=N(=O)c1ccc(Cc2cc[nH+]cc2)cc1.Oc1ccc(cc1C(=O)[O-])N(=O)=O,P-1,False,200.0,mediumT,O=N(=O)c1ccc(Cc2cc[nH+]cc2)cc1,Oc1ccc(cc1C(=O)[O-])N(=O)=O
+HALHOT,HALHOT,at 223 K,NC1=Nc2ccccc2S1.Oc1ccccc1C=NC1=Nc2ccccc2S1,P-1,False,223.0,mediumT,NC1=Nc2ccccc2S1,Oc1ccccc1C=NC1=Nc2ccccc2S1
+JONSAG,JONSAG,at 178 K,CS(=O)(=O)[N-]S(C)(=O)=O.C[N+](C)=C1C=CN(SC(Cl)(Cl)Cl)C=C1,P-1,False,178.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,C[N+](C)=C1C=CN(SC(Cl)(Cl)Cl)C=C1
+IMIGAO,IMIGAO,173 K,Fc1ccc(cc1)C=C1SC(=S)NC1=O.CS(C)=O,P21/c,False,173.0,mediumT,Fc1ccc(cc1)C=C1SC(=S)NC1=O,CS(C)=O
+KECJEK,KECJEK,150 K,CN(C)c1cc[nH+]cc1Br.O=C1[N-]S(=O)(=O)c2ccccc12,P-1,False,150.0,mediumT,CN(C)c1cc[nH+]cc1Br,O=C1[N-]S(=O)(=O)c2ccccc12
+VAKTOR,VAKTOR,at 153 K,NC(=O)c1ccncc1.OC(=O)c1ccc(O)cc1,P21/n,False,153.0,mediumT,NC(=O)c1ccncc1,OC(=O)c1ccc(O)cc1
+EKUMAY,EKUMAY,at 173 K,CN1CC[N+]23CCN(C)P12(N=[N+]=[N-])N(C)CC3.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,173.0,mediumT,CN1CC[N+]23CCN(C)P12(N=[N+]=[N-])N(C)CC3,Cc1ccc(cc1)S(=O)(=O)[O-]
+QARMEF,QARMEF,150 K,[NH3+]C(C(N)=O)c1ccccc1.CC(=O)NC(CC1=CNc2ccccc12)C(=O)[O-],P21,False,150.0,mediumT,[NH3+]C(C(N)=O)c1ccccc1,CC(=O)NC(CC1=CNc2ccccc12)C(=O)[O-]
+RAVYAR,RAVYAR,150 K,OC(=O)c1cc(Cl)cc(Cl)c1.O=Cc1ccncc1,P21/c,False,150.0,mediumT,OC(=O)c1cc(Cl)cc(Cl)c1,O=Cc1ccncc1
+POBZAK,POBZAK,169.7 K,COc1cc2OC(=O)C=Cc2cc1OC.O=C1CCC(=O)N1,Pn,False,169.0,mediumT,COc1cc2OC(=O)C=Cc2cc1OC,O=C1CCC(=O)N1
+XOBCEX,XOBCEX,at 173 K,OC(=O)CC(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P2/n,False,173.0,mediumT,OC(=O)CC(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+RUCFAX,RUCFAX,at 173 K,NC(=O)CN1CCCC1=O.OC(=O)CC(O)(CC(O)=O)C(O)=O,P21/a,False,173.0,mediumT,NC(=O)CN1CCCC1=O,OC(=O)CC(O)(CC(O)=O)C(O)=O
+PEGDAH,PEGDAH,at 173 K,c1cc(ccn1)c1ccncc1.OC(=O)c1cc(c2ccccc2)c(C(O)=O)c(c1)c1ccccc1,P21/c,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1cc(c2ccccc2)c(C(O)=O)c(c1)c1ccccc1
+XALVUB,XALVUB,at 213 K,CC(C)(C)OC(=O)NCC1=NC(=CS1)C1=NC(=CS1)C(O)=O.CS(C)=O,P21/c,False,213.0,mediumT,CC(C)(C)OC(=O)NCC1=NC(=CS1)C1=NC(=CS1)C(O)=O,CS(C)=O
+XAFTAC,XAFTAC,200 K,[NH2+]1CCOCC1.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,C2/c,False,200.0,mediumT,[NH2+]1CCOCC1,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+AGUFUH,AGUFUH,133 K,FC(F)(F)C(=O)[O-].[NH3+]C1C(Cl)Cc2ccccc12,P21/c,False,133.0,mediumT,FC(F)(F)C(=O)[O-],[NH3+]C1C(Cl)Cc2ccccc12
+KIXCUQ,KIXCUQ,at 130 K,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-].OC(=O)c1[nH+]c2ccccc2cc1,P-1,False,130.0,mediumT,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],OC(=O)c1[nH+]c2ccccc2cc1
+PUZZUF,PUZZUF,at 173 K,Cc1cccc(N)c1C.Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,Pbca,False,173.0,mediumT,Cc1cccc(N)c1C,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12
+WAGCUG,WAGCUG,130 K,O=C([O-])c1cccnc1.CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,P-1,False,130.0,mediumT,O=C([O-])c1cccnc1,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+BURXIX,BURXIX,150 K,[NH3+]C(CC)(CO)CO.CC(=O)[O-],P21/n,False,150.0,mediumT,[NH3+]C(CC)(CO)CO,CC(=O)[O-]
+KAKXAY,KAKXAY,150 K,OC(CC(=O)[O-])c1ccccc1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P21,False,150.0,mediumT,OC(CC(=O)[O-])c1ccccc1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+LOFMAW,LOFMAW,at 150.1 K,OC(=O)C(=O)[O-].[NH3+]c1ccc(cc1)S(=O)(=O)N=C1NC=CS1,P21/c,False,150.0,mediumT,OC(=O)C(=O)[O-],[NH3+]c1ccc(cc1)S(=O)(=O)N=C1NC=CS1
+XUYBUQ,XUYBUQ,150 K,Cc1nc(C)c(C)nc1C.Oc1cc(O)cc(O)c1,P21/c,False,150.0,mediumT,Cc1nc(C)c(C)nc1C,Oc1cc(O)cc(O)c1
+MEFLUF,MEFLUF,at 223 K,Oc1ccccc1C(c1cc(O)c(O)c(O)c1)c1ccccc1O.C(Cc1ccncc1)c1ccncc1,P-1,False,223.0,mediumT,Oc1ccccc1C(c1cc(O)c(O)c(O)c1)c1ccccc1O,C(Cc1ccncc1)c1ccncc1
+LUNYOI,LUNYOI,at 180 K,CCCC(O)=O.c1cnccn1,P21/n,False,180.0,mediumT,CCCC(O)=O,c1cnccn1
+BOMRUS,BOMRUS,at 200 K,NC1=[NH+]N=C(S1)c1ccc(Br)cc1.OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O,P-1,False,200.0,mediumT,NC1=[NH+]N=C(S1)c1ccc(Br)cc1,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O
+ZIPMIW,ZIPMIW,at 173 K,COS(=O)(=O)[O-].CO[N+]1(C)CCOCC1,P-1,False,173.0,mediumT,COS(=O)(=O)[O-],CO[N+]1(C)CCOCC1
+GEDLEH,GEDLEH,at 173 K,CCN1C=[N+](C)C(=C1)N(=O)=O.FC(F)(F)S(=O)(=O)[O-],P21/c,False,173.0,mediumT,CCN1C=[N+](C)C(=C1)N(=O)=O,FC(F)(F)S(=O)(=O)[O-]
+MIPCUN,MIPCUN,197.5 K,CC(C)(C)OC(=O)NC(Cc1ccccc1)C(=O)[O-].[NH3+]Cc1ccc(cc1)S(N)(=O)=O,P21,False,197.0,mediumT,CC(C)(C)OC(=O)NC(Cc1ccccc1)C(=O)[O-],[NH3+]Cc1ccc(cc1)S(N)(=O)=O
+UKOSOD,UKOSOD,at 173 K,OC(=O)CCCCCCCCC(O)=O.CC(C)=NNC(=O)c1cccnc1,P21/n,False,173.0,mediumT,OC(=O)CCCCCCCCC(O)=O,CC(C)=NNC(=O)c1cccnc1
+TODNIM,TODNIM,200 K,Nc1ccccc1N.OC(=O)c1ccccc1,Pbcn,False,200.0,mediumT,Nc1ccccc1N,OC(=O)c1ccccc1
+DETGEP,DETGEP,at 150 K,CC(C)N(C(C)C)C(=O)Nc1ccccc1.CC(C)=NOC(=O)Nc1ccccc1,P21/n,False,150.0,mediumT,CC(C)N(C(C)C)C(=O)Nc1ccccc1,CC(C)=NOC(=O)Nc1ccccc1
+WEKWOC,WEKWOC,190 K,CCCCCCO.NCC=C,P-1,False,190.0,mediumT,CCCCCCO,NCC=C
+SOLFAC,SOLFAC,at 150 K,N#Cc1ccncc1.Nc1ccc(cc1)C(O)=O,C2/c,False,150.0,mediumT,N#Cc1ccncc1,Nc1ccc(cc1)C(O)=O
+HIRWOV,HIRWOV,at 150 K,NC(N)=O.CN(C)C=O,P-1,False,150.0,mediumT,NC(N)=O,CN(C)C=O
+POCPED,POCPED,at 180 K,Nc1nc(N)nc(n1)c1ccccc1.O=C1CCCC(=O)N1,P21/c,False,180.0,mediumT,Nc1nc(N)nc(n1)c1ccccc1,O=C1CCCC(=O)N1
+FINHIX,FINHIX,193 K,N#Cc1cc(C#N)c(cc1C#N)C#N.O1c2ccccc2c2c1ccc1ccccc21,Pc,False,193.0,mediumT,N#Cc1cc(C#N)c(cc1C#N)C#N,O1c2ccccc2c2c1ccc1ccccc21
+FAYXUB,FAYXUB,150 K,Nc1ccc(C(O)=O)c(O)c1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,150.0,mediumT,Nc1ccc(C(O)=O)c(O)c1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+ZIBBIX,ZIBBIX,at 173 K,[O-]N1N=NN=C1C1=NN=NN1[O-].[NH3+]NC(=O)C(=O)N[NH3+],P21/c,False,173.0,mediumT,[O-]N1N=NN=C1C1=NN=NN1[O-],[NH3+]NC(=O)C(=O)N[NH3+]
+TUQYEM,TUQYEM,150 K,CCC1(CC)C(C#N)(C#N)C1(C#N)C#N.C1COCCO1,Cc,False,150.0,mediumT,CCC1(CC)C(C#N)(C#N)C1(C#N)C#N,C1COCCO1
+UVOKOG,UVOKOG,at 200 K,OC(=O)c1cc(ccc1C(=O)[O-])N(=O)=O.NC(=O)C1CC[NH2+]CC1,P21/n,False,200.0,mediumT,OC(=O)c1cc(ccc1C(=O)[O-])N(=O)=O,NC(=O)C1CC[NH2+]CC1
+URUGIY,URUGIY,at 150 K,Nc1ccc(C(O)=O)c(O)c1.NC(=O)c1cnccn1,P-1,False,150.0,mediumT,Nc1ccc(C(O)=O)c(O)c1,NC(=O)c1cnccn1
+QAMRAY,QAMRAY,at 150 K,Oc1ccc(O)cc1.C1CNCCN1,P-1,False,150.0,mediumT,Oc1ccc(O)cc1,C1CNCCN1
+OBUYER,OBUYER,at 173 K,Cc1ccc(cc1)S(=O)(=O)[O-].[NH3+]c1ccc(Cl)cc1,P-1,False,173.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],[NH3+]c1ccc(Cl)cc1
+XITGOZ,XITGOZ,173 K,CC1(C)CCC(C)(C)C2=C1[NH+]=C(N)S2.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/n,False,173.0,mediumT,CC1(C)CCC(C)(C)C2=C1[NH+]=C(N)S2,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+PEXNUD,PEXNUD,at 150 K,Nc1ccc(c(O)c1)C(=O)[O-].Oc1c[nH+]ccc1,Pca21,False,150.0,mediumT,Nc1ccc(c(O)c1)C(=O)[O-],Oc1c[nH+]ccc1
+CEKKOU,CEKKOU,at 173 K,c1cnc2c(c1)ccc1cccnc21.Oc1cccc(O)c1O,P21/c,False,173.0,mediumT,c1cnc2c(c1)ccc1cccnc21,Oc1cccc(O)c1O
+YEJKON,YEJKON,at 215 K,C1N2CN3CN1CN(C2)C3.OC(=O)CCCCCCCCC(O)=O,P21/c,False,215.0,mediumT,C1N2CN3CN1CN(C2)C3,OC(=O)CCCCCCCCC(O)=O
+QAMROM,QAMROM,at 150 K,Oc1ccc(O)cc1.C1CCNCC1,P21/c,False,150.0,mediumT,Oc1ccc(O)cc1,C1CCNCC1
+DEYPOQ,DEYPOQ,173 K,OC(=O)c1cccc(O)c1.CC(CC(C)(C)O)=NNC(=O)c1ccncc1,P21/n,False,173.0,mediumT,OC(=O)c1cccc(O)c1,CC(CC(C)(C)O)=NNC(=O)c1ccncc1
+WELDEA,WELDEA,130 K,CCCCCCCCCO.NCC=C,C2/c,False,130.0,mediumT,CCCCCCCCCO,NCC=C
+UFAKUH,UFAKUH,at 173 K,CNC(N)=[OH+].CS(=O)(=O)[N-]S(C)(=O)=O,P212121,False,173.0,mediumT,CNC(N)=[OH+],CS(=O)(=O)[N-]S(C)(=O)=O
+MINROS,MINROS,173.1 K,O=S1(=O)N=C2c3cccnc3c3ncccc3C2=N1.Oc1ccc(O)cc1,P21/n,False,173.0,mediumT,O=S1(=O)N=C2c3cccnc3c3ncccc3C2=N1,Oc1ccc(O)cc1
+BOVVEP,BOVVEP,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cccc(F)c1,P21/c,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cccc(F)c1
+MAKJUG,MAKJUG,150 K,CC=CC(=O)[O-].[NH2+]1CCSCC1,Pc,False,150.0,mediumT,CC=CC(=O)[O-],[NH2+]1CCSCC1
+FERYEH,FERYEH,at 190 K,c1cc(ccn1)C=Cc1ccncc1.CC(=O)c1c(O)cc(O)cc1O,P-1,False,190.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,CC(=O)c1c(O)cc(O)cc1O
+ROKPAK,ROKPAK,150 K,NC1=NC(=NO1)N=NC1=NOC(=N1)N.CS(C)=O,P21/n,False,150.0,mediumT,NC1=NC(=NO1)N=NC1=NOC(=N1)N,CS(C)=O
+BOVYAO,BOVYAO,at 150 K,OC(=O)c1cc(F)c(F)cc1F.C(Cc1ccncc1)c1ccncc1,P21/n,False,150.0,mediumT,OC(=O)c1cc(F)c(F)cc1F,C(Cc1ccncc1)c1ccncc1
+VIPSOF,VIPSOF,140 K,FC(F)(F)S(=O)(=O)[O-].COC1(N(C)C=[N+](C)c2ccccc12)c1ccccc1,P21/n,False,140.0,mediumT,FC(F)(F)S(=O)(=O)[O-],COC1(N(C)C=[N+](C)c2ccccc12)c1ccccc1
+ZOHWIE,ZOHWIE,at 150 K,Oc1ccc(Cl)c(Cl)c1Cl.Nc1ccc(Cl)c(Cl)c1,P-1,False,150.0,mediumT,Oc1ccc(Cl)c(Cl)c1Cl,Nc1ccc(Cl)c(Cl)c1
+GESCUE,GESCUE,at 150 K,NC(=O)c1ccc(O)cc1.OC(=O)C=CC(O)=O,P21/c,True,150.0,mediumT,NC(=O)c1ccc(O)cc1,OC(=O)C=CC(O)=O
+BAQQIW01,BAQQIW01,200 K,O=C1NC(=O)C(=C[N-]1)N(=O)=O.[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-],P1,False,200.0,mediumT,O=C1NC(=O)C(=C[N-]1)N(=O)=O,[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-]
+YAXWOL,YAXWOL,at 173 K,c1cc(ccn1)c1ccncc1.OC(=O)C=CC=CC(O)=O,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)C=CC=CC(O)=O
+EXUQUJ01,EXUQUJ01,at 180 K,OC(=O)CCCC(O)=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,180.0,mediumT,OC(=O)CCCC(O)=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+MUHKEI01,MUHKEI01,170 K,CC(C)=[NH+]O.ON1N=NN=C1C1=NN=NN1[O-],P21/n,False,170.0,mediumT,CC(C)=[NH+]O,ON1N=NN=C1C1=NN=NN1[O-]
+FULLUV,FULLUV,at 150 K,FC(F)(F)S(=O)(=O)[O-].[NH3+]N=C(N)C(N(=O)=O)N(=O)=O,P-1,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],[NH3+]N=C(N)C(N(=O)=O)N(=O)=O
+IBUHEW,IBUHEW,173 K,[NH3+]CC(O)=O.NS(=O)(=O)[O-],Pn,False,173.0,mediumT,[NH3+]CC(O)=O,NS(=O)(=O)[O-]
+IXOHAE,IXOHAE,158 K,c1ccncc1.CCC1=C(SC(=N1)C1=NC(=C(S1)C(O)=O)CC)C(O)=O,P21/n,False,158.0,mediumT,c1ccncc1,CCC1=C(SC(=N1)C1=NC(=C(S1)C(O)=O)CC)C(O)=O
+IDEVOG,IDEVOG,130 K,OC(=O)C=CC(=O)[O-].Nc1[nH+]cccc1O,P-1,False,130.0,mediumT,OC(=O)C=CC(=O)[O-],Nc1[nH+]cccc1O
+ZUKSON,ZUKSON,at 150 K,ON=C1CCC(CC1)=C1CCC(CC1)=NO.CS(C)=O,P21/c,False,150.0,mediumT,ON=C1CCC(CC1)=C1CCC(CC1)=NO,CS(C)=O
+NOSTOH,NOSTOH,173 K,OC(=O)Cc1ccc(O)c(Cl)c1.NC(=O)c1cccnc1,C2/c,False,173.0,mediumT,OC(=O)Cc1ccc(O)c(Cl)c1,NC(=O)c1cccnc1
+EQUSEQ,EQUSEQ,130 K,Cc1ccc(SCc2[nH+]cccc2)cc1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,130.0,mediumT,Cc1ccc(SCc2[nH+]cccc2)cc1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+VILRUE,VILRUE,at 173 K,Cc1cc2N=CN(Cc3ccncc3)c2cc1C.ON=C(C#N)c1ccc(cc1)C(O)=O,Pc,False,173.0,mediumT,Cc1cc2N=CN(Cc3ccncc3)c2cc1C,ON=C(C#N)c1ccc(cc1)C(O)=O
+ROFLAZ,ROFLAZ,at 130 K,OC(=O)C=CC(=O)[O-].NC1=[NH+]C(=O)NC=C1,P-1,False,130.0,mediumT,OC(=O)C=CC(=O)[O-],NC1=[NH+]C(=O)NC=C1
+VAXHIN,VAXHIN,at 173 K,Nc1nc(N)nc(N)n1.CN(c1ccc(cc1)C(O)=O)C(=O)N(C)c1ccc(cc1)C(O)=O,P-1,False,173.0,mediumT,Nc1nc(N)nc(N)n1,CN(c1ccc(cc1)C(O)=O)C(=O)N(C)c1ccc(cc1)C(O)=O
+LENKEV,LENKEV,at 170 K,Clc1cccc(c1)C(=O)[O-].CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,P-1,False,170.0,mediumT,Clc1cccc(c1)C(=O)[O-],CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+DOJMIZ,DOJMIZ,at 173 K,OO.CN1C=CN=C1C,Fd2d,False,173.0,mediumT,OO,CN1C=CN=C1C
+GERZUA,GERZUA,at 150 K,NC(=O)c1ccc(O)cc1.OC(=O)C(O)=O,P21/c,False,150.0,mediumT,NC(=O)c1ccc(O)cc1,OC(=O)C(O)=O
+GESKAS,GESKAS,at 150 K,COc1ccc(cc1)B(O)O.CC1=NN=C2CN=C(c3ccccc3)c3cc(Cl)ccc3N12,Pccn,False,150.0,mediumT,COc1ccc(cc1)B(O)O,CC1=NN=C2CN=C(c3ccccc3)c3cc(Cl)ccc3N12
+RICBIP,RICBIP,at 200 K,[NH3+]CC(C)O.[S-]c1ccccc1,P21/n,False,200.0,mediumT,[NH3+]CC(C)O,[S-]c1ccccc1
+QUFCEB,QUFCEB,170 K,Oc1cc(O)c(Cl)cc1Cl.c1ccc(cc1)N=Nc1ccncc1,P21/c,False,170.0,mediumT,Oc1cc(O)c(Cl)cc1Cl,c1ccc(cc1)N=Nc1ccncc1
+ALACAT,ALACAT,200 K,c1ccc2cnccc2c1.Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,P-1,False,200.0,mediumT,c1ccc2cnccc2c1,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12
+VUHZIK,VUHZIK,150 K,Cc1cc(O)cc(O)c1.C(Cc1ccncc1)c1ccncc1,P-1,False,150.0,mediumT,Cc1cc(O)cc(O)c1,C(Cc1ccncc1)c1ccncc1
+SORYEF,SORYEF,150 K,O=C1C=Cc2cccc3ccc([n+]4ccccc4)c1c23.FC(F)(F)S(=O)(=O)[O-],P212121,False,150.0,mediumT,O=C1C=Cc2cccc3ccc([n+]4ccccc4)c1c23,FC(F)(F)S(=O)(=O)[O-]
+OGAJAL,OGAJAL,150 K,Cc1ccc(C)c(c1)S(=O)(=O)[O-].[NH3+]C(Cc1ccccc1)C(O)=O,C2,False,150.0,mediumT,Cc1ccc(C)c(c1)S(=O)(=O)[O-],[NH3+]C(Cc1ccccc1)C(O)=O
+KEFCAA,KEFCAA,at 173 K,CC(=O)Nc1ccccn1.OC(=O)CCCCCCCC(O)=O,C2/c,False,173.0,mediumT,CC(=O)Nc1ccccn1,OC(=O)CCCCCCCC(O)=O
+EXUQUJ,EXUQUJ,at 180 K,OC(=O)CCCC(O)=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P-1,False,180.0,mediumT,OC(=O)CCCC(O)=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+HIMGAL,HIMGAL,at 193 K,Cc1ccncc1.Oc1cc(O)cc(O)c1,R-3,False,193.0,mediumT,Cc1ccncc1,Oc1cc(O)cc(O)c1
+TAPNED,TAPNED,at 130 K,CC1(C)COP(=O)([O-])OC1c1ccccc1F.C[NH2+]C(C)C(O)c1ccccc1,P21,False,130.0,mediumT,CC1(C)COP(=O)([O-])OC1c1ccccc1F,C[NH2+]C(C)C(O)c1ccccc1
+GAXRUU,GAXRUU,at 150 K,O=C1CC2(CCCCC2)CN1.Nc1ccc(cc1)C(O)=O,P21/n,False,150.0,mediumT,O=C1CC2(CCCCC2)CN1,Nc1ccc(cc1)C(O)=O
+XEGHAU,XEGHAU,at 180 K,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1.OC(=O)CC(=O)[O-],P-1,False,180.0,mediumT,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,OC(=O)CC(=O)[O-]
+PUVZIR,PUVZIR,150 K,C[n+]1ccccc1P(F)(F)(c1ccccc1)c1ccccc1.FC(F)(F)S(=O)(=O)[O-],P21/n,False,150.0,mediumT,C[n+]1ccccc1P(F)(F)(c1ccccc1)c1ccccc1,FC(F)(F)S(=O)(=O)[O-]
+UFETOR,UFETOR,150 K,OC(=O)CC(O)=O.NC(=O)c1ccc(N)cc1,Pbca,False,150.0,mediumT,OC(=O)CC(O)=O,NC(=O)c1ccc(N)cc1
+EPUQEM,EPUQEM,at 150 K,c1cc(ccn1)c1ccncc1.OC(=O)c1ccc(O)cc1,P1,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1ccc(O)cc1
+UJOGUW,UJOGUW,at 200 K,NC(=O)C1CC[NH2+]CC1.OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O,P21/n,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O
+PUPGUD01,PUPGUD01,200 K,OC(=O)c1cccc(c1)C(O)=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/n,False,200.0,mediumT,OC(=O)c1cccc(c1)C(O)=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+IROMAF,IROMAF,173 K,c1cc(ccn1)c1ccncc1.OC(=O)c1cccc(Oc2cccc(C(O)=O)c2C(O)=O)c1,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1cccc(Oc2cccc(C(O)=O)c2C(O)=O)c1
+ITIQIL,ITIQIL,at 140 K,c1cc(ccn1)c1ccncc1.OB(O)c1ccccc1,Fdd2,False,140.0,mediumT,c1cc(ccn1)c1ccncc1,OB(O)c1ccccc1
+GUXTOL,GUXTOL,180 K,c1cc(ccn1)C=Cc1ccncc1.CC(=O)NC1=NN=C(S1)S(N)(=O)=O,P-1,False,180.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,CC(=O)NC1=NN=C(S1)S(N)(=O)=O
+PEZKEM,PEZKEM,180 K,Nc1nnc(c(N)n1)c1cccc(Cl)c1Cl.CC=CC=CC(O)=O,P21/c,False,180.0,mediumT,Nc1nnc(c(N)n1)c1cccc(Cl)c1Cl,CC=CC=CC(O)=O
+EWUTAT,EWUTAT,173 K,O=C1C(=C(C#N)C(=O)C(=C1C#N)C#N)C#N.Cc1ccccc1,C2/c,False,173.0,mediumT,O=C1C(=C(C#N)C(=O)C(=C1C#N)C#N)C#N,Cc1ccccc1
+REHSII,REHSII,at 193 K,COc1cc(ccc1O)C(O)=O.CCOc1ccccc1C(N)=O,P21/c,False,193.0,mediumT,COc1cc(ccc1O)C(O)=O,CCOc1ccccc1C(N)=O
+NABMEL,NABMEL,150 K,[NH3+]C(c1ccccc1)c1ccccc1O.OC(=O)C(OC(=O)c1ccccc1)C(OC(=O)c1ccccc1)C(=O)[O-],P21,False,150.0,mediumT,[NH3+]C(c1ccccc1)c1ccccc1O,OC(=O)C(OC(=O)c1ccccc1)C(OC(=O)c1ccccc1)C(=O)[O-]
+AZIHUM,AZIHUM,at 220 K,[NH3+]C(CCS(C)=O)C(O)=O.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P212121,False,220.0,mediumT,[NH3+]C(CCS(C)=O)C(O)=O,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+XOWKEB,XOWKEB,at 183 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.c1cc(ccn1)c1ccncc1,P-1,False,183.0,mediumT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,c1cc(ccn1)c1ccncc1
+EVEREE04,EVEREE04,190 K,Oc1cc(O)c(Cl)cc1Cl.c1cc(ccn1)N=Nc1ccncc1,P-1,False,190.0,mediumT,Oc1cc(O)c(Cl)cc1Cl,c1cc(ccn1)N=Nc1ccncc1
+ESEDAK11,ESEDAK11,223 K,[2H][N+]([2H])([2H])C1CCCCC1C.[2H]OC(=O)c1c(F)c(F)c(c(F)c1F)C(=O)[O-],Cc,False,223.0,mediumT,[2H][N+]([2H])([2H])C1CCCCC1C,[2H]OC(=O)c1c(F)c(F)c(c(F)c1F)C(=O)[O-]
+VEZPAU,VEZPAU,150 K,OC(=O)C=CC(=O)[O-].CCc1[nH+]c(C)ccc1O,Pccn,False,150.0,mediumT,OC(=O)C=CC(=O)[O-],CCc1[nH+]c(C)ccc1O
+EBUCOV,EBUCOV,at 173 K,c1cc(ccn1)c1ccncc1.COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC
+BEKTET,BEKTET,173 K,FC(F)(F)C(=O)[O-].[NH3+]CC1=C(C(=NO1)OC(C)C)C(F)(F)F,P21/c,False,173.0,mediumT,FC(F)(F)C(=O)[O-],[NH3+]CC1=C(C(=NO1)OC(C)C)C(F)(F)F
+ULAWUZ,ULAWUZ,at 153 K,NC(=O)c1ccncc1.OC(=O)CCCCC(O)=O,P-1,False,153.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCCCC(O)=O
+HALJAH,HALJAH,at 200 K,NC(=O)C1CC[NH2+]CC1.O=C([O-])C1=CNc2ccccc12,P2/c,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,O=C([O-])C1=CNc2ccccc12
+EYOHEF,EYOHEF,at 150 K,FC(F)(F)S(=O)(=O)[O-].CC1(C)[N+](=O)C(=[N+]([O-])C1(C)C)c1ccccc1,P212121,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC1(C)[N+](=O)C(=[N+]([O-])C1(C)C)c1ccccc1
+IPEVIJ,IPEVIJ,at 173 K,C1N2CN3CN1CN(C2)C3.OC(=O)c1ccc(F)cc1,P21/n,False,173.0,mediumT,C1N2CN3CN1CN(C2)C3,OC(=O)c1ccc(F)cc1
+QAMBAK,QAMBAK,200 K,FC(F)(F)S(=O)(=O)[O-].CN1C2C(N(C)C1=O)N(C)C(=[NH+]CC=C)N2C,P-1,False,200.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C2C(N(C)C1=O)N(C)C(=[NH+]CC=C)N2C
+VIPYEB,VIPYEB,180 K,O=C1CNC(=O)N1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,C2/c,False,180.0,mediumT,O=C1CNC(=O)N1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+NAXYOC,NAXYOC,at 173 K,OC(=O)c1cc(Cl)c(C#N)c(Cl)c1.c1ccc2ccccc2c1,P-1,False,173.0,mediumT,OC(=O)c1cc(Cl)c(C#N)c(Cl)c1,c1ccc2ccccc2c1
+DEKXOI,DEKXOI,at 200 K,O=C([O-])c1ccncc1.NC(=O)C1CC[NH2+]CC1,P21/c,False,200.0,mediumT,O=C([O-])c1ccncc1,NC(=O)C1CC[NH2+]CC1
+LUSXEE,LUSXEE,173 K,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1.Oc1c(ccc2ccccc12)C(=O)[O-],P21/c,False,173.0,mediumT,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1,Oc1c(ccc2ccccc12)C(=O)[O-]
+MOGZAJ,MOGZAJ,at 143 K,CS(=O)(=O)[N-]S(C)(=O)=O.C[N+](C)(C)CCO,P212121,False,143.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,C[N+](C)(C)CCO
+JESDIY,JESDIY,223 K,CN(C)C(=O)CCC(=O)N(C)C.O=C1CCC(=O)O1,P21,False,223.0,mediumT,CN(C)C(=O)CCC(=O)N(C)C,O=C1CCC(=O)O1
+FAVBUC,FAVBUC,173 K,C[n+]1cc(cc2ccccc12)B(O)O.CS(=O)(=O)[O-],P21/c,False,173.0,mediumT,C[n+]1cc(cc2ccccc12)B(O)O,CS(=O)(=O)[O-]
+AQUFID,AQUFID,173 K,CCCC[NH+](CCO)CCO.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,173.0,mediumT,CCCC[NH+](CCO)CCO,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+XEGHIC,XEGHIC,at 180 K,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1.OC(=O)CCCCC(=O)[O-],P-1,False,180.0,mediumT,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,OC(=O)CCCCC(=O)[O-]
+ZIBCEU,ZIBCEU,at 173 K,CN1N=NC(=N1)N.ON1N=NN=C1C1=NN=NN1O,C2/c,False,173.0,mediumT,CN1N=NC(=N1)N,ON1N=NN=C1C1=NN=NN1O
+SETSAN,SETSAN,173 K,OC(=O)C=Cc1ccccc1.NNC(=O)c1ccncc1,P-1,False,173.0,mediumT,OC(=O)C=Cc1ccccc1,NNC(=O)c1ccncc1
+KOPKEH02,KOPKEH02,150 K,c1cc(ccn1)c1ccncc1.OC(=O)c1ccccc1O,P21/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1ccccc1O
+GAGPOX,GAGPOX,150 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(CCc1ccccc1)C(=O)[O-],P21,False,150.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(CCc1ccccc1)C(=O)[O-]
+SAPDUJ,SAPDUJ,at 173 K,OCC(F)(F)F.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,173.0,mediumT,OCC(F)(F)F,NC(=O)N1c2ccccc2C=Cc2ccccc12
+XUYBIE,XUYBIE,150 K,Cc1nc(C)c(C)nc1C.Cc1cc(O)cc(O)c1,P-1,False,150.0,mediumT,Cc1nc(C)c(C)nc1C,Cc1cc(O)cc(O)c1
+NIVKAF,NIVKAF,at 193.2 K,CSC(C#Cc1ccccc1)[N+](C)(C)C.FC(F)(F)S(=O)(=O)[O-],Cc,False,193.0,mediumT,CSC(C#Cc1ccccc1)[N+](C)(C)C,FC(F)(F)S(=O)(=O)[O-]
+DAWDAH,DAWDAH,at 130K,N#C[N-]C#N.NC(=[NH2+])NC(N)=O,C2/c,False,130.0,mediumT,N#C[N-]C#N,NC(=[NH2+])NC(N)=O
+ZOHWUQ,ZOHWUQ,150 K,NC(=O)c1cccc(N)c1.OC(=O)c1cccc(O)c1,P21/c,False,150.0,mediumT,NC(=O)c1cccc(N)c1,OC(=O)c1cccc(O)c1
+EKEYOL,EKEYOL,150 K,[O-]C1=N[N+](=NO1)C1=NN=N[N-]1.C[N+]1=NOC(=C1)N,P212121,False,150.0,mediumT,[O-]C1=N[N+](=NO1)C1=NN=N[N-]1,C[N+]1=NOC(=C1)N
+SIJXAM,SIJXAM,at 173 K,[NH2+]=C1NC(=O)NC=C1F.O=C1[N-]S(=O)(=O)c2ccccc12,P21/m,False,173.0,mediumT,[NH2+]=C1NC(=O)NC=C1F,O=C1[N-]S(=O)(=O)c2ccccc12
+EXIZEQ,EXIZEQ,at 173 K,CN(C)[S+](N(C)C)N(C)C.FC1=NC(=O)N=C(F)[N-]1,P21/n,False,173.0,mediumT,CN(C)[S+](N(C)C)N(C)C,FC1=NC(=O)N=C(F)[N-]1
+EVEROO04,EVEROO04,190 K,Oc1cc(O)c(Br)cc1Br.c1cc(ccn1)N=Nc1ccncc1,P-1,False,190.0,mediumT,Oc1cc(O)c(Br)cc1Br,c1cc(ccn1)N=Nc1ccncc1
+XULXIN,XULXIN,at 173 K,FC(F)(F)S(=O)(=O)[O-].CN1C=CN2C[N+]3=C(P=C12)N(C)C=C3,P-1,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C=CN2C[N+]3=C(P=C12)N(C)C=C3
+LUNYAU,LUNYAU,at 180 K,OC=O.c1cnccn1,P21/c,False,180.0,mediumT,OC=O,c1cnccn1
+ACOYUM,ACOYUM,at 173 K,Oc1ccc(Cl)c(O)c1.C(Cc1ccncc1)c1ccncc1,P21/n,False,173.0,mediumT,Oc1ccc(Cl)c(O)c1,C(Cc1ccncc1)c1ccncc1
+VUXNOT,VUXNOT,200 K,[NH2+]1CCOCC1.Clc1ccc(OCC(=O)[O-])c(Cl)c1,P21/c,False,200.0,mediumT,[NH2+]1CCOCC1,Clc1ccc(OCC(=O)[O-])c(Cl)c1
+PIRLUZ,PIRLUZ,at 150 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.Nc1ccc(cc1)C(O)=O,P21/c,False,150.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,Nc1ccc(cc1)C(O)=O
+QURWOQ02,QURWOQ02,at 150 K,CCN(CC)C(=O)N1CC[NH+](C)CC1.OC(=O)CC(O)(CC(=O)[O-])C(O)=O,P21/c,False,150.0,mediumT,CCN(CC)C(=O)N1CC[NH+](C)CC1,OC(=O)CC(O)(CC(=O)[O-])C(O)=O
+HOQGUR,HOQGUR,at 150 K,OC(=O)CCCCC(O)=O.NC1=NN=CS1,P21/c,False,150.0,mediumT,OC(=O)CCCCC(O)=O,NC1=NN=CS1
+SARKII,SARKII,150 K,N#Cc1ccncc1.OC(=O)c1ccc(F)cc1,C2/c,False,150.0,mediumT,N#Cc1ccncc1,OC(=O)c1ccc(F)cc1
+VUXNEJ,VUXNEJ,200 K,[NH2+]1CCOCC1.Fc1ccc(OCC(=O)[O-])cc1,P-1,False,200.0,mediumT,[NH2+]1CCOCC1,Fc1ccc(OCC(=O)[O-])cc1
+GADXOC,GADXOC,130 K,OC(=O)CCN1C(=S)SC(=CC=Cc2ccc(Cl)cc2)C1=O.CS(C)=O,C2/c,False,130.0,mediumT,OC(=O)CCN1C(=S)SC(=CC=Cc2ccc(Cl)cc2)C1=O,CS(C)=O
+LUNMOW,LUNMOW,at 203 K,NC(=O)c1ccncc1.OC(=O)c1cc(cc(c1)C(F)(F)F)C(F)(F)F,P-1,False,203.0,mediumT,NC(=O)c1ccncc1,OC(=O)c1cc(cc(c1)C(F)(F)F)C(F)(F)F
+TOQPUN,TOQPUN,150 K,NC(=S)NN=Cc1cc[nH+]cc1.OC(=O)CC(=O)[O-],P-1,False,150.0,mediumT,NC(=S)NN=Cc1cc[nH+]cc1,OC(=O)CC(=O)[O-]
+YICMAY01,YICMAY01,at 150 K,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.[NH3+]CC(C(O)=O)c1ccccc1,P212121,False,150.0,mediumT,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,[NH3+]CC(C(O)=O)c1ccccc1
+FERZEI,FERZEI,at 173 K,c1cc(ccn1)C=Cc1ccncc1.CCCCCCC(=O)c1c(O)cc(O)cc1O,C2/c,False,173.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,CCCCCCC(=O)c1c(O)cc(O)cc1O
+KIGKIV,KIGKIV,at 173 K,OC(=O)c1ccc2ccccc2c1O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/n,False,173.0,mediumT,OC(=O)c1ccc2ccccc2c1O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+QUZZIW,QUZZIW,150 K,O=S(=O)([O-])c1ccccc1.[NH3+]c1ccc(cc1)S(=O)(=O)c1ccc(N)cc1,P21/n,False,150.0,mediumT,O=S(=O)([O-])c1ccccc1,[NH3+]c1ccc(cc1)S(=O)(=O)c1ccc(N)cc1
+YUTTIS,YUTTIS,150 K,FC(F)(F)S(=O)(=O)[O-].CC1(C)CCCC(C)(C)[NH+]1O,P-1,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC1(C)CCCC(C)(C)[NH+]1O
+MIHMAU,MIHMAU,170.7 K,c1cc(ccn1)c1ccncc1.OB1OCc2cc(Oc3ccc(cc3)C#N)ccc12,I2/a,False,170.0,mediumT,c1cc(ccn1)c1ccncc1,OB1OCc2cc(Oc3ccc(cc3)C#N)ccc12
+FUBJAO,FUBJAO,at 150 K,FC(F)(F)S(=O)(=O)[O-].COc1ccc2CCC3=[NH+]CCCN3c2c1,P21/n,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],COc1ccc2CCC3=[NH+]CCCN3c2c1
+KUVYOR,KUVYOR,150 K,c1ccncc1.NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12,Cc,False,150.0,mediumT,c1ccncc1,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12
+ULAXEK,ULAXEK,at 153 K,NC(=O)c1ccncc1.OC(=O)CCCCC(O)=O,P21/c,False,153.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCCCC(O)=O
+EKOCIT,EKOCIT,150 K,FS(=O)(=O)CC[n+]1ccccc1.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,P-1,False,150.0,mediumT,FS(=O)(=O)CC[n+]1ccccc1,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+VEVYOM,VEVYOM,150 K,Nc1nc(N)nc(n1)c1ccccn1.CCCCCCCC(O)=O,P-1,False,150.0,mediumT,Nc1nc(N)nc(n1)c1ccccn1,CCCCCCCC(O)=O
+GUKWOZ,GUKWOZ,at 150 K,c1ccncc1.OC(=O)C=CC(O)=O,P21/n,False,150.0,mediumT,c1ccncc1,OC(=O)C=CC(O)=O
+HALHUZ,HALHUZ,at 200 K,NC(=O)C1CC[NH2+]CC1.O=C([O-])C1=Cc2ccccc2N1,P21/c,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,O=C([O-])C1=Cc2ccccc2N1
+FETDIS,FETDIS,at 203 K,OB(O)c1ccc(cc1)C(=O)[O-].CC(=NO)c1cc[nH+]cc1,P1,False,203.0,mediumT,OB(O)c1ccc(cc1)C(=O)[O-],CC(=NO)c1cc[nH+]cc1
+BUFHAN,BUFHAN,at 150 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OCC(C(=O)[O-])c1ccccc1,P212121,False,150.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OCC(C(=O)[O-])c1ccccc1
+VESZAX,VESZAX,173 K,NC(=O)c1ccncc1.COc1cc(ccc1O)C(O)=O,P21/c,False,173.0,mediumT,NC(=O)c1ccncc1,COc1cc(ccc1O)C(O)=O
+XOVVEJ,XOVVEJ,at 173 K,[NH3+]Cc1ccc(Cl)cc1.OC(=O)C1=NNC(=C1)C(=O)[O-],P-1,False,173.0,mediumT,[NH3+]Cc1ccc(Cl)cc1,OC(=O)C1=NNC(=C1)C(=O)[O-]
+NUKWUL,NUKWUL,at 150 K,OC(=O)C=CC(=O)[O-].C1CC2CC[NH+]1C=C2C1=CC=C(O1)c1ccccc1,P21/a,False,150.0,mediumT,OC(=O)C=CC(=O)[O-],C1CC2CC[NH+]1C=C2C1=CC=C(O1)c1ccccc1
+YUFDUA,YUFDUA,150 K,C(Cc1ccncc1)c1ccncc1.Oc1cc(O)c2C(=O)C(=C(Oc2c1)c1ccc(O)c(O)c1)O,P21/c,False,150.0,mediumT,C(Cc1ccncc1)c1ccncc1,Oc1cc(O)c2C(=O)C(=C(Oc2c1)c1ccc(O)c(O)c1)O
+GEDLIL,GEDLIL,at 173 K,CN1C=C([N+](=C1C)C)N(=O)=O.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,P-1,False,173.0,mediumT,CN1C=C([N+](=C1C)C)N(=O)=O,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+EZEDAP,EZEDAP,at 130 K,c1ccc2nc3ccccc3nc2c1.Oc1c(F)c(F)c(F)c(F)c1F,P21/n,False,130.0,mediumT,c1ccc2nc3ccccc3nc2c1,Oc1c(F)c(F)c(F)c(F)c1F
+CACPAZ,CACPAZ,at 199 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].[NH3+]CC(N)=O,P-1,False,199.0,mediumT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],[NH3+]CC(N)=O
+HEYVAM,HEYVAM,183 K,CCc1ccc(NC(=O)NC2=CC(=O)OC2)cc1Cl.CS(C)=O,Pbca,False,183.0,mediumT,CCc1ccc(NC(=O)NC2=CC(=O)OC2)cc1Cl,CS(C)=O
+QIQKOS,QIQKOS,at 200 K,NC(=O)C1CC[NH2+]CC1.OC(=O)C(=O)[O-],P21/n,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,OC(=O)C(=O)[O-]
+TEHFAR,TEHFAR,200 K,NS(=O)(=O)[O-].C[NH+](C)CC(O)=O,P21/n,False,200.0,mediumT,NS(=O)(=O)[O-],C[NH+](C)CC(O)=O
+CEKKOU01,CEKKOU01,at 173 K,c1cnc2c(c1)ccc1cccnc21.Oc1cccc(O)c1O,Pbca,False,173.0,mediumT,c1cnc2c(c1)ccc1cccnc21,Oc1cccc(O)c1O
+LEXQEM,LEXQEM,at 173 K,Cc1ccc2N=C(N)Sc2c1.OC(=O)CCCCC(O)=O,P21/n,False,173.0,mediumT,Cc1ccc2N=C(N)Sc2c1,OC(=O)CCCCC(O)=O
+ESAVIF,ESAVIF,150 K,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl.NC(=O)c1ccccc1N,C2/c,False,150.0,mediumT,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl,NC(=O)c1ccccc1N
+BOVWIU,BOVWIU,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cc(F)cc(F)c1,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cc(F)cc(F)c1
+OFUYIZ,OFUYIZ,at 173 K,NC(=O)c1cccnc1.Nc1ccc(C(O)=O)c(O)c1,P21/c,False,173.0,mediumT,NC(=O)c1cccnc1,Nc1ccc(C(O)=O)c(O)c1
+SETSAN01,SETSAN01,173 K,OC(=O)C=Cc1ccccc1.NNC(=O)c1ccncc1,P21/c,False,173.0,mediumT,OC(=O)C=Cc1ccccc1,NNC(=O)c1ccncc1
+OCOQIK,OCOQIK,143 K,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O.FC[S+]=P(c1ccccc1)(c1ccccc1)c1ccccc1,P21/c,False,143.0,mediumT,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O,FC[S+]=P(c1ccccc1)(c1ccccc1)c1ccccc1
+QUFROA,QUFROA,173 K,C1CN2CN3CCN(CN1C3)C2.Cc1cc(O)cc(C)c1Cl,C2/c,False,173.0,mediumT,C1CN2CN3CCN(CN1C3)C2,Cc1cc(O)cc(C)c1Cl
+QOYLAR,QOYLAR,at 173 K,Cc1ccncc1.Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,Pbca,False,173.0,mediumT,Cc1ccncc1,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12
+EYEJAW,EYEJAW,150 K,O=C1NS(=O)(=O)c2ccccc12.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,150.0,mediumT,O=C1NS(=O)(=O)c2ccccc12,NC(=O)N1c2ccccc2C=Cc2ccccc12
+NUJWOF,NUJWOF,at 173 K,Cc1cc2N=CN(Cc3cccc(c3)C#N)c2cc1C.ON=C(C#N)c1ccc(Br)cc1,P-1,False,173.0,mediumT,Cc1cc2N=CN(Cc3cccc(c3)C#N)c2cc1C,ON=C(C#N)c1ccc(Br)cc1
+AKOBUZ,AKOBUZ,150 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.C1CCOC1,P21/c,False,150.0,mediumT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,C1CCOC1
+ZAQRIW,ZAQRIW,193 K,OC=O.c1ccc(nc1)c1ccccn1,Pbc21,False,193.0,mediumT,OC=O,c1ccc(nc1)c1ccccn1
+IFEFOR,IFEFOR,173 K,CN1N(C(=O)C(=C1C)NC(C)=O)c1ccccc1.OC(=O)c1ccccc1O,P-1,False,173.0,mediumT,CN1N(C(=O)C(=C1C)NC(C)=O)c1ccccc1,OC(=O)c1ccccc1O
+QADCAB,QADCAB,at 133 K,Fc1ccc(cc1)S(=O)(=O)[N-]S(=O)(=O)c1ccc(F)cc1.C[N+](C)=C(N)O,P21/c,False,133.0,mediumT,Fc1ccc(cc1)S(=O)(=O)[N-]S(=O)(=O)c1ccc(F)cc1,C[N+](C)=C(N)O
+GUNWIX,GUNWIX,180 K,OC1=CC(=O)c2ccccc2C1=O.c1cc(ccn1)c1ccncc1,P21/n,False,180.0,mediumT,OC1=CC(=O)c2ccccc2C1=O,c1cc(ccn1)c1ccncc1
+JUVNUM,JUVNUM,130 K,CC([NH2+]CCOc1c(C)cccc1C)CO.O=C([O-])c1ccccn1,P41212,False,130.0,mediumT,CC([NH2+]CCOc1c(C)cccc1C)CO,O=C([O-])c1ccccn1
+LONRIP,LONRIP,at 173 K,CS(=O)(=O)[N-]S(C)(=O)=O.NC1=[NH+]C=CS1,Pbcn,False,173.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,NC1=[NH+]C=CS1
+LATJAT,LATJAT,at 150 K,OC(=O)CCC(O)=O.c1ccc(nc1)c1ccccn1,P21/c,False,150.0,mediumT,OC(=O)CCC(O)=O,c1ccc(nc1)c1ccccn1
+OHEHIV,OHEHIV,150.0 K,FC(F)(F)C(=O)[O-].Oc1c[nH+]ccc1,P-1,False,150.0,mediumT,FC(F)(F)C(=O)[O-],Oc1c[nH+]ccc1
+UPEMAE,UPEMAE,at 153 K,FC(F)(F)S(=O)(=O)[O-].CC(C)N1C(=C(C)[N+](=C1P(N=[N+]=[N-])N=[N+]=[N-])C(C)C)C,P21/c,False,153.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC(C)N1C(=C(C)[N+](=C1P(N=[N+]=[N-])N=[N+]=[N-])C(C)C)C
+CAYZAE,CAYZAE,at 213 K,FC(F)(F)S(=O)(=O)[O-].CC(C)(C)C(=O)CN1[P+]OC(=C1)C(C)(C)C,P21/n,False,213.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC(C)(C)C(=O)CN1[P+]OC(=C1)C(C)(C)C
+RESHAZ,RESHAZ,at 180 K,OC(=O)CCC(O)=O.Cc1ccncc1C,P21/c,False,180.0,mediumT,OC(=O)CCC(O)=O,Cc1ccncc1C
+XAFTEG,XAFTEG,200 K,[NH2+]1CCOCC1.Nc1cc(ccc1C(=O)[O-])N(=O)=O,P21/n,False,200.0,mediumT,[NH2+]1CCOCC1,Nc1cc(ccc1C(=O)[O-])N(=O)=O
+XOBCAT,XOBCAT,at 173 K,OC(=O)c1ccccc1O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/n,False,173.0,mediumT,OC(=O)c1ccccc1O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+MAMCAF,MAMCAF,at 200 K,c1ccccc1.CCOC1=CC(=O)C(N1)=C(Br)c1ccccc1,P21/c,False,200.0,mediumT,c1ccccc1,CCOC1=CC(=O)C(N1)=C(Br)c1ccccc1
+NUQKOB,NUQKOB,150 K,Cc1c(O)cccc1O.c1ccc(cc1)c1ccncc1,Pbca,False,150.0,mediumT,Cc1c(O)cccc1O,c1ccc(cc1)c1ccncc1
+IFEGAE,IFEGAE,173 K,CN1N(c2ccccc2)C(=O)C(=C1C)N.Nc1ccccc1C(O)=O,Pbca,False,173.0,mediumT,CN1N(c2ccccc2)C(=O)C(=C1C)N,Nc1ccccc1C(O)=O
+HOVFEF,HOVFEF,150 K,CC(c1ncncc1F)C(O)(C[N+]1=CNC=N1)c1ccc(F)cc1F.OC(=O)C(=O)[O-],P21,False,150.0,mediumT,CC(c1ncncc1F)C(O)(C[N+]1=CNC=N1)c1ccc(F)cc1F,OC(=O)C(=O)[O-]
+GAVHER,GAVHER,at 150 K,NC(=O)c1ccncc1.NC=O,P21/c,False,150.0,mediumT,NC(=O)c1ccncc1,NC=O
+CALWEV,CALWEV,150 K,CC(=O)NC(CC1=CNc2ccccc12)C(=O)[O-].[NH3+]C(C(N)=O)c1ccccc1,P212121,False,150.0,mediumT,CC(=O)NC(CC1=CNc2ccccc12)C(=O)[O-],[NH3+]C(C(N)=O)c1ccccc1
+JILXOU,JILXOU,173 K,OC(=O)c1cccc(O)c1.O=C(NN=C(c1ccccc1)c1ccccc1)c1ccncc1,P-1,False,173.0,mediumT,OC(=O)c1cccc(O)c1,O=C(NN=C(c1ccccc1)c1ccccc1)c1ccncc1
+XEDROR,XEDROR,150.2 K,COc1cc(O)cc(O)c1.S1C(=Nc2ccccc12)C=Cc1ccccc1,P21/c,False,150.0,mediumT,COc1cc(O)cc(O)c1,S1C(=Nc2ccccc12)C=Cc1ccccc1
+NUKZOJ,NUKZOJ,at 180 K,OC(=O)CCCCCCCCC(O)=O.NC(=O)c1cccnc1,P-1,False,180.0,mediumT,OC(=O)CCCCCCCCC(O)=O,NC(=O)c1cccnc1
+GUHMAX,GUHMAX,at 180 K,[NH2+]1CCOCC1.S=P([S-])(N1CCOCC1)N1CCOCC1,P-1,False,180.0,mediumT,[NH2+]1CCOCC1,S=P([S-])(N1CCOCC1)N1CCOCC1
+GUDTOQ,GUDTOQ,at 130 K,OC(=O)CCCC(O)=O.c1cnccn1,P21/c,False,130.0,mediumT,OC(=O)CCCC(O)=O,c1cnccn1
+KECJAG,KECJAG,150 K,Cc1ccncc1.BrN1C(=O)c2ccccc2S1(=O)=O,P-1,False,150.0,mediumT,Cc1ccncc1,BrN1C(=O)c2ccccc2S1(=O)=O
+SEFCIT,SEFCIT,150 K,FC(F)(F)C(=O)[O-].COC(=O)C1=C(ON=C1)C1[NH2+]CCCC1,P21,False,150.0,mediumT,FC(F)(F)C(=O)[O-],COC(=O)C1=C(ON=C1)C1[NH2+]CCCC1
+LUNZUP,LUNZUP,at 180 K,CCCCCCCCCC(O)=O.c1cnccn1,P-1,False,180.0,mediumT,CCCCCCCCCC(O)=O,c1cnccn1
+IYUNOF,IYUNOF,at 160 K,c1ccncc1.OC(=O)c1ccc(cc1)C(O)=O,P21/n,False,160.0,mediumT,c1ccncc1,OC(=O)c1ccc(cc1)C(O)=O
+XUVXER,XUVXER,at 200 K,[NH3+]Cc1ccc(F)cc1.O=C[O-],P21/c,False,200.0,mediumT,[NH3+]Cc1ccc(F)cc1,O=C[O-]
+XAZWAX,XAZWAX,at 174 K,Oc1c(Cl)cc(cc1Cl)C#N.c1ccccc1,P-1,False,174.0,mediumT,Oc1c(Cl)cc(cc1Cl)C#N,c1ccccc1
+LANXOP,LANXOP,at 200 K,OC(=O)C1CCCCC1C(=O)[O-].NC(=O)C1CC[NH2+]CC1,P21/c,False,200.0,mediumT,OC(=O)C1CCCCC1C(=O)[O-],NC(=O)C1CC[NH2+]CC1
+IFEFIL,IFEFIL,173 K,[NH3+]C1=C(C)N(C)N(c2ccccc2)C1=O.OC(=O)c1cccc(c1C(=O)[O-])N(=O)=O,P212121,False,173.0,mediumT,[NH3+]C1=C(C)N(C)N(c2ccccc2)C1=O,OC(=O)c1cccc(c1C(=O)[O-])N(=O)=O
+BUNHID,BUNHID,200 K,c1cc(ccn1)C=Cc1ccncc1.ON=Cc1c(F)c(F)c(Br)c(F)c1F,P-1,False,200.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,ON=Cc1c(F)c(F)c(Br)c(F)c1F
+DUSCOK,DUSCOK,at 200 K,Oc1c(cc(cc1N(=O)=O)N(=O)=O)C(=O)[O-].O=N(=O)c1ccc(Cc2[nH+]cccc2)c(c1)N(=O)=O,P21/c,False,200.0,mediumT,Oc1c(cc(cc1N(=O)=O)N(=O)=O)C(=O)[O-],O=N(=O)c1ccc(Cc2[nH+]cccc2)c(c1)N(=O)=O
+QOYKOE,QOYKOE,at 173 K,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12.Cc1ccccn1,C2/c,False,173.0,mediumT,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,Cc1ccccn1
+UYIKUK,UYIKUK,150 K,COC(=O)c1cccc2cccc([NH+](C)C)c12.FC(F)(F)S(=O)(=O)[O-],Pbca,False,150.0,mediumT,COC(=O)c1cccc2cccc([NH+](C)C)c12,FC(F)(F)S(=O)(=O)[O-]
+YAJGOI,YAJGOI,150 K,O=S1(=O)NC(=S)c2ccccc12.NC(=O)c1ccccc1F,P21/c,False,150.0,mediumT,O=S1(=O)NC(=S)c2ccccc12,NC(=O)c1ccccc1F
+GEDLOR,GEDLOR,at 173 K,FC(F)(F)S(=O)(=O)[O-].CN1C=C[N+](=C1N(=O)=O)C,P21/c,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C=C[N+](=C1N(=O)=O)C
+BIFFED,BIFFED,at 173 K,c1cc(ccn1)c1ccncc1.CN(c1cccc(c1)C(O)=O)C(=O)N(C)c1cccc(c1)C(O)=O,P21/c,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,CN(c1cccc(c1)C(O)=O)C(=O)N(C)c1cccc(c1)C(O)=O
+GANYEA,GANYEA,at 180 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)C=CC(O)=O,P21/n,False,180.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)C=CC(O)=O
+MAMPUM02,MAMPUM02,at 170 K,c1ccc2nc3ccccc3nc2c1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P21,False,170.0,mediumT,c1ccc2nc3ccccc3nc2c1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+OFEPUK,OFEPUK,at 173 K,Cc1cccc(N)c1C.Oc1ccc(cc1)C1(CCCCC1)c1ccc(O)cc1,P-1,False,173.0,mediumT,Cc1cccc(N)c1C,Oc1ccc(cc1)C1(CCCCC1)c1ccc(O)cc1
+EPUPUB,EPUPUB,at 150 K,c1cc(ccn1)c1ccncc1.OC(=O)c1ccc(O)cc1,P21/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1ccc(O)cc1
+EWAMUL,EWAMUL,at 150 K,N#Cc1cc(C#N)c(cc1C#N)C#N.Cc1cc(O)cc(O)c1,P21/n,False,150.0,mediumT,N#Cc1cc(C#N)c(cc1C#N)C#N,Cc1cc(O)cc(O)c1
+VILSEP,VILSEP,at 173 K,OC(=O)c1ccc(O)cc1.C(N1C=CN=C1c1ccccc1)c1ccncc1,P-1,False,173.0,mediumT,OC(=O)c1ccc(O)cc1,C(N1C=CN=C1c1ccccc1)c1ccncc1
+HOQGIF,HOQGIF,at 150 K,OC(=O)CCC(O)=O.NC1=NN=CS1,P21/c,False,150.0,mediumT,OC(=O)CCC(O)=O,NC1=NN=CS1
+TORZOS,TORZOS,150 K,Oc1cccc(O)c1.c1cc(ccn1)c1ccncc1,P21,False,150.0,mediumT,Oc1cccc(O)c1,c1cc(ccn1)c1ccncc1
+QAKDIR,QAKDIR,at 200 K,Oc1ccc(cc1C(=O)[O-])N(=O)=O.NC(=O)C1CC[NH2+]CC1,P21/n,False,200.0,mediumT,Oc1ccc(cc1C(=O)[O-])N(=O)=O,NC(=O)C1CC[NH2+]CC1
+UFEVOT,UFEVOT,150 K,OC(=O)C=CC(O)=O.NC(=O)c1ccc(N)cc1,P21/n,False,150.0,mediumT,OC(=O)C=CC(O)=O,NC(=O)c1ccc(N)cc1
+FIRHOG,FIRHOG,160.0 K,O=S(=O)([O-])c1ccccc1.C[NH2+]C(C)C(O)c1ccccc1,P21,False,160.0,mediumT,O=S(=O)([O-])c1ccccc1,C[NH2+]C(C)C(O)c1ccccc1
+SILYIY,SILYIY,200 K,COC(=O)c1ccc(cc1)[N+](C)(C)O.Clc1cccc(c1)C(=O)[O-],P21/c,False,200.0,mediumT,COC(=O)c1ccc(cc1)[N+](C)(C)O,Clc1cccc(c1)C(=O)[O-]
+EYIFAW,EYIFAW,200 K,NC(=O)c1cccnc1.NC=O,P212121,False,200.0,mediumT,NC(=O)c1cccnc1,NC=O
+UFEVEJ,UFEVEJ,150 K,OC(=O)C=CC(O)=O.NC(=O)c1ccc(N)cc1,P-1,False,150.0,mediumT,OC(=O)C=CC(O)=O,NC(=O)c1ccc(N)cc1
+YAFFUJ,YAFFUJ,150 K,Nc1nc(N)nc(N)n1.OO,P-1,False,150.0,mediumT,Nc1nc(N)nc(N)n1,OO
+OKEXIO,OKEXIO,150 K,Cc1nc(C)c(C)nc1C.Oc1cc(O)c(Cl)cc1Cl,P21/n,False,150.0,mediumT,Cc1nc(C)c(C)nc1C,Oc1cc(O)c(Cl)cc1Cl
+NUKYIC,NUKYIC,at 180 K,NC(=O)c1cccnc1.OC(=O)CCCCC(O)=O,P-1,False,180.0,mediumT,NC(=O)c1cccnc1,OC(=O)CCCCC(O)=O
+PORNOB,PORNOB,153 K,FC(F)(F)S(=O)(=O)[O-].CC1=[NH+]N(C(=C1)C)c1ccc(Br)cn1,P21/n,False,153.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC1=[NH+]N(C(=C1)C)c1ccc(Br)cn1
+MOXYUW,MOXYUW,150 K,OC(C(=O)[O-])c1cccc(Br)c1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,C2,False,150.0,mediumT,OC(C(=O)[O-])c1cccc(Br)c1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+ZONQIC,ZONQIC,at 153 K,CN(C)P(=O)(N(C)C)N(C)C.NC(=O)CS(=O)(=O)c1ccccc1,P-1,False,153.0,mediumT,CN(C)P(=O)(N(C)C)N(C)C,NC(=O)CS(=O)(=O)c1ccccc1
+ACOMOW,ACOMOW,at 173 K,NC(=O)c1ccncc1.OC(=O)C1CC1,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)C1CC1
+ULEFIB,ULEFIB,at 200 K,OC(=O)c1ccccc1C(=O)[O-].NC(=O)C1CC[NH2+]CC1,P-1,False,200.0,mediumT,OC(=O)c1ccccc1C(=O)[O-],NC(=O)C1CC[NH2+]CC1
+NIMGOI,NIMGOI,125 K,FC(F)(F)C(=O)[O-].Cc1cccc2C[NH2+]C(C(O)=O)c3cccc(C)c3c12,P212121,False,125.0,mediumT,FC(F)(F)C(=O)[O-],Cc1cccc2C[NH2+]C(C(O)=O)c3cccc(C)c3c12
+NUQLOC,NUQLOC,150 K,Cc1c(O)cccc1O.c1ccc2nccnc2c1,Cc,False,150.0,mediumT,Cc1c(O)cccc1O,c1ccc2nccnc2c1
+SADTOI,SADTOI,at 180 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O.O=C1CCCCN1,P21/c,False,180.0,mediumT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,O=C1CCCCN1
+ODUSEO,ODUSEO,173 K,FC(F)(F)S(=O)(=O)[O-].CN(C)c1cc[n+](cc1)[Si](C)(C)C,P21/c,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN(C)c1cc[n+](cc1)[Si](C)(C)C
+VEVZON,VEVZON,150 K,Nc1nc(N)nc(n1)c1ccccn1.CCCCCCCCC(O)=O,P-1,False,150.0,mediumT,Nc1nc(N)nc(n1)c1ccccn1,CCCCCCCCC(O)=O
+WIVQUN,WIVQUN,at 173 K,[NH3+]Cc1ccc(Cl)cc1.O=C([O-])c1ccccc1,P-1,False,173.0,mediumT,[NH3+]Cc1ccc(Cl)cc1,O=C([O-])c1ccccc1
+LONRUB,LONRUB,at 143 K,NC1=[NH+]N=CS1.CS(=O)(=O)[N-]S(C)(=O)=O,P-1,False,143.0,mediumT,NC1=[NH+]N=CS1,CS(=O)(=O)[N-]S(C)(=O)=O
+EDIXUM,EDIXUM,at 150 K,CN(C)C=O.Cc1cc2NC(=O)c3ccccc3C(=O)Nc2cc1C,P21/n,False,150.0,mediumT,CN(C)C=O,Cc1cc2NC(=O)c3ccccc3C(=O)Nc2cc1C
+LEFYAY,LEFYAY,at 153 K,CN(C)C=O.Nc1cc(ccc1C(O)=O)C(O)=O,Pn,False,153.0,mediumT,CN(C)C=O,Nc1cc(ccc1C(O)=O)C(O)=O
+YUPPUX,YUPPUX,183 K,CCN1C=Nc2c(N)ncnc12.OC(=O)CCCC(O)=O,P21/c,False,183.0,mediumT,CCN1C=Nc2c(N)ncnc12,OC(=O)CCCC(O)=O
+UJOGOQ,UJOGOQ,at 200 K,NC(=O)C1CC[NH2+]CC1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+GESJIZ,GESJIZ,at 150 K,COc1cccc(c1)B(O)O.CC1=NN=C2CN=C(c3ccccc3)c3cc(Cl)ccc3N12,P21/c,False,150.0,mediumT,COc1cccc(c1)B(O)O,CC1=NN=C2CN=C(c3ccccc3)c3cc(Cl)ccc3N12
+XOLLAL,XOLLAL,at 173 K,O=C([O-])c1ccc2ccccc2c1.C[N+](C)(C)CCO,P21/c,False,173.0,mediumT,O=C([O-])c1ccc2ccccc2c1,C[N+](C)(C)CCO
+XUNGIW,XUNGIW,at 180 K,OC(=O)c1cccc(c1)C(O)=O.c1cc(ccn1)c1ccncc1,P2/c,False,180.0,mediumT,OC(=O)c1cccc(c1)C(O)=O,c1cc(ccn1)c1ccncc1
+PAXNIN,PAXNIN,at 173 K,[NH3+]c1ccc(O)cc1.OC(=O)CC(=O)[O-],P21/c,False,173.0,mediumT,[NH3+]c1ccc(O)cc1,OC(=O)CC(=O)[O-]
+YACYAG,YACYAG,173 K,OC(=O)CCCC(O)=O.N#Cc1ccccn1,P21/c,False,173.0,mediumT,OC(=O)CCCC(O)=O,N#Cc1ccccn1
+ZEJLIM,ZEJLIM,200 K,O=C(Nc1cccnc1)c1ccccc1.OC(=O)c1ccccc1,P21/n,False,200.0,mediumT,O=C(Nc1cccnc1)c1ccccc1,OC(=O)c1ccccc1
+POCBER,POCBER,170.0 K,CCc1nc(N)nc(N)c1c1ccc(Cl)cc1.COc1cc2OC(=O)C=Cc2cc1OC,P21/n,False,170.0,mediumT,CCc1nc(N)nc(N)c1c1ccc(Cl)cc1,COc1cc2OC(=O)C=Cc2cc1OC
+FOMDUI,FOMDUI,173 K,CC1=[N+]([O-])ON=C1C=NNC(N)=[NH2+].O=N(=O)C1=NN([O-])N=N1,P21/n,False,173.0,mediumT,CC1=[N+]([O-])ON=C1C=NNC(N)=[NH2+],O=N(=O)C1=NN([O-])N=N1
+HANBOO,HANBOO,at 150 K,NC(=O)c1ccncc1.CCC(O)=O,P-1,False,150.0,mediumT,NC(=O)c1ccncc1,CCC(O)=O
+MIPPEK,MIPPEK,150 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1=NN(OCF)c2ccccc12,P21/n,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[N+]1=NN(OCF)c2ccccc12
+FEQXIJ,FEQXIJ,at 198 K,C1N2CN3CN1CN(C2)C3.OC(=O)c1ccc(O)cc1,P21/n,False,198.0,mediumT,C1N2CN3CN1CN(C2)C3,OC(=O)c1ccc(O)cc1
+ESODUO,ESODUO,173 K,NC(=[NH2+])SCCOC(F)(F)F.FC(F)(F)S(=O)(=O)[O-],P21/c,False,173.0,mediumT,NC(=[NH2+])SCCOC(F)(F)F,FC(F)(F)S(=O)(=O)[O-]
+TURNOM,TURNOM,163 K,Oc1cc(O)cc(O)c1.CCN(CC)CC(=O)Nc1c(C)cccc1C,P-1,False,163.0,mediumT,Oc1cc(O)cc(O)c1,CCN(CC)CC(=O)Nc1c(C)cccc1C
+DEYPUW,DEYPUW,173 K,OC(=O)C=Cc1ccccc1.CC(CC(C)(C)O)=NNC(=O)c1ccncc1,P-1,False,173.0,mediumT,OC(=O)C=Cc1ccccc1,CC(CC(C)(C)O)=NNC(=O)c1ccncc1
+CIYPUX,CIYPUX,at 170 K,[NH2+]1CCOCC1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,C2/c,False,170.0,mediumT,[NH2+]1CCOCC1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+CUKVEK,CUKVEK,at 150 K,Nc1ccc(C(O)=O)c(O)c1.C1COCCO1,P21/c,False,150.0,mediumT,Nc1ccc(C(O)=O)c(O)c1,C1COCCO1
+CIPTUU,CIPTUU,170 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1=C(SC(F)(F)F)N(C=C1)c1ccccc1,C2/c,False,170.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[N+]1=C(SC(F)(F)F)N(C=C1)c1ccccc1
+YOYLEG,YOYLEG,203 K,OC(Cc1ccccc1)C(=O)[O-].[NH3+]CC(C)c1cccc(Cl)c1,P21,False,203.0,mediumT,OC(Cc1ccccc1)C(=O)[O-],[NH3+]CC(C)c1cccc(Cl)c1
+QUVPUT,QUVPUT,at 193 K,Cc1ccc(cc1)S(=O)(=O)[O-].[NH3+]C[Si]1(CO)CCCC1,P21/n,False,193.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],[NH3+]C[Si]1(CO)CCCC1
+UKAYIR,UKAYIR,173 K,CN1C=C([N+](=C1C)C)N(=O)=O.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/n,False,173.0,mediumT,CN1C=C([N+](=C1C)C)N(=O)=O,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+VEDMAT,VEDMAT,at 173 K,[NH3+]C(C)c1ccc(Cl)cc1.O=C1CC2C(OC(C2c2ccccc2)C(=O)[O-])O1,P21,False,173.0,mediumT,[NH3+]C(C)c1ccc(Cl)cc1,O=C1CC2C(OC(C2c2ccccc2)C(=O)[O-])O1
+LUNNAJ,LUNNAJ,at 203 K,NC(=O)c1ccncc1.OC(=O)CCl,C2/c,False,203.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCl
+XOMPUK,XOMPUK,at 180 K,CNC(O)=[NH+]C.OP(F)(=O)[O-],P21/c,False,180.0,mediumT,CNC(O)=[NH+]C,OP(F)(=O)[O-]
+RORMIW,RORMIW,at 133 K,c1cc(ccn1)c1ccncc1.OB(O)c1ccc(Cl)cc1,P21/n,False,133.0,mediumT,c1cc(ccn1)c1ccncc1,OB(O)c1ccc(Cl)cc1
+QUSLUL,QUSLUL,at 178 K,CS(=O)(=O)[N-]S(C)(=O)=O.O[n+]1ccccc1,P-1,False,178.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,O[n+]1ccccc1
+EKAWOC,EKAWOC,at 150 K,CCOC12CCC3=[NH+]CCCN3C1CC(=O)C=C2.FC(F)(F)S(=O)(=O)[O-],P21/c,False,150.0,mediumT,CCOC12CCC3=[NH+]CCCN3C1CC(=O)C=C2,FC(F)(F)S(=O)(=O)[O-]
+LOMTIQ,LOMTIQ,at 220 K,NC1=[NH+]c2cc(Cl)ccc2O1.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/c,False,220.0,mediumT,NC1=[NH+]c2cc(Cl)ccc2O1,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+GADYUI,GADYUI,173 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].[NH3+]C(CO)(CO)CO,P-1,False,173.0,mediumT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],[NH3+]C(CO)(CO)CO
+MOGVUB,MOGVUB,at 173 K,Cc1ccncc1.OC(=O)C=CC(O)=O,P21/c,False,173.0,mediumT,Cc1ccncc1,OC(=O)C=CC(O)=O
+LIGNOG,LIGNOG,202 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].ClCC[NH+]1CCCCC1,Pbca,False,202.0,mediumT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],ClCC[NH+]1CCCCC1
+LABJUX,LABJUX,173 K,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1.O=C([O-])COc1ccccc1,P-1,False,173.0,mediumT,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1,O=C([O-])COc1ccccc1
+KEBLUC,KEBLUC,130 K,Oc1ccc2ccc(O)cc2c1.NNC(=O)c1ccncc1,P-1,False,130.0,mediumT,Oc1ccc2ccc(O)cc2c1,NNC(=O)c1ccncc1
+WADMOG,WADMOG,213.1 K,[NH3+]Cc1ccc(Cl)cc1.BrCCCCCCC(=O)[O-],P-1,False,213.0,mediumT,[NH3+]Cc1ccc(Cl)cc1,BrCCCCCCC(=O)[O-]
+DIFNUC,DIFNUC,at 187 K,c1cc2cccc(c3ccncc3)c2c(c1)c1ccncc1.OC(=O)C=CC(O)=O,P21/c,False,187.0,mediumT,c1cc2cccc(c3ccncc3)c2c(c1)c1ccncc1,OC(=O)C=CC(O)=O
+QECYII,QECYII,at 173 K,Oc1cccc(O)c1.CC(=O)c1cccc(n1)C(C)=O,P-1,False,173.0,mediumT,Oc1cccc(O)c1,CC(=O)c1cccc(n1)C(C)=O
+NOBWIN,NOBWIN,173 K,c1ccc2cnncc2c1.OC(=O)C=CC(O)=O,P21/c,False,173.0,mediumT,c1ccc2cnncc2c1,OC(=O)C=CC(O)=O
+TOQQAU,TOQQAU,150 K,OC(=O)CCC(O)=O.NC(=S)NN=Cc1ccncc1,P-1,False,150.0,mediumT,OC(=O)CCC(O)=O,NC(=S)NN=Cc1ccncc1
+OBOVAF,OBOVAF,150 K,NC(=O)c1ccncc1.Nc1ccc(C(O)=O)c(O)c1,P-1,False,150.0,mediumT,NC(=O)c1ccncc1,Nc1ccc(C(O)=O)c(O)c1
+IPEVUV,IPEVUV,at 173 K,OC(=O)C=Cc1ccccc1.C1N2CN3CN1CN(C2)C3,Cmc21,False,173.0,mediumT,OC(=O)C=Cc1ccccc1,C1N2CN3CN1CN(C2)C3
+BEPDOT,BEPDOT,150 K,NN1N=C(C(=[NH2+])N=C1N)N(=O)=O.O=N(=O)C1=N[N-]N=N1,P21/c,False,150.0,mediumT,NN1N=C(C(=[NH2+])N=C1N)N(=O)=O,O=N(=O)C1=N[N-]N=N1
+QAMSAZ,QAMSAZ,at 150 K,CN1CCOCC1.Oc1ccc(O)cc1,P-1,False,150.0,mediumT,CN1CCOCC1,Oc1ccc(O)cc1
+OCATUH,OCATUH,at 150 K,Nc1ccc(cc1)C(O)=O.Nc1nccc(n1)c1ccncc1,P21/c,False,150.0,mediumT,Nc1ccc(cc1)C(O)=O,Nc1nccc(n1)c1ccncc1
+PETYUJ,PETYUJ,at 193 K,OC(C(O)C(=O)[O-])C(O)=O.OC12CCC(CC3[NH2+]CCC13)C2,P21212,False,193.0,mediumT,OC(C(O)C(=O)[O-])C(O)=O,OC12CCC(CC3[NH2+]CCC13)C2
+UYAZEA,UYAZEA,at 173 K,OC(=O)CCCCCCCCC(O)=O.COc1ccc2N=C(N)Sc2c1,P-1,False,173.0,mediumT,OC(=O)CCCCCCCCC(O)=O,COc1ccc2N=C(N)Sc2c1
+AFONOB,AFONOB,200 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.C(Cc1ccncc1)c1ccncc1,P-1,False,200.0,mediumT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,C(Cc1ccncc1)c1ccncc1
+KIZYEZ,KIZYEZ,at 173 K,CC(=O)Nc1ccccn1.OC(=O)c1ccccc1,P21/n,False,173.0,mediumT,CC(=O)Nc1ccccn1,OC(=O)c1ccccc1
+BAYWAC,BAYWAC,173 K,c1ccncc1.OC(C(F)(F)F)C(F)(F)F,P21/c,False,173.0,mediumT,c1ccncc1,OC(C(F)(F)F)C(F)(F)F
+NUKZID,NUKZID,at 180 K,NC(=O)c1cccnc1.OC(=O)CCCCCCCC(O)=O,Pna21,False,180.0,mediumT,NC(=O)c1cccnc1,OC(=O)CCCCCCCC(O)=O
+SEMRUY,SEMRUY,at 150 K,CC[N+](CC(=O)OC)(CC(=O)OC)CC(=O)OC.FC(F)(F)S(=O)(=O)[O-],P21/c,False,150.0,mediumT,CC[N+](CC(=O)OC)(CC(=O)OC)CC(=O)OC,FC(F)(F)S(=O)(=O)[O-]
+BEPTUN,BEPTUN,at 173 K,[NH2+]1CCOCC1.CC(=O)[O-],P-1,False,173.0,mediumT,[NH2+]1CCOCC1,CC(=O)[O-]
+KOSYOG,KOSYOG,at 130 K,CC1(C)COP(=O)([O-])OC1c1c(Cl)cccc1Cl.C[NH2+]C(C)C(O)c1ccccc1,P212121,False,130.0,mediumT,CC1(C)COP(=O)([O-])OC1c1c(Cl)cccc1Cl,C[NH2+]C(C)C(O)c1ccccc1
+TOSGUF,TOSGUF,at 173 K,CC1(C)CC(=O)NC(=O)C1.COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC,P-1,False,173.0,mediumT,CC1(C)CC(=O)NC(=O)C1,COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC
+CIVQEH,CIVQEH,173 K,OC(=O)c1cccc2ccccc12.CC(C)=NNC(=O)c1ccncc1,Cc,False,173.0,mediumT,OC(=O)c1cccc2ccccc12,CC(C)=NNC(=O)c1ccncc1
+OSEXOA,OSEXOA,at 173 K,OB(O)O.C1=CN2C(=N1)N1C=CN=C1N1C=CN=C21,P-3,False,173.0,mediumT,OB(O)O,C1=CN2C(=N1)N1C=CN=C1N1C=CN=C21
+PEZJAH,PEZJAH,at 200 K,O=S(=O)([O-])c1ccccc1.CC1[NH2+]C(CC=C)C=C(C1)S(=O)(=O)c1ccccc1,P-1,False,200.0,mediumT,O=S(=O)([O-])c1ccccc1,CC1[NH2+]C(CC=C)C=C(C1)S(=O)(=O)c1ccccc1
+KUWMEW,KUWMEW,149.7 K,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12.CS(C)=O,P21/c,False,149.0,mediumT,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12,CS(C)=O
+FERYIL,FERYIL,at 190 K,CCC(=O)c1c(O)cc(O)cc1O.c1cc(ccn1)C=Cc1ccncc1,P-1,False,190.0,mediumT,CCC(=O)c1c(O)cc(O)cc1O,c1cc(ccn1)C=Cc1ccncc1
+PIRRAL,PIRRAL,at 150 K,NC(=O)c1ccncc1.OC(=O)c1cc(F)cc(F)c1,Pc,False,150.0,mediumT,NC(=O)c1ccncc1,OC(=O)c1cc(F)cc(F)c1
+XISPEX,XISPEX,150.0 K,CC(=O)c1cccc2cccc(O)c12.CN(C)c1ccncc1,C2/c,False,150.0,mediumT,CC(=O)c1cccc2cccc(O)c12,CN(C)c1ccncc1
+EKEXOK,EKEXOK,150 K,O=N(=O)C1=NN=N[N-]1.C[N+]1=NOC(=C1)N,P21/c,False,150.0,mediumT,O=N(=O)C1=NN=N[N-]1,C[N+]1=NOC(=C1)N
+KIZYAV,KIZYAV,at 173 K,Nc1ccc(cc1)C(O)=O.CC(=O)Nc1ccccn1,Pna21,False,173.0,mediumT,Nc1ccc(cc1)C(O)=O,CC(=O)Nc1ccccn1
+IHAXEW,IHAXEW,173 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.CCO[N+]1(C)CCOCC1,P21/c,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,CCO[N+]1(C)CCOCC1
+PUCTOZ,PUCTOZ,173 K,Cc1ccc(cc1)C(O)=O.Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,P21,False,173.0,mediumT,Cc1ccc(cc1)C(O)=O,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+ZUVXAR,ZUVXAR,173 K,COc1cccc(C=NNC(=O)c2cc[nH+]cc2)c1O.O=C1[N-]S(=O)(=O)c2ccccc12,P21/n,False,173.0,mediumT,COc1cccc(C=NNC(=O)c2cc[nH+]cc2)c1O,O=C1[N-]S(=O)(=O)c2ccccc12
+XIQFOS,XIQFOS,at 223 K,CCNC(=[NH+]CC)c1ccc(Br)cc1.O=C([O-])c1ccccc1,C2/c,False,223.0,mediumT,CCNC(=[NH+]CC)c1ccc(Br)cc1,O=C([O-])c1ccccc1
+COLHIX,COLHIX,150 K,Nc1ncccn1.OB(O)O,P3221,False,150.0,mediumT,Nc1ncccn1,OB(O)O
+TEHDOD,TEHDOD,200 K,NS(=O)(=O)[O-].C[NH2+]CC(O)=O,Pna21,False,200.0,mediumT,NS(=O)(=O)[O-],C[NH2+]CC(O)=O
+ZELFEE,ZELFEE,199 K,ON=Cc1[nH+]cccc1.OC1=C([O-])C(=O)C1=O,P21/c,False,199.0,mediumT,ON=Cc1[nH+]cccc1,OC1=C([O-])C(=O)C1=O
+QECHOX,QECHOX,at 173 K,Brc1ccccc1[O-].OCC[NH2+]CCO,P21,False,173.0,mediumT,Brc1ccccc1[O-],OCC[NH2+]CCO
+LAHHAH,LAHHAH,150 K,NC(=O)c1ccncc1.OC(=O)Cc1ccc(O)cc1,P-1,False,150.0,mediumT,NC(=O)c1ccncc1,OC(=O)Cc1ccc(O)cc1
+HOGJOF,HOGJOF,180 K,CC(=CC(O)=O)C(O)=O.O=C(NN=Cc1ccccn1)c1ccccc1,P-1,False,180.0,mediumT,CC(=CC(O)=O)C(O)=O,O=C(NN=Cc1ccccn1)c1ccccc1
+XULKOG,XULKOG,at 173 K,C1CN2CN3CCN(CN1C3)C2.Oc1ccc(Br)cc1,Fdd2,False,173.0,mediumT,C1CN2CN3CCN(CN1C3)C2,Oc1ccc(Br)cc1
+QEDVUS,QEDVUS,at 150 K,NC(=O)c1ccc(O)cc1.C1COCCO1,P21/c,False,150.0,mediumT,NC(=O)c1ccc(O)cc1,C1COCCO1
+IBUBAM,IBUBAM,150 K,BrN1C(=O)CCC1=O.C1CN2CCC1CC2,P21/n,False,150.0,mediumT,BrN1C(=O)CCC1=O,C1CN2CCC1CC2
+GAGPEN,GAGPEN,150 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(CCc1ccccc1)C(=O)[O-],C2,False,150.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(CCc1ccccc1)C(=O)[O-]
+JAHJOV,JAHJOV,131.9 K,CN1C(=O)NC(=O)C2=C1NC=[N+]2C.Oc1cccc(O)c1C(=O)[O-],P21/c,False,131.0,mediumT,CN1C(=O)NC(=O)C2=C1NC=[N+]2C,Oc1cccc(O)c1C(=O)[O-]
+LABKEI,LABKEI,173 K,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1.Clc1ccc(OCC(=O)[O-])c(Cl)c1,P-1,False,173.0,mediumT,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1,Clc1ccc(OCC(=O)[O-])c(Cl)c1
+AZOTOZ,AZOTOZ,at 200 K,Fc1ccc(cc1)C(N1CC[NH2+]CC1)c1ccc(F)cc1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,200.0,mediumT,Fc1ccc(cc1)C(N1CC[NH2+]CC1)c1ccc(F)cc1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+LUNZEZ,LUNZEZ,at 180 K,CCCCCCC(O)=O.c1cnccn1,P-1,False,180.0,mediumT,CCCCCCC(O)=O,c1cnccn1
+XUKJOD,XUKJOD,at 150 K,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O.[NH3+]C(CCl)c1c(C)cc(C)cc1C,P1,False,150.0,mediumT,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,[NH3+]C(CCl)c1c(C)cc(C)cc1C
+XIPLUF,XIPLUF,at 130 K,C[Si](C)(C)CCCc1[nH+]cccc1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,130.0,mediumT,C[Si](C)(C)CCCc1[nH+]cccc1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+EWARIE,EWARIE,at 150 K,c1ccc2nc3ccccc3nc2c1.Cc1cc(O)cc(O)c1,P-1,False,150.0,mediumT,c1ccc2nc3ccccc3nc2c1,Cc1cc(O)cc(O)c1
+UZUZIA,UZUZIA,173 K,Cc1c(Cl)cccc1Nc1ccccc1C(O)=O.Cc1ccccn1,P21/n,False,173.0,mediumT,Cc1c(Cl)cccc1Nc1ccccc1C(O)=O,Cc1ccccn1
+YACXUZ01,YACXUZ01,173 K,OC(=O)C(O)=O.N#Cc1ccccn1,P21/c,False,173.0,mediumT,OC(=O)C(O)=O,N#Cc1ccccn1
+QESBOG,QESBOG,at 170 K,COC(=O)NC1=[NH+]c2ccccc2N1.O=S(=O)([O-])c1ccc2ccccc2c1,P212121,False,170.0,mediumT,COC(=O)NC1=[NH+]c2ccccc2N1,O=S(=O)([O-])c1ccc2ccccc2c1
+FEFJOR,FEFJOR,at 213 K,OC(=O)c1nc(c2ccccn2)c(nc1c1ccccn1)C(O)=O.CS(C)=O,P21/n,False,213.0,mediumT,OC(=O)c1nc(c2ccccn2)c(nc1c1ccccn1)C(O)=O,CS(C)=O
+JAWVUZ,JAWVUZ,at 153 K,OC(C(O)C(=O)[O-])C(O)=O.NC(=O)c1cc[nH+]cc1,P212121,False,153.0,mediumT,OC(C(O)C(=O)[O-])C(O)=O,NC(=O)c1cc[nH+]cc1
+CESKAN,CESKAN,at 180 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)CCCCC(O)=O,P-1,False,180.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)CCCCC(O)=O
+NUQHOY,NUQHOY,150 K,Cc1c(O)cccc1O.c1ccc2nc3ccccc3nc2c1,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,c1ccc2nc3ccccc3nc2c1
+LATKOI,LATKOI,at 173 K,CC(C)=NNC(=O)c1ccncc1.OC(=O)c1ccc(O)cc1,P21/n,False,173.0,mediumT,CC(C)=NNC(=O)c1ccncc1,OC(=O)c1ccc(O)cc1
+KICWOK,KICWOK,180 K,CCc1nc(N)nc(N)c1c1ccc(Cl)cc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,180.0,mediumT,CCc1nc(N)nc(N)c1c1ccc(Cl)cc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+VIPDEH,VIPDEH,150 K,Clc1ccc(cc1)C=C1C[NH2+]CC1.FC(F)(F)C(=O)[O-],P21/c,False,150.0,mediumT,Clc1ccc(cc1)C=C1C[NH2+]CC1,FC(F)(F)C(=O)[O-]
+KIXCIE,KIXCIE,at 130 K,Oc1cccc2ccc[nH+]c12.OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],P212121,False,130.0,mediumT,Oc1cccc2ccc[nH+]c12,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-]
+ZOBRUF,ZOBRUF,at 173 K,C[Si+]1(C)(OS(=O)(=O)C(F)(F)F)n2ccccc2c2ccccn12.FC(F)(F)S(=O)(=O)[O-],Cc,False,173.0,mediumT,C[Si+]1(C)(OS(=O)(=O)C(F)(F)F)n2ccccc2c2ccccn12,FC(F)(F)S(=O)(=O)[O-]
+RILQOU,RILQOU,at 200 K,Cc1[nH+]c(NS(=O)(=O)c2ccc(N)cc2)nc(C)c1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,200.0,mediumT,Cc1[nH+]c(NS(=O)(=O)c2ccc(N)cc2)nc(C)c1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+QEZTAT,QEZTAT,193 K,CN(C)C=O.Oc1ccc2C(=O)c3cc(O)ccc3C(=O)c2c1,P21/n,False,193.0,mediumT,CN(C)C=O,Oc1ccc2C(=O)c3cc(O)ccc3C(=O)c2c1
+WOLCUW,WOLCUW,at 173 K,O=N[C-](C#N)C1=Nc2ccccc2O1.ON=C(C#N)C1=[NH+]c2ccccc2O1,P21/c,False,173.0,mediumT,O=N[C-](C#N)C1=Nc2ccccc2O1,ON=C(C#N)C1=[NH+]c2ccccc2O1
+UVOLAT,UVOLAT,at 200 K,OC(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-].NC(=O)C1CC[NH2+]CC1,P21/c,False,200.0,mediumT,OC(=O)c1cc(cc(c1)N(=O)=O)C(=O)[O-],NC(=O)C1CC[NH2+]CC1
+LATKUN,LATKUN,at 203 K,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1.OC(=O)CC=CCC(O)=O,P21/n,False,203.0,mediumT,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1,OC(=O)CC=CCC(O)=O
+IVEMOO,IVEMOO,173 K,c1cc(ccn1)c1ccncc1.COc1cc(C=CC(O)=O)ccc1O,P21/c,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,COc1cc(C=CC(O)=O)ccc1O
+DOHSOJ,DOHSOJ,at 133 K,Brc1ccc(cc1)S(=O)(=O)[N-]S(=O)(=O)c1ccc(Br)cc1.[NH3+]c1ccc(Br)cc1,P21/n,False,133.0,mediumT,Brc1ccc(cc1)S(=O)(=O)[N-]S(=O)(=O)c1ccc(Br)cc1,[NH3+]c1ccc(Br)cc1
+ZATJUD,ZATJUD,173 K,[NH3+]C(CCSC)C(O)=O.OC(=O)C(=O)[O-],P-1,False,173.0,mediumT,[NH3+]C(CCSC)C(O)=O,OC(=O)C(=O)[O-]
+EPUDOK01,EPUDOK01,173 K,CCC1(C(=O)NC(=O)NC1=O)c1ccccc1.C1COCCO1,P21/c,False,173.0,mediumT,CCC1(C(=O)NC(=O)NC1=O)c1ccccc1,C1COCCO1
+BEVZOV,BEVZOV,190 K,Nc1nc(N)nc(N)n1.OC(=O)CCCC(O)=O,P21,False,190.0,mediumT,Nc1nc(N)nc(N)n1,OC(=O)CCCC(O)=O
+DEYQEH,DEYQEH,173 K,OC(=O)CCC(O)=O.CC(CC(C)(C)O)=NNC(=O)c1ccncc1,P21/c,False,173.0,mediumT,OC(=O)CCC(O)=O,CC(CC(C)(C)O)=NNC(=O)c1ccncc1
+TACZII,TACZII,at 150 K,O=C1SC2=C(S1)SC(=C(S2)c1ccncc1)c1ccncc1.c1cc(ccn1)C#Cc1ccncc1,C2/c,False,150.0,mediumT,O=C1SC2=C(S1)SC(=C(S2)c1ccncc1)c1ccncc1,c1cc(ccn1)C#Cc1ccncc1
+NADKAH,NADKAH,173.2 K,C1CN2CCN1CC2.NC1=C(SC(=CC(=O)c2ccc(F)cc2)N1c1ccccc1)C#N,P-1,False,173.0,mediumT,C1CN2CCN1CC2,NC1=C(SC(=CC(=O)c2ccc(F)cc2)N1c1ccccc1)C#N
+XIRKUG,XIRKUG,at 180 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.Nc1ccccc1C(O)=O,P21/c,False,180.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,Nc1ccccc1C(O)=O
+WADMAS,WADMAS,213.1 K,CCCCCCC(=O)[O-].[NH3+]Cc1ccc(Cl)cc1,P-1,False,213.0,mediumT,CCCCCCC(=O)[O-],[NH3+]Cc1ccc(Cl)cc1
+XOWWEO,XOWWEO,190 K,Clc1cccc(C(=O)[O-])c1N(=O)=O.Oc1cccc2ccc[nH+]c12,P21/n,False,190.0,mediumT,Clc1cccc(C(=O)[O-])c1N(=O)=O,Oc1cccc2ccc[nH+]c12
+JARHIW,JARHIW,200 K,OC1C[NH+]2CCC1CC2.OC1=C([O-])C(=O)C1=O,P-1,False,200.0,mediumT,OC1C[NH+]2CCC1CC2,OC1=C([O-])C(=O)C1=O
+PAGCAE,PAGCAE,150 K,NC(=O)c1ccncc1.CCCCOC(=O)c1ccc(O)cc1,P-1,False,150.0,mediumT,NC(=O)c1ccncc1,CCCCOC(=O)c1ccc(O)cc1
+YAHJIC,YAHJIC,at 223 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cccc(c1)C(O)=O,P-1,False,223.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cccc(c1)C(O)=O
+QAXZOH,QAXZOH,173 K,c1cc(ccn1)c1ccncc1.Oc1ccc(C=NNC(=S)Nc2ccccc2)c(O)c1,P21/c,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1ccc(C=NNC(=S)Nc2ccccc2)c(O)c1
+WUWQAJ,WUWQAJ,150 K,Nc1ccc(cc1)C(O)=O.C1COCCO1,P21/c,False,150.0,mediumT,Nc1ccc(cc1)C(O)=O,C1COCCO1
+MAYXAP,MAYXAP,193.7 K,Cc1ccc(cc1)S(=O)(=O)[O-].O=C(C[NH+]1CCOCC1)c1ccccc1,Pna21,False,193.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],O=C(C[NH+]1CCOCC1)c1ccccc1
+EMEVID,EMEVID,150 K,FC(F)(F)S(=O)(=O)[O-].O=C1C(=O)c2ccccc2C2=C1S[S+]=N2,Pbca,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],O=C1C(=O)c2ccccc2C2=C1S[S+]=N2
+EBAWAG,EBAWAG,at 173 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O.c1cnc(nc1)c1ncccn1,C2/c,False,173.0,mediumT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,c1cnc(nc1)c1ncccn1
+LIDPOG,LIDPOG,150 K,Cc1ccc(cc1)C(N)=O.OC(=O)c1ccc(O)cc1,P-1,False,150.0,mediumT,Cc1ccc(cc1)C(N)=O,OC(=O)c1ccc(O)cc1
+LOSCOL,LOSCOL,at 173 K,CS(=O)(=O)[N-]S(C)(=O)=O.NC1=CC(=[NH+]C(=S)N1)N,P21/n,False,173.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,NC1=CC(=[NH+]C(=S)N1)N
+UWANAJ,UWANAJ,173 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].NC1=[NH+]C(=O)NC=C1,P-1,False,173.0,mediumT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],NC1=[NH+]C(=O)NC=C1
+KOTMAJ,KOTMAJ,at 200 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(C(=O)[O-])c1ccccc1,P212121,False,200.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(C(=O)[O-])c1ccccc1
+LUJSOZ,LUJSOZ,at 180 K,CC(=O)Nc1ccc(O)cc1.c1ccc2nc3ccccc3nc2c1,P-1,False,180.0,mediumT,CC(=O)Nc1ccc(O)cc1,c1ccc2nc3ccccc3nc2c1
+OSEGIF,OSEGIF,160 K,OC(C(O)C(=O)[O-])C(O)=O.NC(=O)c1ccc[n+](c1)C1OC(CO)C(O)C1O,P212121,False,160.0,mediumT,OC(C(O)C(=O)[O-])C(O)=O,NC(=O)c1ccc[n+](c1)C1OC(CO)C(O)C1O
+MAKXED,MAKXED,at 173 K,[NH3+]C(C)(C)CO.CC(C)(CO)NC(=O)[O-],P21/n,False,173.0,mediumT,[NH3+]C(C)(C)CO,CC(C)(CO)NC(=O)[O-]
+ROPHIP,ROPHIP,at 150 K,c1cc(ccn1)C=Cc1ccncc1.Oc1cc(O)cc(O)c1,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Oc1cc(O)cc(O)c1
+FAVRID,FAVRID,at 150 K,FC(F)(F)C(=O)[O-].BrC1=CC2(CCNC3=C2C2=[NH+]CCC4=CNC(=C24)C3=O)C=C(Br)C1=O,P-1,False,150.0,mediumT,FC(F)(F)C(=O)[O-],BrC1=CC2(CCNC3=C2C2=[NH+]CCC4=CNC(=C24)C3=O)C=C(Br)C1=O
+BEDTAF,BEDTAF,at 173 K,FC(F)(F)S(=O)(=O)[O-].ClC[N+]12CCC(CC1)CC2,P21/m,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],ClC[N+]12CCC(CC1)CC2
+PURHIV,PURHIV,173 K,CN(C)C(C)=O.Cc1nc(N)nc(N)n1,Fdd2,False,173.0,mediumT,CN(C)C(C)=O,Cc1nc(N)nc(N)n1
+ITOXUL,ITOXUL,at 173 K,OC(=O)C=Cc1ccccc1.c1cc2cccc(c3ccncc3)c2c(c1)c1ccncc1,P-1,False,173.0,mediumT,OC(=O)C=Cc1ccccc1,c1cc2cccc(c3ccncc3)c2c(c1)c1ccncc1
+BEKTAP,BEKTAP,125 K,FC(F)(F)C(=O)[O-].[NH3+]CC1=C(F)C(=NO1)OC(C)C,P21/c,False,125.0,mediumT,FC(F)(F)C(=O)[O-],[NH3+]CC1=C(F)C(=NO1)OC(C)C
+OCEBUV,OCEBUV,at 173 K,NC(=O)c1ccncc1.OC(=O)c1ccc2ccccc2c1,P21/c,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)c1ccc2ccccc2c1
+WUQDUJ,WUQDUJ,150 K,COc1ccc2c(C)cc(C)nc2c1.Cc1ccc(cc1)S(O)(=O)=O,P21/c,False,150.0,mediumT,COc1ccc2c(C)cc(C)nc2c1,Cc1ccc(cc1)S(O)(=O)=O
+FADHUP,FADHUP,at 173 K,OC(=O)c1cccc(O)c1.CC(C)=NNC(=O)c1ccncc1,P21/c,False,173.0,mediumT,OC(=O)c1cccc(O)c1,CC(C)=NNC(=O)c1ccncc1
+UXOBEP,UXOBEP,at 150 K,Nc1ncncn1.CCCCCCCCC(O)=O,P-1,False,150.0,mediumT,Nc1ncncn1,CCCCCCCCC(O)=O
+DEBJAW,DEBJAW,at 223 K,c1cc(ccn1)c1ccncc1.Oc1ccc(cc1)C(c1ccccc1O)c1ccccc1O,P21/c,False,223.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1ccc(cc1)C(c1ccccc1O)c1ccccc1O
+EVACAG,EVACAG,at 200 K,O=P(c1ccccc1)(c1ccccc1)c1ccccc1.COC(=O)NNC(=O)OC,C2/c,False,200.0,mediumT,O=P(c1ccccc1)(c1ccccc1)c1ccccc1,COC(=O)NNC(=O)OC
+VESZEB,VESZEB,173 K,C1N2CN3CN1CN(C2)C3.COc1cc(ccc1O)C(O)=O,Pbca,False,173.0,mediumT,C1N2CN3CN1CN(C2)C3,COc1cc(ccc1O)C(O)=O
+OQIWOD,OQIWOD,190 K,c1cc(ccn1)C=Cc1ccncc1.Oc1ccc(cc1)C1=COc2cc(O)cc(O)c2C1=O,P21/c,False,190.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Oc1ccc(cc1)C1=COc2cc(O)cc(O)c2C1=O
+HOWZIF,HOWZIF,190 K,OC(=O)c1ccc(cc1)C(O)=O.C(Cc1ccncc1)c1ccncc1,P-1,False,190.0,mediumT,OC(=O)c1ccc(cc1)C(O)=O,C(Cc1ccncc1)c1ccncc1
+YIFYUJ,YIFYUJ,at 173 K,COc1cccc(c1)C1(O)c2ccccc2Oc2ccccc12.C1COCCN1,P-1,False,173.0,mediumT,COc1cccc(c1)C1(O)c2ccccc2Oc2ccccc12,C1COCCN1
+YAJGAU,YAJGAU,150 K,O=S1(=O)[N-]C(=S)c2ccccc12.[NH3+]c1ccccc1C(N)=O,P-1,False,150.0,mediumT,O=S1(=O)[N-]C(=S)c2ccccc12,[NH3+]c1ccccc1C(N)=O
+RANDAP,RANDAP,150 K,CS(=O)(=O)O[n+]1ccccc1.CS(=O)(=O)[O-],P21/c,False,150.0,mediumT,CS(=O)(=O)O[n+]1ccccc1,CS(=O)(=O)[O-]
+YISDIN,YISDIN,at 150 K,CC1=CC(C=C(C)C1=O)=C(C#N)C#N.S1C=CSC1=C1SC=CS1,P21/c,False,150.0,mediumT,CC1=CC(C=C(C)C1=O)=C(C#N)C#N,S1C=CSC1=C1SC=CS1
+PEVCAX,PEVCAX,200 K,NS(=O)(=O)[O-].[NH3+]C(CCC[NH+]=C(N)N)C(=O)[O-],P1,False,200.0,mediumT,NS(=O)(=O)[O-],[NH3+]C(CCC[NH+]=C(N)N)C(=O)[O-]
+ATALEP,ATALEP,133 K,Cc1nc(C)c(C)nc1C.OC(=O)c1cc(O)cc(O)c1,I2/a,False,133.0,mediumT,Cc1nc(C)c(C)nc1C,OC(=O)c1cc(O)cc(O)c1
+EWUTEX,EWUTEX,173 K,O=C1C(=C(C#N)C(=O)C(=C1C#N)C#N)C#N.c1ccc2ccccc2c1,P-1,False,173.0,mediumT,O=C1C(=C(C#N)C(=O)C(=C1C#N)C#N)C#N,c1ccc2ccccc2c1
+UPELUX,UPELUX,at 153 K,FC(F)(F)S(=O)(=O)[O-].CC(C)N1C(=C(C)[N+](=C1P(C#N)C#N)C(C)C)C,P21/c,False,153.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC(C)N1C(=C(C)[N+](=C1P(C#N)C#N)C(C)C)C
+BENSUK,BENSUK,at 223 K,FC(F)(F)S(=O)(=O)[O-].CN1C=C[N+](=C1C(=O)c1ccccc1)C,P-1,False,223.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C=C[N+](=C1C(=O)c1ccccc1)C
+YENVIA,YENVIA,150 K,O=C([O-])c1ccc2ccccc2n1.[NH3+]CCCO,P-1,False,150.0,mediumT,O=C([O-])c1ccc2ccccc2n1,[NH3+]CCCO
+HOXBOO,HOXBOO,190 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccc(cc1)C(O)=O,P-1,False,190.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccc(cc1)C(O)=O
+AGOTAT,AGOTAT,at 200 K,[NH3+]c1ccc(OC)cc1.OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],C2221,False,200.0,mediumT,[NH3+]c1ccc(OC)cc1,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-]
+ZOHWEA,ZOHWEA,at 150 K,Oc1ccc(Cl)c(Cl)c1Cl.Nc1cc(Cl)cc(Cl)c1,P-1,False,150.0,mediumT,Oc1ccc(Cl)c(Cl)c1Cl,Nc1cc(Cl)cc(Cl)c1
+ZOHTEX,ZOHTEX,at 150 K,Nc1ccc(Cl)cc1.Oc1cc(Cl)c(Cl)c(Cl)c1,P-1,False,150.0,mediumT,Nc1ccc(Cl)cc1,Oc1cc(Cl)c(Cl)c(Cl)c1
+MEWTAL,MEWTAL,at 150 K,OC(CN1C=NC=N1)(CN1C=NC=N1)c1ccc(F)cc1F.OC(=O)CC(O)=O,Pbcn,False,150.0,mediumT,OC(CN1C=NC=N1)(CN1C=NC=N1)c1ccc(F)cc1F,OC(=O)CC(O)=O
+XUVBEX,XUVBEX,130 K,OC(=O)C1CC[NH2+]CC1.OC1=C([O-])C(=O)C1=O,Pbcn,False,130.0,mediumT,OC(=O)C1CC[NH2+]CC1,OC1=C([O-])C(=O)C1=O
+WIHJAA,WIHJAA,at 200 K,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O.Cc1[nH+]c(NS(=O)(=O)c2ccc(N)cc2)nc(C)c1,P21/c,False,200.0,mediumT,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O,Cc1[nH+]c(NS(=O)(=O)c2ccc(N)cc2)nc(C)c1
+KUWNAT,KUWNAT,150 K,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12.c1ccccc1,P21/c,False,150.0,mediumT,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12,c1ccccc1
+YAJGEY,YAJGEY,150.0 K,O=S1(=O)NC(=S)c2ccccc12.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,150.0,mediumT,O=S1(=O)NC(=S)c2ccccc12,NC(=O)N1c2ccccc2C=Cc2ccccc12
+DEBXAL,DEBXAL,at 223 K,FC(F)(F)S(=O)(=O)[O-].CN1C=C[N+](=C1C(=O)C=Cc1ccccc1)C,Pca21,False,223.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C=C[N+](=C1C(=O)C=Cc1ccccc1)C
+KUVYUX,KUVYUX,213.6 K,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12.C1COCCO1,P21/c,False,213.0,mediumT,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12,C1COCCO1
+DEBHUO,DEBHUO,at 223 K,Oc1ccc(cc1)C(c1ccccc1O)c1ccccc1O.c1cnccn1,P-1,False,223.0,mediumT,Oc1ccc(cc1)C(c1ccccc1O)c1ccccc1O,c1cnccn1
+TATWUI,TATWUI,at 150 K,CC(=O)[O-].COC(N)=NC(N)=[NH2+],Pbcn,False,150.0,mediumT,CC(=O)[O-],COC(N)=NC(N)=[NH2+]
+ITIRIP,ITIRIP,150 K,O=N(=O)C1=NN=C([N-]1)N1N=C(N=[N+]=[N-])N=[N+]1C1=NN=C([N-]1)N(=O)=O.C[N+]1=NOC(=C1)N,P21/n,False,150.0,mediumT,O=N(=O)C1=NN=C([N-]1)N1N=C(N=[N+]=[N-])N=[N+]1C1=NN=C([N-]1)N(=O)=O,C[N+]1=NOC(=C1)N
+TUJKIV01,TUJKIV01,213.0 K,[NH3+]c1cc(ccc1OC)N(=O)=O.FC(F)(F)S(=O)(=O)[O-],P21/c,False,213.0,mediumT,[NH3+]c1cc(ccc1OC)N(=O)=O,FC(F)(F)S(=O)(=O)[O-]
+NICVEB,NICVEB,at 130 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1ccc(C[Si](C)(C)C(C)(C)C)cc1,Pbca,False,130.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[n+]1ccc(C[Si](C)(C)C(C)(C)C)cc1
+DEWYOU,DEWYOU,at 150 K,CCN1C=[NH+]C2=C1N=C(N)NC2=O.O=C[O-],P-1,False,150.0,mediumT,CCN1C=[NH+]C2=C1N=C(N)NC2=O,O=C[O-]
+YOLQOF,YOLQOF,at 183 K,C1N2CN3CN1CN(C2)C3.COc1cc(C=O)ccc1O,Pca21,False,183.0,mediumT,C1N2CN3CN1CN(C2)C3,COc1cc(C=O)ccc1O
+QUCKAB,QUCKAB,at 180 K,N#Cc1cccnc1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P-1,False,180.0,mediumT,N#Cc1cccnc1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+KAPSON,KAPSON,170 K,CN(C)C(C)=O.NC1=NC(=NO1)N=NC1=NOC(=N1)N,P-1,False,170.0,mediumT,CN(C)C(C)=O,NC1=NC(=NO1)N=NC1=NOC(=N1)N
+EWUTOH,EWUTOH,173 K,COc1ccc(OC)cc1.O=C1C(=C(C#N)C(=O)C(=C1C#N)C#N)C#N,P-1,False,173.0,mediumT,COc1ccc(OC)cc1,O=C1C(=C(C#N)C(=O)C(=C1C#N)C#N)C#N
+RAPHEV01,RAPHEV01,at 160 K,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O.c1ccncc1,C2/c,False,160.0,mediumT,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O,c1ccncc1
+COPHAR,COPHAR,at 173 K,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1.CC1(C)OC(=O)C(=C([O-])O1)C#N,P21/c,False,173.0,mediumT,C[P+](c1ccccc1)(c1ccccc1)c1ccccc1,CC1(C)OC(=O)C(=C([O-])O1)C#N
+EWAQAV,EWAQAV,at 150 K,NC(=O)c1cccnc1.Cc1cc(O)cc(O)c1,P-1,False,150.0,mediumT,NC(=O)c1cccnc1,Cc1cc(O)cc(O)c1
+VULYOR,VULYOR,at 150 K,Cc1ccc(cc1)S(=O)(=O)[O-].CC1CC[N+]2=C(C1)Oc1ccccc21,P1,False,150.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],CC1CC[N+]2=C(C1)Oc1ccccc21
+ZIXZAK,ZIXZAK,173 K,C[NH+](CC(C)(C)O)C(C)(C)CO.O=C[O-],P21,False,173.0,mediumT,C[NH+](CC(C)(C)O)C(C)(C)CO,O=C[O-]
+TICYIP,TICYIP,at 173 K,c1ccc(cc1)c1ccncc1.Nc1ccccc1C(O)=O,P21/n,False,173.0,mediumT,c1ccc(cc1)c1ccncc1,Nc1ccccc1C(O)=O
+GUDTUW,GUDTUW,at 130 K,OC(=O)CCCC(O)=O.c1cnccn1,P21/n,False,130.0,mediumT,OC(=O)CCCC(O)=O,c1cnccn1
+EDOROE,EDOROE,at 173 K,NCc1ccccc1.Oc1ccc2cc(O)ccc2c1,P21/a,False,173.0,mediumT,NCc1ccccc1,Oc1ccc2cc(O)ccc2c1
+EZIBIA,EZIBIA,150 K,N#Cc1ccncc1.CC1(C)N(Br)C(=O)N(Br)C1=O,C2/m,False,150.0,mediumT,N#Cc1ccncc1,CC1(C)N(Br)C(=O)N(Br)C1=O
+PIRXUL,PIRXUL,at 150 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.NC(=O)c1cccnc1,P212121,False,150.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,NC(=O)c1cccnc1
+EYENAZ,EYENAZ,173 K,Nc1[nH+]c(nc(N)n1)c1cc(Cl)ccc1Cl.OC(=O)C=CC(=O)[O-],P-1,False,173.0,mediumT,Nc1[nH+]c(nc(N)n1)c1cc(Cl)ccc1Cl,OC(=O)C=CC(=O)[O-]
+IDAQAG,IDAQAG,at 180 K,CCCCCCCCCCCC(O)=O.c1cnccn1,P-1,False,180.0,mediumT,CCCCCCCCCCCC(O)=O,c1cnccn1
+BOVVIT,BOVVIT,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccc(F)cc1,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccc(F)cc1
+AKUZUD,AKUZUD,200 K,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12.c1ccc2ncccc2c1,P-1,False,200.0,mediumT,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,c1ccc2ncccc2c1
+GUZFEN,GUZFEN,at 173 K,CCN1C=CC=CB1[n+]1ccc(cc1)C(F)(F)F.FC(F)(F)S(=O)(=O)[O-],P21/c,False,173.0,mediumT,CCN1C=CC=CB1[n+]1ccc(cc1)C(F)(F)F,FC(F)(F)S(=O)(=O)[O-]
+CEWZAJ,CEWZAJ,150 K,Cc1nc(C)c(C)nc1C.OCc1cc(O)cc(O)c1,P-1,False,150.0,mediumT,Cc1nc(C)c(C)nc1C,OCc1cc(O)cc(O)c1
+WUWQIR,WUWQIR,150 K,C1COCCO1.Nc1c(F)c(F)c(C(O)=O)c(F)c1F,P21/c,False,150.0,mediumT,C1COCCO1,Nc1c(F)c(F)c(C(O)=O)c(F)c1F
+UFEVUZ,UFEVUZ,150 K,NC(=O)c1ccc(O)cc1.OC(=O)CC(O)=O,P21/n,False,150.0,mediumT,NC(=O)c1ccc(O)cc1,OC(=O)CC(O)=O
+UNEGAV,UNEGAV,at 233 K,C1CN2CCN1CC2.OC(=O)CCCCCCC(O)=O,P21/c,False,233.0,mediumT,C1CN2CCN1CC2,OC(=O)CCCCCCC(O)=O
+UKOSIX,UKOSIX,at 173 K,OC(=O)CCC(O)=O.NNC(=O)c1cccnc1,P21/c,False,173.0,mediumT,OC(=O)CCC(O)=O,NNC(=O)c1cccnc1
+AHULIA,AHULIA,153 K,FC(F)(F)S(=O)(=O)[O-].CN1C(=C(C)[N+](=C1[Si](C)(C)C)C)C,P-1,False,153.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C(=C(C)[N+](=C1[Si](C)(C)C)C)C
+RUDDEC01,RUDDEC01,153 K,[NH3+]CC(CC(C)C)CC(O)=O.Oc1ccccc1C(=O)[O-],P21212,False,153.0,mediumT,[NH3+]CC(CC(C)C)CC(O)=O,Oc1ccccc1C(=O)[O-]
+TEVLEP,TEVLEP,170 K,OC(=O)C(O)=O.CCOc1ccccc1C(N)=O,P21/n,False,170.0,mediumT,OC(=O)C(O)=O,CCOc1ccccc1C(N)=O
+NOSROF,NOSROF,130 K,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O.O=C(OC1C[NH2+]CCC1)c1ccccc1N(=O)=O,P21/c,False,130.0,mediumT,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,O=C(OC1C[NH2+]CCC1)c1ccccc1N(=O)=O
+AMIHAH,AMIHAH,150 K,NC(=O)NC(N)=O.OC(=O)CCCC(O)=O,P-1,False,150.0,mediumT,NC(=O)NC(N)=O,OC(=O)CCCC(O)=O
+UMUZOR,UMUZOR,at 150 K,CNC(=S)NN=C(C)C(C)=NNC(=S)NC.CS(C)=O,P-1,False,150.0,mediumT,CNC(=S)NN=C(C)C(C)=NNC(=S)NC,CS(C)=O
+EWAQID,EWAQID,at 150 K,NC(=O)c1ccncc1.Cc1cc(O)cc(O)c1,C2/c,False,150.0,mediumT,NC(=O)c1ccncc1,Cc1cc(O)cc(O)c1
+YIPMOA,YIPMOA,at 193 K,[NH3+]CC(CC(C)(C)C)c1ccc(F)cc1.OC(C(=O)[O-])c1ccccc1,P212121,False,193.0,mediumT,[NH3+]CC(CC(C)(C)C)c1ccc(F)cc1,OC(C(=O)[O-])c1ccccc1
+MEDMUF,MEDMUF,at 180 K,CC(=O)[O-].[NH2+]1C2CCC1C=C(C2)C1=Cc2ccccc2S1,Cc,False,180.0,mediumT,CC(=O)[O-],[NH2+]1C2CCC1C=C(C2)C1=Cc2ccccc2S1
+UNIZAV,UNIZAV,143 K,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O.C[N+](C)=C(C)OCF,P21/n,False,143.0,mediumT,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O,C[N+](C)=C(C)OCF
+IPONOR,IPONOR,at 173 K,FC(F)(F)S(=O)(=O)[O-].CCN1C=CC=CB1[P+](C)(C)C,P-1,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CCN1C=CC=CB1[P+](C)(C)C
+CAGQUA,CAGQUA,200 K,c1cc(ccn1)c1ccncc1.Oc1ccc2c(Oc3cc(O)ccc3C32OC(=O)c2ccccc32)c1,P-1,False,200.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1ccc2c(Oc3cc(O)ccc3C32OC(=O)c2ccccc32)c1
+TULPIA,TULPIA,at 173 K,COc1ccc(cc1)C1(O)c2ccccc2Oc2ccccc12.c1ccc2nc3ccccc3cc2c1,P-1,False,173.0,mediumT,COc1ccc(cc1)C1(O)c2ccccc2Oc2ccccc12,c1ccc2nc3ccccc3cc2c1
+WANJOM,WANJOM,at 150 K,c1cc(ccn1)c1cncnc1.CCC1(CC)C(=O)NC(=O)NC1=O,P-1,False,150.0,mediumT,c1cc(ccn1)c1cncnc1,CCC1(CC)C(=O)NC(=O)NC1=O
+GISJUP,GISJUP,173 K,[NH2+]1CCN(CC1)Cc1ccc2OCOc2c1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/n,False,173.0,mediumT,[NH2+]1CCN(CC1)Cc1ccc2OCOc2c1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+COPSOS,COPSOS,150 K,FC(F)(F)C(=O)[O-].COC(=O)C1[NH2+]CC(C1)OC(=O)c1ccc(cc1)N(=O)=O,P212121,False,150.0,mediumT,FC(F)(F)C(=O)[O-],COC(=O)C1[NH2+]CC(C1)OC(=O)c1ccc(cc1)N(=O)=O
+WELDOK,WELDOK,130 K,NCC=C.CCCCCCCCCCO,P21/c,False,130.0,mediumT,NCC=C,CCCCCCCCCCO
+EWARAW,EWARAW,at 150 K,Cc1cc(O)cc(O)c1.c1ccc2nccnc2c1,P21/c,False,150.0,mediumT,Cc1cc(O)cc(O)c1,c1ccc2nccnc2c1
+WODDID,WODDID,at 130 K,O=C([O-])c1cccc2c1Cc1ccccc21.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P21/n,False,130.0,mediumT,O=C([O-])c1cccc2c1Cc1ccccc21,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+KIZYOJ,KIZYOJ,at 173 K,c1cc(ccn1)c1ccncc1.COc1ccc(cc1)C(O)=O,P21/c,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,COc1ccc(cc1)C(O)=O
+IVEPIL,IVEPIL,173 K,N#C[B-](C#N)(C#N)C#N.[NH3+]C(C)C(=O)OCC,C2,False,173.0,mediumT,N#C[B-](C#N)(C#N)C#N,[NH3+]C(C)C(=O)OCC
+PASYEN,PASYEN,at 180 K,CN1CCCN(C)C1=O.NC1=Nc2ccccc2S1,C2/c,False,180.0,mediumT,CN1CCCN(C)C1=O,NC1=Nc2ccccc2S1
+KOPKEH,KOPKEH,150 K,c1cc(ccn1)c1ccncc1.OC(=O)c1ccccc1O,P-1,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1ccccc1O
+FOMFAQ,FOMFAQ,173 K,NC1=NON=C1C1=NN=N[N-]1.CC1=[N+]([O-])ON=C1C=NNC(N)=[NH2+],P21/c,False,173.0,mediumT,NC1=NON=C1C1=NN=N[N-]1,CC1=[N+]([O-])ON=C1C=NNC(N)=[NH2+]
+BIFFIH,BIFFIH,at 173 K,c1cc(ccn1)C=Cc1ccncc1.CN(c1cccc(c1)C(O)=O)C(=O)N(C)c1cccc(c1)C(O)=O,C2/c,False,173.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,CN(c1cccc(c1)C(O)=O)C(=O)N(C)c1cccc(c1)C(O)=O
+TADROH,TADROH,at 150 K,CN(C)c1ccncc1.C1CCOC1,P-1,False,150.0,mediumT,CN(C)c1ccncc1,C1CCOC1
+RACZED,RACZED,150 K,[NH2+]1CCOCC1.OC(=O)CCCCCCCC(=O)[O-],P-1,False,150.0,mediumT,[NH2+]1CCOCC1,OC(=O)CCCCCCCC(=O)[O-]
+LUNZAV,LUNZAV,at 180 K,CCCCCC(O)=O.c1cnccn1,C2/c,False,180.0,mediumT,CCCCCC(O)=O,c1cnccn1
+VAWKEK,VAWKEK,at 180 K,OC=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,180.0,mediumT,OC=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+WADBUA,WADBUA,at 200 K,CC(=O)[O-].NC(=O)C1CC[NH2+]CC1,P-1,False,200.0,mediumT,CC(=O)[O-],NC(=O)C1CC[NH2+]CC1
+EROSIO,EROSIO,at 173 K,OC1(CC[NH2+]CC1)c1ccc(Cl)cc1.O=C([O-])c1ccccc1,P-1,False,173.0,mediumT,OC1(CC[NH2+]CC1)c1ccc(Cl)cc1,O=C([O-])c1ccccc1
+VIKSUF,VIKSUF,at 200 K,NC1=[NH+]N=C(S1)c1ccc(Br)cc1.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/c,False,200.0,mediumT,NC1=[NH+]N=C(S1)c1ccc(Br)cc1,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+LABYIW,LABYIW,at 193 K,Cc1ccc(cc1)S(=O)(=O)[O-].COC(=O)C1C2OC(C3[NH2+]C23)C1C(=O)OC,P21/c,False,193.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],COC(=O)C1C2OC(C3[NH2+]C23)C1C(=O)OC
+YOCSIT,YOCSIT,at 203 K,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O.C(CN1C=NN=C1)N1C=NN=C1,P-1,False,203.0,mediumT,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O,C(CN1C=NN=C1)N1C=NN=C1
+KODVAB,KODVAB,at 160 K,CCCC(O)=O.NC(=O)C1c2ccccc2C=Cc2ccccc12,P21/n,False,160.0,mediumT,CCCC(O)=O,NC(=O)C1c2ccccc2C=Cc2ccccc12
+FISJAT,FISJAT,at 200 K,NC(=S)NN=C1C(=O)C=C(N2CCCC2)c2ccccc12.CN(C)C=O,P21/n,False,200.0,mediumT,NC(=S)NN=C1C(=O)C=C(N2CCCC2)c2ccccc12,CN(C)C=O
+IFEGEI,IFEGEI,173 K,[NH3+]C1=C(C)N(C)N(c2ccccc2)C1=O.Oc1c(ccc2ccccc12)C(=O)[O-],P21/c,False,173.0,mediumT,[NH3+]C1=C(C)N(C)N(c2ccccc2)C1=O,Oc1c(ccc2ccccc12)C(=O)[O-]
+BOVXOB01,BOVXOB01,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cc(F)c(F)cc1F,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cc(F)c(F)cc1F
+MOGVOV,MOGVOV,at 173 K,Cc1cccnc1.OC(=O)CCCCC(O)=O,P21/n,False,173.0,mediumT,Cc1cccnc1,OC(=O)CCCCC(O)=O
+WADTOM,WADTOM,at 185 K,OC(=O)c1ccc(Cl)cc1.c1ccc2ncccc2c1,Pca21,False,185.0,mediumT,OC(=O)c1ccc(Cl)cc1,c1ccc2ncccc2c1
+LUNNUD,LUNNUD,at 173 K,NC(=O)c1ccncc1.OC(=O)CCC(O)=O,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCC(O)=O
+OFEPIY,OFEPIY,at 173 K,Cc1cccc(C)c1N.Oc1ccc(cc1)C1(CCCCC1)c1ccc(O)cc1,P21/n,False,173.0,mediumT,Cc1cccc(C)c1N,Oc1ccc(cc1)C1(CCCCC1)c1ccc(O)cc1
+EWANIA,EWANIA,at 150 K,Nc1ncccn1.Cc1cc(O)cc(O)c1,P-1,False,150.0,mediumT,Nc1ncccn1,Cc1cc(O)cc(O)c1
+VADLIX,VADLIX,at 193 K,CCCCN1[P+]N(C)c2ccccc12.FC(F)(F)S(=O)(=O)[O-],P-1,False,193.0,mediumT,CCCCN1[P+]N(C)c2ccccc12,FC(F)(F)S(=O)(=O)[O-]
+HOTMEL,HOTMEL,173 K,CN1C=C[N+](=C1Br)C.COS(=O)(=O)[O-],P21/c,False,173.0,mediumT,CN1C=C[N+](=C1Br)C,COS(=O)(=O)[O-]
+LILDOC,LILDOC,153 K,OC(=O)C(=O)[O-].CC1=CC(=O)NC(=[NH+]1)N,P-1,False,153.0,mediumT,OC(=O)C(=O)[O-],CC1=CC(=O)NC(=[NH+]1)N
+MOZCOU,MOZCOU,at 173 K,OC(=O)c1cccc(O)c1.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,173.0,mediumT,OC(=O)c1cccc(O)c1,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+DEYQOR,DEYQOR,133 K,OC(=O)c1cc(O)ccc1O.CC(CC(C)(C)O)=NNC(=O)c1ccncc1,P21/n,False,133.0,mediumT,OC(=O)c1cc(O)ccc1O,CC(CC(C)(C)O)=NNC(=O)c1ccncc1
+UPIQIW,UPIQIW,180 K,[NH3+]CC(O)=O.OP(=O)([O-])c1c(F)c(F)c(F)c(F)c1F,P21,False,180.0,mediumT,[NH3+]CC(O)=O,OP(=O)([O-])c1c(F)c(F)c(F)c(F)c1F
+MOCBAI,MOCBAI,at 173 K,FC(F)(F)S(=O)(=O)[O-].COC(=O)C([N+]1=CN(C)C=C1)=C(C(=O)OC)C(=O)OC,P-1,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],COC(=O)C([N+]1=CN(C)C=C1)=C(C(=O)OC)C(=O)OC
+ESAQOE,ESAQOE,at 143 K,CS(=O)(=O)[N-]S(C)(=O)=O.NC1=[NH+]C(=CC(=O)N1)N,P21/c,False,143.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,NC1=[NH+]C(=CC(=O)N1)N
+YEPQAP,YEPQAP,150 K,FC(F)(F)S(=O)(=O)[O-].COC1(C=C([NH+]=C2C=CC=CN12)c1ccccc1)C(F)(F)F,P-1,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],COC1(C=C([NH+]=C2C=CC=CN12)c1ccccc1)C(F)(F)F
+MOHNUT,MOHNUT,at 223 K,Cc1cc(C)c(N2C=[N+]3C(=CSC3=C2)C)c(C)c1.FC(F)(F)S(=O)(=O)[O-],P21/c,False,223.0,mediumT,Cc1cc(C)c(N2C=[N+]3C(=CSC3=C2)C)c(C)c1,FC(F)(F)S(=O)(=O)[O-]
+NUKYAU,NUKYAU,at 180 K,NC(=O)c1cccnc1.OC(=O)C=CC(O)=O,P21/c,False,180.0,mediumT,NC(=O)c1cccnc1,OC(=O)C=CC(O)=O
+TUQVIN,TUQVIN,173 K,Clc1cc(ccc1C(=O)[O-])N(=O)=O.OC(=O)C1[NH2+]CCCC1,P21/c,False,173.0,mediumT,Clc1cc(ccc1C(=O)[O-])N(=O)=O,OC(=O)C1[NH2+]CCCC1
+ZEFCEU,ZEFCEU,at 173 K,c1cc(ccn1)c1ccncc1.OC(=O)CCN1C(=O)N(CCC(O)=O)C(=O)N(CCC(O)=O)C1=O,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)CCN1C(=O)N(CCC(O)=O)C(=O)N(CCC(O)=O)C1=O
+DUBWEF,DUBWEF,173 K,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl.CCOC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,P-1,False,173.0,mediumT,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,CCOC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl
+TUQYUC,TUQYUC,150 K,C1CSCCO1.N#CC1(C#N)C2(CCOCC2)C1(C#N)C#N,Pnma,False,150.0,mediumT,C1CSCCO1,N#CC1(C#N)C2(CCOCC2)C1(C#N)C#N
+VIBNUQ,VIBNUQ,at 173 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.CON1C=C[N+](=C1Br)OC,P-1,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,CON1C=C[N+](=C1Br)OC
+ULAWEJ,ULAWEJ,at 153 K,NC(=O)c1ccncc1.OC(=O)CC(O)=O,P-1,False,153.0,mediumT,NC(=O)c1ccncc1,OC(=O)CC(O)=O
+NUKWEW,NUKWEW,at 180 K,Nc1ncccn1.OC(=O)c1ccccc1,P21/c,False,180.0,mediumT,Nc1ncccn1,OC(=O)c1ccccc1
+UBUHOQ,UBUHOQ,at 150 K,Cc1c(O)cccc1O.c1cc(ccn1)c1ccncc1,P-1,False,150.0,mediumT,Cc1c(O)cccc1O,c1cc(ccn1)c1ccncc1
+BOQBEO,BOQBEO,at 150 K,C1N2CN3CN1CN(C2)C3.Oc1ccccc1c1ccccc1O,P21,False,150.0,mediumT,C1N2CN3CN1CN(C2)C3,Oc1ccccc1c1ccccc1O
+EYOJOR,EYOJOR,at 153 K,CC(C)(C)c1ccc(O)c(c1)C(C)(C)C.C1CCC(CC1)NC1CCCCC1,P21/c,False,153.0,mediumT,CC(C)(C)c1ccc(O)c(c1)C(C)(C)C,C1CCC(CC1)NC1CCCCC1
+XAQRIR,XAQRIR,at 153 K,OC(=O)c1cccc(n1)C(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P212121,False,153.0,mediumT,OC(=O)c1cccc(n1)C(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+EQUSAM,EQUSAM,130 K,Cc1ccc(SCc2cc[nH+]cc2)cc1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,130.0,mediumT,Cc1ccc(SCc2cc[nH+]cc2)cc1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+HIQSIL,HIQSIL,at 150 K,OC(=O)CCC(O)=O.NC(=O)c1ccc(Br)cc1,P-1,False,150.0,mediumT,OC(=O)CCC(O)=O,NC(=O)c1ccc(Br)cc1
+RIGDIW,RIGDIW,150 K,OC(=O)C=CC(=O)[O-].NC1=NC2=C([NH+]=CN2COCCO)C(=O)N1,P-1,False,150.0,mediumT,OC(=O)C=CC(=O)[O-],NC1=NC2=C([NH+]=CN2COCCO)C(=O)N1
+FAKLEL,FAKLEL,173 K,OC(=O)Cc1ccccc1.NC(=O)c1ccncc1,C2/c,False,173.0,mediumT,OC(=O)Cc1ccccc1,NC(=O)c1ccncc1
+PEXNAJ,PEXNAJ,at 150 K,c1cc(ccn1)C=Cc1ccncc1.Nc1ccc(C(O)=O)c(O)c1,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Nc1ccc(C(O)=O)c(O)c1
+FIRGUL,FIRGUL,160.0 K,O=C([O-])C1CCC(=O)N1.C[NH2+]C(C)C(O)c1ccccc1,P21,False,160.0,mediumT,O=C([O-])C1CCC(=O)N1,C[NH2+]C(C)C(O)c1ccccc1
+UJIVAN,UJIVAN,173.2 K,COc1ccccc1c1[nH+]cccc1C=O.CS(=O)(=O)[O-],P21/n,False,173.0,mediumT,COc1ccccc1c1[nH+]cccc1C=O,CS(=O)(=O)[O-]
+GIYMOT,GIYMOT,173 K,CC(C)(C)c1ccc(cc1)C(O)=O.CC(CC(C)(C)O)=NNC(=O)c1ccncc1,P21/c,False,173.0,mediumT,CC(C)(C)c1ccc(cc1)C(O)=O,CC(CC(C)(C)O)=NNC(=O)c1ccncc1
+UNEZES,UNEZES,200 K,NC(=O)c1cccnc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,200.0,mediumT,NC(=O)c1cccnc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+LASGOD,LASGOD,at 150 K,c1ccc2ncccc2c1.OC(=O)C=CC(O)=O,P-1,False,150.0,mediumT,c1ccc2ncccc2c1,OC(=O)C=CC(O)=O
+VIKSOZ,VIKSOZ,at 200 K,NC1=NN=C(S1)c1ccc(Br)cc1.OC(=O)COc1ccc2ccccc2c1,Pca21,False,200.0,mediumT,NC1=NN=C(S1)c1ccc(Br)cc1,OC(=O)COc1ccc2ccccc2c1
+PUCTEP,PUCTEP,173 K,OC(=O)C=Cc1ccccc1.Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,P21/n,False,173.0,mediumT,OC(=O)C=Cc1ccccc1,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+KIGKOB,KIGKOB,at 173 K,OC(=O)c1cc2ccccc2cc1O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,173.0,mediumT,OC(=O)c1cc2ccccc2cc1O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+LUNMEM,LUNMEM,at 173 K,NC(=O)c1ccncc1.OC(=O)c1cccc(O)c1,C2/c,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)c1cccc(O)c1
+KICVUP,KICVUP,180 K,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1.CC(=O)Oc1ccccc1C(=O)[O-],P-1,False,180.0,mediumT,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,CC(=O)Oc1ccccc1C(=O)[O-]
+XOMTUP01,XOMTUP01,at 200 K,Cc1ccc(cc1)S(=O)(=O)[O-].C[NH2+]CC(O)=O,P21/c,False,200.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],C[NH2+]CC(O)=O
+SAYPIT,SAYPIT,at 173 K,OC(=O)c1cccc(O)c1.CC(C)=NNC(=O)c1ccncc1,P-1,False,173.0,mediumT,OC(=O)c1cccc(O)c1,CC(C)=NNC(=O)c1ccncc1
+GENLIV,GENLIV,at 180 K,OC(=O)C(O)=O.NC(=O)c1ccc(Cl)cc1,P-1,False,180.0,mediumT,OC(=O)C(O)=O,NC(=O)c1ccc(Cl)cc1
+PAXFIF,PAXFIF,at 130 K,OC(=O)CCN1C(=O)c2ccccc2C1=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P-1,False,130.0,mediumT,OC(=O)CCN1C(=O)c2ccccc2C1=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+FIJXIF,FIJXIF,at 213 K,CC(=O)[O-].[NH3+]C(C1CCCC(O)C1)C(=O)OC(C)(C)C,P212121,False,213.0,mediumT,CC(=O)[O-],[NH3+]C(C1CCCC(O)C1)C(=O)OC(C)(C)C
+LODGAO02,LODGAO02,150 K,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl.CN(C)C=O,P-1,False,150.0,mediumT,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl,CN(C)C=O
+MOQGIJ,MOQGIJ,at 133 K,CN(C)C(=O)N(C)C.Clc1ccc(cc1)S(=O)(=O)NS(=O)(=O)c1ccc(Cl)cc1,P-1,False,133.0,mediumT,CN(C)C(=O)N(C)C,Clc1ccc(cc1)S(=O)(=O)NS(=O)(=O)c1ccc(Cl)cc1
+ESOZIX,ESOZIX,173 K,Nc1ccnc(N)n1.CN1CCCC1=O,P21/n,False,173.0,mediumT,Nc1ccnc(N)n1,CN1CCCC1=O
+EMUNAD,EMUNAD,183 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.CON1C=C[N+](=C1C)OC,Cc,False,183.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,CON1C=C[N+](=C1C)OC
+HUSVIA,HUSVIA,at 150.0 K,c1ccc(nc1)c1ccccn1.OC(=O)C=CC(O)=O,Pca21,False,150.0,mediumT,c1ccc(nc1)c1ccccn1,OC(=O)C=CC(O)=O
+MORVEV02,MORVEV02,150 K,Oc1cc(O)cc(O)c1.c1ccc2nc3ccccc3nc2c1,P21/n,False,150.0,mediumT,Oc1cc(O)cc(O)c1,c1ccc2nc3ccccc3nc2c1
+LUNMUC,LUNMUC,at 203 K,NC(=O)c1ccncc1.OC(=O)CCCCCCCCCCCBr,P-1,False,203.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCCCCCCCCCCBr
+DADMED,DADMED,150 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.NC(=O)c1ccccn1,P21/n,False,150.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,NC(=O)c1ccccn1
+HIQRIK,HIQRIK,at 150 K,NC(=O)c1ccc(Br)cc1.OC(=O)C=CC(O)=O,P21/c,False,150.0,mediumT,NC(=O)c1ccc(Br)cc1,OC(=O)C=CC(O)=O
+UMUYUX,UMUYUX,at 173 K,NC(=O)c1ccncc1.CC(C)(Oc1ccc(Cl)cc1)C(O)=O,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,CC(C)(Oc1ccc(Cl)cc1)C(O)=O
+UNEGEZ,UNEGEZ,at 233 K,C1CN2CCN1CC2.OC(=O)CCCCCCCC(O)=O,P21/c,False,233.0,mediumT,C1CN2CCN1CC2,OC(=O)CCCCCCCC(O)=O
+FADHEZ,FADHEZ,at 173 K,NNC(=O)c1ccncc1.OC(=O)c1ccc(O)cc1,P21/c,False,173.0,mediumT,NNC(=O)c1ccncc1,OC(=O)c1ccc(O)cc1
+FORLAB,FORLAB,at 190.2 K,c1ccc(C=Cc2ccccn2)nc1.Oc1ccccc1O,P21/c,False,190.0,mediumT,c1ccc(C=Cc2ccccn2)nc1,Oc1ccccc1O
+FAKLAH,FAKLAH,173 K,OC(=O)Cc1ccccc1.NC(=O)c1cccnc1,P21/n,False,173.0,mediumT,OC(=O)Cc1ccccc1,NC(=O)c1cccnc1
+CEMNUH,CEMNUH,150.2 K,c1cc(ccn1)C=Cc1ccncc1.OB(O)c1ccc(cc1)c1ccc(cc1)B(O)O,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OB(O)c1ccc(cc1)c1ccc(cc1)B(O)O
+HOLWAI02,HOLWAI02,at 150 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.CC(=CC(O)=O)C(O)=O,P-1,False,150.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,CC(=CC(O)=O)C(O)=O
+LIJGAN,LIJGAN,at 130 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]c1ccc(Cl)cc1,P21,False,130.0,mediumT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]c1ccc(Cl)cc1
+GEQXIL,GEQXIL,at 233 K,OC(=O)c1cc(Cl)cc(Cl)c1.CCOc1ccccc1C(N)=O,P21/c,False,233.0,mediumT,OC(=O)c1cc(Cl)cc(Cl)c1,CCOc1ccccc1C(N)=O
+NOSVAV,NOSVAV,173 K,OC(=O)Cc1ccc(O)c(Cl)c1.c1ccc2nc3ccccc3nc2c1,P21/c,False,173.0,mediumT,OC(=O)Cc1ccc(O)c(Cl)c1,c1ccc2nc3ccccc3nc2c1
+AHUDAK,AHUDAK,153 K,FC(F)(F)S(=O)(=O)[O-].CN1C(=C(C)[N+](=C1P(C#N)C#N)C)C,P21/c,False,153.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C(=C(C)[N+](=C1P(C#N)C#N)C)C
+MOGWAI,MOGWAI,at 173 K,Cc1cccnc1.OC(=O)C=CC(O)=O,P21/c,False,173.0,mediumT,Cc1cccnc1,OC(=O)C=CC(O)=O
+CIVPUW,CIVPUW,173 K,OC(=O)c1cccc2ccccc12.CCC(C)=NNC(=O)c1ccncc1,P21/n,False,173.0,mediumT,OC(=O)c1cccc2ccccc12,CCC(C)=NNC(=O)c1ccncc1
+WADNUN,WADNUN,213 K,CCCCC(=O)[O-].[NH3+]Cc1ccc(Br)cc1,P-1,False,213.0,mediumT,CCCCC(=O)[O-],[NH3+]Cc1ccc(Br)cc1
+GENLOB,GENLOB,at 180 K,OC(=O)CCCCCCCCC(O)=O.NC(=O)c1ccc(Cl)cc1,P-1,False,180.0,mediumT,OC(=O)CCCCCCCCC(O)=O,NC(=O)c1ccc(Cl)cc1
+IXAJIC,IXAJIC,173 K,NC(=O)C1=NON=C1N=NC1=NON=C1C(N)=O.CS(C)=O,P21/c,False,173.0,mediumT,NC(=O)C1=NON=C1N=NC1=NON=C1C(N)=O,CS(C)=O
+NEWSOY,NEWSOY,at 173 K,CC(=O)Nc1cc[nH+]cc1.OC(=O)CCCC(=O)[O-],P-1,False,173.0,mediumT,CC(=O)Nc1cc[nH+]cc1,OC(=O)CCCC(=O)[O-]
+MOZDAH,MOZDAH,at 173 K,OC(=O)c1ccc(O)cc1.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,173.0,mediumT,OC(=O)c1ccc(O)cc1,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+KOTMEN,KOTMEN,at 200 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(C(=O)[O-])c1ccccc1,P21,False,200.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(C(=O)[O-])c1ccccc1
+QAMRUS,QAMRUS,at 150 K,c1cc(ccn1)c1ccncc1.Oc1ccc(O)cc1,P-1,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1ccc(O)cc1
+ZEYJAQ,ZEYJAQ,at 173 K,NC1=[NH+]C(=O)NC=C1.OC(=O)CC(=O)[O-],Pbca,False,173.0,mediumT,NC1=[NH+]C(=O)NC=C1,OC(=O)CC(=O)[O-]
+RADDUW,RADDUW,at 150 K,NC1=[NH+]CCS1.Clc1ccc(Cl)c(OCC(=O)[O-])c1,P21/c,False,150.0,mediumT,NC1=[NH+]CCS1,Clc1ccc(Cl)c(OCC(=O)[O-])c1
+ZAQRES,ZAQRES,193 K,c1cc(ccn1)c1ccncc1.CCCCCCCC(O)=O,P-1,False,193.0,mediumT,c1cc(ccn1)c1ccncc1,CCCCCCCC(O)=O
+LUSXII,LUSXII,173 K,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1.OC(=O)C=CC(=O)[O-],P21,False,173.0,mediumT,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1,OC(=O)C=CC(=O)[O-]
+EWAROK,EWAROK,at 150 K,c1cnc2c(c1)ccc1cccnc21.Cc1cc(O)cc(O)c1,P21/c,False,150.0,mediumT,c1cnc2c(c1)ccc1cccnc21,Cc1cc(O)cc(O)c1
+UVIMES,UVIMES,at 180 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(O)=O,P21/c,False,180.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(O)=O
+NABMAH,NABMAH,200 K,[NH3+]C(c1ccccc1)c1ccccc1O.COc1ccc2cc(ccc2c1)C(C)C(=O)[O-],C2,False,200.0,mediumT,[NH3+]C(c1ccccc1)c1ccccc1O,COc1ccc2cc(ccc2c1)C(C)C(=O)[O-]
+TOWPIH,TOWPIH,130 K,OC12CC[NH+](CC1)CC2.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,Pcab,False,130.0,mediumT,OC12CC[NH+](CC1)CC2,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+UFEWAG,UFEWAG,150 K,OC(=O)CCCCCC(O)=O.NC(=O)c1ccc(N)cc1,P21,False,150.0,mediumT,OC(=O)CCCCCC(O)=O,NC(=O)c1ccc(N)cc1
+JIHNAS,JIHNAS,153 K,Nc1c(Cl)cc(cc1Cl)S(N)(=O)=O.c1cnc2c(c1)ccc1cccnc21,P212121,False,153.0,mediumT,Nc1c(Cl)cc(cc1Cl)S(N)(=O)=O,c1cnc2c(c1)ccc1cccnc21
+XUBYOK,XUBYOK,150 K,CN(C)C=O.COC(=O)C=C1SC(NC1=O)=NN=Cc1ccccc1OC,P21/n,False,150.0,mediumT,CN(C)C=O,COC(=O)C=C1SC(NC1=O)=NN=Cc1ccccc1OC
+LABKAE,LABKAE,173 K,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1.Clc1ccc(OCC(=O)[O-])c(Cl)c1,P21/c,False,173.0,mediumT,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1,Clc1ccc(OCC(=O)[O-])c(Cl)c1
+ZOHWOK,ZOHWOK,at 150 K,NC(=O)c1cccc(N)c1.OC(=O)c1ccc(O)cc1,C2/c,False,150.0,mediumT,NC(=O)c1cccc(N)c1,OC(=O)c1ccc(O)cc1
+NEWNIP,NEWNIP,173 K,Nc1[nH+]cccc1Br.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/n,False,173.0,mediumT,Nc1[nH+]cccc1Br,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+XISPOH,XISPOH,150 K,CN(C)c1ccncc1.CC(=O)c1c(ccc2cccc(O)c12)C(C)(C)C,P21/c,False,150.0,mediumT,CN(C)c1ccncc1,CC(=O)c1c(ccc2cccc(O)c12)C(C)(C)C
+VESZIF,VESZIF,173 K,COc1cc(ccc1O)C(O)=O.c1ccc2nc3ccccc3nc2c1,P-1,False,173.0,mediumT,COc1cc(ccc1O)C(O)=O,c1ccc2nc3ccccc3nc2c1
+PAMPIF,PAMPIF,150 K,[NH3+]C(C)c1ccccc1O.COc1ccc2cc(ccc2c1)C(C)C(=O)[O-],C2,False,150.0,mediumT,[NH3+]C(C)c1ccccc1O,COc1ccc2cc(ccc2c1)C(C)C(=O)[O-]
+NUKYEY,NUKYEY,at 180 K,OC(=O)CCCC(O)=O.NC(=O)c1cccnc1,P-1,False,180.0,mediumT,OC(=O)CCCC(O)=O,NC(=O)c1cccnc1
+LUJJAC,LUJJAC,at 173 K,CC(=O)[O-].[NH3+]CC1(O)OCC(O)C(O)C1O,P212121,False,173.0,mediumT,CC(=O)[O-],[NH3+]CC1(O)OCC(O)C(O)C1O
+LUNMIQ,LUNMIQ,at 203 K,NC(=O)c1ccncc1.CN(C)c1cccc(c1)C(O)=O,C2/c,False,203.0,mediumT,NC(=O)c1ccncc1,CN(C)c1cccc(c1)C(O)=O
+GAWHET,GAWHET,at 213 K,CN1C(=O)N(C)C(=C(C1=O)N(=O)=O)[O-].CC(C)N1C(=C(C)[N+](=C1Cl)C(C)C)C,P21/m,False,213.0,mediumT,CN1C(=O)N(C)C(=C(C1=O)N(=O)=O)[O-],CC(C)N1C(=C(C)[N+](=C1Cl)C(C)C)C
+EPUJUW,EPUJUW,200 K,OC(=O)CN1CSCCSC1.CS(C)=O,P21/c,False,200.0,mediumT,OC(=O)CN1CSCCSC1,CS(C)=O
+DADNAA,DADNAA,150 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.OC(=O)c1ccncc1,Cc,False,150.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,OC(=O)c1ccncc1
+FEQXEF,FEQXEF,at 198 K,C1N2CN3CN1CN(C2)C3.COC(=O)c1cc(O)cc(O)c1,Cc,False,198.0,mediumT,C1N2CN3CN1CN(C2)C3,COC(=O)c1cc(O)cc(O)c1
+LEDYUQ,LEDYUQ,at 173 K,C1CN2CCN1CC2.OC(=O)C=CC=CC(O)=O,P-1,False,173.0,mediumT,C1CN2CCN1CC2,OC(=O)C=CC=CC(O)=O
+NUKZEZ,NUKZEZ,at 180 K,NC(=O)c1cccnc1.OC(=O)CCCCCCC(O)=O,P-1,False,180.0,mediumT,NC(=O)c1cccnc1,OC(=O)CCCCCCC(O)=O
+TUQYIN,TUQYIN,at 173 K,C[NH+]=P(N(C)C)(N(C)C)N(C)C.CC(=O)[O-],P-1,False,173.0,mediumT,C[NH+]=P(N(C)C)(N(C)C)N(C)C,CC(=O)[O-]
+AFIRIU,AFIRIU,150 K,CC(=O)Nc1ccc(cc1)C(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/c,False,150.0,mediumT,CC(=O)Nc1ccc(cc1)C(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+RAVXUK,RAVXUK,150 K,O=Cc1ccncc1.OC(=O)c1ccc(Cl)cc1O,P21,False,150.0,mediumT,O=Cc1ccncc1,OC(=O)c1ccc(Cl)cc1O
+XEGJAW,XEGJAW,at 180 K,OC(=O)CCCCCCCC(=O)[O-].CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,P-1,False,180.0,mediumT,OC(=O)CCCCCCCC(=O)[O-],CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+VIXDAK,VIXDAK,173 K,COC(=O)C1[NH2+]CC(C1)N=[N+]=[N-].FC(F)(F)C(=O)[O-],P21,False,173.0,mediumT,COC(=O)C1[NH2+]CC(C1)N=[N+]=[N-],FC(F)(F)C(=O)[O-]
+UZUYUL,UZUYUL,173 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.Cc1cccnc1,P-1,False,173.0,mediumT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,Cc1cccnc1
+SOGSEP,SOGSEP,150 K,NC(=O)c1ccc(O)cc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/c,False,150.0,mediumT,NC(=O)c1ccc(O)cc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+JAHJIP,JAHJIP,131 K,Oc1cccc(O)c1C(=O)[O-].CN1C=[NH+]C2=C1C(=O)N(C)C(=O)N2C,P21/n,False,131.0,mediumT,Oc1cccc(O)c1C(=O)[O-],CN1C=[NH+]C2=C1C(=O)N(C)C(=O)N2C
+RADDOQ,RADDOQ,at 150 K,c1cc(ccn1)c1ccncc1.OC(=O)COc1cc(Cl)cc(Cl)c1,C2/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)COc1cc(Cl)cc(Cl)c1
+TAPCEW,TAPCEW,173 K,N#Cc1cccnc1.CC1=CC(=NO1)NS(=O)(=O)c1ccc(N)cc1,P21/n,False,173.0,mediumT,N#Cc1cccnc1,CC1=CC(=NO1)NS(=O)(=O)c1ccc(N)cc1
+PORNIV,PORNIV,153 K,FC(F)(F)S(=O)(=O)[O-].CC1=[NH+]N(C(=C1)C)c1ccc(cn1)N(=O)=O,P21/c,False,153.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC1=[NH+]N(C(=C1)C)c1ccc(cn1)N(=O)=O
+HAJCAY,HAJCAY,at 173 K,C[S+](C)(C)=O.O=C1[N-]C(=O)c2ccccc12,Pnma,False,173.0,mediumT,C[S+](C)(C)=O,O=C1[N-]C(=O)c2ccccc12
+JUNXAU,JUNXAU,173 K,Cc1c(O)cccc1O.Cc1nc(C)c(C)nc1C,P21/c,False,173.0,mediumT,Cc1c(O)cccc1O,Cc1nc(C)c(C)nc1C
+ULAWOT,ULAWOT,at 153 K,NC(=O)c1ccncc1.OC(=O)CCCC(O)=O,P21/n,False,153.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCCC(O)=O
+VECVAC,VECVAC,at 150 K,COCC12C[NH2+]CCC1(C2)c1ccc(Cl)c(Cl)c1.OC(C(O)C(=O)[O-])C(O)=O,P212121,False,150.0,mediumT,COCC12C[NH2+]CCC1(C2)c1ccc(Cl)c(Cl)c1,OC(C(O)C(=O)[O-])C(O)=O
+JOFHOC,JOFHOC,at 160 K,NC(=O)C1c2ccccc2C=Cc2ccccc12.C1COCCO1,P21/c,False,160.0,mediumT,NC(=O)C1c2ccccc2C=Cc2ccccc12,C1COCCO1
+HICZIF,HICZIF,173 K,NC(=O)c1ccncc1.OC(=O)CC(O)(CC(O)=O)C(O)=O,Cc,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)CC(O)(CC(O)=O)C(O)=O
+LATSEG,LATSEG,at 180 K,OC(=O)c1ccc(O)cc1O.O=C1CCC(=O)N1,P-1,False,180.0,mediumT,OC(=O)c1ccc(O)cc1O,O=C1CCC(=O)N1
+XIBCAP,XIBCAP,143 K,[NH3+]N(C)C(N)=O.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,143.0,mediumT,[NH3+]N(C)C(N)=O,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+DEVGOA,DEVGOA,at 173 K,[NH2+]1CCOCC1.CS(=O)(=O)[N-]S(C)(=O)=O,P21/c,False,173.0,mediumT,[NH2+]1CCOCC1,CS(=O)(=O)[N-]S(C)(=O)=O
+BOZFUT,BOZFUT,151 K,CC(=O)[O-].CC12C[NH2+]CC(C)(CNC1)C2=O,Pna21,False,151.0,mediumT,CC(=O)[O-],CC12C[NH2+]CC(C)(CNC1)C2=O
+ZOXVUF,ZOXVUF,150 K,Oc1cccc2cccnc12.CC1=CC(=NO1)NS(=O)(=O)c1ccc(N)cc1,P21/c,False,150.0,mediumT,Oc1cccc2cccnc12,CC1=CC(=NO1)NS(=O)(=O)c1ccc(N)cc1
+JUGWUF,JUGWUF,173 K,Nc1[nH+]cc(Cl)cc1.Clc1cc(ccc1C(=O)[O-])N(=O)=O,P-1,False,173.0,mediumT,Nc1[nH+]cc(Cl)cc1,Clc1cc(ccc1C(=O)[O-])N(=O)=O
+HOFZIM,HOFZIM,at 130 K,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-].[NH3+]c1cccc(c1)C(O)=O,P21/n,False,130.0,mediumT,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],[NH3+]c1cccc(c1)C(O)=O
+EWANAS,EWANAS,at 150 K,N#Cc1ccncc1.Cc1cc(O)cc(O)c1,P21/c,False,150.0,mediumT,N#Cc1ccncc1,Cc1cc(O)cc(O)c1
+UNEYUH,UNEYUH,200 K,O=Cc1ccc(C=O)cc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,C2/c,False,200.0,mediumT,O=Cc1ccc(C=O)cc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+ZOHTIB,ZOHTIB,at 150 K,Nc1cccc(Cl)c1.Oc1cc(Cl)c(Cl)c(Cl)c1,P21/c,False,150.0,mediumT,Nc1cccc(Cl)c1,Oc1cc(Cl)c(Cl)c(Cl)c1
+ROQPEU,ROQPEU,at 173 K,[NH2+]=C1NC(=O)N(C=C1)C1CSC(CO)O1.OC(=O)C(=O)[O-],P21,False,173.0,mediumT,[NH2+]=C1NC(=O)N(C=C1)C1CSC(CO)O1,OC(=O)C(=O)[O-]
+UKEXIU,UKEXIU,173 K,Cc1[nH+]cc(CO)c(CO)c1O.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/n,False,173.0,mediumT,Cc1[nH+]cc(CO)c(CO)c1O,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+LABRAK,LABRAK,173 K,CS(=O)(=O)[N-]S(C)(=O)=O.[NH3+]c1ccc(Cl)cc1,P21,False,173.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,[NH3+]c1ccc(Cl)cc1
+BIKYOJ,BIKYOJ,at 141 K,NC(=[NH2+])O.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,141.0,mediumT,NC(=[NH2+])O,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+JEDVIB,JEDVIB,180 K,c1cnc2c(c1)ccc1cccnc21.OC(C(F)(F)F)C(F)(F)F,P21/n,False,180.0,mediumT,c1cnc2c(c1)ccc1cccnc21,OC(C(F)(F)F)C(F)(F)F
+QIJCUH,QIJCUH,at 150 K,c1cc(ccn1)c1ccncc1.OC1=CC(=O)C(=CC1=O)O,C2/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC1=CC(=O)C(=CC1=O)O
+EHIQAQ,EHIQAQ,150 K,S=C([S-])N1CCCCC1.C[N+](C)(C)CCO,P21/c,False,150.0,mediumT,S=C([S-])N1CCCCC1,C[N+](C)(C)CCO
+CIRXAD,CIRXAD,at 150 K,OC(=O)CCC(O)=O.NN1C=NN=C1,P21/c,False,150.0,mediumT,OC(=O)CCC(O)=O,NN1C=NN=C1
+MAJTOH,MAJTOH,at 133 K,BrC(Br)(Br)C(=O)[O-].Brc1c[nH+]ccc1,P-1,False,133.0,mediumT,BrC(Br)(Br)C(=O)[O-],Brc1c[nH+]ccc1
+VOJLUD,VOJLUD,at 173 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.C[N+](C)(C)c1ccc(C=O)cc1,P-1,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,C[N+](C)(C)c1ccc(C=O)cc1
+UKEREI,UKEREI,at 150 K,FC(F)(F)S(=O)(=O)[O-].CCCCC#CC1=[N+](CCC#C)c2ccccc2S1,Pca21,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CCCCC#CC1=[N+](CCC#C)c2ccccc2S1
+DADNEE,DADNEE,150 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.C1CNCCN1,P-1,False,150.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,C1CNCCN1
+XEGHOI,XEGHOI,at 180 K,OC(=O)CCCCCC(=O)[O-].CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,P-1,False,180.0,mediumT,OC(=O)CCCCCC(=O)[O-],CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+EGUHOE,EGUHOE,at 150 K,CS(=[NH2+])(=O)c1ccccc1.CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,P212121,False,150.0,mediumT,CS(=[NH2+])(=O)c1ccccc1,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2
+XIPCOP,XIPCOP,at 198 K,FC(F)(F)S(=O)(=O)[O-].CN(C)c1cc[n+](cc1)P(C)(C)=S,P-1,False,198.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN(C)c1cc[n+](cc1)P(C)(C)=S
+XITGIT,XITGIT,173 K,CC1(C)CCC(C)(C)C2=C1[NH+]=C(N)S2.Brc1ccc(cc1)C(=O)[O-],Pc,False,173.0,mediumT,CC1(C)CCC(C)(C)C2=C1[NH+]=C(N)S2,Brc1ccc(cc1)C(=O)[O-]
+EZEGIA,EZEGIA,at 150 K,OC(=O)c1ccccc1O.OC(CN1C=NC=N1)(CN1C=NC=N1)c1ccc(F)cc1F,P-1,False,150.0,mediumT,OC(=O)c1ccccc1O,OC(CN1C=NC=N1)(CN1C=NC=N1)c1ccc(F)cc1F
+XOBCAT01,XOBCAT01,at 173 K,OC(=O)c1ccccc1O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,173.0,mediumT,OC(=O)c1ccccc1O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+LORWIZ,LORWIZ,at 130 K,NC(=O)c1c[nH+]ccc1.OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],P21/c,False,130.0,mediumT,NC(=O)c1c[nH+]ccc1,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-]
+NIGMIB,NIGMIB,153 K,FC(F)(F)S(=O)(=O)[O-].CC1=[NH+]N(P(c2ccccc2)c2ccccc2)C(=C1)C,P21/c,False,153.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC1=[NH+]N(P(c2ccccc2)c2ccccc2)C(=C1)C
+OPUVIH,OPUVIH,150 K,OC(=O)C=CC(=O)[O-].Nc1[nH+]cccc1C(O)=O,C2/c,False,150.0,mediumT,OC(=O)C=CC(=O)[O-],Nc1[nH+]cccc1C(O)=O
+VEVPUJ,VEVPUJ,at 150 K,OC(=O)C=CC(=O)[O-].COC(=O)NC1=[NH+]c2cc(ccc2N1)C(=O)c1ccccc1,P1,False,150.0,mediumT,OC(=O)C=CC(=O)[O-],COC(=O)NC1=[NH+]c2cc(ccc2N1)C(=O)c1ccccc1
+GANXUP,GANXUP,at 180 K,OC(=O)C(O)=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,180.0,mediumT,OC(=O)C(O)=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+FERYOR,FERYOR,at 190 K,c1cc(ccn1)C=Cc1ccncc1.CCCC(=O)c1c(O)cc(O)cc1O,P-1,False,190.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,CCCC(=O)c1c(O)cc(O)cc1O
+VAXROD,VAXROD,at 173 K,CC#CC(=O)[O-].NNC(=O)c1cc[nH+]cc1,P21,False,173.0,mediumT,CC#CC(=O)[O-],NNC(=O)c1cc[nH+]cc1
+UKOSAP,UKOSAP,at 173 K,NNC(=O)c1cccnc1.OC(=O)CCCCC(O)=O,P21/c,False,173.0,mediumT,NNC(=O)c1cccnc1,OC(=O)CCCCC(O)=O
+FAKKOU,FAKKOU,173 K,OC(=O)Cc1ccccc1.c1ccc2nc3ccccc3cc2c1,P-1,False,173.0,mediumT,OC(=O)Cc1ccccc1,c1ccc2nc3ccccc3cc2c1
+XIRMAQ,XIRMAQ,130 K,CN(C)C=O.CN(C)C=C1SC(=O)N=C1Nc1ccc(O)cc1,P21/c,False,130.0,mediumT,CN(C)C=O,CN(C)C=C1SC(=O)N=C1Nc1ccc(O)cc1
+RUJRAQ,RUJRAQ,at 200 K,[NH3+]c1ccc(CCO)cc1.OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],P-1,False,200.0,mediumT,[NH3+]c1ccc(CCO)cc1,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-]
+LATKUO,LATKUO,at 173 K,OC(=O)c1ccccc1O.NNC(=O)c1ccncc1,P21/n,False,173.0,mediumT,OC(=O)c1ccccc1O,NNC(=O)c1ccncc1
+XUCKIR,XUCKIR,at 200 K,NC1=C(C#N)c2c(F)c(F)c(F)c(F)c2C1(F)F.C1COCCO1,P-1,False,200.0,mediumT,NC1=C(C#N)c2c(F)c(F)c(F)c(F)c2C1(F)F,C1COCCO1
+XOBCIB,XOBCIB,at 173 K,OC(=O)CCC(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P2/n,False,173.0,mediumT,OC(=O)CCC(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+GAQFAH,GAQFAH,at 173 K,O=C1C(=O)C(=C1NCc1cccnc1)NCc1cccnc1.OC(=O)c1ccccc1,C2/c,False,173.0,mediumT,O=C1C(=O)C(=C1NCc1cccnc1)NCc1cccnc1,OC(=O)c1ccccc1
+SEMLOO,SEMLOO,150 K,O=N(=O)C1=N[N-]C(=C1N(=O)=O)N(=O)=O.[NH3+]CCBr,P21/c,False,150.0,mediumT,O=N(=O)C1=N[N-]C(=C1N(=O)=O)N(=O)=O,[NH3+]CCBr
+GIWTEN,GIWTEN,at 198 K,OC(C(O)C(=O)[O-])C(O)=O.Fc1ccc(cn1)C1CC2[NH2+]C1CCC2,P212121,False,198.0,mediumT,OC(C(O)C(=O)[O-])C(O)=O,Fc1ccc(cn1)C1CC2[NH2+]C1CCC2
+VUXVOB,VUXVOB,200 K,[NH2+]1CCOCC1.O=C([O-])C=Cc1ccccc1,P-1,False,200.0,mediumT,[NH2+]1CCOCC1,O=C([O-])C=Cc1ccccc1
+UKOLUE,UKOLUE,133 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)c1cccc(C(O)=O)c1C(O)=O,P21/c,False,133.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)c1cccc(C(O)=O)c1C(O)=O
+FADHAV,FADHAV,at 173 K,NNC(=O)c1ccncc1.OC(=O)CCCCCC(O)=O,P-1,False,173.0,mediumT,NNC(=O)c1ccncc1,OC(=O)CCCCCC(O)=O
+EBUDAI,EBUDAI,at 173 K,C(Cc1ccncc1)c1ccncc1.COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,P-1,False,173.0,mediumT,C(Cc1ccncc1)c1ccncc1,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC
+XUYBOK,XUYBOK,150 K,Cc1nc(C)c(C)nc1C.Cc1cc(O)cc(O)c1,C2/c,False,150.0,mediumT,Cc1nc(C)c(C)nc1C,Cc1cc(O)cc(O)c1
+QEHYAE,QEHYAE,at 173 K,CC1=C(C=C(S1)C(O)=O)C1=C(C2=C(C)SC(=C2)C(O)=O)C(F)(F)C(F)(F)C1(F)F.c1ccc(nc1)c1ccccn1,P-1,False,173.0,mediumT,CC1=C(C=C(S1)C(O)=O)C1=C(C2=C(C)SC(=C2)C(O)=O)C(F)(F)C(F)(F)C1(F)F,c1ccc(nc1)c1ccccn1
+CEWZIR,CEWZIR,150 K,OCc1cc(O)cc(O)c1.C(Cc1ccncc1)c1ccncc1,P-1,False,150.0,mediumT,OCc1cc(O)cc(O)c1,C(Cc1ccncc1)c1ccncc1
+HIMGEP,HIMGEP,at 193 K,Oc1cc(O)cc(O)c1.Cc1ccnc(C)c1,P21/c,False,193.0,mediumT,Oc1cc(O)cc(O)c1,Cc1ccnc(C)c1
+XIBPOO,XIBPOO,at 150 K,Clc1ccc(NC2=NCCN2)cc1.NC=O,P21/c,False,150.0,mediumT,Clc1ccc(NC2=NCCN2)cc1,NC=O
+YENWAT01,YENWAT01,150 K,[NH3+]C(C)(C)CO.O=C([O-])c1ccc2ccccc2n1,P-1,False,150.0,mediumT,[NH3+]C(C)(C)CO,O=C([O-])c1ccc2ccccc2n1
+UBUJIM01,UBUJIM01,at 150 K,c1cc(ccn1)c1ccncc1.Cc1cc(O)cc(O)c1,Pbca,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,Cc1cc(O)cc(O)c1
+HEQWOR,HEQWOR,at 150 K,OC(=O)[O-].NC(=[NH2+])NC(N)=O,P-1,False,150.0,mediumT,OC(=O)[O-],NC(=[NH2+])NC(N)=O
+EWOTUG,EWOTUG,at 173 K,OC(=O)CCCCCCCCC(=O)[O-].COc1ccc2[NH+]=C(N)Sc2c1,Fdd2,False,173.0,mediumT,OC(=O)CCCCCCCCC(=O)[O-],COc1ccc2[NH+]=C(N)Sc2c1
+XAPWIU,XAPWIU,at 150 K,c1cc(ccn1)c1ccncc1.OC(=O)COc1ccc(Cl)cc1Cl,P21/n,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)COc1ccc(Cl)cc1Cl
+QOMTER,QOMTER,at 180 K,FC(F)(F)S(=O)(=O)[O-].C[Si]1(C)C[N+](C[Si](C)(C)O1)=C(O)CCl,P-1,False,180.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[Si]1(C)C[N+](C[Si](C)(C)O1)=C(O)CCl
+NUKXEX01,NUKXEX01,at 180 K,CC(=O)N1CCN(CC1)C(C)=O.OC(=O)c1ccccc1O,P-1,False,180.0,mediumT,CC(=O)N1CCN(CC1)C(C)=O,OC(=O)c1ccccc1O
+GESBAJ,GESBAJ,at 150 K,OC(=O)CCC(O)=O.NC(=O)c1ccc(O)cc1,P21/c,False,150.0,mediumT,OC(=O)CCC(O)=O,NC(=O)c1ccc(O)cc1
+ZOYCEX,ZOYCEX,at 173 K,COc1cc(ccc1O)C(O)=O.NC(=O)c1cccnc1,P-1,False,173.0,mediumT,COc1cc(ccc1O)C(O)=O,NC(=O)c1cccnc1
+NUKWOG,NUKWOG,at 180 K,Nc1ncccn1.OC(=O)c1ccccc1,P21/n,False,180.0,mediumT,Nc1ncccn1,OC(=O)c1ccccc1
+PEFJEQ,PEFJEQ,at 193 K,O=C[O-].[NH2+]1C2COCC1COC2,P21/m,False,193.0,mediumT,O=C[O-],[NH2+]1C2COCC1COC2
+UJOGUW01,UJOGUW01,at 200 K,NC(=O)C1CC[NH2+]CC1.OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O,P-1,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O
+ETEYOR,ETEYOR,at 150 K,OC(=O)C=CC(=O)[O-].[NH3+]C(C(C)O)C(O)=O,P-1,False,150.0,mediumT,OC(=O)C=CC(=O)[O-],[NH3+]C(C(C)O)C(O)=O
+CIHDIJ,CIHDIJ,173 K,OC(=O)c1c[nH+]ccc1.CC1=CC(=O)[N-]S(=O)(=O)O1,P21/n,False,173.0,mediumT,OC(=O)c1c[nH+]ccc1,CC1=CC(=O)[N-]S(=O)(=O)O1
+UNEZAO01,UNEZAO01,at 200 K,O=C1NS(=O)(=O)c2ccccc12.NC(=O)N1c2ccccc2C=Cc2ccccc12,C2/c,False,200.0,mediumT,O=C1NS(=O)(=O)c2ccccc12,NC(=O)N1c2ccccc2C=Cc2ccccc12
+DEBJIE,DEBJIE,at 223 K,Oc1ccc(cc1)C(c1ccccc1O)c1ccccc1O.C(Cc1ccncc1)c1ccncc1,P-1,False,223.0,mediumT,Oc1ccc(cc1)C(c1ccccc1O)c1ccccc1O,C(Cc1ccncc1)c1ccncc1
+LEXPOW,LEXPOW,223 K,OC(=O)c1cccc2ccccc12.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,223.0,mediumT,OC(=O)c1cccc2ccccc12,NC(=O)N1c2ccccc2C=Cc2ccccc12
+WEYFEN,WEYFEN,at 150 K,OC(=O)C=CC(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/c,False,150.0,mediumT,OC(=O)C=CC(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+CIVWIQ,CIVWIQ,193 K,FC(F)(F)S(=O)(=O)[O-].O[N+]1=C(OC2C=CCCC12)c1ccccc1,P21/n,False,193.0,mediumT,FC(F)(F)S(=O)(=O)[O-],O[N+]1=C(OC2C=CCCC12)c1ccccc1
+COKXUY,COKXUY,163 K,[NH3+]NC(N)=O.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/n,False,163.0,mediumT,[NH3+]NC(N)=O,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+HAXHIB,HAXHIB,150 K,OC(=O)C=CC(=O)[O-].Nc1[nH+]cccc1C(O)=O,P21/n,False,150.0,mediumT,OC(=O)C=CC(=O)[O-],Nc1[nH+]cccc1C(O)=O
+MUPQET,MUPQET,at 150 K,CC(=O)Nc1ccc(O)cc1.C1COCCN1,P212121,False,150.0,mediumT,CC(=O)Nc1ccc(O)cc1,C1COCCN1
+PEVDAY,PEVDAY,200 K,[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-].CS(=O)(=O)[O-],P21,False,200.0,mediumT,[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-],CS(=O)(=O)[O-]
+BAVYAY,BAVYAY,at 173 K,C1COCCO1.NC(=O)C1(C#N)C(C#N)(C#N)C1(C#N)C#N,P21/c,False,173.0,mediumT,C1COCCO1,NC(=O)C1(C#N)C(C#N)(C#N)C1(C#N)C#N
+QOYKUK,QOYKUK,at 173 K,Cc1cccnc1.Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,P21/c,False,173.0,mediumT,Cc1cccnc1,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12
+QAKBOU,QAKBOU,at 150 K,[NH3+]C(C)c1ccc(Cl)cc1.CCOP([O-])(=S)c1ccccc1,P41212,False,150.0,mediumT,[NH3+]C(C)c1ccc(Cl)cc1,CCOP([O-])(=S)c1ccccc1
+NUPTEZ,NUPTEZ,150 K,Cc1c(O)cccc1O.Cc1nc(C)c(C)nc1C,Pbc21,False,150.0,mediumT,Cc1c(O)cccc1O,Cc1nc(C)c(C)nc1C
+TOQNAR,TOQNAR,150 K,NC(=S)NN=Cc1cc[nH+]cc1.OC(=O)c1ccccc1C(=O)[O-],P-1,False,150.0,mediumT,NC(=S)NN=Cc1cc[nH+]cc1,OC(=O)c1ccccc1C(=O)[O-]
+WICZUF,WICZUF,203 K,Cc1ccccc1C(O)=O.Cc1ccnc(N)n1,P21/n,False,203.0,mediumT,Cc1ccccc1C(O)=O,Cc1ccnc(N)n1
+UNEFUO,UNEFUO,at 203 K,C1CN2CCN1CC2.OC(=O)CCCCCC(O)=O,P212121,False,203.0,mediumT,C1CN2CCN1CC2,OC(=O)CCCCCC(O)=O
+EZIBOG,EZIBOG,150 K,CC1(C)N(Br)C(=O)N(Br)C1=O.c1cnccn1,P-1,False,150.0,mediumT,CC1(C)N(Br)C(=O)N(Br)C1=O,c1cnccn1
+FIQNAV,FIQNAV,at 150 K,COc1ccc(cc1)C=C1SC(=O)NC1=O.CS(C)=O,P21/c,False,150.0,mediumT,COc1ccc(cc1)C=C1SC(=O)NC1=O,CS(C)=O
+PURHUH,PURHUH,173 K,Cc1nc(N)nc(N)n1.Oc1c(Cl)cccc1Cl,P-1,False,173.0,mediumT,Cc1nc(N)nc(N)n1,Oc1c(Cl)cccc1Cl
+YUBTEW,YUBTEW,150 K,OC(C(=O)[O-])c1ccccc1.[NH2+]=C1NC(=O)N(C=C1)C1CSC(CO)O1,C2,False,150.0,mediumT,OC(C(=O)[O-])c1ccccc1,[NH2+]=C1NC(=O)N(C=C1)C1CSC(CO)O1
+BANYOH,BANYOH,180 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.c1ccc(cc1)[S+](c1ccccc1)c1ccccc1,P21/n,False,180.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,c1ccc(cc1)[S+](c1ccccc1)c1ccccc1
+TALBAL,TALBAL,at 198 K,Nc1[nH+]c2c(O)cccc2cc1.OC(C(=O)[O-])c1ccccc1,P21/c,False,198.0,mediumT,Nc1[nH+]c2c(O)cccc2cc1,OC(C(=O)[O-])c1ccccc1
+EWAPUO,EWAPUO,at 150 K,c1ccc2nc3ccccc3cc2c1.Cc1cc(O)cc(O)c1,Pna21,False,150.0,mediumT,c1ccc2nc3ccccc3cc2c1,Cc1cc(O)cc(O)c1
+AXOPEJ,AXOPEJ,at 190 K,CC(=CC=C(C)C(O)=O)C(O)=O.c1cc2cccc(c3ccncc3)c2c(c1)c1ccncc1,P21/n,False,190.0,mediumT,CC(=CC=C(C)C(O)=O)C(O)=O,c1cc2cccc(c3ccncc3)c2c(c1)c1ccncc1
+HUJQEL,HUJQEL,200 K,CC(C)c1ccc(C)c(O)c1.c1ccc2nc3ccccc3cc2c1,P21/c,False,200.0,mediumT,CC(C)c1ccc(C)c(O)c1,c1ccc2nc3ccccc3cc2c1
+UVOKUM,UVOKUM,at 200 K,NC(=O)C1CC[NH2+]CC1.OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],P21/n,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-]
+LESRIM,LESRIM,at 200 K,[NH3+]c1ccc(F)c(Cl)c1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,200.0,mediumT,[NH3+]c1ccc(F)c(Cl)c1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+VACBEJ,VACBEJ,150 K,c1cc(ccn1)c1ccncc1.COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1,P2/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1
+MOXVEB,MOXVEB,at 173 K,OC(=O)CCCCC(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,173.0,mediumT,OC(=O)CCCCC(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+ICUTAD,ICUTAD,at 153 K,CCP(CC)(CC)=[N+]1N=C(C)C=C1C.FC(F)(F)S(=O)(=O)[O-],P-1,False,153.0,mediumT,CCP(CC)(CC)=[N+]1N=C(C)C=C1C,FC(F)(F)S(=O)(=O)[O-]
+LAKXUS,LAKXUS,at 193 K,OC(=O)c1c(O)ccc2ccccc12.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/n,False,193.0,mediumT,OC(=O)c1c(O)ccc2ccccc12,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+ASODOD,ASODOD,160 K,Clc1ccc(cc1)C1=NS[S+]=N1.FS(=O)(=O)[O-],P21/c,False,160.0,mediumT,Clc1ccc(cc1)C1=NS[S+]=N1,FS(=O)(=O)[O-]
+BUPQAF,BUPQAF,at 180 K,OCC[NH+]=Cc1cc(ccc1[O-])S(=O)(=O)[O-].[NH3+]CCO,P-1,False,180.0,mediumT,OCC[NH+]=Cc1cc(ccc1[O-])S(=O)(=O)[O-],[NH3+]CCO
+ZOHTOH,ZOHTOH,at 150 K,Nc1cc(Cl)ccc1Cl.Oc1cc(Cl)c(Cl)c(Cl)c1,P21,False,150.0,mediumT,Nc1cc(Cl)ccc1Cl,Oc1cc(Cl)c(Cl)c(Cl)c1
+YOQSIH,YOQSIH,at 173 K,FC(F)(F)C(=O)[O-].CC1=[NH+]C=CN1c1ccc(c(C)c1)C1=NC(=CS1)C,P21/n,False,173.0,mediumT,FC(F)(F)C(=O)[O-],CC1=[NH+]C=CN1c1ccc(c(C)c1)C1=NC(=CS1)C
+SETROA,SETROA,at 173 K,OC(=O)CCCCCCCCC(O)=O.NNC(=O)c1ccncc1,P-1,False,173.0,mediumT,OC(=O)CCCCCCCCC(O)=O,NNC(=O)c1ccncc1
+OLEZAH,OLEZAH,at 180 K,CC(C)O.COc1cc2c(CN(CCc3cc(O)c(O)cc23)C=O)cc1O,C2/c,False,180.0,mediumT,CC(C)O,COc1cc2c(CN(CCc3cc(O)c(O)cc23)C=O)cc1O
+OFUHUS,OFUHUS,at 180 K,Nc1ncccn1.OC(=O)c1ccc(C(O)=O)c2ccccc12,P21/n,False,180.0,mediumT,Nc1ncccn1,OC(=O)c1ccc(C(O)=O)c2ccccc12
+FAWBUE,FAWBUE,173 K,O=N(=O)C1=NN=C([N-]1)N(=O)=O.NC1=NC(=[NH2+])NC(=O)N1,P-1,False,173.0,mediumT,O=N(=O)C1=NN=C([N-]1)N(=O)=O,NC1=NC(=[NH2+])NC(=O)N1
+HIQSAD,HIQSAD,at 150 K,NC(=O)c1ccc(Br)cc1.OC(=O)CCCCCC(O)=O,C2/c,False,150.0,mediumT,NC(=O)c1ccc(Br)cc1,OC(=O)CCCCCC(O)=O
+WELCUP,WELCUP,130 K,CCCCCCCCO.NCC=C,P21/c,False,130.0,mediumT,CCCCCCCCO,NCC=C
+AJEZAR,AJEZAR,at 130 K,Nc1cccc2c(N)cccc12.c1ccc2nc3ccccc3nc2c1,P21/n,False,130.0,mediumT,Nc1cccc2c(N)cccc12,c1ccc2nc3ccccc3nc2c1
+RETZEW,RETZEW,at 180 K,OC(=O)CCC(O)=O.Cc1cccnc1C,P21/n,False,180.0,mediumT,OC(=O)CCC(O)=O,Cc1cccnc1C
+JOLJID,JOLJID,at 193 K,CN(C)P(=O)(N(C)C)N(C)C.NC1=Nc2ccccc2S1,P21/c,False,193.0,mediumT,CN(C)P(=O)(N(C)C)N(C)C,NC1=Nc2ccccc2S1
+NOSRIZ,NOSRIZ,130.0 K,FC(F)(F)C(=O)[O-].O=C(OC1C[NH2+]CCC1)c1ccc(cc1N(=O)=O)N(=O)=O,P212121,False,130.0,mediumT,FC(F)(F)C(=O)[O-],O=C(OC1C[NH2+]CCC1)c1ccc(cc1N(=O)=O)N(=O)=O
+RESHIH,RESHIH,at 180 K,OC(=O)CCC(O)=O.Cc1cncc(C)c1,P21/c,False,180.0,mediumT,OC(=O)CCC(O)=O,Cc1cncc(C)c1
+UZUYIZ01,UZUYIZ01,173 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.Cc1ccccn1,P21/n,False,173.0,mediumT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,Cc1ccccn1
+QEHCUD,QEHCUD,at 173 K,[NH3+]NC(N)=NN(=O)=O.O=N(=O)N=C1NN=N[N-]1,P21/c,False,173.0,mediumT,[NH3+]NC(N)=NN(=O)=O,O=N(=O)N=C1NN=N[N-]1
+UZUZEW,UZUZEW,173 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.Cc1ccncc1,P-1,False,173.0,mediumT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,Cc1ccncc1
+PAKPEY,PAKPEY,at 130 K,C[n+]1cccc(c1)C(=O)[O-].OC1=C(O)C(=O)C1=O,P-1,False,130.0,mediumT,C[n+]1cccc(c1)C(=O)[O-],OC1=C(O)C(=O)C1=O
+HIQMOL,HIQMOL,at 150 K,NC(=O)c1ccc(Br)cc1.OC(=O)CC(O)=O,P21/c,False,150.0,mediumT,NC(=O)c1ccc(Br)cc1,OC(=O)CC(O)=O
+GESKUM,GESKUM,at 150 K,OB(O)c1ccc(Br)cc1.c1cnc2c(c1)ccc1cccnc21,Pca21,False,150.0,mediumT,OB(O)c1ccc(Br)cc1,c1cnc2c(c1)ccc1cccnc21
+RESFOL,RESFOL,at 180 K,OC(=O)C=CC(O)=O.Cc1cccnc1C,P21/n,False,180.0,mediumT,OC(=O)C=CC(O)=O,Cc1cccnc1C
+CEWZEN,CEWZEN,150 K,c1cc(ccn1)c1ccncc1.OCc1cc(O)cc(O)c1,P-1,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OCc1cc(O)cc(O)c1
+IWASEE,IWASEE,at 203 K,Cc1cccc2cccnc12.Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,C2/c,False,203.0,mediumT,Cc1cccc2cccnc12,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12
+QERLUV,QERLUV,at 130 K,OC(=O)c1nccnc1C(=O)[O-].Oc1cccc2ccc[nH+]c12,P-1,False,130.0,mediumT,OC(=O)c1nccnc1C(=O)[O-],Oc1cccc2ccc[nH+]c12
+VUXNIN,VUXNIN,200 K,Clc1cc(Cl)cc(OCC(=O)[O-])c1.[NH2+]1CCOCC1,P-1,False,200.0,mediumT,Clc1cc(Cl)cc(OCC(=O)[O-])c1,[NH2+]1CCOCC1
+SICQEE,SICQEE,150 K,OC(CC(=O)[O-])Cc1ccc(Cl)cc1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P21,False,150.0,mediumT,OC(CC(=O)[O-])Cc1ccc(Cl)cc1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+VEZPIC,VEZPIC,150 K,CCc1[nH+]c(C)ccc1O.OC(=O)CCCCC(=O)[O-],P-1,False,150.0,mediumT,CCc1[nH+]c(C)ccc1O,OC(=O)CCCCC(=O)[O-]
+EXUCUX,EXUCUX,210 K,O=C([O-])CSC1=CNc2ccccc12.OCC[NH+](CCO)CCO,Pbca,False,210.0,mediumT,O=C([O-])CSC1=CNc2ccccc12,OCC[NH+](CCO)CCO
+QURSUR,QURSUR,at 150 K,OC(=O)C=CC(=O)[O-].[NH3+]C(C(C)C)C(O)=O,P-1,False,150.0,mediumT,OC(=O)C=CC(=O)[O-],[NH3+]C(C(C)C)C(O)=O
+PIXZIJ,PIXZIJ,223 K,OC1=[NH+]CCC1.Cc1ccc(cc1)S(=O)(=O)[O-],P21/c,False,223.0,mediumT,OC1=[NH+]CCC1,Cc1ccc(cc1)S(=O)(=O)[O-]
+KIZYID,KIZYID,at 173 K,Nc1ccc(cc1)C(O)=O.CC(=O)Nc1cccc(C)n1,P21/c,False,173.0,mediumT,Nc1ccc(cc1)C(O)=O,CC(=O)Nc1cccc(C)n1
+FULLIJ,FULLIJ,at 150 K,NC(=[NH2+])C(N(=O)=O)N(=O)=O.FC(F)(F)S(=O)(=O)[O-],P21/c,False,150.0,mediumT,NC(=[NH2+])C(N(=O)=O)N(=O)=O,FC(F)(F)S(=O)(=O)[O-]
+XIRLUJ,XIRLUJ,130 K,CN(C)C=C1SC(=O)N=C1Nc1cccc(O)c1.CN(C)C=O,P21/c,False,130.0,mediumT,CN(C)C=C1SC(=O)N=C1Nc1cccc(O)c1,CN(C)C=O
+SULSUO,SULSUO,at 213 K,O[n+]1cccc(c1)N1C(=O)C2=C(CCCC2)S1(=O)=O.FC(F)(F)S(=O)(=O)[O-],P-1,False,213.0,mediumT,O[n+]1cccc(c1)N1C(=O)C2=C(CCCC2)S1(=O)=O,FC(F)(F)S(=O)(=O)[O-]
+LUTNUM,LUTNUM,173 K,CCCc1[nH+]ccc(c1)C(N)=S.Oc1cccc(O)c1C(=O)[O-],P21/c,False,173.0,mediumT,CCCc1[nH+]ccc(c1)C(N)=S,Oc1cccc(O)c1C(=O)[O-]
+DEKXUO,DEKXUO,at 200 K,OC(=O)c1nccnc1C(=O)[O-].NC(=O)C1CC[NH2+]CC1,P21/n,False,200.0,mediumT,OC(=O)c1nccnc1C(=O)[O-],NC(=O)C1CC[NH2+]CC1
+BOVWEQ,BOVWEQ,at 150 K,OC(=O)c1ccc(F)cc1F.C(Cc1ccncc1)c1ccncc1,P-1,False,150.0,mediumT,OC(=O)c1ccc(F)cc1F,C(Cc1ccncc1)c1ccncc1
+LATKEY,LATKEY,at 173 K,OC(=O)CCC(O)=O.CC(C)=NNC(=O)c1ccncc1,P21/c,False,173.0,mediumT,OC(=O)CCC(O)=O,CC(C)=NNC(=O)c1ccncc1
+DINPIC01,DINPIC01,223 K,CC[P+](C)(C)C.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/n,False,223.0,mediumT,CC[P+](C)(C)C,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+ZOYBEW,ZOYBEW,173 K,COc1cc(ccc1O)C(O)=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P-1,False,173.0,mediumT,COc1cc(ccc1O)C(O)=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+CIHFEH,CIHFEH,173 K,NC1=[NH+]C(=O)NC=C1.CC1=CC(=O)[N-]S(=O)(=O)O1,P-1,False,173.0,mediumT,NC1=[NH+]C(=O)NC=C1,CC1=CC(=O)[N-]S(=O)(=O)O1
+PEQPIL,PEQPIL,at 153 K,OC(=O)c1ccc(O)cc1.Cc1cc(nc(N)n1)c1cccnc1,P-1,False,153.0,mediumT,OC(=O)c1ccc(O)cc1,Cc1cc(nc(N)n1)c1cccnc1
+GATZOS,GATZOS,at 210 K,Oc1cc(O)cc(F)c1.COC(=O)C=Cc1ccncc1,Pbca,False,210.0,mediumT,Oc1cc(O)cc(F)c1,COC(=O)C=Cc1ccncc1
+HICZIF01,HICZIF01,173 K,NC(=O)c1ccncc1.OC(=O)CC(O)(CC(O)=O)C(O)=O,P21/c,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)CC(O)(CC(O)=O)C(O)=O
+HOWXAV,HOWXAV,190 K,OC(=O)c1ccc(cc1)C(O)=O.c1cc(ccn1)N=Nc1ccncc1,P-1,False,190.0,mediumT,OC(=O)c1ccc(cc1)C(O)=O,c1cc(ccn1)N=Nc1ccncc1
+ZOYCOH,ZOYCOH,173 K,NC(N)=O.COc1cc(ccc1O)C(O)=O,P-1,False,173.0,mediumT,NC(N)=O,COc1cc(ccc1O)C(O)=O
+XAFSOP,XAFSOP,200 K,[NH2+]1CCOCC1.Oc1ccccc1C(=O)[O-],P21,False,200.0,mediumT,[NH2+]1CCOCC1,Oc1ccccc1C(=O)[O-]
+PIRYAS,PIRYAS,at 150 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.NC(=O)CCC(N)=O,C2/c,False,150.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,NC(=O)CCC(N)=O
+JIQCER,JIQCER,at 220 K,Nc1ncccn1.CN1C=CC=C1C(O)=O,P212121,False,220.0,mediumT,Nc1ncccn1,CN1C=CC=C1C(O)=O
+XAZQIA,XAZQIA,at 153 K,[NH3+]c1ccc(Cl)cc1.OC(=O)CC(=O)[O-],P21/c,False,153.0,mediumT,[NH3+]c1ccc(Cl)cc1,OC(=O)CC(=O)[O-]
+HOXHAE,HOXHAE,at 150 K,c1cc(ccn1)c1ccncc1.O=C1CC(=O)NC(=O)N1,P21/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,O=C1CC(=O)NC(=O)N1
+RILQUA,RILQUA,at 200 K,Oc1ccc(cc1C(=O)[O-])N(=O)=O.Cc1[nH+]c(NS(=O)(=O)c2ccc(N)cc2)nc(C)c1,P21/n,False,200.0,mediumT,Oc1ccc(cc1C(=O)[O-])N(=O)=O,Cc1[nH+]c(NS(=O)(=O)c2ccc(N)cc2)nc(C)c1
+WOVZOZ,WOVZOZ,190 K,Oc1cc[nH+]c2ccccc12.Clc1ccc(C(=O)[O-])c(c1)N(=O)=O,Pbcn,False,190.0,mediumT,Oc1cc[nH+]c2ccccc12,Clc1ccc(C(=O)[O-])c(c1)N(=O)=O
+MISNOR,MISNOR,at 198 K,NC(N)=O.CC(=O)CCCCCCCCCC(C)=O,P3212,False,198.0,mediumT,NC(N)=O,CC(=O)CCCCCCCCCC(C)=O
+VEVZIH,VEVZIH,150 K,Nc1nc(N)nc(n1)c1cccnc1.CCCCCCCCC(O)=O,P-1,False,150.0,mediumT,Nc1nc(N)nc(n1)c1cccnc1,CCCCCCCCC(O)=O
+HIQSEH,HIQSEH,at 150 K,NC(=O)c1ccc(Br)cc1.OC(=O)CCCCC(O)=O,P-1,False,150.0,mediumT,NC(=O)c1ccc(Br)cc1,OC(=O)CCCCC(O)=O
+ZAKSAI01,ZAKSAI01,150 K,OC(=O)C(O)=O.NC(=O)c1ccccc1O,P21/c,False,150.0,mediumT,OC(=O)C(O)=O,NC(=O)c1ccccc1O
+SADTIC,SADTIC,at 180 K,O=C1CCCN1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P-1,False,180.0,mediumT,O=C1CCCN1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+RIPYIB,RIPYIB,150 K,Nc1ccc(cc1)C(=O)[O-].CCc1[nH+]c(C)ccc1O,Pna21,False,150.0,mediumT,Nc1ccc(cc1)C(=O)[O-],CCc1[nH+]c(C)ccc1O
+WUKROJ,WUKROJ,at 180 K,OC(=O)c1ccc(C(O)=O)c2ccccc12.c1cnc2ccc3ncccc3c2c1,P21/c,False,180.0,mediumT,OC(=O)c1ccc(C(O)=O)c2ccccc12,c1cnc2ccc3ncccc3c2c1
+UFALIZ,UFALIZ,150 K,CN(C)C=O.OC(=O)C1=CC=C(O1)C(O)=O,Pbcn,False,150.0,mediumT,CN(C)C=O,OC(=O)C1=CC=C(O1)C(O)=O
+EBAWEK,EBAWEK,at 173 K,OC1=C(Br)C(=O)C(=C(Br)C1=O)O.c1cnc(nc1)c1ncccn1,C2/c,False,173.0,mediumT,OC1=C(Br)C(=O)C(=C(Br)C1=O)O,c1cnc(nc1)c1ncccn1
+VUXNAF,VUXNAF,200 K,[NH2+]1CCOCC1.O=C([O-])COc1ccccc1,P-1,False,200.0,mediumT,[NH2+]1CCOCC1,O=C([O-])COc1ccccc1
+GESBUD,GESBUD,at 150 K,NC(=O)c1ccc(O)cc1.OC(=O)CCCCC(O)=O,P-1,False,150.0,mediumT,NC(=O)c1ccc(O)cc1,OC(=O)CCCCC(O)=O
+LATLAU,LATLAU,at 203 K,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1.OC(=O)C=CC(O)=O,P21/n,False,203.0,mediumT,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1,OC(=O)C=CC(O)=O
+QETNAF,QETNAF,at 190 K,c1cc(ccn1)C=Cc1ccncc1.Nc1cccc(O)c1,P21/n,False,190.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Nc1cccc(O)c1
+WOHXEZ01,WOHXEZ01,150 K,NC(N)=O.OC(=O)CSC1=NN=C(Br)N1c1ccc(C2CC2)c2ccccc12,P21/c,False,150.0,mediumT,NC(N)=O,OC(=O)CSC1=NN=C(Br)N1c1ccc(C2CC2)c2ccccc12
+FULTIQ,FULTIQ,at 198 K,OC(C(=O)[O-])c1ccccc1.[NH3+]C(C)(C)COC(=O)c1ccccc1,P212121,False,198.0,mediumT,OC(C(=O)[O-])c1ccccc1,[NH3+]C(C)(C)COC(=O)c1ccccc1
+QACVAT,QACVAT,at 150 K,CCN(CC)C1(O)CCC1.CCNCC,P-1,False,150.0,mediumT,CCN(CC)C1(O)CCC1,CCNCC
+NICVAX,NICVAX,at 130 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1ccccc1C[Si](C)(C)C(C)(C)C,P-1,False,130.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[n+]1ccccc1C[Si](C)(C)C(C)(C)C
+CURBEX,CURBEX,at 150 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1(C)C2c3ccccc3C3C(P13)c1ccccc21,P21/c,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[N+]1(C)C2c3ccccc3C3C(P13)c1ccccc21
+UJOHUX,UJOHUX,at 200 K,NC(=O)C1CC[NH2+]CC1.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P-1,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+LOBNUO,LOBNUO,200 K,OC1CC2[NH+]3CC(O)C2(C=C1)c1cc2OCOc2cc1C3.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P212121,False,200.0,mediumT,OC1CC2[NH+]3CC(O)C2(C=C1)c1cc2OCOc2cc1C3,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+LUNNEN,LUNNEN,at 203 K,NC(=O)c1ccncc1.CCOC(=O)C=CC(O)=O,P21/n,False,203.0,mediumT,NC(=O)c1ccncc1,CCOC(=O)C=CC(O)=O
+SARPAG,SARPAG,180 K,Cc1ccc(cc1)S(=O)(=O)[O-].[NH3+]C(C(O)=O)c1ccc(O)cc1,P212121,False,180.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],[NH3+]C(C(O)=O)c1ccc(O)cc1
+XIFQEJ,XIFQEJ,at 130.0 K,OC(O)C(O)=O.c1ccc2nccnc2c1,P-1,False,130.0,mediumT,OC(O)C(O)=O,c1ccc2nccnc2c1
+LUJSIT,LUJSIT,at 180 K,CC(=O)Nc1ccc(O)cc1.c1ccc2ccccc2c1,P21/c,False,180.0,mediumT,CC(=O)Nc1ccc(O)cc1,c1ccc2ccccc2c1
+VURKUP,VURKUP,at 173 K,CCCCN1C=[N+](C)C(=C1Br)Br.FC(F)(F)S(=O)(=O)[O-],P21/c,False,173.0,mediumT,CCCCN1C=[N+](C)C(=C1Br)Br,FC(F)(F)S(=O)(=O)[O-]
+GONLIG,GONLIG,at 240 K,[NH2+]=C1NC(=O)NC=C1F.CC1=CC(=O)[N-]S(=O)(=O)O1,C2/c,False,240.0,mediumT,[NH2+]=C1NC(=O)NC=C1F,CC1=CC(=O)[N-]S(=O)(=O)O1
+NORKOX,NORKOX,130 K,OC12CC[NH+](CC1)CC2.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P212121,False,130.0,mediumT,OC12CC[NH+](CC1)CC2,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+TOQNOF,TOQNOF,150 K,NC(=S)NN=Cc1cc[nH+]cc1.OC(=O)c1cccc(n1)C(=O)[O-],P21/n,False,150.0,mediumT,NC(=S)NN=Cc1cc[nH+]cc1,OC(=O)c1cccc(n1)C(=O)[O-]
+UQOCOT,UQOCOT,at 213 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.C[N+](C)(C)CCO,Pna21,False,213.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,C[N+](C)(C)CCO
+HOQSEO,HOQSEO,150 K,CN1CC(=O)N(C)CC1=O.OO,P21/n,False,150.0,mediumT,CN1CC(=O)N(C)CC1=O,OO
+SAMLAU,SAMLAU,at 125 K,[NH2+]1CCOCC1.CC(C)OCC(OC(C)C(=O)[O-])c1ccccc1,C2,False,125.0,mediumT,[NH2+]1CCOCC1,CC(C)OCC(OC(C)C(=O)[O-])c1ccccc1
+CERVIG,CERVIG,at 200 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].O=N(=O)c1ccc(Cc2cc[nH+]cc2)cc1,P21/c,False,200.0,mediumT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],O=N(=O)c1ccc(Cc2cc[nH+]cc2)cc1
+VAGHIY,VAGHIY,173 K,CC1(C)OC(=O)C2(C(=O)O1)C(C#N)(C#N)C2(C#N)C#N.C1COCCO1,P-1,False,173.0,mediumT,CC1(C)OC(=O)C2(C(=O)O1)C(C#N)(C#N)C2(C#N)C#N,C1COCCO1
+ULEFEW,ULEFEW,at 193 K,FC(F)(F)S(=O)(=O)[O-].O=C1CCN2C(c3ccccc3)C(=CN12)c1[nH+]cccc1,P21212,False,193.0,mediumT,FC(F)(F)S(=O)(=O)[O-],O=C1CCN2C(c3ccccc3)C(=CN12)c1[nH+]cccc1
+MOGZOX,MOGZOX,at 173 K,CS(=O)(=O)[N-]S(C)(=O)=O.Oc1cccc2ccc[nH+]c12,P21/c,False,173.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,Oc1cccc2ccc[nH+]c12
+BOVWOA,BOVWOA,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccc(F)c(F)c1F,P21/n,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccc(F)c(F)c1F
+NUJWAR,NUJWAR,at 173 K,COc1cncc(Br)c1.ON=C(C#N)c1ccc(Br)cc1,P-1,False,173.0,mediumT,COc1cncc(Br)c1,ON=C(C#N)c1ccc(Br)cc1
+MOGWEM,MOGWEM,at 173 K,Cc1ccncc1.OC(=O)CCCCC(O)=O,P1,False,173.0,mediumT,Cc1ccncc1,OC(=O)CCCCC(O)=O
+BERMOA,BERMOA,at 143 K,CC(C)=NNC(N)=S.C1COCCOCCOCCO1,P-1,False,143.0,mediumT,CC(C)=NNC(N)=S,C1COCCOCCOCCO1
+AJADEX,AJADEX,130 K,FC(F)(F)C(=O)[O-].COC(=O)C1(C[NH2+]C(COC(F)(F)F)C1)C(=O)OC,Pna21,False,130.0,mediumT,FC(F)(F)C(=O)[O-],COC(=O)C1(C[NH2+]C(COC(F)(F)F)C1)C(=O)OC
+NIXRUJ,NIXRUJ,170 K,O=C1NC(=O)C(=C1c1ccccc1)c1ccccc1.CN1CCCC1=O,P21/n,False,170.0,mediumT,O=C1NC(=O)C(=C1c1ccccc1)c1ccccc1,CN1CCCC1=O
+EMUREJ,EMUREJ,at 140 K,C[N+]1(CCOCC1)CC(O)=O.Oc1ccccc1C(=O)[O-],Pbca,False,140.0,mediumT,C[N+]1(CCOCC1)CC(O)=O,Oc1ccccc1C(=O)[O-]
+NOQWIC,NOQWIC,130 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1ccccc1CC[Si](C)(C)C,P-1,False,130.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[n+]1ccccc1CC[Si](C)(C)C
+DERXEH,DERXEH,193 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.OC(=O)CC[n+]1ccccc1,P21/c,False,193.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,OC(=O)CC[n+]1ccccc1
+AMILUD,AMILUD,at 150 K,c1cnc2c(c1)ccc1cccnc21.NC(N)=O,C2/c,False,150.0,mediumT,c1cnc2c(c1)ccc1cccnc21,NC(N)=O
+EWANOG,EWANOG,at 150 K,Cc1cc(O)cc(O)c1.Cc1cc(C)nc(N)n1,P-1,False,150.0,mediumT,Cc1cc(O)cc(O)c1,Cc1cc(C)nc(N)n1
+JIYGUW,JIYGUW,207 K,ClCC[NH+]1CCCC1.OC1=C([O-])C(=O)C1=O,P-1,False,207.0,mediumT,ClCC[NH+]1CCCC1,OC1=C([O-])C(=O)C1=O
+RIPYAT,RIPYAT,150 K,O=C1CC(=O)NC(=O)N1.Nc1ccc(cc1)C(O)=O,P21/n,False,150.0,mediumT,O=C1CC(=O)NC(=O)N1,Nc1ccc(cc1)C(O)=O
+PAHHEO,PAHHEO,150.0 K,OC(=O)c1ccccc1O.NC(=O)c1ccc(O)cc1,P21/c,False,150.0,mediumT,OC(=O)c1ccccc1O,NC(=O)c1ccc(O)cc1
+DIKCOQ,DIKCOQ,at 173 K,OC(=O)c1ccc2ccccc2c1O.CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)Nc1ccccn1,P-1,False,173.0,mediumT,OC(=O)c1ccc2ccccc2c1O,CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)Nc1ccccn1
+NIDPUN,NIDPUN,at 150 K,C1CN2CCN1CC2.CC(=O)Nc1ccc(O)cc1,P-1,False,150.0,mediumT,C1CN2CCN1CC2,CC(=O)Nc1ccc(O)cc1
+SARJOL,SARJOL,at 153 K,OC(=O)c1cccc(n1)C(=O)[O-].CCN(CC)C1=[NH+]C(=CC(=O)N1)C,P-1,False,153.0,mediumT,OC(=O)c1cccc(n1)C(=O)[O-],CCN(CC)C1=[NH+]C(=CC(=O)N1)C
+XIJBIE,XIJBIE,130 K,NS(=O)(=O)[O-].[NH3+]c1ccc(cc1)S(N)(=O)=O,P21,False,130.0,mediumT,NS(=O)(=O)[O-],[NH3+]c1ccc(cc1)S(N)(=O)=O
+UZUYIZ,UZUYIZ,173 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.Cc1ccccn1,P-1,False,173.0,mediumT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,Cc1ccccn1
+GUZDUB,GUZDUB,at 173 K,FC(F)(F)S(=O)(=O)[O-].CCN1C=CC=CB1[n+]1ccc(C)cc1,Pbca,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CCN1C=CC=CB1[n+]1ccc(C)cc1
+NOSMIR,NOSMIR,at 193 K,C1COCCO1.CC1(C)CC(=O)C2(C(=O)C1)C(C#N)(C#N)C2(C#N)C#N,P21/n,False,193.0,mediumT,C1COCCO1,CC1(C)CC(=O)C2(C(=O)C1)C(C#N)(C#N)C2(C#N)C#N
+QAKWAA,QAKWAA,at 173 K,FC([O-])=NS(F)(F)C(F)(F)F.CN(C)[S+](N(C)C)N(C)C,Pc,False,173.0,mediumT,FC([O-])=NS(F)(F)C(F)(F)F,CN(C)[S+](N(C)C)N(C)C
+COXGUS,COXGUS,at 150 K,OC(=O)c1cccc(c1C(=O)[O-])N(=O)=O.[NH3+]c1ccc(cc1)C(O)=O,P21/a,False,150.0,mediumT,OC(=O)c1cccc(c1C(=O)[O-])N(=O)=O,[NH3+]c1ccc(cc1)C(O)=O
+WADWAB,WADWAB,at 200 K,O=C([O-])Cc1ccccc1.NC(=O)C1CC[NH2+]CC1,P21/c,False,200.0,mediumT,O=C([O-])Cc1ccccc1,NC(=O)C1CC[NH2+]CC1
+HIQRUW,HIQRUW,at 150 K,NC(=O)c1ccc(Br)cc1.OC(=O)CCCCCCC(O)=O,P-1,False,150.0,mediumT,NC(=O)c1ccc(Br)cc1,OC(=O)CCCCCCC(O)=O
+GENLUH,GENLUH,at 180 K,Cc1ccc(cc1)C(N)=O.OC(=O)C(O)=O,P21/c,False,180.0,mediumT,Cc1ccc(cc1)C(N)=O,OC(=O)C(O)=O
+SOLFUW,SOLFUW,at 150 K,NC(=O)c1ccncc1.Nc1ccc(cc1)C(O)=O,P21/c,False,150.0,mediumT,NC(=O)c1ccncc1,Nc1ccc(cc1)C(O)=O
+FICNAI,FICNAI,at 150 K,CN(C)C=C1SC2=NC(=O)c3ccccc3N2C1=O.CS(C)=O,C2/c,False,150.0,mediumT,CN(C)C=C1SC2=NC(=O)c3ccccc3N2C1=O,CS(C)=O
+HUNJEH,HUNJEH,173 K,CN1C=NC2=C1C(=O)N(CCCCC(C)=O)C(=O)N2C.CC(=O)Oc1ccccc1C(O)=O,P-1,False,173.0,mediumT,CN1C=NC2=C1C(=O)N(CCCCC(C)=O)C(=O)N2C,CC(=O)Oc1ccccc1C(O)=O
+BOVWAM,BOVWAM,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccc(F)cc1F,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccc(F)cc1F
+MIYTOF,MIYTOF,at 150 K,O=S1(=O)N=C(NC2=CC(=NN12)c1ccccc1)N1CCCCC1.CS(C)=O,P-1,False,150.0,mediumT,O=S1(=O)N=C(NC2=CC(=NN12)c1ccccc1)N1CCCCC1,CS(C)=O
+WADNAT,WADNAT,213.1 K,[NH3+]Cc1ccc(Cl)cc1.BrCCCCCCCCCCCC(=O)[O-],P21,False,213.0,mediumT,[NH3+]Cc1ccc(Cl)cc1,BrCCCCCCCCCCCC(=O)[O-]
+EBUCEL,EBUCEL,at 173 K,c1ccc(nc1)c1ccccn1.COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,P-1,False,173.0,mediumT,c1ccc(nc1)c1ccccn1,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC
+MUYVOS,MUYVOS,at 199 K,ON=C1C(=O)NC(=O)NC1=O.NN1C=NN=C1,P-1,False,199.0,mediumT,ON=C1C(=O)NC(=O)NC1=O,NN1C=NN=C1
+IVEPAD,IVEPAD,173 K,OC(=O)C=Cc1ccc(O)cc1.c1ccncc1,Pbca,False,173.0,mediumT,OC(=O)C=Cc1ccc(O)cc1,c1ccncc1
+QAMRIG,QAMRIG,at 150 K,c1ccncc1.Oc1ccc(O)cc1,P21/c,False,150.0,mediumT,c1ccncc1,Oc1ccc(O)cc1
+GENMAO,GENMAO,at 180 K,Cc1ccc(cc1)C(N)=O.OC(=O)CCCCCCCCC(O)=O,C2/c,False,180.0,mediumT,Cc1ccc(cc1)C(N)=O,OC(=O)CCCCCCCCC(O)=O
+FOMDOC,FOMDOC,173 K,CC1=[N+]([O-])ON=C1C=NNC(N)=[NH2+].O=N(=O)C1=NN=N[N-]1,P21/c,False,173.0,mediumT,CC1=[N+]([O-])ON=C1C=NNC(N)=[NH2+],O=N(=O)C1=NN=N[N-]1
+LABQIR,LABQIR,133 K,Brc1ccc(cc1)S(=O)(=O)[N-]S(=O)(=O)c1ccc(Br)cc1.Brc1c[nH+]ccc1,P-1,False,133.0,mediumT,Brc1ccc(cc1)S(=O)(=O)[N-]S(=O)(=O)c1ccc(Br)cc1,Brc1c[nH+]ccc1
+TAPDIB,TAPDIB,173 K,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O.[NH3+]c1ccc(cc1)S(=O)(=O)N=C1NC=CS1,P212121,False,173.0,mediumT,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,[NH3+]c1ccc(cc1)S(=O)(=O)N=C1NC=CS1
+SEPVES,SEPVES,150 K,OC(=O)[O-].CC(C)NC(NCC1=CC=CO1)=[NH+]C(C)C,P21/n,False,150.0,mediumT,OC(=O)[O-],CC(C)NC(NCC1=CC=CO1)=[NH+]C(C)C
+BOWJEE,BOWJEE,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1c(F)cc(F)cc1F,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1c(F)cc(F)cc1F
+YEPBEB,YEPBEB,at 203 K,CC(C)NC(NC(C)C)=[NH+]c1c(F)c(F)c(F)c(F)c1F.OC(=O)C(=O)[O-],P21,False,203.0,mediumT,CC(C)NC(NC(C)C)=[NH+]c1c(F)c(F)c(F)c(F)c1F,OC(=O)C(=O)[O-]
+TOQNIZ,TOQNIZ,150 K,NC(=S)NN=Cc1cc[nH+]cc1.OC(=O)c1ccncc1C(=O)[O-],Pna21,False,150.0,mediumT,NC(=S)NN=Cc1cc[nH+]cc1,OC(=O)c1ccncc1C(=O)[O-]
+COLHOD,COLHOD,150 K,Nc1ncccn1.OB(O)O,C2/c,False,150.0,mediumT,Nc1ncccn1,OB(O)O
+TICZUC,TICZUC,at 173 K,c1ccc(cc1)c1ccncc1.Nc1ccc(cc1)C(O)=O,P-1,False,173.0,mediumT,c1ccc(cc1)c1ccncc1,Nc1ccc(cc1)C(O)=O
+QEJKUP,QEJKUP,150 K,FC(F)(F)C(=O)[O-].Fc1ccccc1N1CC[NH2+]CC1,P-1,False,150.0,mediumT,FC(F)(F)C(=O)[O-],Fc1ccccc1N1CC[NH2+]CC1
+KUCQEG,KUCQEG,at 150 K,Nc1ccc(F)cc1.Cc1cccc(O)c1,P21/c,False,150.0,mediumT,Nc1ccc(F)cc1,Cc1cccc(O)c1
+AYEPUR,AYEPUR,173 K,C1CN2CN3CN1CN(C2)C3.Oc1ccc(Cl)cc1,P21/c,False,173.0,mediumT,C1CN2CN3CN1CN(C2)C3,Oc1ccc(Cl)cc1
+FUSCIH,FUSCIH,173 K,Brc1c2ccccc2cc2ccccc12.C=CCN1C(=O)C2=C(SC3=C(S2)C(=O)N(CC=C)C3=O)C1=O,P21/n,False,173.0,mediumT,Brc1c2ccccc2cc2ccccc12,C=CCN1C(=O)C2=C(SC3=C(S2)C(=O)N(CC=C)C3=O)C1=O
+LUSWEB,LUSWEB,at 150 K,c1cc2cncc3ccc4cncc1c4c23.OC(=O)c1ccc(C(O)=O)c(c1)c1cc(ccc1C(O)=O)C(O)=O,C2/c,False,150.0,mediumT,c1cc2cncc3ccc4cncc1c4c23,OC(=O)c1ccc(C(O)=O)c(c1)c1cc(ccc1C(O)=O)C(O)=O
+WOCVIT,WOCVIT,at 153 K,Nc1ccc(cc1)C(O)=O.Nc1ccc(cc1)C#N,P21/c,False,153.0,mediumT,Nc1ccc(cc1)C(O)=O,Nc1ccc(cc1)C#N
+DEKYAV,DEKYAV,at 200 K,NC(=O)C1CC[NH2+]CC1.O=C([O-])c1ccccn1,P21/n,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,O=C([O-])c1ccccn1
+FADHOJ,FADHOJ,at 173 K,OC(=O)c1cccc(O)c1.CCC(C)=NNC(=O)c1ccncc1,P21/c,False,173.0,mediumT,OC(=O)c1cccc(O)c1,CCC(C)=NNC(=O)c1ccncc1
+XIYVOS,XIYVOS,173 K,Oc1ccccc1CN1C=Nc2ccccc12.c1ccccc1,P-1,False,173.0,mediumT,Oc1ccccc1CN1C=Nc2ccccc12,c1ccccc1
+BOVVUF,BOVVUF,at 150 K,C(Cc1ccncc1)c1ccncc1.OC(=O)c1cccc(F)c1F,P-1,False,150.0,mediumT,C(Cc1ccncc1)c1ccncc1,OC(=O)c1cccc(F)c1F
+AYEQAY,AYEQAY,173 K,C1CN2CN3CN1CN(C2)C3.Cc1cc(O)cc(C)c1Cl,P21/n,False,173.0,mediumT,C1CN2CN3CN1CN(C2)C3,Cc1cc(O)cc(C)c1Cl
+EGOSEB,EGOSEB,173 K,C[N+](C)(C)NCCC(O)=O.OC(=O)C=CC(=O)[O-],P21/n,False,173.0,mediumT,C[N+](C)(C)NCCC(O)=O,OC(=O)C=CC(=O)[O-]
+NUKYUO,NUKYUO,at 180 K,NC(=O)c1cccnc1.OC(=O)CCCCCC(O)=O,P-1,False,180.0,mediumT,NC(=O)c1cccnc1,OC(=O)CCCCCC(O)=O
+TOYHUM,TOYHUM,at 150 K,c1cc(ccn1)c1ccncc1.Oc1ccc2ccccc2c1,P21/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1ccc2ccccc2c1
+GESBEN,GESBEN,at 150 K,NC(=O)c1ccc(O)cc1.OC(=O)C=CC(O)=O,P21/c,True,150.0,mediumT,NC(=O)c1ccc(O)cc1,OC(=O)C=CC(O)=O
+GOGBUC,GOGBUC,150 K,NC(=S)NN=Cc1cc[nH+]cc1.NC(=O)C(=O)[O-],Pna21,False,150.0,mediumT,NC(=S)NN=Cc1cc[nH+]cc1,NC(=O)C(=O)[O-]
+EWUTIB,EWUTIB,173 K,O=C1C(=C(C#N)C(=O)C(=C1C#N)C#N)C#N.Cc1cc(C)cc(C)c1,P-1,False,173.0,mediumT,O=C1C(=C(C#N)C(=O)C(=C1C#N)C#N)C#N,Cc1cc(C)cc(C)c1
+UNIRIT,UNIRIT,at 150 K,OC(=O)CCC(O)=O.NC(N)=O,C2/c,False,150.0,mediumT,OC(=O)CCC(O)=O,NC(N)=O
+UWEYON,UWEYON,200 K,O=C1NS(=O)(=O)c2ccccc12.NC(=O)c1nc(F)cnc1O,P-1,False,200.0,mediumT,O=C1NS(=O)(=O)c2ccccc12,NC(=O)c1nc(F)cnc1O
+BISHIY05,BISHIY05,190 K,c1cc(ccn1)N=Nc1ccncc1.OC(=O)c1ccccc1,Pccn,False,190.0,mediumT,c1cc(ccn1)N=Nc1ccncc1,OC(=O)c1ccccc1
+WUKREZ,WUKREZ,at 180 K,OC(=O)c1ccc(cc1)C(O)=O.c1cnc2ccc3ncccc3c2c1,Pnma,False,180.0,mediumT,OC(=O)c1ccc(cc1)C(O)=O,c1cnc2ccc3ncccc3c2c1
+WANKIF,WANKIF,at 178 K,O=C([O-])c1cc2CCc3ccc(CCc1cc2)cc3.C[NH2+]C(C)C(O)c1ccccc1,P212121,False,178.0,mediumT,O=C([O-])c1cc2CCc3ccc(CCc1cc2)cc3,C[NH2+]C(C)C(O)c1ccccc1
+BACREE,BACREE,at 173 K,O=N(=O)[C-](C#N)N(=O)=O.[NH2+]=C1NC2NC(NC2N1)=NN(=O)=O,C2/c,False,173.0,mediumT,O=N(=O)[C-](C#N)N(=O)=O,[NH2+]=C1NC2NC(NC2N1)=NN(=O)=O
+SOXFUG,SOXFUG,at 163 K,C1COCCO1.N#CC1(C#N)C(C#N)(C#N)C1(C#N)C#N,R3c,False,163.0,mediumT,C1COCCO1,N#CC1(C#N)C(C#N)(C#N)C1(C#N)C#N
+XOHXAU,XOHXAU,at 150 K,O=C1CC2(CCCCC2)CN1.OC(=O)c1ccccc1,P21/n,False,150.0,mediumT,O=C1CC2(CCCCC2)CN1,OC(=O)c1ccccc1
+RAFDEJ,RAFDEJ,at 173 K,CCC1(CC)C(=O)NC=CC1=O.CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O,P21/c,False,173.0,mediumT,CCC1(CC)C(=O)NC=CC1=O,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O
+ULAXAG,ULAXAG,at 153 K,NC(=O)c1ccncc1.OC(=O)CCCC(O)=O,P21/c,False,153.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCCC(O)=O
+NUQLIW,NUQLIW,150 K,Cc1c(O)cccc1O.CN(C)c1ccncc1,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,CN(C)c1ccncc1
+RESGAY,RESGAY,at 180 K,OC(=O)CCC(O)=O.Cc1ccnc(C)c1,P21/n,False,180.0,mediumT,OC(=O)CCC(O)=O,Cc1ccnc(C)c1
+YEPPUI,YEPPUI,150 K,FC(F)(F)S(=O)(=O)[O-].FC(F)(F)c1cc(nc2cccc[n+]12)c1ccccc1,Pbca,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],FC(F)(F)c1cc(nc2cccc[n+]12)c1ccccc1
+NOSTUN,NOSTUN,173 K,NC(=O)c1ccncc1.OC(=O)Cc1ccc(O)c(Cl)c1,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)Cc1ccc(O)c(Cl)c1
+TOYHOG,TOYHOG,at 150 K,c1cc(ccn1)c1ccncc1.OC(=O)c1cccc(F)c1F,P-1,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1cccc(F)c1F
+ESUXEV,ESUXEV,at 150 K,COC12[NH2+]C(CC1)C1C=CCCC21.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,150.0,mediumT,COC12[NH2+]C(CC1)C1C=CCCC21,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+OFUHIG,OFUHIG,at 180 K,Nc1ncccn1.Oc1ccc(O)cc1,P21/c,False,180.0,mediumT,Nc1ncccn1,Oc1ccc(O)cc1
+MULPER,MULPER,170 K,O=C1[N-]S(=O)(=O)c2ccccc12.COc1cc[n+](O)c(OC)c1,P21,False,170.0,mediumT,O=C1[N-]S(=O)(=O)c2ccccc12,COc1cc[n+](O)c(OC)c1
+NUQLES,NUQLES,150 K,Cc1c(O)cccc1O.Nc1ccncc1,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,Nc1ccncc1
+MOJCOF,MOJCOF,153 K,Nc1nc(N)c(C#N)c(c2cccc3ccccc23)c1C#N.C1CCOC1,P21/n,False,153.0,mediumT,Nc1nc(N)c(C#N)c(c2cccc3ccccc23)c1C#N,C1CCOC1
+TIDMUO,TIDMUO,at 143 K,CN(C)c1cc[n+](cc1)S(C)(=O)=O.CS(=O)(=O)[N-]S(C)(=O)=O,P21/c,False,143.0,mediumT,CN(C)c1cc[n+](cc1)S(C)(=O)=O,CS(=O)(=O)[N-]S(C)(=O)=O
+MOXYEG,MOXYEG,150 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(C(=O)[O-])c1cccc(Cl)c1,P212121,False,150.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(C(=O)[O-])c1cccc(Cl)c1
+LOSHUZ,LOSHUZ,173 K,OC(=O)C(=O)[O-].CCOP(=S)(OCC)OCC[NH+](C)C,P-1,False,173.0,mediumT,OC(=O)C(=O)[O-],CCOP(=S)(OCC)OCC[NH+](C)C
+GEVLOM,GEVLOM,150 K,COc1nc(N)nc(OC)c1N=Nc1ccc(N)cc1.C1CCOC1,P21,False,150.0,mediumT,COc1nc(N)nc(OC)c1N=Nc1ccc(N)cc1,C1CCOC1
+LUNNIR,LUNNIR,at 173 K,NC(=O)c1ccncc1.OC(=O)CCC(=O)CCC(O)=O,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCC(=O)CCC(O)=O
+CIHHIM,CIHHIM,at 173 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.C[N+]1=C(Br)N(CC#C)C(=C1Br)Br,P-1,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,C[N+]1=C(Br)N(CC#C)C(=C1Br)Br
+LOYCUZ,LOYCUZ,at 150 K,Clc1ccc2Oc3ccccc3N=C(N3CC[NH2+]CC3)c2c1.CC(=O)[O-],P21/c,False,150.0,mediumT,Clc1ccc2Oc3ccccc3N=C(N3CC[NH2+]CC3)c2c1,CC(=O)[O-]
+RADGAF,RADGAF,at 150 K,NC1=Nc2cc(Cl)ccc2O1.OC(=O)COc1cccc(Cl)c1Cl,P21/c,False,150.0,mediumT,NC1=Nc2cc(Cl)ccc2O1,OC(=O)COc1cccc(Cl)c1Cl
+ASOMIE,ASOMIE,at 203.1 K,CC=CC=CC(=O)[O-].[NH3+]Cc1ccc(Cl)cc1,P-1,False,203.0,mediumT,CC=CC=CC(=O)[O-],[NH3+]Cc1ccc(Cl)cc1
+TALBIT,TALBIT,at 198 K,[NH3+]C(Cc1ccccc1)C(N)=O.OC(C(=O)[O-])c1ccccc1,C2,False,198.0,mediumT,[NH3+]C(Cc1ccccc1)C(N)=O,OC(C(=O)[O-])c1ccccc1
+YAGNEB,YAGNEB,at 173 K,[NH3+]c1cccc(F)c1.Cc1ccc(cc1)S(=O)(=O)[O-],P21/n,False,173.0,mediumT,[NH3+]c1cccc(F)c1,Cc1ccc(cc1)S(=O)(=O)[O-]
+POJFUQ,POJFUQ,at 153 K,OC(=O)c1cccc2C(=O)C(=C(Sc12)c1ccccc1)O.CN(C)C=O,P21/c,False,153.0,mediumT,OC(=O)c1cccc2C(=O)C(=C(Sc12)c1ccccc1)O,CN(C)C=O
+TORXOQ,TORXOQ,150 K,c1cc(ccn1)c1ccncc1.OC(=O)CCCCCCC(O)=O,P-1,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)CCCCCCC(O)=O
+NUQKIV,NUQKIV,150 K,Cc1c(O)cccc1O.c1ccc(nc1)c1ccccn1,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,c1ccc(nc1)c1ccccn1
+RADFUY,RADFUY,at 150 K,NC1=[NH+]CCS1.Clc1cccc(OCC(=O)[O-])c1Cl,Pbca,False,150.0,mediumT,NC1=[NH+]CCS1,Clc1cccc(OCC(=O)[O-])c1Cl
+HAPCOU,HAPCOU,150 K,Cc1nc(C)c(C)nc1C.CC(=O)Oc1ccccc1C(O)=O,I2/a,False,150.0,mediumT,Cc1nc(C)c(C)nc1C,CC(=O)Oc1ccccc1C(O)=O
+FUZLES,FUZLES,at 173 K,OB(O)c1cccc(C=C2NC(=O)NC2=O)c1.CS(C)=O,P-1,False,173.0,mediumT,OB(O)c1cccc(C=C2NC(=O)NC2=O)c1,CS(C)=O
+HOFZOS,HOFZOS,at 130 K,[NH3+]c1ccc(cc1)C(O)=O.OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],C2/c,False,130.0,mediumT,[NH3+]c1ccc(cc1)C(O)=O,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-]
+YONLAO,YONLAO,at 153 K,Nc1nc(N)nc(n1)c1ccccc1.O=C1NC(=O)c2ccccc12,P21,False,153.0,mediumT,Nc1nc(N)nc(n1)c1ccccc1,O=C1NC(=O)c2ccccc12
+KUJYOD,KUJYOD,at 178 K,CC(C)[P+](Cl)(C(C)C)C(C)C.CS(=O)(=O)[N-]S(C)(=O)=O,P21/c,False,178.0,mediumT,CC(C)[P+](Cl)(C(C)C)C(C)C,CS(=O)(=O)[N-]S(C)(=O)=O
+OFUBEA,OFUBEA,200 K,O=N(=O)c1ccc([O-])c(c1)N(=O)=O.Oc1c[nH+]ccc1,P212121,False,200.0,mediumT,O=N(=O)c1ccc([O-])c(c1)N(=O)=O,Oc1c[nH+]ccc1
+MEGBUY,MEGBUY,150.2 K,CC(C)N1[P+]N(C(C)C)c2ccccc12.FC(F)(F)S(=O)(=O)[O-],P21/n,False,150.0,mediumT,CC(C)N1[P+]N(C(C)C)c2ccccc12,FC(F)(F)S(=O)(=O)[O-]
+WOKGEI,WOKGEI,at 193 K,OC1C[N+]2(CCOCC2)C1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,Pna21,False,193.0,mediumT,OC1C[N+]2(CCOCC2)C1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+AXOPIO,AXOPIO,233 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.CCON1C=C[N+](=C1)OCC,P21/n,False,233.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,CCON1C=C[N+](=C1)OCC
+NEDJUD,NEDJUD,at 183 K,Clc1nc2Nc3ccccc3N(c3ccccc3)c2nc1Cl.CS(C)=O,P-1,False,183.0,mediumT,Clc1nc2Nc3ccccc3N(c3ccccc3)c2nc1Cl,CS(C)=O
+ULAWAF,ULAWAF,at 153 K,NC(=O)c1ccncc1.OC(=O)C(O)=O,C2/c,False,153.0,mediumT,NC(=O)c1ccncc1,OC(=O)C(O)=O
+SETRUG,SETRUG,at 173 K,NNC(=O)c1ccncc1.OC(=O)CCCCCCC(O)=O,P-1,False,173.0,mediumT,NNC(=O)c1ccncc1,OC(=O)CCCCCCC(O)=O
+ZOHWAW,ZOHWAW,at 150 K,Oc1ccc(Cl)c(Cl)c1Cl.Nc1cccc(Cl)c1,P-1,False,150.0,mediumT,Oc1ccc(Cl)c(Cl)c1Cl,Nc1cccc(Cl)c1
+VACBIN,VACBIN,150 K,c1cc(ccn1)c1ccncc1.COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1,P-1,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1
+ZOYCAT,ZOYCAT,at 173 K,COc1cc(ccc1O)C(O)=O.c1ccc2nc3ccccc3cc2c1,P21/n,False,173.0,mediumT,COc1cc(ccc1O)C(O)=O,c1ccc2nc3ccccc3cc2c1
+QAFFIM,QAFFIM,at 173 K,OC=O.c1ccncc1,P21/n,False,173.0,mediumT,OC=O,c1ccncc1
+DACBIW,DACBIW,150 K,CC(=O)NC1=NN=C(S1)S(N)(=O)=O.Nc1ccc(cc1)C(O)=O,C2/c,False,150.0,mediumT,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,Nc1ccc(cc1)C(O)=O
+SETRIU,SETRIU,at 173 K,NNC(=O)c1ccncc1.OC(=O)c1ccccc1,P21,False,173.0,mediumT,NNC(=O)c1ccncc1,OC(=O)c1ccccc1
+ICEBOK,ICEBOK,183 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.Nc1ccc(C(O)=O)c(O)c1,P21/n,False,183.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,Nc1ccc(C(O)=O)c(O)c1
+QODNOP,QODNOP,205 K,CN1CC(=O)N(C)CC1=O.Fc1c(F)c(Br)c(F)c(F)c1Br,P-1,False,205.0,mediumT,CN1CC(=O)N(C)CC1=O,Fc1c(F)c(Br)c(F)c(F)c1Br
+ZOHVEZ,ZOHVEZ,at 150 K,Oc1cc(Cl)c(Cl)c(Cl)c1.Nc1ccc(Br)cc1,P-1,False,150.0,mediumT,Oc1cc(Cl)c(Cl)c(Cl)c1,Nc1ccc(Br)cc1
+JUMVEU,JUMVEU,150 K,c1cc(ccn1)c1ccncc1.Oc1ccccc1O,R-3,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1ccccc1O
+UNIZID,UNIZID,143 K,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O.NC(=[NH2+])OCF,P21/n,False,143.0,mediumT,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O,NC(=[NH2+])OCF
+QAMSED,QAMSED,at 150 K,CN1CCN(C)CC1.Oc1ccc(O)cc1,P-1,False,150.0,mediumT,CN1CCN(C)CC1,Oc1ccc(O)cc1
+KOPJUW,KOPJUW,at 150 K,NC(N)=O.c1cc(ccn1)c1ccncc1,C2/c,False,150.0,mediumT,NC(N)=O,c1cc(ccn1)c1ccncc1
+HIQROQ,HIQROQ,150 K,OC(=O)CCCCCCCCC(O)=O.NC(=O)c1ccc(Br)cc1,P-1,False,150.0,mediumT,OC(=O)CCCCCCCCC(O)=O,NC(=O)c1ccc(Br)cc1
+MEFMAM,MEFMAM,at 223 K,Oc1ccccc1C(c1cc(O)c(O)c(O)c1)c1ccccc1O.c1cnccn1,P-1,False,223.0,mediumT,Oc1ccccc1C(c1cc(O)c(O)c(O)c1)c1ccccc1O,c1cnccn1
+KUWMUM,KUWMUM,150.1 K,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12.CN(C)C=O,P-1,False,150.0,mediumT,NC(=O)NN=C1C(=O)c2ccccc2c2ccccc12,CN(C)C=O
+EZOPEP,EZOPEP,at 150 K,C1CN2CCN1CC2.O=S=O,P212121,False,150.0,mediumT,C1CN2CCN1CC2,O=S=O
+NIDBEL,NIDBEL,173.2 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.[NH3+]c1ccc(cc1)C(F)(F)F,P21,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,[NH3+]c1ccc(cc1)C(F)(F)F
+CABPOK,CABPOK,at 150 K,C[NH2+]C(C)C(O)c1ccccc1.Clc1ccc(cc1Cl)C(CCC(=O)[O-])c1ccccn1,P21,False,150.0,mediumT,C[NH2+]C(C)C(O)c1ccccc1,Clc1ccc(cc1Cl)C(CCC(=O)[O-])c1ccccn1
+EPUQIQ,EPUQIQ,at 150 K,OC(=O)c1ccc(O)cc1.c1ccc(cc1)c1ccncc1,P-1,False,150.0,mediumT,OC(=O)c1ccc(O)cc1,c1ccc(cc1)c1ccncc1
+AXUFIJ,AXUFIJ,at 173 K,OC(=O)CCC(O)=O.c1ccc2c(c1)cnc1ccccc21,P21/n,False,173.0,mediumT,OC(=O)CCC(O)=O,c1ccc2c(c1)cnc1ccccc21
+OKUROE,OKUROE,170.1 K,NC(=O)c1ccncc1.CC(C)c1ccc(C)c(O)c1,P21/c,False,170.0,mediumT,NC(=O)c1ccncc1,CC(C)c1ccc(C)c(O)c1
+ZODWIY01,ZODWIY01,at 150 K,NC(N)=O.OC(=O)CCCC(O)=O,Pnma,False,150.0,mediumT,NC(N)=O,OC(=O)CCCC(O)=O
+BOVYUI,BOVYUI,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccc(F)c(F)c1,P21/c,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccc(F)c(F)c1
+GOHHOA,GOHHOA,at 143 K,Oc1[nH+]cccc1.C[S](=O)([O-])[N]S(C)(=O)=O,P21/n,False,143.0,mediumT,Oc1[nH+]cccc1,C[S](=O)([O-])[N]S(C)(=O)=O
+PEGDEO,PEGDEO,200 K,OC(=O)c1ccccc1.CCC(=O)Nc1ccc(Br)cn1,P21/n,False,200.0,mediumT,OC(=O)c1ccccc1,CCC(=O)Nc1ccc(Br)cn1
+ROPTAT,ROPTAT,at 173 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]c1ccccc1F,C2,False,173.0,mediumT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]c1ccccc1F
+NOSVEZ,NOSVEZ,173 K,c1cc(ccn1)c1ccncc1.OC(=O)Cc1ccc(O)c(Cl)c1,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)Cc1ccc(O)c(Cl)c1
+NAQXAE,NAQXAE,at 193.2 K,CC1(C)[NH2+]C(C)(C)CC(=O)C1.Fc1c(F)c(F)c(c(F)c1F)P(=O)([O-])c1c(F)c(F)c(F)c(F)c1F,P-1,False,193.0,mediumT,CC1(C)[NH2+]C(C)(C)CC(=O)C1,Fc1c(F)c(F)c(c(F)c1F)P(=O)([O-])c1c(F)c(F)c(F)c(F)c1F
+MANXOS,MANXOS,150 K,OCC(C(=O)[O-])c1ccccc1Cl.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P212121,False,150.0,mediumT,OCC(C(=O)[O-])c1ccccc1Cl,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+ACONIR,ACONIR,at 173 K,NC(=O)c1ccncc1.OC(=O)C1CCCCC1,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)C1CCCCC1
+VEFMOL,VEFMOL,190 K,O=S(=O)([O-])c1ccccc1.COc1ccc2cccc(CC[NH+]=C(C)O)c2c1,P212121,False,190.0,mediumT,O=S(=O)([O-])c1ccccc1,COc1ccc2cccc(CC[NH+]=C(C)O)c2c1
+AREJUF,AREJUF,150.0 K,FC(F)(F)S(=O)(=O)[O-].CN(C)c1cc[nH+]cc1Cl,P21/n,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN(C)c1cc[nH+]cc1Cl
+XAFSUV,XAFSUV,200 K,[NH2+]1CCOCC1.OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O,I2/a,False,200.0,mediumT,[NH2+]1CCOCC1,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O
+MIXTUJ,MIXTUJ,at 130 K,Nc1cccc(O)c1.c1ccc2nccnc2c1,P21/c,False,130.0,mediumT,Nc1cccc(O)c1,c1ccc2nccnc2c1
+OSABIV,OSABIV,200 K,FC(F)(F)S(=O)(=O)[O-].CCC1=N[N+](=C2C=CC=CN12)c1ccc(Cl)cc1Cl,P21/c,False,200.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CCC1=N[N+](=C2C=CC=CN12)c1ccc(Cl)cc1Cl
+AGOCOQ,AGOCOQ,at 173 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.CCN1C=[N+](C)C(=C1Br)Br,P21/c,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,CCN1C=[N+](C)C(=C1Br)Br
+NUKXAT,NUKXAT,at 180 K,OC(=O)c1ccccc1O.c1ccc2nc3ccccc3nc2c1,P21/c,False,180.0,mediumT,OC(=O)c1ccccc1O,c1ccc2nc3ccccc3nc2c1
+DADMUT,DADMUT,150 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.Cc1nc(C)c(C)nc1C,Pna21,False,150.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,Cc1nc(C)c(C)nc1C
+HOQGEB,HOQGEB,at 150 K,NC1=[NH+]N=CS1.OC(=O)C(=O)[O-],P21/c,False,150.0,mediumT,NC1=[NH+]N=CS1,OC(=O)C(=O)[O-]
+QEYCAY,QEYCAY,at 200 K,[NH3+]C(c1ccccc1OC)C(C)(C)C.OC(C(=O)[O-])c1ccccc1,P212121,False,200.0,mediumT,[NH3+]C(c1ccccc1OC)C(C)(C)C,OC(C(=O)[O-])c1ccccc1
+ZORVUX,ZORVUX,at 193 K,C1COCCN1.OC1(c2ccccc2)c2cc(Br)ccc2c2ccc(Br)cc12,P21/n,False,193.0,mediumT,C1COCCN1,OC1(c2ccccc2)c2cc(Br)ccc2c2ccc(Br)cc12
+DITBAK,DITBAK,at 173 K,FC(F)(F)S(=O)(=O)[O-].CN(C)c1cc[n+](cc1)P(C)C,P21/c,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN(C)c1cc[n+](cc1)P(C)C
+FUBHUG,FUBHUG,at 150 K,FC(F)(F)S(=O)(=O)[O-].COC12CCC3=[NH+]CCCN3C1CC(=O)C=C2,P-1,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],COC12CCC3=[NH+]CCCN3C1CC(=O)C=C2
+MOXYIK,MOXYIK,150 K,OC(C(=O)[O-])c1cccc(Br)c1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P212121,False,150.0,mediumT,OC(C(=O)[O-])c1cccc(Br)c1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+MANYEJ,MANYEJ,150 K,OCC(C(=O)[O-])c1ccccc1Cl.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P21,False,150.0,mediumT,OCC(C(=O)[O-])c1ccccc1Cl,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+UBUJIM,UBUJIM,at 150 K,c1cc(ccn1)c1ccncc1.Cc1cc(O)cc(O)c1,P-1,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,Cc1cc(O)cc(O)c1
+JUYVIL,JUYVIL,150 K,N#Cc1cc(C#N)c(cc1C#N)C#N.OC(=O)c1c(O)ccc2ccccc12,P-1,False,150.0,mediumT,N#Cc1cc(C#N)c(cc1C#N)C#N,OC(=O)c1c(O)ccc2ccccc12
+ABEKUN,ABEKUN,173 K,Oc1cccc(O)c1.c1cc(ccn1)C=Cc1ccncc1,P-1,False,173.0,mediumT,Oc1cccc(O)c1,c1cc(ccn1)C=Cc1ccncc1
+NUKWOF,NUKWOF,at 150 K,C1CC2CC[NH+]1C=C2C1=C(C=CO1)c1ccccc1.OC(=O)C(=O)[O-],P-1,False,150.0,mediumT,C1CC2CC[NH+]1C=C2C1=C(C=CO1)c1ccccc1,OC(=O)C(=O)[O-]
+RAVXIY,RAVXIY,150 K,Brc1cncc(Br)c1.OC(=O)c1cc(Cl)cc(Cl)c1O,P-1,False,150.0,mediumT,Brc1cncc(Br)c1,OC(=O)c1cc(Cl)cc(Cl)c1O
+GAHDUP,GAHDUP,at 186 K,c1ccc2nc3ccccc3cc2c1.OC(=O)C=CC=CC(O)=O,P21/c,False,186.0,mediumT,c1ccc2nc3ccccc3cc2c1,OC(=O)C=CC=CC(O)=O
+GAHFIF,GAHFIF,at 186 K,OC(=O)c1ccc(cc1)C(O)=O.c1ccc2nc3ccccc3cc2c1,P21/n,False,186.0,mediumT,OC(=O)c1ccc(cc1)C(O)=O,c1ccc2nc3ccccc3cc2c1
+UPOQIA,UPOQIA,at 150 K,OC(=O)CCCC(O)=O.OC(CN1C=NC=N1)(CN1C=NC=N1)c1ccc(F)cc1F,P-1,False,150.0,mediumT,OC(=O)CCCC(O)=O,OC(CN1C=NC=N1)(CN1C=NC=N1)c1ccc(F)cc1F
+OFUBIE,OFUBIE,200 K,O=N(=O)c1ccc([O-])c(c1)N(=O)=O.Oc1cc[nH+]cc1,P21/c,False,200.0,mediumT,O=N(=O)c1ccc([O-])c(c1)N(=O)=O,Oc1cc[nH+]cc1
+YAJFEX,YAJFEX,150 K,O=C1[N-]S(=O)(=O)c2ccccc12.[NH3+]c1ccccc1C(N)=O,P-1,False,150.0,mediumT,O=C1[N-]S(=O)(=O)c2ccccc12,[NH3+]c1ccccc1C(N)=O
+NUQLUI,NUQLUI,150 K,Cc1c(O)cccc1O.Cc1nc2ccccc2nc1C,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,Cc1nc2ccccc2nc1C
+ODIHIU,ODIHIU,at 180 K,O=C1CCCN1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P21/c,False,180.0,mediumT,O=C1CCCN1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+LEXQIQ,LEXQIQ,173 K,Cc1ccc2N=C(N)Sc2c1.OC(=O)CCCCCCCC(O)=O,P-1,False,173.0,mediumT,Cc1ccc2N=C(N)Sc2c1,OC(=O)CCCCCCCC(O)=O
+LODFUH,LODFUH,at 150 K,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl.C1COCCO1,P-1,False,150.0,mediumT,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl,C1COCCO1
+JIRQUZ,JIRQUZ,150 K,CN(C)C=O.NC1=NOC(=N1)C1=NON=C1N=NC1=NON=C1C1=NC(=NO1)N,P-1,False,150.0,mediumT,CN(C)C=O,NC1=NOC(=N1)C1=NON=C1N=NC1=NON=C1C1=NC(=NO1)N
+NUKZAV,NUKZAV,at 180 K,NC(=O)c1cccnc1.OC(=O)CCCCCCC(O)=O,P21/c,False,180.0,mediumT,NC(=O)c1cccnc1,OC(=O)CCCCCCC(O)=O
+EHEVAQ,EHEVAQ,193 K,Nc1c(N)c(C#N)c(C#N)c(C#N)c1C#N.C1CCOC1,P21/c,False,193.0,mediumT,Nc1c(N)c(C#N)c(C#N)c(C#N)c1C#N,C1CCOC1
+IPUCAA,IPUCAA,173 K,O=C1CCC(=O)N1.Nc1ccc(cc1Br)S(N)(=O)=O,P21/n,False,173.0,mediumT,O=C1CCC(=O)N1,Nc1ccc(cc1Br)S(N)(=O)=O
+DIGCAY,DIGCAY,at 150 K,O=C(Nc1cc[nH+]cc1)Nc1cc[nH+]cc1.O=C([O-])CCCCC(=O)[O-],P-1,False,150.0,mediumT,O=C(Nc1cc[nH+]cc1)Nc1cc[nH+]cc1,O=C([O-])CCCCC(=O)[O-]
+LOFQIJ,LOFQIJ,150 K,OC(=O)c1nccnc1C(=O)[O-].NC(=O)NN=Cc1cc[nH+]cc1,Pn,False,150.0,mediumT,OC(=O)c1nccnc1C(=O)[O-],NC(=O)NN=Cc1cc[nH+]cc1
+TAPBUL,TAPBUL,173 K,N#Cc1ccncc1.CC1=CC(=NO1)NS(=O)(=O)c1ccc(N)cc1,P21/n,False,173.0,mediumT,N#Cc1ccncc1,CC1=CC(=NO1)NS(=O)(=O)c1ccc(N)cc1
+GESJOF,GESJOF,at 150 K,OB(O)c1ccc(cc1)C(O)=O.CC1=NN=C2CN=C(c3ccccc3)c3cc(Cl)ccc3N12,P-1,False,150.0,mediumT,OB(O)c1ccc(cc1)C(O)=O,CC1=NN=C2CN=C(c3ccccc3)c3cc(Cl)ccc3N12
+TIHFUM,TIHFUM,at 150 K,Fc1cccc2C(=O)C(=O)Nc12.CS(C)=O,P-1,False,150.0,mediumT,Fc1cccc2C(=O)C(=O)Nc12,CS(C)=O
+VAQSUC,VAQSUC,at 203 K,OC(=O)CC(=C)C(=O)[O-].COc1cc(C)[nH+]c(N)n1,P21/c,False,203.0,mediumT,OC(=O)CC(=C)C(=O)[O-],COc1cc(C)[nH+]c(N)n1
+OSEGOL,OSEGOL,160 K,NC(=O)c1ccc[n+](c1)C1OC(CO)C(O)C1O.OC(CC(O)=O)C(=O)[O-],P21,False,160.0,mediumT,NC(=O)c1ccc[n+](c1)C1OC(CO)C(O)C1O,OC(CC(O)=O)C(=O)[O-]
+IDAPUZ,IDAPUZ,at 180 K,CCCCCCCCCCC(O)=O.c1cnccn1,P-1,False,180.0,mediumT,CCCCCCCCCCC(O)=O,c1cnccn1
+BOVWUG,BOVWUG,at 150 K,OC(=O)c1ccc(F)c(F)c1F.C(Cc1ccncc1)c1ccncc1,P21/c,False,150.0,mediumT,OC(=O)c1ccc(F)c(F)c1F,C(Cc1ccncc1)c1ccncc1
+LATQOO,LATQOO,at 173 K,O=C1NS(=O)(=O)c2ccccc12.Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12,P-1,False,173.0,mediumT,O=C1NS(=O)(=O)c2ccccc12,Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12
+MOXVIF,MOXVIF,at 173 K,OC(=O)c1ccc(O)cc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/c,False,173.0,mediumT,OC(=O)c1ccc(O)cc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+AXUFUV,AXUFUV,at 173 K,c1ccc2c(c1)cnc1ccccc21.OC(=O)C=CC(O)=O,P21/c,False,173.0,mediumT,c1ccc2c(c1)cnc1ccccc21,OC(=O)C=CC(O)=O
+EWANEW,EWANEW,at 150 K,C1N2CN3CN1CN(C2)C3.Cc1cc(O)cc(O)c1,Pccn,False,150.0,mediumT,C1N2CN3CN1CN(C2)C3,Cc1cc(O)cc(O)c1
+ATOMAY,ATOMAY,at 198 K,[NH3+]CCc1ccc(O)c(O)c1.OC1=C([O-])C(=O)C1=O,P-1,False,198.0,mediumT,[NH3+]CCc1ccc(O)c(O)c1,OC1=C([O-])C(=O)C1=O
+AVIYAI,AVIYAI,200 K,CC1=Nc2ccccc2OC(C)(C)C1.Nc1ccccc1O,P-1,False,200.0,mediumT,CC1=Nc2ccccc2OC(C)(C)C1,Nc1ccccc1O
+YAJFIB,YAJFIB,150 K,O=C1NS(=O)(=O)c2ccccc12.NC(=O)c1ccccc1F,P21/c,False,150.0,mediumT,O=C1NS(=O)(=O)c2ccccc12,NC(=O)c1ccccc1F
+RIVVEA,RIVVEA,150 K,[NH3+]c1ccc(cc1)C(O)=O.O=C([O-])c1cnccn1,Pc,False,150.0,mediumT,[NH3+]c1ccc(cc1)C(O)=O,O=C([O-])c1cnccn1
+NUQHUE,NUQHUE,150 K,Cc1c(O)cccc1O.c1ccc2nc3ccccc3cc2c1,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,c1ccc2nc3ccccc3cc2c1
+EVOWER,EVOWER,at 150 K,CN(C)C=O.OC(=O)c1cccc(C(O)=O)c1C(O)=O,P212121,False,150.0,mediumT,CN(C)C=O,OC(=O)c1cccc(C(O)=O)c1C(O)=O
+PIRNUB,PIRNUB,at 150 K,NC(=O)c1cc[nH+]cc1.Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-],P21/c,False,150.0,mediumT,NC(=O)c1cc[nH+]cc1,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-]
+ENEPAQ,ENEPAQ,173 K,c1cc(ccn1)c1ccncc1.OC(=O)c1cc(Cl)cc(Cl)c1O,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1cc(Cl)cc(Cl)c1O
+FOZLIQ,FOZLIQ,at 140 K,NC(NC1=N[N-]N=N1)=NN(=O)=O.[NH2+]=C1NC2NC(NC2N1)=NN(=O)=O,P-1,False,140.0,mediumT,NC(NC1=N[N-]N=N1)=NN(=O)=O,[NH2+]=C1NC2NC(NC2N1)=NN(=O)=O
+OTUVOQ,OTUVOQ,173 K,CC(=O)Nc1ccc(cc1)C(=O)[O-].C[NH+](C)CC(C)O,P21/n,False,173.0,mediumT,CC(=O)Nc1ccc(cc1)C(=O)[O-],C[NH+](C)CC(C)O
+DUJCER,DUJCER,at 180 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-].Oc1c[nH+]ccc1,P-1,False,180.0,mediumT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-],Oc1c[nH+]ccc1
+KICWEA,KICWEA,180 K,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1.O=C1[N-]S(=O)(=O)c2ccccc12,P-1,False,180.0,mediumT,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,O=C1[N-]S(=O)(=O)c2ccccc12
+XEDTIN,XEDTIN,150.2 K,Oc1cc(O)c(Br)cc1Br.O1C(=Nc2ccccc12)C=Cc1ccccc1,P21/n,False,150.0,mediumT,Oc1cc(O)c(Br)cc1Br,O1C(=Nc2ccccc12)C=Cc1ccccc1
+TEPLUZ,TEPLUZ,170 K,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O.CCOc1ccccc1C(N)=O,P212121,False,170.0,mediumT,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O,CCOc1ccccc1C(N)=O
+WUKRAV,WUKRAV,at 180 K,OC(=O)C(O)=O.c1cnc2ccc3ncccc3c2c1,P21/m,False,180.0,mediumT,OC(=O)C(O)=O,c1cnc2ccc3ncccc3c2c1
+XARQAK,XARQAK,at 200 K,CN(C)C=O.c1cc(nc(c1)N1C=NN=N1)N1C=NN=N1,P21/c,False,200.0,mediumT,CN(C)C=O,c1cc(nc(c1)N1C=NN=N1)N1C=NN=N1
+PAGLAM,PAGLAM,at 173 K,CC(C)N[C+](NC(C)C)Nc1ccc(F)cc1.FC(F)(F)S(=O)(=O)[O-],P-1,False,173.0,mediumT,CC(C)N[C+](NC(C)C)Nc1ccc(F)cc1,FC(F)(F)S(=O)(=O)[O-]
+REFFEO,REFFEO,at 203 K,NC(=O)c1cc[nH+]cc1.O=P1([O-])Oc2ccc3ccccc3c2c2c(O1)ccc1ccccc21,C2/c,False,203.0,mediumT,NC(=O)c1cc[nH+]cc1,O=P1([O-])Oc2ccc3ccccc3c2c2c(O1)ccc1ccccc21
+FATFUF,FATFUF,150 K,Cc1ccc(cc1)S(=O)(=O)[O-].NN1N=NN(OCc2ccccc2)C1=[NH2+],P-1,False,150.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],NN1N=NN(OCc2ccccc2)C1=[NH2+]
+UKUJEQ,UKUJEQ,at 208 K,OC(O)(c1cccc(n1)C(O)(O)C(F)(F)F)C(F)(F)F.C1CCOC1,Pcmn,False,208.0,mediumT,OC(O)(c1cccc(n1)C(O)(O)C(F)(F)F)C(F)(F)F,C1CCOC1
+ZAPFEE,ZAPFEE,200 K,NC1=[NH+]C(=O)NC=C1F.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,Pbca,False,200.0,mediumT,NC1=[NH+]C(=O)NC=C1F,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+EWAQUP,EWAQUP,at 150 K,Cc1cc(O)cc(O)c1.c1cnccn1,P21/n,False,150.0,mediumT,Cc1cc(O)cc(O)c1,c1cnccn1
+PIXVEZ,PIXVEZ,at 200 K,Cc1ccc(cc1)S(=O)(=O)[O-].[NH3+]c1ccc(cc1)S(=O)(=O)c1ccc(N)cc1,P21/n,False,200.0,mediumT,Cc1ccc(cc1)S(=O)(=O)[O-],[NH3+]c1ccc(cc1)S(=O)(=O)c1ccc(N)cc1
+FEFYEW,FEFYEW,at 190 K,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl.CN1C=NC2=C1C(=O)N(CCCCC(C)=O)C(=O)N2C,P-1,False,190.0,mediumT,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl,CN1C=NC2=C1C(=O)N(CCCCC(C)=O)C(=O)N2C
+KAZCUK,KAZCUK,at 130 K,c1ccccc1.ON=C(c1ccccc1)c1cc(Br)ccc1NC(=O)C=C,P21/c,False,130.0,mediumT,c1ccccc1,ON=C(c1ccccc1)c1cc(Br)ccc1NC(=O)C=C
+TOQPEX,TOQPEX,150 K,NC(=S)NN=Cc1cc[nH+]cc1.OC(=O)c1cc(cc(c1)C(=O)[O-])C(O)=O,P-1,False,150.0,mediumT,NC(=S)NN=Cc1cc[nH+]cc1,OC(=O)c1cc(cc(c1)C(=O)[O-])C(O)=O
+OTUDUD,OTUDUD,at 173 K,CC(C)O.ON=C1C(=O)c2ccccc2C1=NO,P-1,False,173.0,mediumT,CC(C)O,ON=C1C(=O)c2ccccc2C1=NO
+MOZCEK,MOZCEK,at 173 K,OC(=O)c1cc(O)cc(O)c1.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,173.0,mediumT,OC(=O)c1cc(O)cc(O)c1,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+EPUPUB01,EPUPUB01,at 150 K,c1cc(ccn1)c1ccncc1.OC(=O)c1ccc(O)cc1,C2/c,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1ccc(O)cc1
+RAHZEH,RAHZEH,at 233 K,C[Si](C)(C)N1C=C[N+](=C1)[Si](C)(C)C.FC(F)(F)S(=O)(=O)[O-],Pbca,False,233.0,mediumT,C[Si](C)(C)N1C=C[N+](=C1)[Si](C)(C)C,FC(F)(F)S(=O)(=O)[O-]
+FEZXIT,FEZXIT,at 150 K,c1ccccc1.COc1ccc(NS(=O)(=O)c2ccc3ccccc3c2)cc1,P21/n,False,150.0,mediumT,c1ccccc1,COc1ccc(NS(=O)(=O)c2ccc3ccccc3c2)cc1
+PAXDID,PAXDID,at 173 K,[NH3+]c1ccc(O)cc1.ClCC(=O)[O-],P21/c,False,173.0,mediumT,[NH3+]c1ccc(O)cc1,ClCC(=O)[O-]
+ZAKSAI,ZAKSAI,150 K,OC(=O)C(O)=O.NC(=O)c1ccccc1O,C2/c,False,150.0,mediumT,OC(=O)C(O)=O,NC(=O)c1ccccc1O
+AJALEC,AJALEC,at 203 K,OC(=O)C=CC(O)=O.NC(=O)c1ccc(Cl)cc1,P-1,False,203.0,mediumT,OC(=O)C=CC(O)=O,NC(=O)c1ccc(Cl)cc1
+SOBBAP,SOBBAP,246.2 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.c1ccc2nc3ccccc3nc2c1,P21/n,False,246.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,c1ccc2nc3ccccc3nc2c1
+VUHZOQ,VUHZOQ,150 K,c1cc(ccn1)C=Cc1ccncc1.Cc1cc(O)cc(O)c1,P21/c,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Cc1cc(O)cc(O)c1
+ZOYCIB,ZOYCIB,at 173 K,NC(=O)c1ccncc1.COc1cc(ccc1O)C(O)=O,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,COc1cc(ccc1O)C(O)=O
+LATLEY,LATLEY,at 203 K,OC(=O)CCC(O)=O.C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1,P21/n,False,203.0,mediumT,OC(=O)CCC(O)=O,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1
+FEZWOA,FEZWOA,183 K,[NH3+]CCN1CCOCC1.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,183.0,mediumT,[NH3+]CCN1CCOCC1,Cc1ccc(cc1)S(=O)(=O)[O-]
+CUSJAB,CUSJAB,at 173 K,OC1CNC(=[NH+]C1)CCC1=[NH+]CC(O)CN1.O=C([O-])c1ccc(cc1)C(=O)[O-],P-1,False,173.0,mediumT,OC1CNC(=[NH+]C1)CCC1=[NH+]CC(O)CN1,O=C([O-])c1ccc(cc1)C(=O)[O-]
+DOHSID,DOHSID,at 133 K,Brc1ccc(cc1)S(=O)(=O)[N-]S(=O)(=O)c1ccc(Br)cc1.[NH3+]c1cccc(Br)c1,Pbca,False,133.0,mediumT,Brc1ccc(cc1)S(=O)(=O)[N-]S(=O)(=O)c1ccc(Br)cc1,[NH3+]c1cccc(Br)c1
+FADGEY,FADGEY,at 173 K,NNC(=O)c1ccncc1.OC(=O)CC(O)=O,P21212,False,173.0,mediumT,NNC(=O)c1ccncc1,OC(=O)CC(O)=O
+VIPYAX,VIPYAX,180 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O.O=C1NCCN1,P21/c,False,180.0,mediumT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,O=C1NCCN1
+XULCIT,XULCIT,140 K,FC(F)(F)S(=O)(=O)[O-].CC(C)[N+](=NNC(=O)C(=O)c1ccccc1)C(C)C,P-1,False,140.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CC(C)[N+](=NNC(=O)C(=O)c1ccccc1)C(C)C
+RESHED,RESHED,at 180 K,OC(=O)C=CC(O)=O.Cc1cncc(C)c1,P21/c,False,180.0,mediumT,OC(=O)C=CC(O)=O,Cc1cncc(C)c1
+GESCEO,GESCEO,at 150 K,NC(=O)c1ccc(O)cc1.OC(=O)CCCCCCCCC(O)=O,P21/c,False,150.0,mediumT,NC(=O)c1ccc(O)cc1,OC(=O)CCCCCCCCC(O)=O
+LEXPIQ,LEXPIQ,173 K,NC(=O)N1c2ccccc2C=Cc2ccccc12.OC(=O)c1c2ccccc2cc2ccccc12,P21/n,False,173.0,mediumT,NC(=O)N1c2ccccc2C=Cc2ccccc12,OC(=O)c1c2ccccc2cc2ccccc12
+MOQGOP,MOQGOP,at 133 K,CN(C)C(=O)N(C)C.Brc1ccc(cc1)S(=O)(=O)NS(=O)(=O)c1ccc(Br)cc1,P-1,False,133.0,mediumT,CN(C)C(=O)N(C)C,Brc1ccc(cc1)S(=O)(=O)NS(=O)(=O)c1ccc(Br)cc1
+NUWGUH,NUWGUH,at 173 K,CC1(C)N(N=O)C(C)(C)c2ccccc12.ClC1=C(Cl)C(=O)C(=C(C#N)C1=O)C#N,Pna21,False,173.0,mediumT,CC1(C)N(N=O)C(C)(C)c2ccccc12,ClC1=C(Cl)C(=O)C(=C(C#N)C1=O)C#N
+LATHOF,LATHOF,at 150 K,CN1N(C(=O)C=C1C)c1ccccc1.Nc1ccc(cc1)C(O)=O,P21,False,150.0,mediumT,CN1N(C(=O)C=C1C)c1ccccc1,Nc1ccc(cc1)C(O)=O
+SOLFEG,SOLFEG,at 150 K,OC(=O)c1ccc(O)cc1.N#Cc1ccncc1,P21/c,False,150.0,mediumT,OC(=O)c1ccc(O)cc1,N#Cc1ccncc1
+EWAPIC,EWAPIC,at 150 K,Cc1cc(O)cc(O)c1.CN(C)c1ccncc1,P21/c,False,150.0,mediumT,Cc1cc(O)cc(O)c1,CN(C)c1ccncc1
+WEPLEJ,WEPLEJ,at 170 K,COC(=O)NC1=[NH+]c2ccccc2N1.O=S(=O)([O-])c1ccccc1,P-1,False,170.0,mediumT,COC(=O)NC1=[NH+]c2ccccc2N1,O=S(=O)([O-])c1ccccc1
+IWARUT,IWARUT,at 203 K,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12.Cc1ccc2ccccc2n1,C2,False,203.0,mediumT,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,Cc1ccc2ccccc2n1
+NUQHAK,NUQHAK,150 K,Cc1c(O)cccc1O.c1cc(ccn1)C=Cc1ccncc1,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,c1cc(ccn1)C=Cc1ccncc1
+RIBZIP,RIBZIP,200 K,[NH3+]Cc1ccccc1O.CCCC(=O)[O-],P-1,False,200.0,mediumT,[NH3+]Cc1ccccc1O,CCCC(=O)[O-]
+LILFEU,LILFEU,153 K,CC1=CC(=O)NC(=[NH+]1)N.OC(=O)CC(=O)[O-],P21/c,False,153.0,mediumT,CC1=CC(=O)NC(=[NH+]1)N,OC(=O)CC(=O)[O-]
+OSEGUR,OSEGUR,160 K,NC(=O)c1ccc[n+](c1)C1OC(CO)C(O)C1O.OC(CC(O)=O)C(=O)[O-],P212121,False,160.0,mediumT,NC(=O)c1ccc[n+](c1)C1OC(CO)C(O)C1O,OC(CC(O)=O)C(=O)[O-]
+TAKJUN,TAKJUN,173 K,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.[NH3+]C(CC1=CNc2ccccc12)C(O)=O,P21,False,173.0,mediumT,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,[NH3+]C(CC1=CNc2ccccc12)C(O)=O
+JUKJII,JUKJII,at 223K,CC(=NO)c1ccccc1.OC(=O)c1ccccc1,P21/c,False,223.0,mediumT,CC(=NO)c1ccccc1,OC(=O)c1ccccc1
+PORVAW,PORVAW,140 K,Cc1c(Cl)cccc1Nc1ccccc1C(=O)[O-].COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,P-1,False,140.0,mediumT,Cc1c(Cl)cccc1Nc1ccccc1C(=O)[O-],COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC
+AXUGOQ,AXUGOQ,at 173 K,OC(=O)c1cccc(c1)C(O)=O.c1ccc2c(c1)cnc1ccccc21,Pc,False,173.0,mediumT,OC(=O)c1cccc(c1)C(O)=O,c1ccc2c(c1)cnc1ccccc21
+HUHQUZ,HUHQUZ,200 K,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,Pbca,False,200.0,mediumT,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+LORWOF,LORWOF,at 130 K,NC(=O)c1cc[nH+]cc1.OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],Cc,False,130.0,mediumT,NC(=O)c1cc[nH+]cc1,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-]
+HIQZIS,HIQZIS,at 153 K,O=N(=O)C1=N[N-]NN1.NC1=NC(=[NH2+])NC(=O)N1,Pc,False,153.0,mediumT,O=N(=O)C1=N[N-]NN1,NC1=NC(=[NH2+])NC(=O)N1
+IPOPAF,IPOPAF,at 173 K,FC(F)(F)S(=O)(=O)[O-].CCN1C=CC=CB1O[n+]1ccccc1,P21/c,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CCN1C=CC=CB1O[n+]1ccccc1
+NUKXEX,NUKXEX,at 180 K,CC(=O)N1CCN(CC1)C(C)=O.OC(=O)c1ccccc1O,Pbca,False,180.0,mediumT,CC(=O)N1CCN(CC1)C(C)=O,OC(=O)c1ccccc1O
+GOHHUG,GOHHUG,at 143 K,Cc1[nH+]c(O)ccc1.CS(=O)(=O)[N-]S(C)(=O)=O,P-1,False,143.0,mediumT,Cc1[nH+]c(O)ccc1,CS(=O)(=O)[N-]S(C)(=O)=O
+UKOSET,UKOSET,at 173 K,CC(C)=NNC(=O)c1cccnc1.OC(=O)CCCCC(O)=O,P21/n,False,173.0,mediumT,CC(C)=NNC(=O)c1cccnc1,OC(=O)CCCCC(O)=O
+KOPJUW01,KOPJUW01,150 K,c1cc(ccn1)c1ccncc1.NC(N)=O,Pnma,False,150.0,mediumT,c1cc(ccn1)c1ccncc1,NC(N)=O
+MIPNUY,MIPNUY,150 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1=NN(OCF)c2ccc(C)cc12,P21/c,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[N+]1=NN(OCF)c2ccc(C)cc12
+LATLIC,LATLIC,at 203 K,OC(=O)c1cccc(c1)C(O)=O.C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1,C2/c,False,203.0,mediumT,OC(=O)c1cccc(c1)C(O)=O,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1
+OFUHOM,OFUHOM,at 180 K,Nc1ncccn1.OCc1ccc(CO)cc1,P-1,False,180.0,mediumT,Nc1ncccn1,OCc1ccc(CO)cc1
+RASBUJ,RASBUJ,at 223 K,Oc1cc(O)cc(c1)C(c1ccccc1O)c1ccccc1O.C(Cc1ccncc1)c1ccncc1,P-1,False,223.0,mediumT,Oc1cc(O)cc(c1)C(c1ccccc1O)c1ccccc1O,C(Cc1ccncc1)c1ccncc1
+EVOWAN,EVOWAN,at 150 K,OC(=O)c1cc(C(O)=O)c(cc1C(O)=O)C(O)=O.CN(C)C=O,P21/n,False,150.0,mediumT,OC(=O)c1cc(C(O)=O)c(cc1C(O)=O)C(O)=O,CN(C)C=O
+OQIWIX,OQIWIX,192 K,c1cc(ccn1)C=Cc1ccncc1.Oc1cc(O)c2C(=O)C=C(Oc2c1)c1ccccc1,P21/c,False,192.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,Oc1cc(O)c2C(=O)C=C(Oc2c1)c1ccccc1
+ZIBDOF,ZIBDOF,at 173 K,[O-]N1N=NN=C1C1=NN=NN1[O-].[NH3+]NC(=O)N[NH3+],P21/c,False,173.0,mediumT,[O-]N1N=NN=C1C1=NN=NN1[O-],[NH3+]NC(=O)N[NH3+]
+NEWROX,NEWROX,at 173 K,CC(=O)NCc1ccncc1.OC(=O)C=CC(O)=O,P-1,False,173.0,mediumT,CC(=O)NCc1ccncc1,OC(=O)C=CC(O)=O
+SOLJAG,SOLJAG,at 150 K,COc1ccc(cc1)C(O)=O.C(Cc1ccncc1)c1ccncc1,P-1,False,150.0,mediumT,COc1ccc(cc1)C(O)=O,C(Cc1ccncc1)c1ccncc1
+ZUDSIC,ZUDSIC,at 173 K,Nc1nc(N)nc(N)n1.CN1CCCC1=O,P21/n,False,173.0,mediumT,Nc1nc(N)nc(N)n1,CN1CCCC1=O
+VOHCEC,VOHCEC,at 173 K,[NH3+]NC(=O)N[NH3+].[O-]N1N=NC(=N1)C1=NN=N[N-]1,P21/n,False,173.0,mediumT,[NH3+]NC(=O)N[NH3+],[O-]N1N=NC(=N1)C1=NN=N[N-]1
+KERQUV,KERQUV,at 180 K,ClC(Cl)(Cl)C(=O)[O-].[NH3+]c1ccc(cc1C)N(=O)=O,P21/c,False,180.0,mediumT,ClC(Cl)(Cl)C(=O)[O-],[NH3+]c1ccc(cc1C)N(=O)=O
+QIJJIF,QIJJIF,150 K,[NH3+]CCNC(=O)C(=O)NCC[NH3+].OC(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-],P21/n,False,150.0,mediumT,[NH3+]CCNC(=O)C(=O)NCC[NH3+],OC(=O)c1cc(cc(c1)C(=O)[O-])C(=O)[O-]
+QAMREC,QAMREC,at 150 K,Oc1ccc(O)cc1.C1COCCN1,P21/n,False,150.0,mediumT,Oc1ccc(O)cc1,C1COCCN1
+LAHHEL,LAHHEL,150 K,OC(=O)Cc1ccc(O)c(O)c1.NC(=O)c1ccncc1,P-1,False,150.0,mediumT,OC(=O)Cc1ccc(O)c(O)c1,NC(=O)c1ccncc1
+MOXXUV,MOXXUV,150 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(C(=O)[O-])c1cccc(Cl)c1,P21,False,150.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(C(=O)[O-])c1cccc(Cl)c1
+QILNAE,QILNAE,150 K,C[N+](C)(CCO)CCF.Cc1ccc(cc1)S(=O)(=O)[O-],P21/c,False,150.0,mediumT,C[N+](C)(CCO)CCF,Cc1ccc(cc1)S(=O)(=O)[O-]
+WAWDEE,WAWDEE,at 173 K,c1cncnc1.Oc1cccc(O)c1O,P21/c,False,173.0,mediumT,c1cncnc1,Oc1cccc(O)c1O
+UBILAW,UBILAW,173 K,CCC(C)=NNC(=O)c1ccncc1.OC(=O)c1ccccc1O,P21/n,False,173.0,mediumT,CCC(C)=NNC(=O)c1ccncc1,OC(=O)c1ccccc1O
+DEKXIC,DEKXIC,at 200 K,OC(=O)c1cccc(n1)C(=O)[O-].NC(=O)C1CC[NH2+]CC1,P21/c,False,200.0,mediumT,OC(=O)c1cccc(n1)C(=O)[O-],NC(=O)C1CC[NH2+]CC1
+ATALOZ,ATALOZ,133 K,OC(=O)c1cc(O)cc(O)c1.c1ccc2nc3ccccc3nc2c1,C2/c,False,133.0,mediumT,OC(=O)c1cc(O)cc(O)c1,c1ccc2nc3ccccc3nc2c1
+GABZIT,GABZIT,at 130 K,OC(=O)CCCCCCCCC(O)=O.N(c1cccc(Nc2ccccn2)c1)c1ccccn1,P21/m,False,130.0,mediumT,OC(=O)CCCCCCCCC(O)=O,N(c1cccc(Nc2ccccn2)c1)c1ccccn1
+KABYAQ,KABYAQ,150 K,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.[NH3+]C(C1NS(=O)(=O)c2ccccc12)c1ccccc1,P21,False,150.0,mediumT,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,[NH3+]C(C1NS(=O)(=O)c2ccccc12)c1ccccc1
+HOLWAI01,HOLWAI01,at 150 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.CC(=CC(O)=O)C(O)=O,P21/n,False,150.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,CC(=CC(O)=O)C(O)=O
+LEXQUC,LEXQUC,at 173 K,OC(=O)CC(=O)[O-].COc1ccc2[NH+]=C(N)Sc2c1,P21/n,False,173.0,mediumT,OC(=O)CC(=O)[O-],COc1ccc2[NH+]=C(N)Sc2c1
+XOLLIT,XOLLIT,at 173 K,O=C([O-])CCC1CCCCC1.C[N+](C)(C)CCO,P21,False,173.0,mediumT,O=C([O-])CCC1CCCCC1,C[N+](C)(C)CCO
+XEFFAT,XEFFAT,170 K,NC(=O)c1cnccn1.COc1cc(cc(OC)c1O)C(O)=O,C2/c,False,170.0,mediumT,NC(=O)c1cnccn1,COc1cc(cc(OC)c1O)C(O)=O
+ENEPIY,ENEPIY,173 K,OC(=O)c1cc(Cl)cc(Cl)c1O.c1cnccn1,P-1,False,173.0,mediumT,OC(=O)c1cc(Cl)cc(Cl)c1O,c1cnccn1
+VAQSEM,VAQSEM,at 203 K,O=C([O-])c1cccc(c1)N(=O)=O.COc1cc(C)[nH+]c(N)n1,P-1,False,203.0,mediumT,O=C([O-])c1cccc(c1)N(=O)=O,COc1cc(C)[nH+]c(N)n1
+NUKXUN,NUKXUN,at 180 K,NC(=O)c1cccnc1.OC(=O)CC(O)=O,Pna21,False,180.0,mediumT,NC(=O)c1cccnc1,OC(=O)CC(O)=O
+WANKOL,WANKOL,at 178 K,O=C([O-])c1cc2CCc3ccc(CCc1cc2)cc3.C[NH2+]C(C)C(O)c1ccccc1,P21,False,178.0,mediumT,O=C([O-])c1cc2CCc3ccc(CCc1cc2)cc3,C[NH2+]C(C)C(O)c1ccccc1
+WOJYAX,WOJYAX,at 153 K,[NH2+]=C1NC(=O)NC=C1F.CC1=CC(=O)[N-]S(=O)(=O)O1,P-1,False,153.0,mediumT,[NH2+]=C1NC(=O)NC=C1F,CC1=CC(=O)[N-]S(=O)(=O)O1
+EFOXAY,EFOXAY,at 143 K,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O.C1CC[P+]2(C1)CCCC2,P21/n,False,143.0,mediumT,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,C1CC[P+]2(C1)CCCC2
+YEMZID,YEMZID,150 K,Cc1c(Cl)cccc1Nc1ccccc1C(=O)[O-].Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,P-1,False,150.0,mediumT,Cc1c(Cl)cccc1Nc1ccccc1C(=O)[O-],Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl
+UXIXAB04,UXIXAB04,243 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.[2H][N+]12CCN(CC1)CC2,P21,False,243.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,[2H][N+]12CCN(CC1)CC2
+HOFZAG,HOFZAG,150 K,NC(=O)c1ccncc1.OC(=O)CCCCCCCCC(O)=O,P-1,False,150.0,mediumT,NC(=O)c1ccncc1,OC(=O)CCCCCCCCC(O)=O
+CUYBIJ,CUYBIJ,230 K,[NH3+]C(CO)(CO)CO.Oc1ccc(cc1C(=O)[O-])c1ccc(F)cc1F,P-1,False,230.0,mediumT,[NH3+]C(CO)(CO)CO,Oc1ccc(cc1C(=O)[O-])c1ccc(F)cc1F
+VILSIT,VILSIT,at 133 K,Cc1cc2N=CN(Cc3cccnc3)c2cc1C.ON=C(C#N)c1ccc(Br)cc1,P21/c,False,133.0,mediumT,Cc1cc2N=CN(Cc3cccnc3)c2cc1C,ON=C(C#N)c1ccc(Br)cc1
+RESGOM,RESGOM,at 180 K,OC(=O)CCC(O)=O.Cc1cccc(C)n1,P21/c,False,180.0,mediumT,OC(=O)CCC(O)=O,Cc1cccc(C)n1
+ECIREQ,ECIREQ,153 K,[NH3+]NC(=O)NNC(=O)NN.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,153.0,mediumT,[NH3+]NC(=O)NNC(=O)NN,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+LUTPOI,LUTPOI,248 K,CCCc1[nH+]ccc(c1)C(N)=S.OC(=O)C(=O)[O-],C2/c,False,248.0,mediumT,CCCc1[nH+]ccc(c1)C(N)=S,OC(=O)C(=O)[O-]
+MOGZEN,MOGZEN,at 173 K,CS(=O)(=O)[N-]S(C)(=O)=O.C[N+](C)(C)CC(O)=O,P212121,False,173.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,C[N+](C)(C)CC(O)=O
+WOCFAX,WOCFAX,at 173 K,OC(=O)C=Cc1ccccc1.CC(C)=NNC(=O)c1ccncc1,Pb21a,False,173.0,mediumT,OC(=O)C=Cc1ccccc1,CC(C)=NNC(=O)c1ccncc1
+HUYXUU,HUYXUU,at 173 K,CC1(C)[NH2+]C(C)(C)CC(=O)C1.FC(F)(F)C(=O)[O-],P21/m,False,173.0,mediumT,CC1(C)[NH2+]C(C)(C)CC(=O)C1,FC(F)(F)C(=O)[O-]
+QETMOS,QETMOS,at 190 K,c1cc(ccn1)c1ccncc1.Nc1cccc(O)c1,P21/c,False,190.0,mediumT,c1cc(ccn1)c1ccncc1,Nc1cccc(O)c1
+ODATIX,ODATIX,at 150 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.CN(C)C=O,P-1,False,150.0,mediumT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,CN(C)C=O
+GISDUI,GISDUI,at 130 K,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O.OC(=O)c1[nH+]c2ccccc2cc1,P-1,False,130.0,mediumT,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O,OC(=O)c1[nH+]c2ccccc2cc1
+VAQRUB,VAQRUB,at 203 K,Fc1ccccc1C(=O)[O-].COc1cc(C)[nH+]c(N)n1,P21/n,False,203.0,mediumT,Fc1ccccc1C(=O)[O-],COc1cc(C)[nH+]c(N)n1
+BOVYES,BOVYES,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cc(F)ccc1F,P-1,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cc(F)ccc1F
+DIHKAH,DIHKAH,at 130 K,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O.C[Si](C)(C)C(c1cc[nH+]cc1)[Si](C)(C)C,P-1,False,130.0,mediumT,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,C[Si](C)(C)C(c1cc[nH+]cc1)[Si](C)(C)C
+OSEGEB,OSEGEB,160 K,OC(C(O)C(=O)[O-])C(O)=O.NC(=O)c1ccc[n+](c1)C1OC(CO)C(O)C1O,P21,False,160.0,mediumT,OC(C(O)C(=O)[O-])C(O)=O,NC(=O)c1ccc[n+](c1)C1OC(CO)C(O)C1O
+KEMCEL,KEMCEL,at 130 K,OC(=O)c1c(F)c(F)c(F)c(F)c1F.NC(=O)c1ccccc1,P21/c,False,130.0,mediumT,OC(=O)c1c(F)c(F)c(F)c(F)c1F,NC(=O)c1ccccc1
+SEPLUV,SEPLUV,at 150 K,CN(C)c1cccc(c1)C(O)=O.CN(C)c1cccc(c1)C(=O)NC1=NCCS1,P21/c,False,150.0,mediumT,CN(C)c1cccc(c1)C(O)=O,CN(C)c1cccc(c1)C(=O)NC1=NCCS1
+USUWOW,USUWOW,133 K,S=C1SCCN1C1=[NH+]CCS1.O=S1(=O)[N-]S(=O)(=O)c2ccccc12,P-1,False,133.0,mediumT,S=C1SCCN1C1=[NH+]CCS1,O=S1(=O)[N-]S(=O)(=O)c2ccccc12
+QIMFOH,QIMFOH,at 150 K,COC(=O)Cc1nc2C(=O)N(C)C(=O)N(C)c2nc1O.CS(C)=O,P-1,False,150.0,mediumT,COC(=O)Cc1nc2C(=O)N(C)C(=O)N(C)c2nc1O,CS(C)=O
+TOCSUC,TOCSUC,150 K,[NH3+]c1ccc(Br)cc1.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P212121,False,150.0,mediumT,[NH3+]c1ccc(Br)cc1,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+CEKKIO,CEKKIO,at 173 K,c1cc(ccn1)c1ccncc1.Oc1cccc(O)c1O,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1cccc(O)c1O
+CEKKEK,CEKKEK,at 173 K,c1ccc2nc3ccccc3cc2c1.Oc1cccc(O)c1O,P-1,False,173.0,mediumT,c1ccc2nc3ccccc3cc2c1,Oc1cccc(O)c1O
+KOSYIA,KOSYIA,at 130 K,CC1(C)COP(=O)([O-])OC1c1c(Cl)cccc1Cl.C[NH2+]C(C)C(O)c1ccccc1,P21,False,130.0,mediumT,CC1(C)COP(=O)([O-])OC1c1c(Cl)cccc1Cl,C[NH2+]C(C)C(O)c1ccccc1
+DOJMOF,DOJMOF,at 233 K,CN1C=C[N+](=C1C)O.Cc1ccc(cc1)S(=O)(=O)[O-],P21/c,False,233.0,mediumT,CN1C=C[N+](=C1C)O,Cc1ccc(cc1)S(=O)(=O)[O-]
+YAXROG,YAXROG,at 130 K,Oc1ccccc1C(=O)[O-].Fc1ccc(cc1)C(N1CC[NH2+]CC1)c1ccc(F)cc1,C2/c,False,130.0,mediumT,Oc1ccccc1C(=O)[O-],Fc1ccc(cc1)C(N1CC[NH2+]CC1)c1ccc(F)cc1
+ENEPEU,ENEPEU,173 K,c1cc(ccn1)c1ccncc1.Oc1cc(Br)cc(Br)c1,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,Oc1cc(Br)cc(Br)c1
+POCBUH,POCBUH,170.2 K,NC(N)=O.COc1cc2OC(=O)C=Cc2cc1OC,Pc,False,170.0,mediumT,NC(N)=O,COc1cc2OC(=O)C=Cc2cc1OC
+LUNYUO,LUNYUO,at 180 K,CCCCC(O)=O.c1cnccn1,P21/c,False,180.0,mediumT,CCCCC(O)=O,c1cnccn1
+EJEZIF,EJEZIF,173 K,CN1C=CN=C1.CC(=O)NO,Pbca,False,173.0,mediumT,CN1C=CN=C1,CC(=O)NO
+VITTAV,VITTAV,173 K,[NH2+]1CCN(CC1)Cc1ccc2OCOc2c1.Clc1ccc(cc1)C(=O)[O-],P21/c,False,173.0,mediumT,[NH2+]1CCN(CC1)Cc1ccc2OCOc2c1,Clc1ccc(cc1)C(=O)[O-]
+ACESIL,ACESIL,at 150 K,c1ccncc1.Oc1ccc(O)cc1,P-1,False,150.0,mediumT,c1ccncc1,Oc1ccc(O)cc1
+MEFYUU,MEFYUU,173 K,FC(F)(F)S(=O)(=O)[O-].CN1C=C([N+](=N1)C)C1=Nc2ccccc2O1,P21/n,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C=C([N+](=N1)C)C1=Nc2ccccc2O1
+YUFFIQ,YUFFIQ,150 K,c1cc(ccn1)N=Nc1ccncc1.Oc1cc(O)c2C(=O)C(=C(Oc2c1)c1ccc(O)c(O)c1)O,C2/c,False,150.0,mediumT,c1cc(ccn1)N=Nc1ccncc1,Oc1cc(O)c2C(=O)C(=C(Oc2c1)c1ccc(O)c(O)c1)O
+HAXKUQ,HAXKUQ,150 K,CN1C(=O)N(C)C2=C([NH+]=CN2)C1=O.OC1=C([O-])C(=O)C1=O,P21/c,False,150.0,mediumT,CN1C(=O)N(C)C2=C([NH+]=CN2)C1=O,OC1=C([O-])C(=O)C1=O
+MUPPIW,MUPPIW,at 150 K,CN1CCN(C)CC1.CC(=O)Nc1ccc(O)cc1,P21/c,False,150.0,mediumT,CN1CCN(C)CC1,CC(=O)Nc1ccc(O)cc1
+BOTQAF,BOTQAF,173 K,COc1ccc2C3[NH2+]N(C)C(=O)C43CCCC4c2c1.FC(F)(F)S(=O)(=O)[O-],P21/c,False,173.0,mediumT,COc1ccc2C3[NH2+]N(C)C(=O)C43CCCC4c2c1,FC(F)(F)S(=O)(=O)[O-]
+PUHFAA,PUHFAA,at 173 K,c1cc(ccn1)c1ccncc1.OC(=O)c1ccc2C(=O)OC(=O)c3ccc(C(O)=O)c1c23,P-1,False,173.0,mediumT,c1cc(ccn1)c1ccncc1,OC(=O)c1ccc2C(=O)OC(=O)c3ccc(C(O)=O)c1c23
+FAYXOV,FAYXOV,150 K,Nc1ccc(C(O)=O)c(O)c1.NC(=O)N1c2ccccc2C=Cc2ccccc12,C2/c,False,150.0,mediumT,Nc1ccc(C(O)=O)c(O)c1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+NUQKUH,NUQKUH,150 K,Cc1c(O)cccc1O.c1cnc2c(c1)ccc1cccnc21,P21/n,False,150.0,mediumT,Cc1c(O)cccc1O,c1cnc2c(c1)ccc1cccnc21
+POCPIH,POCPIH,at 180 K,O=C1CCCC(=O)N1.Cc1ccc(cc1)c1nc(N)nc(N)n1,P-1,False,180.0,mediumT,O=C1CCCC(=O)N1,Cc1ccc(cc1)c1nc(N)nc(N)n1
+GODNAO,GODNAO,at 150 K,Cc1cc(C)nc(C)c1.OC(=O)c1ccccc1,P21/c,False,150.0,mediumT,Cc1cc(C)nc(C)c1,OC(=O)c1ccccc1
+ZOHTUN,ZOHTUN,at 150 K,Nc1cc(Cl)cc(Cl)c1.Oc1cc(Cl)c(Cl)c(Cl)c1,I2/a,False,150.0,mediumT,Nc1cc(Cl)cc(Cl)c1,Oc1cc(Cl)c(Cl)c(Cl)c1
+XEGLAW,XEGLAW,at 150 K,NC1=[NH+]c2cc(Cl)ccc2O1.Clc1ccc(OCC(=O)[O-])cc1Cl,P21/c,False,150.0,mediumT,NC1=[NH+]c2cc(Cl)ccc2O1,Clc1ccc(OCC(=O)[O-])cc1Cl
+KEWNOQ,KEWNOQ,203 K,CC(N)=O.CC(=O)Oc1ccccc1C(O)=O,Pbca,False,203.0,mediumT,CC(N)=O,CC(=O)Oc1ccccc1C(O)=O
+FERZAE,FERZAE,at 190 K,CCCCCC(=O)c1c(O)cc(O)cc1O.c1cc(ccn1)C=Cc1ccncc1,P-1,False,190.0,mediumT,CCCCCC(=O)c1c(O)cc(O)cc1O,c1cc(ccn1)C=Cc1ccncc1
+NIPTUC,NIPTUC,at 130 K,O=C(Nc1ccccc1)C(=O)Nc1ccccc1.Oc1c(F)c(F)c(F)c(F)c1F,P21/c,False,130.0,mediumT,O=C(Nc1ccccc1)C(=O)Nc1ccccc1,Oc1c(F)c(F)c(F)c(F)c1F
+IGAYEX,IGAYEX,173 K,[NH3+]c1ccc(cc1)C1(CC)CCC(=O)NC1=O.CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,P21,False,173.0,mediumT,[NH3+]c1ccc(cc1)C1(CC)CCC(=O)NC1=O,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2
+CARVEY,CARVEY,at 150 K,Oc1c(cc(cc1N(=O)=O)N(=O)=O)C(=O)[O-].CSC1=[NH+]c2cc(Oc3cccc(Cl)c3Cl)c(Cl)cc2N1,P-1,False,150.0,mediumT,Oc1c(cc(cc1N(=O)=O)N(=O)=O)C(=O)[O-],CSC1=[NH+]c2cc(Oc3cccc(Cl)c3Cl)c(Cl)cc2N1
+VUZZUL,VUZZUL,at 178 K,Brc1ccc(cc1)S(=O)(=O)NS(=O)(=O)c1ccc(Br)cc1.CNC(=O)NC,P-1,False,178.0,mediumT,Brc1ccc(cc1)S(=O)(=O)NS(=O)(=O)c1ccc(Br)cc1,CNC(=O)NC
+MOXVOL,MOXVOL,at 173 K,OC(=O)CCCC(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,173.0,mediumT,OC(=O)CCCC(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+UWAMIQ,UWAMIQ,173 K,Oc1ccccc1C(=O)[O-].NC1=[NH+]C(=O)NC=C1,P21/n,False,173.0,mediumT,Oc1ccccc1C(=O)[O-],NC1=[NH+]C(=O)NC=C1
+HUCXEJ,HUCXEJ,at 130 K,[NH3+]c1ccc(Cl)cc1.OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-],C2,False,130.0,mediumT,[NH3+]c1ccc(Cl)cc1,OC(=O)c1cc(Cl)c(Cl)cc1C(=O)[O-]
+JUGWOZ,JUGWOZ,173 K,Nc1[nH+]cc(Br)cc1.Clc1cc(ccc1C(=O)[O-])N(=O)=O,P-1,False,173.0,mediumT,Nc1[nH+]cc(Br)cc1,Clc1cc(ccc1C(=O)[O-])N(=O)=O
+RIWPAS,RIWPAS,150 K,CC1(C)NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl.CN(C)C=O,Pca21,False,150.0,mediumT,CC1(C)NC(=NC(=N1)C(Cl)(Cl)Cl)C(Cl)(Cl)Cl,CN(C)C=O
+MEWYIW,MEWYIW,at 173 K,FC(F)(F)S(=O)(=O)[O-].CN(C)c1cc[n+]2c(c1)C(=O)c1ccccc21,Pc,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN(C)c1cc[n+]2c(c1)C(=O)c1ccccc21
+NELPOJ01,NELPOJ01,at 160 K,CC(=NO)C(C)=NO.Cc1nc2ccccc2nc1C,P-1,False,160.0,mediumT,CC(=NO)C(C)=NO,Cc1nc2ccccc2nc1C
+ZAQROC,ZAQROC,193 K,c1cc(ccn1)c1ccncc1.CCCCC(O)=O,P-1,False,193.0,mediumT,c1cc(ccn1)c1ccncc1,CCCCC(O)=O
+AXUGAC,AXUGAC,at 173 K,c1ccc2c(c1)cnc1ccccc21.OC(=O)C=CC(O)=O,P-1,False,173.0,mediumT,c1ccc2c(c1)cnc1ccccc21,OC(=O)C=CC(O)=O
+MOXYOQ,MOXYOQ,150 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(C(=O)[O-])c1cccc(Cl)c1,C2,False,150.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(C(=O)[O-])c1cccc(Cl)c1
+BOQHOE01,BOQHOE01,150 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O.c1cnccn1,P-1,False,150.0,mediumT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,c1cnccn1
+BOWKEF,BOWKEF,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccccc1F,P21/c,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccccc1F
+FICBEA,FICBEA,at 173 K,Cc1cccc2SC(=Nc12)N.OC(=O)CCCCCCC(O)=O,P21/c,False,173.0,mediumT,Cc1cccc2SC(=Nc12)N,OC(=O)CCCCCCC(O)=O
+QABHIO,QABHIO,180 K,O=C1C=CC(=O)C=C1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,180.0,mediumT,O=C1C=CC(=O)C=C1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+MOXVAX,MOXVAX,at 173 K,NC(=O)N1c2ccccc2C=Cc2ccccc12.OC(=O)c1ccccc1,C2/c,False,173.0,mediumT,NC(=O)N1c2ccccc2C=Cc2ccccc12,OC(=O)c1ccccc1
+ZEXGUH,ZEXGUH,173 K,OC(=O)c1ccccc1.Oc1ccc(Br)cc1C=Nc1cccnc1,C2/c,False,173.0,mediumT,OC(=O)c1ccccc1,Oc1ccc(Br)cc1C=Nc1cccnc1
+RIMXAP,RIMXAP,130 K,CC(C)(C)[NH+]=Cc1ccccc1Br.FC(F)(F)S(=O)(=O)[O-],P-1,False,130.0,mediumT,CC(C)(C)[NH+]=Cc1ccccc1Br,FC(F)(F)S(=O)(=O)[O-]
+CEJPIU,CEJPIU,160 K,CN(C)P(=O)(N(C)C)N(C)C.NS(N)(=O)=O,P21/c,False,160.0,mediumT,CN(C)P(=O)(N(C)C)N(C)C,NS(N)(=O)=O
+IPEVEF,IPEVEF,at 173 K,OC(=O)C1CCCCC1.C1N2CN3CN1CN(C2)C3,P21/n,False,173.0,mediumT,OC(=O)C1CCCCC1,C1N2CN3CN1CN(C2)C3
+ZOXCIA,ZOXCIA,at 173 K,NC(=[NH2+])NN=Cc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O.O=N(=O)C1=N[N-]N=N1,P-1,False,173.0,mediumT,NC(=[NH2+])NN=Cc1c(cc(cc1N(=O)=O)N(=O)=O)N(=O)=O,O=N(=O)C1=N[N-]N=N1
+GANYAW,GANYAW,at 180 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)CC(O)=O,Fdd2,False,180.0,mediumT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)CC(O)=O
+VAKVEJ,VAKVEJ,at 153 K,NC(=O)c1ccncc1.Oc1cc(O)cc(O)c1,P-1,False,153.0,mediumT,NC(=O)c1ccncc1,Oc1cc(O)cc(O)c1
+LILFAQ,LILFAQ,153 K,CC1=CC(=O)NC(=[NH+]1)N.OC(=O)CC(=O)[O-],P21/n,False,153.0,mediumT,CC1=CC(=O)NC(=[NH+]1)N,OC(=O)CC(=O)[O-]
+GEDLAD,GEDLAD,at 173 K,CN1C=[N+](C)C(=C1)N(=O)=O.COS(=O)(=O)[O-],P21/n,False,173.0,mediumT,CN1C=[N+](C)C(=C1)N(=O)=O,COS(=O)(=O)[O-]
+KUCGAS,KUCGAS,at 230 K,Nc1ccccc1.Cc1ccccc1O,Pc,False,230.0,mediumT,Nc1ccccc1,Cc1ccccc1O
+BOWJII,BOWJII,at 150 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cc(F)c(F)c(F)c1,P21/n,False,150.0,mediumT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cc(F)c(F)c(F)c1
+FAKKUA,FAKKUA,173 K,OC(=O)Cc1ccccc1.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,173.0,mediumT,OC(=O)Cc1ccccc1,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+VAQSOW,VAQSOW,at 203 K,CN(C)c1cccc(c1)C(=O)[O-].COc1cc(C)[nH+]c(N)n1,P-1,False,203.0,mediumT,CN(C)c1cccc(c1)C(=O)[O-],COc1cc(C)[nH+]c(N)n1
+AJAKAX,AJAKAX,at 173 K,NC(=O)c1ccncc1.CCCC=CC(O)=O,I2/a,False,173.0,mediumT,NC(=O)c1ccncc1,CCCC=CC(O)=O
+KOTNOY,KOTNOY,at 200 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.OC(C(=O)[O-])c1ccccc1,C2,False,200.0,mediumT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,OC(C(=O)[O-])c1ccccc1
+ZEFFEX01,ZEFFEX01,at 150 K,OC(=O)C(O)=O.CN(C)C(N)=O,P21/c,False,150.0,mediumT,OC(=O)C(O)=O,CN(C)C(N)=O
+KALZUT,KALZUT,at 143 K,FC(F)(F)C(=O)[O-].CC1(O)C[NH2+]CC1C=C,P21/c,False,143.0,mediumT,FC(F)(F)C(=O)[O-],CC1(O)C[NH2+]CC1C=C
+YACXUZ,YACXUZ,173 K,OC(=O)C(O)=O.N#Cc1ccccn1,P-1,False,173.0,mediumT,OC(=O)C(O)=O,N#Cc1ccccn1
+CAGQEK,CAGQEK,200 K,Oc1ccc2c(Oc3cc(O)ccc3C32OC(=O)c2ccccc32)c1.C(Cc1ccncc1)c1ccncc1,P21/a,False,200.0,mediumT,Oc1ccc2c(Oc3cc(O)ccc3C32OC(=O)c2ccccc32)c1,C(Cc1ccncc1)c1ccncc1
+TAJWOT,TAJWOT,173 K,CS(=O)(=O)[N-]S(C)(=O)=O.[NH3+]c1ccc(Br)cc1,P21,False,173.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,[NH3+]c1ccc(Br)cc1
+AMILEN,AMILEN,at 150 K,NC(N)=O.c1ccc(nc1)c1ccccn1,P-1,False,150.0,mediumT,NC(N)=O,c1ccc(nc1)c1ccccn1
+KIGMIX,KIGMIX,at 173 K,OC(=O)C=CC(=O)[O-].OC(=O)c1ccc[nH+]c1Nc1cccc(c1)C(F)(F)F,P21/c,False,173.0,mediumT,OC(=O)C=CC(=O)[O-],OC(=O)c1ccc[nH+]c1Nc1cccc(c1)C(F)(F)F
+CAJTEP,CAJTEP,183 K,Oc1cccc(O)c1C(=O)[O-].OC(=O)c1c[nH+]ccc1,Cc,False,183.0,mediumT,Oc1cccc(O)c1C(=O)[O-],OC(=O)c1c[nH+]ccc1
+RESGIG,RESGIG,at 180 K,OC(=O)CCC(O)=O.Cc1ccc(C)nc1,P21/n,False,180.0,mediumT,OC(=O)CCC(O)=O,Cc1ccc(C)nc1
+VEZPEY,VEZPEY,150 K,CCc1[nH+]c(C)ccc1O.OC(=O)CC(=O)[O-],P-1,False,150.0,mediumT,CCc1[nH+]c(C)ccc1O,OC(=O)CC(=O)[O-]
+PUCSOY,PUCSOY,173 K,OC(=O)c1ccc(Br)cc1.Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,P21/n,False,173.0,mediumT,OC(=O)c1ccc(Br)cc1,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+SAYPOZ,SAYPOZ,at 173 K,OC(=O)c1cccc(O)c1.CCC(C)=NNC(=O)c1ccncc1,P-1,False,173.0,mediumT,OC(=O)c1cccc(O)c1,CCC(C)=NNC(=O)c1ccncc1
+UFOTOY,UFOTOY,at 198 K,C[NH+]1C2CCC1C(O)(O)C(F)C2.CC1(CS(=O)(=O)[O-])C2CCC1(C)C(=O)C2Br,P21,False,198.0,mediumT,C[NH+]1C2CCC1C(O)(O)C(F)C2,CC1(CS(=O)(=O)[O-])C2CCC1(C)C(=O)C2Br
+AXOVIU,AXOVIU,200 K,OCC[NH2+]CCO.OCCN(CCO)C(=O)[O-],Pn,False,200.0,mediumT,OCC[NH2+]CCO,OCCN(CCO)C(=O)[O-]
+HOWLIR,HOWLIR,131.8 K,CN1C(=O)NC(=O)C2=C1NC=[N+]2C.Oc1cccc(O)c1C(=O)[O-],P21/n,False,131.0,mediumT,CN1C(=O)NC(=O)C2=C1NC=[N+]2C,Oc1cccc(O)c1C(=O)[O-]
+VUZZOF,VUZZOF,at 178 K,CN(C)C=O.Clc1ccc(cc1)S(=O)(=O)NS(=O)(=O)c1ccc(Cl)cc1,P21/n,False,178.0,mediumT,CN(C)C=O,Clc1ccc(cc1)S(=O)(=O)NS(=O)(=O)c1ccc(Cl)cc1
+MUPPUI,MUPPUI,at 150 K,CC(=O)Nc1ccc(O)cc1.C1CNCCN1,P21/c,False,150.0,mediumT,CC(=O)Nc1ccc(O)cc1,C1CNCCN1
+AKENAG,AKENAG,at 173 K,CN(C)C=O.CC(=O)Nc1cccc(NC(C)=O)n1,P21/c,False,173.0,mediumT,CN(C)C=O,CC(=O)Nc1cccc(NC(C)=O)n1
+PEVCOL,PEVCOL,200 K,CS(=O)(=O)[O-].[NH3+]C(CCCNC(N)=[NH2+])C(=O)[O-],P6522,False,200.0,mediumT,CS(=O)(=O)[O-],[NH3+]C(CCCNC(N)=[NH2+])C(=O)[O-]
+CEQBAE,CEQBAE,170 K,c1ccc2nc3ccccc3cc2c1.Oc1ccc(Cl)cc1,P21,False,170.0,mediumT,c1ccc2nc3ccccc3cc2c1,Oc1ccc(Cl)cc1
+BAZTIJ01,BAZTIJ01,173 K,OC(=O)CCCC(O)=O.N#Cc1cccnc1,P21/n,False,173.0,mediumT,OC(=O)CCCC(O)=O,N#Cc1cccnc1
+QOVQAU,QOVQAU,at 200 K,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,200.0,mediumT,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+UJOHEH,UJOHEH,at 200 K,NC(=O)C1CC[NH2+]CC1.O=C([O-])c1ccccc1N(=O)=O,C2/c,False,200.0,mediumT,NC(=O)C1CC[NH2+]CC1,O=C([O-])c1ccccc1N(=O)=O
+LEXQOW,LEXQOW,at 173 K,OC(=O)CCCCCCCC(O)=O.NC1=Nc2ccccc2S1,C2/c,False,173.0,mediumT,OC(=O)CCCCCCCC(O)=O,NC1=Nc2ccccc2S1
+YOXMEG,YOXMEG,200 K,Clc1cccc(c1)C(=O)[O-].C[N+](C)(O)c1ccc(cc1)N(=O)=O,P-1,False,200.0,mediumT,Clc1cccc(c1)C(=O)[O-],C[N+](C)(O)c1ccc(cc1)N(=O)=O
+NUQHEO,NUQHEO,150 K,Cc1c(O)cccc1O.C(Cc1ccncc1)c1ccncc1,C2/c,False,150.0,mediumT,Cc1c(O)cccc1O,C(Cc1ccncc1)c1ccncc1
+EKOCAL,EKOCAL,150 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.C[N+]1=CN(CCS(F)(=O)=O)C=C1N(=O)=O,P21/c,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,C[N+]1=CN(CCS(F)(=O)=O)C=C1N(=O)=O
+MOXXIJ,MOXXIJ,150 K,OC(C(=O)[O-])c1ccc(Br)cc1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P21,False,150.0,mediumT,OC(C(=O)[O-])c1ccc(Br)cc1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+LUNNOX,LUNNOX,at 173 K,NC(=O)c1ccncc1.OC(=O)C=CC(O)=O,P-1,False,173.0,mediumT,NC(=O)c1ccncc1,OC(=O)C=CC(O)=O
+YENVOG,YENVOG,150 K,O=C([O-])c1ccc2ccccc2n1.[NH3+]C(CC)CO,P21/n,False,150.0,mediumT,O=C([O-])c1ccc2ccccc2n1,[NH3+]C(CC)CO
+PEJTOQ,PEJTOQ,173 K,O=C[O-].C[N+]1=CN(CCO)C=C1,P21,False,173.0,mediumT,O=C[O-],C[N+]1=CN(CCO)C=C1
+ACOYOG,ACOYOG,at 173 K,Oc1cccc(O)c1.C(Cc1ccncc1)c1ccncc1,P-1,False,173.0,mediumT,Oc1cccc(O)c1,C(Cc1ccncc1)c1ccncc1
+CIHDEF,CIHDEF,173 K,NC(=O)c1c[nH+]ccc1.CC1=CC(=O)[N-]S(=O)(=O)O1,C2/c,False,173.0,mediumT,NC(=O)c1c[nH+]ccc1,CC1=CC(=O)[N-]S(=O)(=O)O1
+WIBVEM,WIBVEM,198 K,CC(=O)[O-].[NH3+]C(C)C(=O)NC(C)C(=O)OC(C)(C)C,P21,False,198.0,mediumT,CC(=O)[O-],[NH3+]C(C)C(=O)NC(C)C(=O)OC(C)(C)C
+TAKDOB,TAKDOB,143 K,CS(=O)(=O)[N-]S(C)(=O)=O.[NH3+]c1ccc(F)cc1,P21,False,143.0,mediumT,CS(=O)(=O)[N-]S(C)(=O)=O,[NH3+]c1ccc(F)cc1
+ZORVIL,ZORVIL,at 173 K,C1CCNCC1.OC1(c2ccccc2)c2ccccc2c2ccccc12,Pc,False,173.0,mediumT,C1CCNCC1,OC1(c2ccccc2)c2ccccc2c2ccccc12
+UWANEN,UWANEN,173 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].[NH2+]=C1NC(=O)NC=C1F,P-1,False,173.0,mediumT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],[NH2+]=C1NC(=O)NC=C1F
+PEGDUE,PEGDUE,200 K,CCC(=O)Nc1ccccn1.OC(=O)c1ccc(Cl)cc1,P21/n,False,200.0,mediumT,CCC(=O)Nc1ccccn1,OC(=O)c1ccc(Cl)cc1
+SOLHUY,SOLHUY,at 150 K,COc1ccc(cc1)C(O)=O.N#Cc1ccncc1,P-1,False,150.0,mediumT,COc1ccc(cc1)C(O)=O,N#Cc1ccncc1
+ABELIC,ABELIC,at 173 K,Oc1cccc(O)c1.c1ccc(C=Cc2ccccn2)nc1,P-1,False,173.0,mediumT,Oc1cccc(O)c1,c1ccc(C=Cc2ccccn2)nc1
+RATRUC,RATRUC,140.0 K,FC(F)(F)C(=O)[O-].CC1(C)C2COc3ccccc3C2[NH+]=C2C=NC=CN12,P21/c,False,140.0,mediumT,FC(F)(F)C(=O)[O-],CC1(C)C2COc3ccccc3C2[NH+]=C2C=NC=CN12
+DUJYEP,DUJYEP,150 K,CC1(C)C(C#N)(C#N)C1(C#N)C#N.C1CCOC1,P41212,False,150.0,mediumT,CC1(C)C(C#N)(C#N)C1(C#N)C#N,C1CCOC1
+RUXQAC,RUXQAC,at 203 K,OC(=O)C(O)=O.c1cnc2cccnc2c1,P-1,False,203.0,mediumT,OC(=O)C(O)=O,c1cnc2cccnc2c1
+ANILIV,ANILIV,133.2 K,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1.C1CCOC1,P-1,False,133.0,mediumT,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1,C1CCOC1
+UNIQIU,UNIQIU,143 K,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O.C[N+](C)=COCF,C2/c,False,143.0,mediumT,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O,C[N+](C)=COCF
+LATDER,LATDER,at 133 K,OC(=O)CCCCCCCCC(O)=O.O=C(NN=Cc1ccccn1)c1ccncc1,P-1,False,133.0,mediumT,OC(=O)CCCCCCCCC(O)=O,O=C(NN=Cc1ccccn1)c1ccncc1
+LUNZID,LUNZID,at 180 K,CCCCCCCC(O)=O.c1cnccn1,P-1,False,180.0,mediumT,CCCCCCCC(O)=O,c1cnccn1
+KOBNIB01,KOBNIB01,130 K,O=NC1=C([O-])NC(=O)NC1=O.[NH3+]CCc1ccc(O)cc1,P21/c,False,130.0,mediumT,O=NC1=C([O-])NC(=O)NC1=O,[NH3+]CCc1ccc(O)cc1
+IDOYOS,IDOYOS,173.2 K,FC(F)(F)S(=O)(=O)[O-].c1ccc(cc1)P1[n+]2ccccc2c2cccc[n+]12,P-1,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],c1ccc(cc1)P1[n+]2ccccc2c2cccc[n+]12
+PUVZEN,PUVZEN,150 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1ccccc1[P+](F)(c1ccccc1)c1ccccc1,P-1,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],C[n+]1ccccc1[P+](F)(c1ccccc1)c1ccccc1
+VAXRUJ,VAXRUJ,at 173 K,CC#CC(=O)[O-].[NH3+]NC(=O)c1cc[nH+]cc1,Pbca,False,173.0,mediumT,CC#CC(=O)[O-],[NH3+]NC(=O)c1cc[nH+]cc1
+PEVDEC,PEVDEC,200 K,CS(=O)(=O)[O-].[NH3+]C(CC1=C[NH+]=CN1)C(O)=O,P21,False,200.0,mediumT,CS(=O)(=O)[O-],[NH3+]C(CC1=C[NH+]=CN1)C(O)=O
+CAQLAJ,CAQLAJ,at 168.2 K,FC(F)(F)S(=O)(=O)[O-].CN1C=C[N+](=C1SSC1=[N+](C)C=CN1C)C,P21/c,False,168.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN1C=C[N+](=C1SSC1=[N+](C)C=CN1C)C
+PEVCUR,PEVCUR,200 K,[NH3+]C(CCCNC(N)=[NH2+])C(O)=O.CS(=O)(=O)[O-],P1,False,200.0,mediumT,[NH3+]C(CCCNC(N)=[NH2+])C(O)=O,CS(=O)(=O)[O-]
+PEVCIF,PEVCIF,200 K,NS(=O)(=O)[O-].[NH3+]C(CC1=C[NH+]=CN1)C(O)=O,P21,False,200.0,mediumT,NS(=O)(=O)[O-],[NH3+]C(CC1=C[NH+]=CN1)C(O)=O
+TEKSAH,TEKSAH,150 K,FC(F)(F)S(=O)(=O)[O-].O=S1[n+]2ccccc2c2cccc[n+]12,Pbca,False,150.0,mediumT,FC(F)(F)S(=O)(=O)[O-],O=S1[n+]2ccccc2c2cccc[n+]12
+UPOQAS,UPOQAS,at 150 K,OC(=O)C=CC(O)=O.OC(=O)C=CC(=O)[O-].OC(CN1C=[NH+]C=N1)(CN1C=[NH+]C=N1)c1ccc(F)cc1F,P-1,False,150.0,mediumT,OC(=O)C=CC(O)=O,OC(=O)C=CC(=O)[O-]
+DITBEO,DITBEO,at 173 K,FC(F)(F)S(=O)(=O)[O-].CN(C)c1cc[n+](cc1)[P+](C)(C)C,P21/c,False,173.0,mediumT,FC(F)(F)S(=O)(=O)[O-],CN(C)c1cc[n+](cc1)[P+](C)(C)C

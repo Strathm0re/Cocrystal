@@ -1,0 +1,1438 @@
+Original Item,Refcode,Temperature,SMILES,Spacegroup,Polymorph,Temperature_Num,Temperature_Category,coformer1,coformer2
+YOCRUE,YOCRUE,at 100.00 K,O=N(=O)c1cccc(c1)S(=O)(=O)[O-].NC(=[NH2+])SCc1ccccc1,P1,False,100.0,lowT,O=N(=O)c1cccc(c1)S(=O)(=O)[O-],NC(=[NH2+])SCc1ccccc1
+NOJWOY,NOJWOY,at 120 K,[NH3+]Cc1cccc(Cl)c1.OC(CC(O)=O)C(=O)[O-],P21,False,120.0,lowT,[NH3+]Cc1cccc(Cl)c1,OC(CC(O)=O)C(=O)[O-]
+GUYYIL,GUYYIL,100 K,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O.C[N+](C)=C(N)O,Pbca,False,100.0,lowT,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O,C[N+](C)=C(N)O
+QIYJEQ,QIYJEQ,100 K,Nc1cc(ccc1C(=O)[O-])N(=O)=O.CC(=O)c1ccc(cc1)N1CC[NH2+]CC1,P-1,False,100.0,lowT,Nc1cc(ccc1C(=O)[O-])N(=O)=O,CC(=O)c1ccc(cc1)N1CC[NH2+]CC1
+MUPDOR,MUPDOR,at 100 K,[NH3+]c1ccccc1Oc1ccccc1.OC(=O)C1=NNC(=C1)C(=O)[O-],P21/c,False,100.0,lowT,[NH3+]c1ccccc1Oc1ccccc1,OC(=O)C1=NNC(=C1)C(=O)[O-]
+MEDHIO,MEDHIO,at 120 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]CCc1ccc(O)cc1,P-1,False,120.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]CCc1ccc(O)cc1
+XUVRAI,XUVRAI,at 120 K,CC1=CN2N=C(C)SC2=[NH+]1.O=C([O-])C1=CC=C(O1)N(=O)=O,P21/c,False,120.0,lowT,CC1=CN2N=C(C)SC2=[NH+]1,O=C([O-])C1=CC=C(O1)N(=O)=O
+MEDBEE,MEDBEE,at 123 K,Nc1ccccc1C(=O)[O-].[NH3+]CCc1ccc(O)cc1,P21/c,False,123.0,lowT,Nc1ccccc1C(=O)[O-],[NH3+]CCc1ccc(O)cc1
+NOBYAE,NOBYAE,at 120K,OC(=O)C1=C(NC=N1)C(=O)[O-].[NH3+]C(CC1=CNC=[NH+]1)C(=O)[O-],P21,False,120.0,lowT,OC(=O)C1=C(NC=N1)C(=O)[O-],[NH3+]C(CC1=CNC=[NH+]1)C(=O)[O-]
+YACFIU,YACFIU,100 K,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O.OC(=O)C=CC(O)=O,P-1,False,100.0,lowT,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O,OC(=O)C=CC(O)=O
+MIPBIZ,MIPBIZ,100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.FC(F)(F)O[n+]1ccc(cc1)c1ccccc1,C2/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,FC(F)(F)O[n+]1ccc(cc1)c1ccccc1
+SIBYUB,SIBYUB,113.2 K,NC(=O)c1ccncc1.ONC(=O)C=Cc1cccc(c1)S(=O)(=O)Nc1ccccc1,P-1,False,113.0,lowT,NC(=O)c1ccncc1,ONC(=O)C=Cc1cccc(c1)S(=O)(=O)Nc1ccccc1
+HUCRON,HUCRON,at 120 K,CC(=NO)C(=O)NCC[NH2+]CCO.CC(=NO)C(=O)[O-],P21/c,False,120.0,lowT,CC(=NO)C(=O)NCC[NH2+]CCO,CC(=NO)C(=O)[O-]
+QOLMEL,QOLMEL,at 114 K,Cc1ccnc2c1ccc1c(C)ccnc21.Oc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,P-1,False,114.0,lowT,Cc1ccnc2c1ccc1c(C)ccnc21,Oc1c(O)c(Cl)c(Cl)c(Cl)c1Cl
+GESRAB,GESRAB,120 K,NC1=N[N+]2(CCOCC2)CC1.Cc1ccc(cc1)S(=O)(=O)[O-],P21/c,False,120.0,lowT,NC1=N[N+]2(CCOCC2)CC1,Cc1ccc(cc1)S(=O)(=O)[O-]
+KIZYEZ01,KIZYEZ01,at 123 K,CC(=O)Nc1ccccn1.OC(=O)c1ccccc1,P21/c,False,123.0,lowT,CC(=O)Nc1ccccn1,OC(=O)c1ccccc1
+TEYVUP,TEYVUP,at 123.1 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])c1ccccc1,P21,False,123.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])c1ccccc1
+WIPQOE01,WIPQOE01,100 K,OC(=O)C(=O)[O-].[NH3+]C(CC(C)C)C(O)=O,P-1,False,100.0,lowT,OC(=O)C(=O)[O-],[NH3+]C(CC(C)C)C(O)=O
+DAQYEC,DAQYEC,100 K,NC(=O)c1ccccc1.OC(=O)C1=NN(Cc2ccc(Cl)cc2Cl)c2ccccc12,P21/c,False,100.0,lowT,NC(=O)c1ccccc1,OC(=O)C1=NN(Cc2ccc(Cl)cc2Cl)c2ccccc12
+PAVXAN,PAVXAN,at 100 K,c1cc(ccn1)c1ccncc1.OC(=O)c1ccc(cc1)C(O)=O,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,OC(=O)c1ccc(cc1)C(O)=O
+QASZIX,QASZIX,120 K,CN(C)C=O.OC(=O)c1cc(Br)c(O)cc1O,P21/n,False,120.0,lowT,CN(C)C=O,OC(=O)c1cc(Br)c(O)cc1O
+MEDFUY,MEDFUY,at 123 K,OC(=O)CC(=O)[O-].[NH3+]CCc1ccc(O)cc1,P21/c,False,123.0,lowT,OC(=O)CC(=O)[O-],[NH3+]CCc1ccc(O)cc1
+HEMDOV,HEMDOV,113 K,NC(N)=S.CC(=O)N1C=CN(C=C1)C(C)=O,C2/c,False,113.0,lowT,NC(N)=S,CC(=O)N1C=CN(C=C1)C(C)=O
+UNIBOI,UNIBOI,at 100 K,NC=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,100.0,lowT,NC=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+VIBSAE,VIBSAE,100.0 K,OC(=O)c1ccccc1NC1=C(C(=O)NC1=O)c1ccccc1.CS(C)=O,P21/c,False,100.0,lowT,OC(=O)c1ccccc1NC1=C(C(=O)NC1=O)c1ccccc1,CS(C)=O
+GUZVEF,GUZVEF,100 K,CN(C)C(N)=O.OC(=O)c1ccccc1C(O)=O,P21/c,False,100.0,lowT,CN(C)C(N)=O,OC(=O)c1ccccc1C(O)=O
+IVUMIW,IVUMIW,at 123 K,O=S(=O)([O-])c1ccccc1.C[NH+](C)C(C)C(O)c1ccccc1,P21,False,123.0,lowT,O=S(=O)([O-])c1ccccc1,C[NH+](C)C(C)C(O)c1ccccc1
+VUKSEC,VUKSEC,100 K,CCOc1ccccc1C(N)=O.Oc1ccccc1,P21/c,False,100.0,lowT,CCOc1ccccc1C(N)=O,Oc1ccccc1
+TUVXEQ,TUVXEQ,120 K,CCCC(=O)[O-].[NH2+]1CCOCC1,C2/c,False,120.0,lowT,CCCC(=O)[O-],[NH2+]1CCOCC1
+KUFWIT,KUFWIT,100 K,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O.[NH3+]c1ccc(cc1)S(=O)(=O)N=C1NC=CS1,P-1,False,100.0,lowT,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O,[NH3+]c1ccc(cc1)S(=O)(=O)N=C1NC=CS1
+ZIKQOB,ZIKQOB,at 30 K,OC(=O)c1c[nH+]ccc1.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/n,False,30.0,lowT,OC(=O)c1c[nH+]ccc1,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+AJAGEX,AJAGEX,at 90 K,OC(=O)C#C.O=C1CNC(=O)CN1,P21/c,False,90.0,lowT,OC(=O)C#C,O=C1CNC(=O)CN1
+TOJRAM,TOJRAM,at 100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.OC(=O)C[n+]1ccccc1,P1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,OC(=O)C[n+]1ccccc1
+WIZBEN,WIZBEN,at 100 K,OC(=O)C(=O)[O-].CSC=C(C[NH+](C)C)SC,C2/c,False,100.0,lowT,OC(=O)C(=O)[O-],CSC=C(C[NH+](C)C)SC
+WAPQEL,WAPQEL,at 100 K,[NH3+]C(C(C)CC)C(=O)OC.Cc1ccc(cc1)C=CC(=O)[O-],P212121,False,100.0,lowT,[NH3+]C(C(C)CC)C(=O)OC,Cc1ccc(cc1)C=CC(=O)[O-]
+YASGOQ04,YASGOQ04,100 K,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl.NC(=O)c1cccnc1,P21/n,False,100.0,lowT,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl,NC(=O)c1cccnc1
+BEMLUB,BEMLUB,at 77 K,COc1cc(O)cc(O)c1.C(=CC=Cc1ccncc1)C=Cc1ccncc1,P-1,False,77.0,lowT,COc1cc(O)cc(O)c1,C(=CC=Cc1ccncc1)C=Cc1ccncc1
+QUDPIQ,QUDPIQ,100 K,[O-]N1N=NN=C1C1=NN=N[N-]1.[NH3+]NC(=O)N[NH3+],Cc,False,100.0,lowT,[O-]N1N=NN=C1C1=NN=N[N-]1,[NH3+]NC(=O)N[NH3+]
+PAFFEL,PAFFEL,100 K,FC(F)(F)S(=O)(=O)[O-].C[S+](C)C(Cc1ccc(Br)cc1)C(=O)N(C)C,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[S+](C)C(Cc1ccc(Br)cc1)C(=O)N(C)C
+MUPPAP,MUPPAP,at 100 K,NC(=O)c1cccnc1.OC(=O)c1cc(O)c(O)c(O)c1,P212121,False,100.0,lowT,NC(=O)c1cccnc1,OC(=O)c1cc(O)c(O)c(O)c1
+ACERUX,ACERUX,at 100 K,OC(=O)C=CC(O)=O.CN1N=NC2=C(N=CN2C1=O)C(N)=O,P-1,False,100.0,lowT,OC(=O)C=CC(O)=O,CN1N=NC2=C(N=CN2C1=O)C(N)=O
+FOYSAO,FOYSAO,at 84 K,[NH3+]CCOCCOCC[NH3+].OC(C(O)C(O)C(=O)[O-])C(O)C(=O)[O-],P-1,False,84.0,lowT,[NH3+]CCOCCOCC[NH3+],OC(C(O)C(O)C(=O)[O-])C(O)C(=O)[O-]
+SODDOF,SODDOF,at 120 K,OC(=O)c1ccccc1O.NC(=O)c1cccnc1,P21/n,False,120.0,lowT,OC(=O)c1ccccc1O,NC(=O)c1cccnc1
+ACERAC,ACERAC,at 123 K,CN(C)C=O.OC(=O)c1ccc(Cl)cc1,P21/c,False,123.0,lowT,CN(C)C=O,OC(=O)c1ccc(Cl)cc1
+REHSOO,REHSOO,at 110 K,Nc1ccc(cc1)C(O)=O.CCOc1ccccc1C(N)=O,P21/c,False,110.0,lowT,Nc1ccc(cc1)C(O)=O,CCOc1ccccc1C(N)=O
+HURMOX,HURMOX,at 115 K,O=C([O-])CC1=CC=CS1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P21,False,115.0,lowT,O=C([O-])CC1=CC=CS1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+ZEYRII,ZEYRII,100 K,CCc1[nH+]ccc(c1)C(N)=S.O=C1NC(=S)NC(=C1)[O-],P-1,False,100.0,lowT,CCc1[nH+]ccc(c1)C(N)=S,O=C1NC(=S)NC(=C1)[O-]
+TAHNAU,TAHNAU,100 K,CC=CC1=C(O)C(=O)C2=C(O1)C(=O)NC2=O.C1COCCO1,C2/c,False,100.0,lowT,CC=CC1=C(O)C(=O)C2=C(O1)C(=O)NC2=O,C1COCCO1
+SOVFOA,SOVFOA,at 100 K,FC(F)(Cl)C(=O)[O-].C[N+](C)(C)CC(O)=O,P21/c,False,100.0,lowT,FC(F)(Cl)C(=O)[O-],C[N+](C)(C)CC(O)=O
+EQANAN,EQANAN,100 K,N#CC(C#N)=C1C=CC(C=C1)=C1NCCN1.CN(C)C=O,P-1,False,100.0,lowT,N#CC(C#N)=C1C=CC(C=C1)=C1NCCN1,CN(C)C=O
+MEDCIJ,MEDCIJ,at 123 K,Clc1cccc(c1)C(=O)[O-].[NH3+]CCc1ccc(O)cc1,C2/c,False,123.0,lowT,Clc1cccc(c1)C(=O)[O-],[NH3+]CCc1ccc(O)cc1
+ADAGUL,ADAGUL,100 K,O=C1CCC(=O)N1P1C(=O)c2ccccc2C1=O.Cc1ccccc1,P21/m,False,100.0,lowT,O=C1CCC(=O)N1P1C(=O)c2ccccc2C1=O,Cc1ccccc1
+TEWQOF,TEWQOF,100 K,c1ccc2nc3ccccc3nc2c1.OC(=O)c1ccc(O)c(O)c1,P21/n,False,100.0,lowT,c1ccc2nc3ccccc3nc2c1,OC(=O)c1ccc(O)c(O)c1
+CEHKEG,CEHKEG,at 120 K,C[N+](C)(C)S(=O)(=O)[N-]S(=O)(=O)[N+](C)(C)C.COS(=O)(=O)[O-],P21/n,False,120.0,lowT,C[N+](C)(C)S(=O)(=O)[N-]S(=O)(=O)[N+](C)(C)C,COS(=O)(=O)[O-]
+APUVOZ,APUVOZ,113 K,Oc1cccc(O)c1C(=O)[O-].CC1=NNC(=O)N(C1)N=Cc1c[nH+]ccc1,P-1,False,113.0,lowT,Oc1cccc(O)c1C(=O)[O-],CC1=NNC(=O)N(C1)N=Cc1c[nH+]ccc1
+CEGGUS,CEGGUS,at 100 K,COc1ccc(cc1)c1nc(N)nc(N)n1.OC(=O)CCCCC(O)=O,P2/c,False,100.0,lowT,COc1ccc(cc1)c1nc(N)nc(N)n1,OC(=O)CCCCC(O)=O
+KIPGUO,KIPGUO,100 K,NC(=O)c1cccnc1.Cc1cc(O)c2C(=O)c3c(O)cc(O)cc3C(=O)c2c1,P-1,False,100.0,lowT,NC(=O)c1cccnc1,Cc1cc(O)c2C(=O)c3c(O)cc(O)cc3C(=O)c2c1
+QEMKAV,QEMKAV,at 100 K,Oc1ccc(O)cc1.c1ccc2nccnc2c1,P-1,False,100.0,lowT,Oc1ccc(O)cc1,c1ccc2nccnc2c1
+MOYZUX,MOYZUX,120 K,Nc1ncccn1.Nc1ccc(C(O)=O)c(O)c1,P21/n,False,120.0,lowT,Nc1ncccn1,Nc1ccc(C(O)=O)c(O)c1
+NEQMOO,NEQMOO,120 K,CC(=O)NC1=NC=CS1.OC(=O)c1cccc(O)c1,P21/n,False,120.0,lowT,CC(=O)NC1=NC=CS1,OC(=O)c1cccc(O)c1
+ZATGIO,ZATGIO,100 K,CN1C=CC(=O)C(=C1C)O.Oc1ccc(O)cc1,P-1,False,100.0,lowT,CN1C=CC(=O)C(=C1C)O,Oc1ccc(O)cc1
+LASHEW,LASHEW,100 K,[NH3+]CCCC(O)=O.OC(CC(O)=O)C(=O)[O-],P21,False,100.0,lowT,[NH3+]CCCC(O)=O,OC(CC(O)=O)C(=O)[O-]
+RAMLOK,RAMLOK,113 K,NC(=O)c1ccncc1.OC(=O)COc1ccc(Cl)cc1Cl,P-1,False,113.0,lowT,NC(=O)c1ccncc1,OC(=O)COc1ccc(Cl)cc1Cl
+SAGNAT,SAGNAT,100 K,c1ccc2c(c1)nnc1ccccc21.ClC1=C(Cl)C(=O)C(=C(Cl)C1=O)Cl,P21/n,False,100.0,lowT,c1ccc2c(c1)nnc1ccccc21,ClC1=C(Cl)C(=O)C(=C(Cl)C1=O)Cl
+KUMRER,KUMRER,at 90 K,OO.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/n,False,90.0,lowT,OO,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+WEYYUY,WEYYUY,100 K,OC(=O)C1CCCCC1.ClC1=NN2C=CN=C2C(=C1)C1CCCCC1,P-1,False,100.0,lowT,OC(=O)C1CCCCC1,ClC1=NN2C=CN=C2C(=C1)C1CCCCC1
+AFONIV,AFONIV,100 K,c1cc(ccn1)C=Cc1ccncc1.Cc1cccc(Nc2ccccc2C(O)=O)c1C,P-1,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,Cc1cccc(Nc2ccccc2C(O)=O)c1C
+FIXQIM,FIXQIM,at 122.0 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]C(CO)C(C)C,P212121,False,122.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]C(CO)C(C)C
+TIRZEB,TIRZEB,121 K,[NH3+]CCc1ccc(O)cc1.NCCc1ccc([O-])cc1,Pbc21,False,121.0,lowT,[NH3+]CCc1ccc(O)cc1,NCCc1ccc([O-])cc1
+SABDOQ,SABDOQ,at 98 K,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1.OC(=O)c1ccccc1,Pbca,False,98.0,lowT,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,OC(=O)c1ccccc1
+SABKEN,SABKEN,at 100 K,Nc1[nH+]cc(Cl)cc1.OC(=O)C=CC(=O)[O-],Fdd2,False,100.0,lowT,Nc1[nH+]cc(Cl)cc1,OC(=O)C=CC(=O)[O-]
+UHAFAL,UHAFAL,at 120 K,OC(=O)CCCCCC(O)=O.O=C1NCCN1,Cmcm,False,120.0,lowT,OC(=O)CCCCCC(O)=O,O=C1NCCN1
+HOGGER,HOGGER,at 100 K,OC(=O)CCCC(O)=O.NC(=O)c1ccccn1,C2/c,False,100.0,lowT,OC(=O)CCCC(O)=O,NC(=O)c1ccccn1
+ZOLXAC,ZOLXAC,100 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].Nc1[nH+]c(Cl)ccc1,C2/c,False,100.0,lowT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],Nc1[nH+]c(Cl)ccc1
+DEMTEV,DEMTEV,at 90 K,O=C1NC2=NC(=O)NC3=NC(=O)NC(=N1)N23.CS(C)=O,P65,False,90.0,lowT,O=C1NC2=NC(=O)NC3=NC(=O)NC(=N1)N23,CS(C)=O
+LIGLIY,LIGLIY,at 100 K,[NH3+]c1ccccc1OCC.OC(=O)C1=NNC(=C1)C(=O)[O-],P-1,False,100.0,lowT,[NH3+]c1ccccc1OCC,OC(=O)C1=NNC(=C1)C(=O)[O-]
+VAVMIR,VAVMIR,123 K,OC(C(O)C(=O)[O-])C(O)=O.C[NH+](C)C(C)C(O)c1ccccc1,Pbc21,False,123.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,C[NH+](C)C(C)C(O)c1ccccc1
+CIKNUI01,CIKNUI01,100 K,[NH2+]1CCOCC1.OC(=O)C(=O)[O-],P21/c,False,100.0,lowT,[NH2+]1CCOCC1,OC(=O)C(=O)[O-]
+PUKDIJ,PUKDIJ,at 100 K,Nc1ccc(Br)cn1.OC(=O)c1ccccc1,P21/c,False,100.0,lowT,Nc1ccc(Br)cn1,OC(=O)c1ccccc1
+NAQPUT,NAQPUT,100 K,NC1=Nc2ccc(OC(F)(F)F)cc2S1.CN(C)c1ccncc1,P-1,False,100.0,lowT,NC1=Nc2ccc(OC(F)(F)F)cc2S1,CN(C)c1ccncc1
+GASMOD,GASMOD,at 100 K,[NH2+]1CCOCC1.CC1(C)CC(C)(c2ccc([O-])cc2)c2ccccc2O1,P-1,False,100.0,lowT,[NH2+]1CCOCC1,CC1(C)CC(C)(c2ccc([O-])cc2)c2ccccc2O1
+BUJWIN,BUJWIN,at 100 K,OC(=O)c1cccc(n1)C(O)=O.O=C1C(=O)c2cccnc2c2ncccc12,P-1,False,100.0,lowT,OC(=O)c1cccc(n1)C(O)=O,O=C1C(=O)c2cccnc2c2ncccc12
+QATBOG,QATBOG,120 K,OC(=O)c1cc(Br)c(O)c(Br)c1O.CN(C)C=O,Pna21,False,120.0,lowT,OC(=O)c1cc(Br)c(O)c(Br)c1O,CN(C)C=O
+XOKVEA,XOKVEA,at 110 K,C1N2CN3CN1CN(C2)C3.OC(=O)c1cc(O)c(O)c(O)c1,P21/n,False,110.0,lowT,C1N2CN3CN1CN(C2)C3,OC(=O)c1cc(O)c(O)c(O)c1
+CIDCUO,CIDCUO,at 120 K,OC(C(O)C(=O)[O-])C(O)=O.COc1[nH+]c(N)nc(OC)c1,P21,False,120.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,COc1[nH+]c(N)nc(OC)c1
+FEYSIO,FEYSIO,100 K,Fc1c(F)c(F)c(F)c(F)c1F.Clc1cccc(c1)C(=O)Nc1cccc(c1)C#C,P21/c,False,100.0,lowT,Fc1c(F)c(F)c(F)c(F)c1F,Clc1cccc(c1)C(=O)Nc1cccc(c1)C#C
+JEBRAM,JEBRAM,120 K,Nc1[nH+]c(N)nc(Cl)c1.OC(=O)c1c(cccc1N(=O)=O)C(=O)[O-],P-1,False,120.0,lowT,Nc1[nH+]c(N)nc(Cl)c1,OC(=O)c1c(cccc1N(=O)=O)C(=O)[O-]
+GEHHOR,GEHHOR,at 100 K,O=C([O-])c1ccc(cc1)N(=O)=O.C[NH+]=Cc1c([O-])c(C)[nH+]cc1CO,P21/c,False,100.0,lowT,O=C([O-])c1ccc(cc1)N(=O)=O,C[NH+]=Cc1c([O-])c(C)[nH+]cc1CO
+PYOTCA01,PYOTCA01,at 120 K,O[n+]1ccccc1.ClC(Cl)(Cl)C(=O)[O-],P21/c,False,120.0,lowT,O[n+]1ccccc1,ClC(Cl)(Cl)C(=O)[O-]
+HURCON,HURCON,at 120 K,[NH2+]1CCOCC1.OB1OB(O)O[B-]2(O1)OB(O)OB(O)O2,P-1,False,120.0,lowT,[NH2+]1CCOCC1,OB1OB(O)O[B-]2(O1)OB(O)OB(O)O2
+HOGFIU,HOGFIU,at 100 K,OC(=O)CCC(O)=O.NC(=O)c1ccccn1,C2/c,False,100.0,lowT,OC(=O)CCC(O)=O,NC(=O)c1ccccn1
+YONKUJ,YONKUJ,123 K,[NH3+]c1ccc(cc1)S(=O)(=O)Nc1ncccn1.CCS(=O)(=O)[O-],P21/c,False,123.0,lowT,[NH3+]c1ccc(cc1)S(=O)(=O)Nc1ncccn1,CCS(=O)(=O)[O-]
+DUKJUR,DUKJUR,100 K,CN1C=NC2=C1C(=O)N(CCCCC(C)=O)C(=O)N2C.OC(=O)c1ccc(O)cc1,P-1,False,100.0,lowT,CN1C=NC2=C1C(=O)N(CCCCC(C)=O)C(=O)N2C,OC(=O)c1ccc(O)cc1
+OHAGEK,OHAGEK,at 103 K,C1CCOC1.COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,P-1,False,103.0,lowT,C1CCOC1,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC
+KOBHES,KOBHES,100 K,NC1=N[N+]2(CCOCC2)CC1.O=N(=O)c1ccccc1S(=O)(=O)[O-],P21/n,False,100.0,lowT,NC1=N[N+]2(CCOCC2)CC1,O=N(=O)c1ccccc1S(=O)(=O)[O-]
+IVURUN,IVURUN,at 120 K,C[NH+](C)C(C)C(O)c1ccccc1.Oc1ccc(cc1)S(=O)(=O)[O-],P21,False,120.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Oc1ccc(cc1)S(=O)(=O)[O-]
+XAYKAN,XAYKAN,100.0 K,FC(F)(F)S(=O)(=O)[O-].O=P([O-])([n+]1ccccc1)[n+]1ccccc1,Pn,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],O=P([O-])([n+]1ccccc1)[n+]1ccccc1
+VAGVEF,VAGVEF,at 105 K,[NH3+]CCC(O)=O.ClC(Cl)(Cl)C(=O)[O-],P21/n,False,105.0,lowT,[NH3+]CCC(O)=O,ClC(Cl)(Cl)C(=O)[O-]
+RERCUQ,RERCUQ,100 K,Oc1ccc(cc1)C(=O)[O-].NC(N)=[NH+]C1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O,P21/c,False,100.0,lowT,Oc1ccc(cc1)C(=O)[O-],NC(N)=[NH+]C1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O
+CEWQUU,CEWQUU,100.0 K,[NH3+]CC(CC(C)C)CC(O)=O.OC(CC(O)=O)C(=O)[O-],P212121,False,100.0,lowT,[NH3+]CC(CC(C)C)CC(O)=O,OC(CC(O)=O)C(=O)[O-]
+AMAYUL,AMAYUL,100 K,CCOC(=O)C([N+]#N)=S1c2ccccc2Sc2ccccc12.FC(F)(F)S(=O)(=O)[O-],P-1,False,100.0,lowT,CCOC(=O)C([N+]#N)=S1c2ccccc2Sc2ccccc12,FC(F)(F)S(=O)(=O)[O-]
+VABZIJ,VABZIJ,at 100 K,CC(C)C1=[NH+]C(=CC(=O)N1)C.OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O,P-1,False,100.0,lowT,CC(C)C1=[NH+]C(=CC(=O)N1)C,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O
+ZEFFEX,ZEFFEX,at 100 K,CN(C)C(=[NH2+])O.OC(=O)C(=O)[O-],P21/c,False,100.0,lowT,CN(C)C(=[NH2+])O,OC(=O)C(=O)[O-]
+BUKGUM,BUKGUM,113.2 K,Cc1ccc(cn1)c1ncc(Cl)cc1c1ccc(cc1)S(C)(=O)=O.NC=O,P2/c,False,113.0,lowT,Cc1ccc(cn1)c1ncc(Cl)cc1c1ccc(cc1)S(C)(=O)=O,NC=O
+PEJVAE,PEJVAE,100 K,O=C[O-].C[N+](C)(C)CCO,P21/c,False,100.0,lowT,O=C[O-],C[N+](C)(C)CCO
+IVURAT,IVURAT,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.O=C([O-])c1ccccc1,P212121,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,O=C([O-])c1ccccc1
+WUZDIG,WUZDIG,120 K,Cc1ccc(cc1)S(=O)(=O)[O-].C[N+](C)(C)CC(O)=O,P21/c,False,120.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],C[N+](C)(C)CC(O)=O
+NAQPED,NAQPED,90 K,NC1=Nc2ccc(OC(F)(F)F)cc2S1.OC(=O)CCCCCCCCC(O)=O,P21/n,False,90.0,lowT,NC1=Nc2ccc(OC(F)(F)F)cc2S1,OC(=O)CCCCCCCCC(O)=O
+CUYKOZ,CUYKOZ,100 K,OCC(O)=O.NC(=O)c1cccnc1,Pbca,False,100.0,lowT,OCC(O)=O,NC(=O)c1cccnc1
+IVUMOC,IVUMOC,at 123 K,O=S(=O)([O-])c1ccccc1.C[NH+](C)C(C)C(O)c1ccccc1,P21/c,False,123.0,lowT,O=S(=O)([O-])c1ccccc1,C[NH+](C)C(C)C(O)c1ccccc1
+SOHNAG,SOHNAG,at 100 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].NC(=O)c1c[nH+]ccc1,Pca21,False,100.0,lowT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],NC(=O)c1c[nH+]ccc1
+NISLOQ01,NISLOQ01,120 K,C1CN2CCN1CC2.Oc1ccc(cc1)c1ccc(O)cc1,P21/c,False,120.0,lowT,C1CN2CCN1CC2,Oc1ccc(cc1)c1ccc(O)cc1
+MUDSAF,MUDSAF,at 100 K,c1ccc2nc3ccccc3cc2c1.CCC1(CC)C(=O)NC(=O)NC1=O,C2/c,False,100.0,lowT,c1ccc2nc3ccccc3cc2c1,CCC1(CC)C(=O)NC(=O)NC1=O
+EVUMOY,EVUMOY,at 100 K,COC1=NS(=O)(=O)c2cnccc2N1.CS(C)=O,P21/c,False,100.0,lowT,COC1=NS(=O)(=O)c2cnccc2N1,CS(C)=O
+XEZDIQ,XEZDIQ,at 100 K,c1cc(ccn1)c1ccncc1.OC(=O)C(O)=O,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,OC(=O)C(O)=O
+VIJQOY,VIJQOY,100 K,FC(F)(F)S(=O)(=O)[O-].CN1C=C[N+](=C1C(=O)c1ccccc1C)C,C2/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CN1C=C[N+](=C1C(=O)c1ccccc1C)C
+KIPWEO,KIPWEO,100 K,NC(N)=S.O=C1CC(=O)NC(=O)N1,P21/n,False,100.0,lowT,NC(N)=S,O=C1CC(=O)NC(=O)N1
+EPIWAC,EPIWAC,at 120 K,Nc1cnc(Br)cn1.OC(=O)c1c(F)c(F)c(Br)c(F)c1F,P-1,False,120.0,lowT,Nc1cnc(Br)cn1,OC(=O)c1c(F)c(F)c(Br)c(F)c1F
+HIDCIK,HIDCIK,100 K,OC(=O)C=CC(=O)[O-].[NH3+]CC(CC(O)=O)c1ccccc1,P21/c,False,100.0,lowT,OC(=O)C=CC(=O)[O-],[NH3+]CC(CC(O)=O)c1ccccc1
+GEBMOP01,GEBMOP01,at 105 K,CCOC(=O)OCC[N+](C)(C)C.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P2/n,False,105.0,lowT,CCOC(=O)OCC[N+](C)(C)C,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+LIHHAM,LIHHAM,at 100 K,OC(=O)C(=O)[O-].C[NH+](C)CC(=C)SC1CCCCC1,C2/c,False,100.0,lowT,OC(=O)C(=O)[O-],C[NH+](C)CC(=C)SC1CCCCC1
+ODEFEJ,ODEFEJ,at 123 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.CS(C)=O,P-1,False,123.0,lowT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,CS(C)=O
+JAMPEV,JAMPEV,100 K,FC(F)(F)S(=O)(=O)[O-].C[N+](C)=C(N)ON=C(N)C(C)(C)C,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[N+](C)=C(N)ON=C(N)C(C)(C)C
+WOBNEH,WOBNEH,at 98 K,C[n+]1ccc(cc1)C=Cc1ccc(O)cc1.O=N(=O)c1cccc([O-])c1,P21/n,False,98.0,lowT,C[n+]1ccc(cc1)C=Cc1ccc(O)cc1,O=N(=O)c1cccc([O-])c1
+KASXAF,KASXAF,at 123 K,OCC[NH+]1CCCC1.O=C([O-])c1ccccc1,C2/c,False,123.0,lowT,OCC[NH+]1CCCC1,O=C([O-])c1ccccc1
+NEWRIR,NEWRIR,at 100 K,CC(=O)Nc1cccnc1.OC(=O)C=CC(O)=O,Pca21,False,100.0,lowT,CC(=O)Nc1cccnc1,OC(=O)C=CC(O)=O
+XOJYEC02,XOJYEC02,123 K,NC(=O)c1ccncc1.CC(C)c1cccc(C(C)C)c1O,P21/c,False,123.0,lowT,NC(=O)c1ccncc1,CC(C)c1cccc(C(C)C)c1O
+EYEGIA,EYEGIA,93 K,c1cc(ccn1)C=Cc1ccncc1.COc1ccc(cc1)C(O)=O,P21/n,False,93.0,lowT,c1cc(ccn1)C=Cc1ccncc1,COc1ccc(cc1)C(O)=O
+DUSKUY,DUSKUY,at 100 K,Nc1ccc(Br)cn1.OC(=O)c1ccc(O)cc1,Pna21,False,100.0,lowT,Nc1ccc(Br)cn1,OC(=O)c1ccc(O)cc1
+KIDLOB,KIDLOB,100 K,CC(C)=NNC1=[NH+]c2ccccc2S1.O=N(=O)c1cccc(c1)S(=O)(=O)[O-],P-1,False,100.0,lowT,CC(C)=NNC1=[NH+]c2ccccc2S1,O=N(=O)c1cccc(c1)S(=O)(=O)[O-]
+SURFOD,SURFOD,100 K,Oc1c(Cl)c(Cl)cc(Cl)c1Cl.Cc1cncc(C)c1,Cc,False,100.0,lowT,Oc1c(Cl)c(Cl)cc(Cl)c1Cl,Cc1cncc(C)c1
+DUNCUM,DUNCUM,120 K,O=C1CCC(=O)N1.OC(=O)c1cc(O)c(O)c(O)c1,P-1,False,120.0,lowT,O=C1CCC(=O)N1,OC(=O)c1cc(O)c(O)c(O)c1
+ULOJOX,ULOJOX,100 K,O=C([O-])c1ccncc1.COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,P21/n,False,100.0,lowT,O=C([O-])c1ccncc1,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC
+ZATFOT,ZATFOT,100 K,CN1C=CC(=O)C(=C1C)O.Oc1ccccc1O,P42/n,False,100.0,lowT,CN1C=CC(=O)C(=C1C)O,Oc1ccccc1O
+XITREZ,XITREZ,at 93 K,O=C([O-])c1ccc2ccccc2c1.[NH3+]Cc1ccccc1Cl,C2/c,False,93.0,lowT,O=C([O-])c1ccc2ccccc2c1,[NH3+]Cc1ccccc1Cl
+KASWEI,KASWEI,at 123 K,OCC[NH+]1CCCC1.Oc1ccc(O)c(c1)C(=O)[O-],P21/c,False,123.0,lowT,OCC[NH+]1CCCC1,Oc1ccc(O)c(c1)C(=O)[O-]
+BINFAI,BINFAI,100 K,FC(F)(F)S(=O)(=O)[O-].CC(C)(C)[NH+]=C1NCCC2=C1Sc1ccccc21,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CC(C)(C)[NH+]=C1NCCC2=C1Sc1ccccc21
+XOKTIC,XOKTIC,at 120 K,C1N2CN3CN1CN(C2)C3.OC(=O)c1ccc(O)c(O)c1,P21/c,False,120.0,lowT,C1N2CN3CN1CN(C2)C3,OC(=O)c1ccc(O)c(O)c1
+XAQYOF,XAQYOF,at 120 K,NC(N)=[NH+]C(N)=O.OP(F)(=O)[O-],Cc,False,120.0,lowT,NC(N)=[NH+]C(N)=O,OP(F)(=O)[O-]
+XARVUJ,XARVUJ,at 100 K,[NH3+]c1c(C)c(C)c2OC(C)(C)CCc2c1C.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,100.0,lowT,[NH3+]c1c(C)c(C)c2OC(C)(C)CCc2c1C,Cc1ccc(cc1)S(=O)(=O)[O-]
+KECMAJ,KECMAJ,120 K,O=C(NN=Cc1cccnc1)c1ccccn1.OC(=O)CCCCCC(O)=O,P21/c,False,120.0,lowT,O=C(NN=Cc1cccnc1)c1ccccn1,OC(=O)CCCCCC(O)=O
+QUFKEI,QUFKEI,at 120 K,O=P(c1ccccc1)(c1ccccc1)c1ccccc1.CC1(C)C(=O)NC(=O)C1(C)C,P21/n,False,120.0,lowT,O=P(c1ccccc1)(c1ccccc1)c1ccccc1,CC1(C)C(=O)NC(=O)C1(C)C
+QUBRAH,QUBRAH,at 100 K,NC(=[NH2+])NC(N)=S.O=C[O-],P21/c,False,100.0,lowT,NC(=[NH2+])NC(N)=S,O=C[O-]
+VITKIT,VITKIT,at 100 K,ON=Cc1c(F)c(F)c(Br)c(F)c1F.CN1c2ccccc2N=C1c1ccncc1,P212121,False,100.0,lowT,ON=Cc1c(F)c(F)c(Br)c(F)c1F,CN1c2ccccc2N=C1c1ccncc1
+JAZQIN,JAZQIN,122.7 K,NC(N)=O.Cc1cccc(O)c1,Pbca,False,122.0,lowT,NC(N)=O,Cc1cccc(O)c1
+BOPGIY,BOPGIY,at 100 K,c1ccc2nccnc2c1.CC(=NO)C(C)=NNC(N)=S,P-1,False,100.0,lowT,c1ccc2nccnc2c1,CC(=NO)C(C)=NNC(N)=S
+TADROJ,TADROJ,100.2 K,FC(F)(F)c1c2nccnc2cc2C3C[NH2+]CC(C3)c12.FC(F)(F)C(=O)[O-],P21/c,False,100.0,lowT,FC(F)(F)c1c2nccnc2cc2C3C[NH2+]CC(C3)c12,FC(F)(F)C(=O)[O-]
+OKUYOK,OKUYOK,100 K,Clc1ccc(cc1)C=C1SC(=S)NC1=O.CS(C)=O,P-1,False,100.0,lowT,Clc1ccc(cc1)C=C1SC(=S)NC1=O,CS(C)=O
+GEPDAK,GEPDAK,100 K,FC(F)(F)C(=O)[O-].OC(=O)c1[nH+]cccc1,P-1,False,100.0,lowT,FC(F)(F)C(=O)[O-],OC(=O)c1[nH+]cccc1
+VIDNEC,VIDNEC,at 123 K,CS(C)=O.NS(=O)(=O)c1cc2c(NC=NS2(=O)=O)cc1Cl,P-1,False,123.0,lowT,CS(C)=O,NS(=O)(=O)c1cc2c(NC=NS2(=O)=O)cc1Cl
+TOZHOF01,TOZHOF01,30 K,NC(N)=O.CC(=O)CCCCC(C)=O,P6522,False,30.0,lowT,NC(N)=O,CC(=O)CCCCC(C)=O
+BIZXEO,BIZXEO,at 123 K,c1ccncc1.NS(=O)(=O)c1cc2c(NC=NS2(=O)=O)cc1Cl,P-1,False,123.0,lowT,c1ccncc1,NS(=O)(=O)c1cc2c(NC=NS2(=O)=O)cc1Cl
+MUPNUH,MUPNUH,at 100 K,NC(=O)c1ccncc1.OC(=O)c1cc(O)c(O)c(O)c1,P21/n,False,100.0,lowT,NC(=O)c1ccncc1,OC(=O)c1cc(O)c(O)c(O)c1
+FALSES,FALSES,at 110 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.C1COCCO1,P21/c,False,110.0,lowT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,C1COCCO1
+VUZZEW,VUZZEW,at 98 K,c1ccc(C=NN=Cc2ccccn2)nc1.OC(=O)c1ccccc1,P-1,False,98.0,lowT,c1ccc(C=NN=Cc2ccccn2)nc1,OC(=O)c1ccccc1
+ROBFAS,ROBFAS,100 K,C=CC(=O)[O-].CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,P-1,False,100.0,lowT,C=CC(=O)[O-],CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+WIZLEX,WIZLEX,at 120 K,[NH2+]1CCOCC1.NC1=C(N=O)C(=O)[N-]C(=N1)N1CCOCC1,I2/a,False,120.0,lowT,[NH2+]1CCOCC1,NC1=C(N=O)C(=O)[N-]C(=N1)N1CCOCC1
+LATBIT,LATBIT,at 110 K,OC(=O)c1ccc(O)cc1.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P-1,False,110.0,lowT,OC(=O)c1ccc(O)cc1,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+JISRUZ,JISRUZ,at 123 K,FC(F)(F)S(=O)(=O)[O-].CC(C)(C)N1C=C[N+](=P1)C(C)(C)C,Pnma,False,123.0,lowT,FC(F)(F)S(=O)(=O)[O-],CC(C)(C)N1C=C[N+](=P1)C(C)(C)C
+BAZTIJ,BAZTIJ,100 K,OC(=O)CCCC(O)=O.N#Cc1cccnc1,P21/c,False,100.0,lowT,OC(=O)CCCC(O)=O,N#Cc1cccnc1
+XAZZEH,XAZZEH,123 K,ON1N=C(N=C1C1=NN=NN1[O-])N(=O)=O.CC(C)=[NH+]O,P-1,False,123.0,lowT,ON1N=C(N=C1C1=NN=NN1[O-])N(=O)=O,CC(C)=[NH+]O
+XITRUP,XITRUP,at 93 K,O=C([O-])c1ccc2ccccc2c1.[NH3+]Cc1cccc(Br)c1,Pbca,False,93.0,lowT,O=C([O-])c1ccc2ccccc2c1,[NH3+]Cc1cccc(Br)c1
+YACQOL,YACQOL,100 K,Oc1ccc(O)cc1.CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O,P-1,False,100.0,lowT,Oc1ccc(O)cc1,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O
+NIPHUR,NIPHUR,at 123 K,CC(C)(C)C(=O)Nc1[nH+]c(N)ccc1.O=C([O-])c1ccccc1,P21/c,False,123.0,lowT,CC(C)(C)C(=O)Nc1[nH+]c(N)ccc1,O=C([O-])c1ccccc1
+EVUMOX,EVUMOX,at 100 K,O=C1CC(=O)NC(=O)N1.C1COCCO1,P-1,False,100.0,lowT,O=C1CC(=O)NC(=O)N1,C1COCCO1
+YONLAQ,YONLAQ,123 K,[NH3+]c1ccc(cc1)S(=O)(=O)Nc1ncccn1.Oc1ccc(cc1)S(=O)(=O)[O-],P21/n,False,123.0,lowT,[NH3+]c1ccc(cc1)S(=O)(=O)Nc1ncccn1,Oc1ccc(cc1)S(=O)(=O)[O-]
+DUCZUX,DUCZUX,at 110 K,CC1=C(CCCl)C(=O)N2C=CC=CC2=[NH+]1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/n,False,110.0,lowT,CC1=C(CCCl)C(=O)N2C=CC=CC2=[NH+]1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+SEYHEM,SEYHEM,120 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O.Cc1cnccn1,P21/c,False,120.0,lowT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,Cc1cnccn1
+SIHLIH,SIHLIH,100 K,OC(=O)C1=CC=C(Cl)S1.Cc1nc(C)c(Cl)c(N)n1,P-1,False,100.0,lowT,OC(=O)C1=CC=C(Cl)S1,Cc1nc(C)c(Cl)c(N)n1
+ZATMIU,ZATMIU,100 K,[NH3+]C(CCC)C(O)=O.OC(=O)C(=O)[O-],P-1,False,100.0,lowT,[NH3+]C(CCC)C(O)=O,OC(=O)C(=O)[O-]
+MOWDOU,MOWDOU,110 K,Fc1c(F)c(C#N)c2Oc3ccccc3Nc2c1C#N.CS(C)=O,P-1,False,110.0,lowT,Fc1c(F)c(C#N)c2Oc3ccccc3Nc2c1C#N,CS(C)=O
+TEZMOC,TEZMOC,at 100 K,Nc1nc(N)nc(n1)c1ccccc1.OC(=O)c1ccc(cc1)C(O)=O,C2/c,False,100.0,lowT,Nc1nc(N)nc(n1)c1ccccc1,OC(=O)c1ccc(cc1)C(O)=O
+WAKROS,WAKROS,100 K,CC(=O)[O-].C[N+]1=CN(CCO)C=C1,Pca21,False,100.0,lowT,CC(=O)[O-],C[N+]1=CN(CCO)C=C1
+FIFCOQ,FIFCOQ,90 K,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1.OC(=O)CCC(=O)[O-],C2/c,False,90.0,lowT,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1,OC(=O)CCC(=O)[O-]
+CISDAL,CISDAL,at 120 K,FC(F)(F)S(=O)(=O)[O-].CN1C=[N+](N=C1N(=O)=O)c1ccc(cc1N(=O)=O)N(=O)=O,P21/c,False,120.0,lowT,FC(F)(F)S(=O)(=O)[O-],CN1C=[N+](N=C1N(=O)=O)c1ccc(cc1N(=O)=O)N(=O)=O
+LADCUQ,LADCUQ,at 120 K,OC(=O)CCCCCCCCC(O)=O.CCC(=O)Nc1ccc(Br)cn1,P-1,False,120.0,lowT,OC(=O)CCCCCCCCC(O)=O,CCC(=O)Nc1ccc(Br)cn1
+YACDUE,YACDUE,100 K,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O.OC(=O)c1cc(Cl)c(Cl)cc1C(O)=O,Pbca,False,100.0,lowT,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O,OC(=O)c1cc(Cl)c(Cl)cc1C(O)=O
+XUBKUD,XUBKUD,100 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.NC(=O)c1ccccc1O,P-1,False,100.0,lowT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,NC(=O)c1ccccc1O
+IVUNET,IVUNET,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.CS(=O)(=O)[O-],P212121,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,CS(=O)(=O)[O-]
+NIDSOK,NIDSOK,at 123 K,OC(C1[NH2+]CCC1)(c1ccccc1)c1ccccc1.O=C([O-])c1ccccc1,P21,False,123.0,lowT,OC(C1[NH2+]CCC1)(c1ccccc1)c1ccccc1,O=C([O-])c1ccccc1
+IVEKEC,IVEKEC,100 K,CC[NH+](CC)CC(=O)Nc1c(C)cccc1C.OC(=O)CCCC(=O)[O-],P21/c,False,100.0,lowT,CC[NH+](CC)CC(=O)Nc1c(C)cccc1C,OC(=O)CCCC(=O)[O-]
+SAYPUF,SAYPUF,at 100 K,OC(=O)c1cccc(O)c1.O=C(NN=C1CCCCC1)c1ccncc1,P-1,False,100.0,lowT,OC(=O)c1cccc(O)c1,O=C(NN=C1CCCCC1)c1ccncc1
+OBUBOE,OBUBOE,at 100 K,NC(=O)c1cccnc1.COc1cc(C=O)ccc1O,P-1,False,100.0,lowT,NC(=O)c1cccnc1,COc1cc(C=O)ccc1O
+TOJREQ,TOJREQ,at 100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.C[N+]1(CCCC1)CC(O)=O,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,C[N+]1(CCCC1)CC(O)=O
+TIJKIG,TIJKIG,at 100 K,c1ccc(nc1)c1ccccn1.Oc1c(O)c(O)c(O)c(O)c1O,P-1,False,100.0,lowT,c1ccc(nc1)c1ccccn1,Oc1c(O)c(O)c(O)c(O)c1O
+XEBZUC,XEBZUC,100 K,CN1C(=NC(=Cc2ccc3OCOc3c2)C1=O)N.CS(C)=O,P-1,False,100.0,lowT,CN1C(=NC(=Cc2ccc3OCOc3c2)C1=O)N,CS(C)=O
+TECCOW,TECCOW,93 K,COS(=O)(=O)[O-].CO[n+]1ccc(C)cc1,P21/c,False,93.0,lowT,COS(=O)(=O)[O-],CO[n+]1ccc(C)cc1
+PEFGEO01,PEFGEO01,at 110 K,OC(=O)c1cc(O)c(O)c(O)c1.CC(N)=O,P21/n,False,110.0,lowT,OC(=O)c1cc(O)c(O)c(O)c1,CC(N)=O
+PORVEA,PORVEA,100 K,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC.Cc1cccc(Nc2ccccc2C(=O)[O-])c1C,P-1,False,100.0,lowT,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,Cc1cccc(Nc2ccccc2C(=O)[O-])c1C
+TIJKOM,TIJKOM,at 100 K,c1cc(ccn1)c1ccncc1.OC1=C(O)C(=O)C(=C(O)C1=O)O,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,OC1=C(O)C(=O)C(=C(O)C1=O)O
+FEJWUP,FEJWUP,123 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1c(N)cccc1NC1=NC=CNC1=S,P21/c,False,123.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[n+]1c(N)cccc1NC1=NC=CNC1=S
+XAQQEM,XAQQEM,at 100 K,NC(=O)c1ccncc1.OC(=O)c1ccccc1O,P21/c,False,100.0,lowT,NC(=O)c1ccncc1,OC(=O)c1ccccc1O
+BALDUR,BALDUR,120 K,NC1=N[N+]2(CCOCC2)CC1.Brc1ccc(cc1)C(=O)[O-],P21,False,120.0,lowT,NC1=N[N+]2(CCOCC2)CC1,Brc1ccc(cc1)C(=O)[O-]
+PEZQAN,PEZQAN,at 100 K,Cc1cncc(C)n1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P21/c,False,100.0,lowT,Cc1cncc(C)n1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+FIDLIO,FIDLIO,at 120 K,Nc1ccc(Cc2ccc(N)cc2)cc1.Oc1ccc(Cc2ccc(O)cc2)cc1,P21/n,False,120.0,lowT,Nc1ccc(Cc2ccc(N)cc2)cc1,Oc1ccc(Cc2ccc(O)cc2)cc1
+COZYOG,COZYOG,at 100 K,Cc1nc(C)c(C)nc1C.OC(=O)C(O)=O,P-1,False,100.0,lowT,Cc1nc(C)c(C)nc1C,OC(=O)C(O)=O
+CEPJOA,CEPJOA,100 K,CC1=NNC(=S)NCCC(=NNC(=S)NCC1)C.CS(C)=O,P-1,False,100.0,lowT,CC1=NNC(=S)NCCC(=NNC(=S)NCC1)C,CS(C)=O
+REHSUU,REHSUU,at 110 K,OC(=O)c1ccc(O)cc1.CCOc1ccccc1C(N)=O,P21/n,False,110.0,lowT,OC(=O)c1ccc(O)cc1,CCOc1ccccc1C(N)=O
+JIMVUX,JIMVUX,at 100 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1ccn(CC2CCCCO2)c1,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[n+]1ccn(CC2CCCCO2)c1
+XUVQEL,XUVQEL,at 120 K,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl.CC1=CN=C(N)S1,Pbca,False,120.0,lowT,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,CC1=CN=C(N)S1
+OYUZAM,OYUZAM,100 K,Cc1cccc(C)c1NC(=O)CN1CCCC1=O.OC(=O)C(O)=O,P21,False,100.0,lowT,Cc1cccc(C)c1NC(=O)CN1CCCC1=O,OC(=O)C(O)=O
+NEFGIR,NEFGIR,100 K,NC(=O)c1cnccn1.OC(=O)c1cccc(O)c1O,P-1,False,100.0,lowT,NC(=O)c1cnccn1,OC(=O)c1cccc(O)c1O
+FEJXIE,FEJXIE,120.0 K,CN1C2=C(S[S+]=N2)C=C2Sc3cc(Cl)ccc3N=C12.FC(F)(F)S(=O)(=O)[O-],P21/n,False,120.0,lowT,CN1C2=C(S[S+]=N2)C=C2Sc3cc(Cl)ccc3N=C12,FC(F)(F)S(=O)(=O)[O-]
+HOGFUG,HOGFUG,at 100 K,OC(=O)CCCCC(O)=O.NC(=O)c1ccccn1,P21/c,False,100.0,lowT,OC(=O)CCCCC(O)=O,NC(=O)c1ccccn1
+LADBOJ,LADBOJ,at 120 K,Nc1[nH+]cc(Br)cc1.O=C([O-])c1ccc(cc1)C#N,Pca21,False,120.0,lowT,Nc1[nH+]cc(Br)cc1,O=C([O-])c1ccc(cc1)C#N
+ULAZIQ,ULAZIQ,at 120 K,Oc1cccc(O)c1.OCCN1C(=O)c2ccccc2C1=O,C2/c,False,120.0,lowT,Oc1cccc(O)c1,OCCN1C(=O)c2ccccc2C1=O
+SIDHUK,SIDHUK,at 100 K,NC(N)=S.C1COCCO1,P21/n,False,100.0,lowT,NC(N)=S,C1COCCO1
+UHADOX,UHADOX,at 120 K,OC(=O)CC(O)=O.O=C1NCCN1,C2/c,False,120.0,lowT,OC(=O)CC(O)=O,O=C1NCCN1
+RAXZAV,RAXZAV,100 K,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1.C(Cc1ccncc1)c1ccncc1,P-1,False,100.0,lowT,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,C(Cc1ccncc1)c1ccncc1
+NAQMUQ,NAQMUQ,90 K,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1.OC(=O)CC(=O)[O-],P21/c,False,90.0,lowT,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1,OC(=O)CC(=O)[O-]
+KEFBON,KEFBON,at 100 K,CC(=O)Nc1ccccn1.OC(=O)CCCCCC(O)=O,I2/a,False,100.0,lowT,CC(=O)Nc1ccccn1,OC(=O)CCCCCC(O)=O
+DEXTOQ,DEXTOQ,at 100 K,OC(=O)c1c(O)cccc1O.c1ccc2nc3ccccc3nc2c1,C2/c,False,100.0,lowT,OC(=O)c1c(O)cccc1O,c1ccc2nc3ccccc3nc2c1
+PUWFOD,PUWFOD,at 100 K,Oc1ccc(O)cc1.CCN(CC)C=O,P-1,False,100.0,lowT,Oc1ccc(O)cc1,CCN(CC)C=O
+TEWQUL,TEWQUL,100 K,c1ccc2nc3ccccc3nc2c1.OC(=O)c1ccc(O)c(O)c1,P21/c,False,100.0,lowT,c1ccc2nc3ccccc3nc2c1,OC(=O)c1ccc(O)c(O)c1
+XUMLUP,XUMLUP,100 K,[NH3+]C(CO)(CO)CO.Cc1ccccc1OCC(=O)[O-],P-1,False,100.0,lowT,[NH3+]C(CO)(CO)CO,Cc1ccccc1OCC(=O)[O-]
+KAYFOH,KAYFOH,at 120 K,O=C(Nc1ccccn1)c1ccncc1.OC(=O)CCCC(O)=O,P-1,False,120.0,lowT,O=C(Nc1ccccn1)c1ccncc1,OC(=O)CCCC(O)=O
+DITHUK,DITHUK,at 100 K,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl.Cc1ccncc1C,P-1,False,100.0,lowT,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Cc1ccncc1C
+NIGKEW,NIGKEW,120 K,Clc1ccc(cn1)C1CC2[NH2+]C1CC2.OC(C(O)C(=O)[O-])C(O)=O,P212121,False,120.0,lowT,Clc1ccc(cn1)C1CC2[NH2+]C1CC2,OC(C(O)C(=O)[O-])C(O)=O
+UROHUF,UROHUF,at 100 K,Nc1nc(N)c2N=C3N(CCc4ccccc34)c2n1.CS(C)=O,P21/c,False,100.0,lowT,Nc1nc(N)c2N=C3N(CCc4ccccc34)c2n1,CS(C)=O
+ULIMEI,ULIMEI,at 90 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]C1(CCCCC1=O)c1ccccc1Cl,P212121,False,90.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]C1(CCCCC1=O)c1ccccc1Cl
+RUYGIC,RUYGIC,at 100 K,CC(=O)NC1=NN=C(S1)S(N)(=O)=O.OC(=O)c1ccc(O)cc1,P21/c,False,100.0,lowT,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,OC(=O)c1ccc(O)cc1
+FESCUF,FESCUF,100 K,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1.OC(C(O)C(=O)[O-])C(O)=O,P1,False,100.0,lowT,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1,OC(C(O)C(=O)[O-])C(O)=O
+IVUSEY,IVUSEY,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.Oc1ccc(cc1)C(=O)[O-],P21,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Oc1ccc(cc1)C(=O)[O-]
+AJAHUO,AJAHUO,at 90 K,OC(=O)c1cc(Cl)c(cc1Cl)C(O)=O.O=C1CNC(=O)CN1,P-1,False,90.0,lowT,OC(=O)c1cc(Cl)c(cc1Cl)C(O)=O,O=C1CNC(=O)CN1
+PECREW,PECREW,at 100 K,COc1cc(OC)nc(SC)n1.OC(=O)c1ccc(O)cc1,P-1,False,100.0,lowT,COc1cc(OC)nc(SC)n1,OC(=O)c1ccc(O)cc1
+GUDVEI,GUDVEI,at 100 K,OC(=O)CCCCCC(O)=O.c1cnccn1,P21/c,False,100.0,lowT,OC(=O)CCCCCC(O)=O,c1cnccn1
+KIWRIV,KIWRIV,120 K,CN(C)C=O.COC(=O)C=C1SC(=NC1=O)N=C(N)N,P-1,False,120.0,lowT,CN(C)C=O,COC(=O)C=C1SC(=NC1=O)N=C(N)N
+MUNSUM,MUNSUM,100 K,CCCC(C=C)c1[nH+]cc(Br)c2ccccc12.FC(F)(F)S(=O)(=O)[O-],P1,False,100.0,lowT,CCCC(C=C)c1[nH+]cc(Br)c2ccccc12,FC(F)(F)S(=O)(=O)[O-]
+PETPIP,PETPIP,at 120 K,ON=Cc1c(F)c(F)c(Br)c(F)c1F.c1cncc(c1)N=Nc1cccnc1,P-1,False,120.0,lowT,ON=Cc1c(F)c(F)c(Br)c(F)c1F,c1cncc(c1)N=Nc1cccnc1
+HOGFOA,HOGFOA,at 100 K,OC(=O)C=CC(O)=O.NC(=O)c1ccccn1,P21/n,False,100.0,lowT,OC(=O)C=CC(O)=O,NC(=O)c1ccccn1
+AJAHEY,AJAHEY,at 90 K,OC(=O)c1cc(Cl)ccc1O.O=C1CNC(=O)CN1,P21/n,False,90.0,lowT,OC(=O)c1cc(Cl)ccc1O,O=C1CNC(=O)CN1
+VULVOP,VULVOP,100 K,Cc1[nH+]cc(CO)c(CO)c1O.O=C([O-])c1ccc(cc1)C#N,P-1,False,100.0,lowT,Cc1[nH+]cc(CO)c(CO)c1O,O=C([O-])c1ccc(cc1)C#N
+PIGSOO,PIGSOO,at 113 K,CC1=[NH+]C=C2CN=C(c3ccccc3F)c3cc(Cl)ccc3N12.O=C1[N-]S(=O)(=O)c2ccccc12,P21/c,False,113.0,lowT,CC1=[NH+]C=C2CN=C(c3ccccc3F)c3cc(Cl)ccc3N12,O=C1[N-]S(=O)(=O)c2ccccc12
+KETZAM,KETZAM,at 100 K,c1cc(ccn1)C=Cc1ccncc1.CC(=O)Nc1ccc(O)cc1,P21/c,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,CC(=O)Nc1ccc(O)cc1
+TENYAO,TENYAO,at 110 K,OC(=O)COc1cccc2ccccc12.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,110.0,lowT,OC(=O)COc1cccc2ccccc12,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+LEDXOJ,LEDXOJ,at 100 K,CN1C(=O)N(C)c2nc3N(C)C(=O)N(C)C(=O)c3nc2C1=O.CSc1ccccc1C=NC1=C(N)N(C)C(=O)N(C)C1=O,P21/n,False,100.0,lowT,CN1C(=O)N(C)c2nc3N(C)C(=O)N(C)C(=O)c3nc2C1=O,CSc1ccccc1C=NC1=C(N)N(C)C(=O)N(C)C1=O
+TILYUL,TILYUL,100 K,CCCSc1ccc2[NH+]=C(NC(=O)OC)Nc2c1.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,100.0,lowT,CCCSc1ccc2[NH+]=C(NC(=O)OC)Nc2c1,Cc1ccc(cc1)S(=O)(=O)[O-]
+ROJJEG,ROJJEG,at 120 K,C[NH+](C)CCCN1C(=O)c2ccccc2C1=O.CC(=O)[O-],C2/c,False,120.0,lowT,C[NH+](C)CCCN1C(=O)c2ccccc2C1=O,CC(=O)[O-]
+TOMXEA,TOMXEA,at 110 K,OC(=O)COc1ccccc1C=O.O=C1C(=O)c2cccnc2c2ncccc12,P-1,False,110.0,lowT,OC(=O)COc1ccccc1C=O,O=C1C(=O)c2cccnc2c2ncccc12
+GUZXUW,GUZXUW,100 K,Cc1ccc(cc1)S(=O)(=O)[O-].CN(C)C(=[NH2+])ON=C(N)c1ccc(Br)cc1,C2/c,False,100.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],CN(C)C(=[NH2+])ON=C(N)c1ccc(Br)cc1
+BUNHUP,BUNHUP,120 K,Oc1c(F)c(F)c(Br)c(F)c1F.C(Cc1ccncc1)c1ccncc1,C2/c,False,120.0,lowT,Oc1c(F)c(F)c(Br)c(F)c1F,C(Cc1ccncc1)c1ccncc1
+SUZBEV,SUZBEV,at 100 K,Nc1[nH+]cc(Br)cc1.OC(=O)c1ccccc1C(=O)[O-],P-1,False,100.0,lowT,Nc1[nH+]cc(Br)cc1,OC(=O)c1ccccc1C(=O)[O-]
+DOSPOS,DOSPOS,at 120 K,C(N1C=CN=C1C1=NC=CN1Cc1ccccn1)c1ccccn1.OC(=O)CCCCCCCCC(O)=O,P-1,False,120.0,lowT,C(N1C=CN=C1C1=NC=CN1Cc1ccccn1)c1ccccn1,OC(=O)CCCCCCCCC(O)=O
+QUCSEN,QUCSEN,at 100 K,[NH3+]CCc1ccc(F)cc1.OC(=O)C1=NNC(=C1)C(=O)[O-],Cc,False,100.0,lowT,[NH3+]CCc1ccc(F)cc1,OC(=O)C1=NNC(=C1)C(=O)[O-]
+HONTAG,HONTAG,at 100 K,OC(=O)c1ccc(O)cc1.c1ccc(cc1)c1ccncc1,C2/c,False,100.0,lowT,OC(=O)c1ccc(O)cc1,c1ccc(cc1)c1ccncc1
+CATJAK,CATJAK,at 100 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])C1=CC=CO1,P212121,False,100.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])C1=CC=CO1
+TIMMIP,TIMMIP,100.0 K,[O-][P+]([O-])([n+]1ccccc1)[N+]12CCC(CC1)CC2.FC(F)(F)S(=O)(=O)[O-],P21/c,False,100.0,lowT,[O-][P+]([O-])([n+]1ccccc1)[N+]12CCC(CC1)CC2,FC(F)(F)S(=O)(=O)[O-]
+IQUNUE,IQUNUE,at 100 K,O=C(CS(=O)(=O)C1=Nc2ccccc2S1)c1ccccc1.C1COCCO1,P-1,False,100.0,lowT,O=C(CS(=O)(=O)C1=Nc2ccccc2S1)c1ccccc1,C1COCCO1
+OCASAM,OCASAM,at 120 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1=C(CCC1)C(=NO)c1ccccc1,P21/c,False,120.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[N+]1=C(CCC1)C(=NO)c1ccccc1
+SAXCOK,SAXCOK,at 120 K,Nc1[nH+]cc(Cl)cc1.O=S(=O)([O-])c1ccc(cc1)C#N,Pna21,False,120.0,lowT,Nc1[nH+]cc(Cl)cc1,O=S(=O)([O-])c1ccc(cc1)C#N
+GINSAA,GINSAA,100 K,OC(C(O)C(=O)[O-])C(O)=O.NC(=O)C1([NH2+]CCC1)C(F)(F)F,P21,False,100.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,NC(=O)C1([NH2+]CCC1)C(F)(F)F
+VEKZIY,VEKZIY,100 K,[NH3+]C(CC(C)C)C(F)P(=O)(OCC)OCC.OC(=O)C(=O)[O-],P212121,False,100.0,lowT,[NH3+]C(CC(C)C)C(F)P(=O)(OCC)OCC,OC(=O)C(=O)[O-]
+FEVKUO,FEVKUO,at 98 K,OC(=O)c1cc(C(O)=O)c(cc1C(O)=O)C(O)=O.Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,Pbca,False,98.0,lowT,OC(=O)c1cc(C(O)=O)c(cc1C(O)=O)C(O)=O,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+LATQEE,LATQEE,at 100 K,OC(=O)CCCC(O)=O.Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12,P-1,False,100.0,lowT,OC(=O)CCCC(O)=O,Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12
+FICYIB,FICYIB,at 100 K,Cc1ccc(cc1)C(O)=O.Cc1ccc(cc1)c1nc(N)nc(N)n1,Cc,False,100.0,lowT,Cc1ccc(cc1)C(O)=O,Cc1ccc(cc1)c1nc(N)nc(N)n1
+PUNWIF,PUNWIF,at 103.1 K,[NH3+]C(C)c1ccc(F)cc1.CCOP([O-])(=S)c1ccc(Cl)cc1,C2,False,103.0,lowT,[NH3+]C(C)c1ccc(F)cc1,CCOP([O-])(=S)c1ccc(Cl)cc1
+OYEBAX,OYEBAX,100 K,c1ccc2nc3ccccc3cc2c1.OC(=O)c1ccccc1Nc1ccccc1,P21/c,False,100.0,lowT,c1ccc2nc3ccccc3cc2c1,OC(=O)c1ccccc1Nc1ccccc1
+VUXCAU,VUXCAU,100 K,OC(C(=O)[O-])c1ccccc1.[NH3+]C1C2CC3CC(C2)CC1(CO)C3,C2,False,100.0,lowT,OC(C(=O)[O-])c1ccccc1,[NH3+]C1C2CC3CC(C2)CC1(CO)C3
+ALOWUW,ALOWUW,100 K,FC(F)(F)C(=O)[O-].[NH3+]C(Cc1ccccc1)C(=O)OCN1N=Nc2ccccc12,P21/n,False,100.0,lowT,FC(F)(F)C(=O)[O-],[NH3+]C(Cc1ccccc1)C(=O)OCN1N=Nc2ccccc12
+QILVUF,QILVUF,100.0 K,CCCN1C=NC(=C1C(=O)[O-])C(O)=O.OCC[NH+](CCO)CCO,P21/n,False,100.0,lowT,CCCN1C=NC(=C1C(=O)[O-])C(O)=O,OCC[NH+](CCO)CCO
+JENKUM,JENKUM,100 K,FC(F)(F)C(=O)[O-].COC12CCCCCC(=[NH+]c3ccccc13)N2,C2/c,False,100.0,lowT,FC(F)(F)C(=O)[O-],COC12CCCCCC(=[NH+]c3ccccc13)N2
+JOFJUK,JOFJUK,at 120 K,O=C1CCC(=O)N1.Cc1c(N)ccc(Cl)c1F,P-1,False,120.0,lowT,O=C1CCC(=O)N1,Cc1c(N)ccc(Cl)c1F
+UXACAZ,UXACAZ,123 K,ClC1=C(Cl)C(=O)C(=C(C#N)C1=O)C#N.COc1ccc(cc1)C1=Cc2ccccc2O1,P21/c,False,123.0,lowT,ClC1=C(Cl)C(=O)C(=C(C#N)C1=O)C#N,COc1ccc(cc1)C1=Cc2ccccc2O1
+EFAPUY,EFAPUY,at 100 K,OC(=O)CCC(O)=O.COc1cc(Cl)nc(N)n1,P-1,False,100.0,lowT,OC(=O)CCC(O)=O,COc1cc(Cl)nc(N)n1
+ZIPHEO,ZIPHEO,100 K,NC(=O)c1ccncc1.COc1ccccc1C(O)=O,P21/c,False,100.0,lowT,NC(=O)c1ccncc1,COc1ccccc1C(O)=O
+GIFDOR,GIFDOR,100 K,NC(N)=O.Cc1nccnc1C,Pnma,False,100.0,lowT,NC(N)=O,Cc1nccnc1C
+COZZIB,COZZIB,at 100 K,c1cc(ccn1)C=Cc1ccncc1.Oc1ccc(O)cc1,P21/c,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,Oc1ccc(O)cc1
+EMUDAS,EMUDAS,at 110 K,[NH2+]1CC2(C1)COC2.OC(=O)C(=O)[O-],P-1,False,110.0,lowT,[NH2+]1CC2(C1)COC2,OC(=O)C(=O)[O-]
+ZOKYUV,ZOKYUV,at 100 K,CC(C)N=NC(C)(C)OO.CC(C)NN=C(C)C,P-1,False,100.0,lowT,CC(C)N=NC(C)(C)OO,CC(C)NN=C(C)C
+IPEVOP01,IPEVOP01,100 K,C1N2CN3CN1CN(C2)C3.Cc1ccc(cc1)C(O)=O,P21/n,False,100.0,lowT,C1N2CN3CN1CN(C2)C3,Cc1ccc(cc1)C(O)=O
+GINKUK,GINKUK,at 95.0 K,c1ccc2nccnc2c1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P-1,False,95.0,lowT,c1ccc2nccnc2c1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+GEXTIO,GEXTIO,at 100 K,[NH3+]Cc1ccccc1F.O=C([O-])c1ccc2ccccc2c1,P21,False,100.0,lowT,[NH3+]Cc1ccccc1F,O=C([O-])c1ccc2ccccc2c1
+XOTYUB01,XOTYUB01,93 K,CCOc1ccc(cc1)C(O)=O.c1cc(ccn1)c1ccncc1,P21/n,False,93.0,lowT,CCOc1ccc(cc1)C(O)=O,c1cc(ccn1)c1ccncc1
+TIPFII,TIPFII,at 120 K,COc1cc(OC)nc(N)n1.OC(=O)c1ccccc1C(O)=O,P21/c,False,120.0,lowT,COc1cc(OC)nc(N)n1,OC(=O)c1ccccc1C(O)=O
+PITPOB,PITPOB,123 K,Cc1ccc(cc1)S(=O)(=O)[O-].OC1=[NH+]CCCC1,P21/n,False,123.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],OC1=[NH+]CCCC1
+YUTSIR,YUTSIR,100 K,CCOC(C)=[N+](C)C.CCOS(=O)(=O)[O-],P21/c,False,100.0,lowT,CCOC(C)=[N+](C)C,CCOS(=O)(=O)[O-]
+CEMFIM,CEMFIM,100 K,Oc1ccc(Cl)cc1C(=O)[O-].Cc1[nH+]c(N)c(Cl)c(C)n1,P-1,False,100.0,lowT,Oc1ccc(Cl)cc1C(=O)[O-],Cc1[nH+]c(N)c(Cl)c(C)n1
+YAKREK,YAKREK,100 K,COc1cc2NC(=O)C(=O)c2cc1O.CS(C)=O,P21/c,False,100.0,lowT,COc1cc2NC(=O)C(=O)c2cc1O,CS(C)=O
+REBXON,REBXON,at 100 K,OC(=O)c1ccc2ccccc2c1O.NC(=O)c1cnccn1,P21/c,False,100.0,lowT,OC(=O)c1ccc2ccccc2c1O,NC(=O)c1cnccn1
+KECLOW,KECLOW,120 K,O=C(NN=Cc1cccnc1)c1ccccn1.OC(=O)CCCC(O)=O,P21/c,False,120.0,lowT,O=C(NN=Cc1cccnc1)c1ccccn1,OC(=O)CCCC(O)=O
+VELBAR,VELBAR,at 100 K,O=C([O-])C1=Cc2ccccc2O1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,C2,False,100.0,lowT,O=C([O-])C1=Cc2ccccc2O1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+AMAZAS,AMAZAS,100 K,CCOC(=O)C([N+]#N)=S1c2ccccc2Oc2ccccc12.FC(F)(F)S(=O)(=O)[O-],P21/n,False,100.0,lowT,CCOC(=O)C([N+]#N)=S1c2ccccc2Oc2ccccc12,FC(F)(F)S(=O)(=O)[O-]
+CIFZID,CIFZID,100 K,NC(=O)C(Br)(Br)Br.C1CN2CCN1CC2,P21/c,False,100.0,lowT,NC(=O)C(Br)(Br)Br,C1CN2CCN1CC2
+RITBUT,RITBUT,at 100 K,[NH3+]c1cc(OC)cc(OC)c1.Cc1ccc(cc1)S(=O)(=O)[O-],P21/n,False,100.0,lowT,[NH3+]c1cc(OC)cc(OC)c1,Cc1ccc(cc1)S(=O)(=O)[O-]
+SIDJEW,SIDJEW,at 100 K,NC(N)=O.C1COCCO1,P2/c,False,100.0,lowT,NC(N)=O,C1COCCO1
+UHADEN,UHADEN,at 120 K,OC(=O)CCC(O)=O.O=C1NCCN1,P-1,False,120.0,lowT,OC(=O)CCC(O)=O,O=C1NCCN1
+MAKWAA,MAKWAA,100 K,C1CN2CCN1CC2.CC(C)c1cc(Br)ccc1O,C2/c,False,100.0,lowT,C1CN2CCN1CC2,CC(C)c1cc(Br)ccc1O
+POVZOQ,POVZOQ,at 100 K,OC1=C(Cl)C(=O)C(=O)C(=C1[O-])Cl.NC(=O)c1cc[nH+]cc1,Cc,False,100.0,lowT,OC1=C(Cl)C(=O)C(=O)C(=C1[O-])Cl,NC(=O)c1cc[nH+]cc1
+ZATGAG01,ZATGAG01,100 K,CN1C=CC(=O)C(=C1C)O.Oc1ccccc1O,P21/c,False,100.0,lowT,CN1C=CC(=O)C(=C1C)O,Oc1ccccc1O
+NUGRAJ,NUGRAJ,at 120 K,N#Cc1cc(C#N)c(cc1C#N)C#N.Oc1ccc2cc(Br)ccc2c1c1c(O)ccc2cc(Br)ccc12,C2,False,120.0,lowT,N#Cc1cc(C#N)c(cc1C#N)C#N,Oc1ccc2cc(Br)ccc2c1c1c(O)ccc2cc(Br)ccc12
+UDEPIG,UDEPIG,100.2 K,CCCC(=O)[O-].[NH3+]Cc1ccc(cc1)S(N)(=O)=O,P-1,False,100.0,lowT,CCCC(=O)[O-],[NH3+]Cc1ccc(cc1)S(N)(=O)=O
+PAQPEG,PAQPEG,123 K,Clc1ccc(cc1)S(=O)(=O)[O-].[NH2+]=C(O)c1ccccc1,P-1,False,123.0,lowT,Clc1ccc(cc1)S(=O)(=O)[O-],[NH2+]=C(O)c1ccccc1
+GESQUU,GESQUU,120 K,NC1=N[N+]2(CCOCC2)CC1.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,120.0,lowT,NC1=N[N+]2(CCOCC2)CC1,Cc1ccc(cc1)S(=O)(=O)[O-]
+PUWFIX,PUWFIX,at 100 K,CN(C)C(C)=O.Oc1ccc(O)cc1,C2/c,False,100.0,lowT,CN(C)C(C)=O,Oc1ccc(O)cc1
+XUVTUE,XUVTUE,at 120 K,CC1=NN2C=C(C)N=C2S1.CCc1ccc(cc1)C(O)=O,P21/c,False,120.0,lowT,CC1=NN2C=C(C)N=C2S1,CCc1ccc(cc1)C(O)=O
+GIBSUJ,GIBSUJ,100 K,FC(F)(F)C(=O)[O-].CCOC(=O)c1ccc(cc1)[N+]1=NOC(=C1)N,Cc,False,100.0,lowT,FC(F)(F)C(=O)[O-],CCOC(=O)c1ccc(cc1)[N+]1=NOC(=C1)N
+GIFDUX,GIFDUX,100 K,NC(N)=O.Cc1cnccn1,P21/c,False,100.0,lowT,NC(N)=O,Cc1cnccn1
+KUQVOI,KUQVOI,at 100 K,NC(=O)C(=O)[O-].[NH3+]CCNC(=O)C(N)=O,P-1,False,100.0,lowT,NC(=O)C(=O)[O-],[NH3+]CCNC(=O)C(N)=O
+MULPUH,MULPUH,120 K,COc1cc[n+](O)cc1.O=C1[N-]S(=O)(=O)c2ccccc12,P21/c,False,120.0,lowT,COc1cc[n+](O)cc1,O=C1[N-]S(=O)(=O)c2ccccc12
+COXYUK,COXYUK,at 123 K,O=C1NC(C(=O)[N-]1)(c1ccccc1)c1ccccc1.C[N+](C)(C)CCO,P21/c,False,123.0,lowT,O=C1NC(C(=O)[N-]1)(c1ccccc1)c1ccccc1,C[N+](C)(C)CCO
+NUQYII,NUQYII,at 120 K,OC1(O)C(=O)NC(=O)NC1=O.C1COCCO1,P-1,False,120.0,lowT,OC1(O)C(=O)NC(=O)NC1=O,C1COCCO1
+UZUFON,UZUFON,120 K,C1N2CN3CN1CN(C2)C3.BrN1C(=O)c2ccccc2C1=O,Pmn21,False,120.0,lowT,C1N2CN3CN1CN(C2)C3,BrN1C(=O)c2ccccc2C1=O
+PUMFOV,PUMFOV,120 K,OC(=O)C=Cc1ccccc1O.NNC(=O)c1ccncc1,P21/n,False,120.0,lowT,OC(=O)C=Cc1ccccc1O,NNC(=O)c1ccncc1
+AGIVAR,AGIVAR,100 K,COc1cc(cc(OC)c1OC)C=C1N=C(C)N(C)C1=O.Fc1c(F)c(F)c2c(F)c(F)c(F)c(F)c2c1F,P-1,False,100.0,lowT,COc1cc(cc(OC)c1OC)C=C1N=C(C)N(C)C1=O,Fc1c(F)c(F)c2c(F)c(F)c(F)c(F)c2c1F
+MENQUV,MENQUV,100 K,Nc1ccc(Cl)cn1.Cc1ccccc1C(O)=O,P21/c,False,100.0,lowT,Nc1ccc(Cl)cn1,Cc1ccccc1C(O)=O
+WOBQEM,WOBQEM,100 K,Oc1cc(cc(O)c1O)C(=O)[O-].[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-],P21,False,100.0,lowT,Oc1cc(cc(O)c1O)C(=O)[O-],[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-]
+UMIQIR,UMIQIR,at 100 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O.Cc1cnc(C)cn1,P-1,False,100.0,lowT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,Cc1cnc(C)cn1
+KENCIS,KENCIS,120 K,OB(O)O.O=C1CCCCCN1,P21/n,False,120.0,lowT,OB(O)O,O=C1CCCCCN1
+BACQOO,BACQOO,99.3 K,O1C(=CN=C1c1ccccc1)c1ccccc1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P21/c,False,99.0,lowT,O1C(=CN=C1c1ccccc1)c1ccccc1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+REJZUC,REJZUC,at 90 K,[NH3+]C(CC1=CNC=[NH+]1)C(=O)[O-].OC(CC(O)=O)C(=O)[O-],P212121,False,90.0,lowT,[NH3+]C(CC1=CNC=[NH+]1)C(=O)[O-],OC(CC(O)=O)C(=O)[O-]
+BILKEO,BILKEO,at 120 K,[NH3+]CCSSCC[NH3+].OC(C(O)C(=O)[O-])C(=O)[O-],P212121,False,120.0,lowT,[NH3+]CCSSCC[NH3+],OC(C(O)C(=O)[O-])C(=O)[O-]
+PEZKIQ01,PEZKIQ01,100 K,CC(=O)[O-].Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,P-1,False,100.0,lowT,CC(=O)[O-],Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl
+FANFOT,FANFOT,120 K,[NH3+]c1ccc(Cl)cc1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,120.0,lowT,[NH3+]c1ccc(Cl)cc1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+SIDJIA,SIDJIA,at 100 K,NC(N)=O.C1COCCN1,Pbcm,False,100.0,lowT,NC(N)=O,C1COCCN1
+UFIRAG,UFIRAG,102 K,OCC(CO)(CO)CNC(=O)[O-].[NH3+]CC(CO)(CO)CO,P21/c,False,102.0,lowT,OCC(CO)(CO)CNC(=O)[O-],[NH3+]CC(CO)(CO)CO
+SAYQAM,SAYQAM,at 100 K,OC(=O)c1cccc(O)c1.O=C(NN=C1CCCCCC1)c1ccncc1,P21/n,False,100.0,lowT,OC(=O)c1cccc(O)c1,O=C(NN=C1CCCCCC1)c1ccncc1
+LEZNAG,LEZNAG,at 122 K,OC(C(O)C(=O)[O-])C(O)=O.C[NH+](C)C1CCCC1COC(=O)N(C)C,P22121,False,122.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,C[NH+](C)C1CCCC1COC(=O)N(C)C
+PUMGAI,PUMGAI,120 K,NNC(=O)c1ccncc1.OC(=O)C=Cc1ccc(O)cc1O,P-1,False,120.0,lowT,NNC(=O)c1ccncc1,OC(=O)C=Cc1ccc(O)cc1O
+OCIPOG,OCIPOG,at 100 K,OC(=O)C(O)=O.NC(=O)c1ccc(CN2C=CC=N2)cc1,P21/n,False,100.0,lowT,OC(=O)C(O)=O,NC(=O)c1ccc(CN2C=CC=N2)cc1
+NEZCAY,NEZCAY,at 100 K,CN(C)C=C1c2ccccc2C(=C(C=[N+](C)C)S1(=O)=O)Cl.ClP(Cl)(=O)[O-],P21/c,False,100.0,lowT,CN(C)C=C1c2ccccc2C(=C(C=[N+](C)C)S1(=O)=O)Cl,ClP(Cl)(=O)[O-]
+BEQWAV,BEQWAV,at 100.0 K,c1cc(ccn1)c1ccncc1.OC(=O)c1cc(O)cc(O)c1,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,OC(=O)c1cc(O)cc(O)c1
+NOLCAV,NOLCAV,100.2 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.O=C1CCCCN1,P-1,False,100.0,lowT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,O=C1CCCCN1
+EBONUG,EBONUG,at 100 K,Nc1ccccc1C(O)=O.NC(=O)c1cnccn1,P-1,False,100.0,lowT,Nc1ccccc1C(O)=O,NC(=O)c1cnccn1
+VAGVIJ,VAGVIJ,at 123 K,OC(=O)C=CC(=O)[O-].[NH3+]C(Cc1ccccc1)C(O)=O,P21/n,False,123.0,lowT,OC(=O)C=CC(=O)[O-],[NH3+]C(Cc1ccccc1)C(O)=O
+OHIQUS,OHIQUS,at 100 K,N#Cc1cc(C#N)c(cc1C#N)C#N.COc1cc(OC)c(OC)c(OC)c1,P-1,False,100.0,lowT,N#Cc1cc(C#N)c(cc1C#N)C#N,COc1cc(OC)c(OC)c(OC)c1
+BUBWIF,BUBWIF,at 108 K,Nc1ccc[nH+]c1Cl.OC1=C([O-])C(=O)C1=O,P-1,False,108.0,lowT,Nc1ccc[nH+]c1Cl,OC1=C([O-])C(=O)C1=O
+JELVAA,JELVAA,123 K,c1ccc2cc3ccccc3cc2c1.OC(=O)c1cc(Br)c(C#N)c(Br)c1,P-1,False,123.0,lowT,c1ccc2cc3ccccc3cc2c1,OC(=O)c1cc(Br)c(C#N)c(Br)c1
+QARGUO,QARGUO,120 K,OC(=O)CC(O)=O.CC(N)=O,P21/c,False,120.0,lowT,OC(=O)CC(O)=O,CC(N)=O
+HUQWUN,HUQWUN,123 K,[NH2+]=C(O)N1c2ccccc2C=Cc2ccccc12.O=S(=O)([O-])c1ccccc1,P21/c,False,123.0,lowT,[NH2+]=C(O)N1c2ccccc2C=Cc2ccccc12,O=S(=O)([O-])c1ccccc1
+XUVTOY,XUVTOY,at 120 K,OC(=O)c1ccccc1O.COc1ccc(cc1)C1=NN2C=C(C)N=C2S1,P21/n,False,120.0,lowT,OC(=O)c1ccccc1O,COc1ccc(cc1)C1=NN2C=C(C)N=C2S1
+MOYLIW,MOYLIW,at 100 K,c1cc(ccn1)c1ccncc1.OB(O)c1cccc(c1)B(O)O,C2/c,False,100.0,lowT,c1cc(ccn1)c1ccncc1,OB(O)c1cccc(c1)B(O)O
+FUSCIH01,FUSCIH01,100.0 K,Brc1c2ccccc2cc2ccccc12.C=CCN1C(=O)C2=C(SC3=C(S2)C(=O)N(CC=C)C3=O)C1=O,P-1,False,100.0,lowT,Brc1c2ccccc2cc2ccccc12,C=CCN1C(=O)C2=C(SC3=C(S2)C(=O)N(CC=C)C3=O)C1=O
+SAVZUO,SAVZUO,100 K,OC(=O)c1cc(O)c(O)c(O)c1.c1cnccn1,P-1,False,100.0,lowT,OC(=O)c1cc(O)c(O)c(O)c1,c1cnccn1
+HOGFEQ,HOGFEQ,at 100 K,OC(=O)c1ccccc1O.NC(=O)c1ccccn1,P21/c,False,100.0,lowT,OC(=O)c1ccccc1O,NC(=O)c1ccccn1
+KOKHAV,KOKHAV,at 120 K,CS(=O)(=O)N1CCN(CC1)c1[nH+]cccn1.CS(=O)(=O)[O-],P21/c,False,120.0,lowT,CS(=O)(=O)N1CCN(CC1)c1[nH+]cccn1,CS(=O)(=O)[O-]
+EDUYUZ,EDUYUZ,at 100 K,CCOC(=O)[O-].NC(=[NH2+])N1CCOCC1,P21/n,False,100.0,lowT,CCOC(=O)[O-],NC(=[NH2+])N1CCOCC1
+PYMCBZ01,PYMCBZ01,at 90 K,[2H][N+]1([2H])CCCC1.Clc1ccc(cc1)C(=O)[O-],Pbca,False,90.0,lowT,[2H][N+]1([2H])CCCC1,Clc1ccc(cc1)C(=O)[O-]
+TECCIQ,TECCIQ,93 K,CO[n+]1c(C)cccc1C.COS(=O)(=O)[O-],P21/n,False,93.0,lowT,CO[n+]1c(C)cccc1C,COS(=O)(=O)[O-]
+KOMTUC,KOMTUC,at 90.0 K,[NH2+]1CCOCC1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,90.0,lowT,[NH2+]1CCOCC1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+PUNXOM,PUNXOM,at 103 K,[NH3+]C(C)c1ccc(Br)cc1.CCOP([O-])(=S)c1ccc(Cl)cc1,P43212,False,103.0,lowT,[NH3+]C(C)c1ccc(Br)cc1,CCOP([O-])(=S)c1ccc(Cl)cc1
+IVULER,IVULER,at 120 K,C[NH+](C)C(C)C(O)c1ccccc1.Fc1cccc(c1)C(=O)[O-],P21,False,120.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Fc1cccc(c1)C(=O)[O-]
+HONTOU,HONTOU,at 100 K,OC(=O)c1cccc(O)c1.c1ccc(cc1)c1ccncc1,P21/n,False,100.0,lowT,OC(=O)c1cccc(O)c1,c1ccc(cc1)c1ccncc1
+EXANUN,EXANUN,at 100 K,OC(=O)c1ccc2ccccc2c1O.Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,P-1,False,100.0,lowT,OC(=O)c1ccc2ccccc2c1O,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+WUVKEE,WUVKEE,at 100 K,Nc1nnc(c(N)n1)c1cccc(Cl)c1Cl.COC(=O)c1ccc(O)cc1,P21/n,False,100.0,lowT,Nc1nnc(c(N)n1)c1cccc(Cl)c1Cl,COC(=O)c1ccc(O)cc1
+UQEJAE,UQEJAE,100 K,OC(C(=O)[O-])c1ccccc1.[NH3+]NC(=O)c1ccncc1,P21/c,False,100.0,lowT,OC(C(=O)[O-])c1ccccc1,[NH3+]NC(=O)c1ccncc1
+ROQYED,ROQYED,at 120 K,c1cc(ccn1)c1ccncc1.NC(=O)CCC(O)=O,P-1,False,120.0,lowT,c1cc(ccn1)c1ccncc1,NC(=O)CCC(O)=O
+MUPPES02,MUPPES02,at 123 K,CC(=O)Nc1ccc(O)cc1.C1COCCO1,P21/c,False,123.0,lowT,CC(=O)Nc1ccc(O)cc1,C1COCCO1
+EYOMAH,EYOMAH,at 93 K,C1CN2CCN1CC2.CCCC(O)(C(F)(F)F)C(F)(F)F,P21/n,False,93.0,lowT,C1CN2CCN1CC2,CCCC(O)(C(F)(F)F)C(F)(F)F
+BURWAP,BURWAP,100 K,FC(F)(F)S(=O)(=O)[O-].C[N+](C)=CO,Pna21,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[N+](C)=CO
+FEYTOV,FEYTOV,100 K,Fc1c(F)c(F)c(F)c(F)c1F.O=C(Nc1cccc(c1)C#C)c1ccccc1,P21/c,False,100.0,lowT,Fc1c(F)c(F)c(F)c(F)c1F,O=C(Nc1cccc(c1)C#C)c1ccccc1
+JOXFOU,JOXFOU,123 K,NC1=C(SC(=NN=C(C#N)C#N)N1c1ccccc1)C#N.C1COCCO1,P21/n,False,123.0,lowT,NC1=C(SC(=NN=C(C#N)C#N)N1c1ccccc1)C#N,C1COCCO1
+ZOCRAM,ZOCRAM,at 98 K,c1cc(ccn1)c1ccncc1.Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,P-1,False,98.0,lowT,c1cc(ccn1)c1ccncc1,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+MEDFOS,MEDFOS,at 120 K,OC(=O)C=CC(=O)[O-].[NH3+]CCc1ccc(O)cc1,P21/c,False,120.0,lowT,OC(=O)C=CC(=O)[O-],[NH3+]CCc1ccc(O)cc1
+CIZYIU,CIZYIU,at 120 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])C#Cc1ccccc1,P212121,False,120.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])C#Cc1ccccc1
+QURWOQ03,QURWOQ03,at 100 K,CCN(CC)C(=O)N1CC[NH+](C)CC1.OC(=O)CC(O)(CC(=O)[O-])C(O)=O,P-1,False,100.0,lowT,CCN(CC)C(=O)N1CC[NH+](C)CC1,OC(=O)CC(O)(CC(=O)[O-])C(O)=O
+WUTFAV,WUTFAV,100 K,C1N2CN3CN1CN(C2)C3.CC(C)c1ccc(C)c(O)c1,P3,False,100.0,lowT,C1N2CN3CN1CN(C2)C3,CC(C)c1ccc(C)c(O)c1
+UREXPO11,UREXPO11,at 81 K,NC(N)=O.OO,Pnca,False,81.0,lowT,NC(N)=O,OO
+UHADIR,UHADIR,at 120 K,OC(=O)CCCCC(O)=O.O=C1NCCN1,P21/c,False,120.0,lowT,OC(=O)CCCCC(O)=O,O=C1NCCN1
+NINXOZ,NINXOZ,at 98 K,c1cc(ccn1)c1ccncc1.Nc1ccccc1C(O)=O,P21/c,False,98.0,lowT,c1cc(ccn1)c1ccncc1,Nc1ccccc1C(O)=O
+LUTXOP,LUTXOP,93 K,c1cc(ccn1)c1ccncc1.CCCOc1ccc(cc1)C(O)=O,P-1,False,93.0,lowT,c1cc(ccn1)c1ccncc1,CCCOc1ccc(cc1)C(O)=O
+UMUXIJ,UMUXIJ,at 123 K,CC1=CC(=[NH+]c2cc(ccc2N1)C(O)=O)C.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,123.0,lowT,CC1=CC(=[NH+]c2cc(ccc2N1)C(O)=O)C,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+LOLSUA,LOLSUA,at 30 K,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl.Cc1ccccn1,P-1,False,30.0,lowT,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Cc1ccccn1
+KUQYEB,KUQYEB,at 100 K,c1cc(ccn1)c1ccncc1.OB(O)c1ccc(cc1)B(O)O,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,OB(O)c1ccc(cc1)B(O)O
+YIJVIX,YIJVIX,at 113 K,ON=Cc1cc2ccccc2c(c1O)c1c(O)ccc2ccccc12.C1CCOC1,P-1,False,113.0,lowT,ON=Cc1cc2ccccc2c(c1O)c1c(O)ccc2ccccc12,C1CCOC1
+FACXUD,FACXUD,at 123 K,[NH3+]C(C(C)C)C(O)=O.ClC(Cl)(Cl)C(=O)[O-],P-1,False,123.0,lowT,[NH3+]C(C(C)C)C(O)=O,ClC(Cl)(Cl)C(=O)[O-]
+IVUQOG,IVUQOG,at 123 K,Clc1cccc(c1)C(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,P212121,False,123.0,lowT,Clc1cccc(c1)C(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+VIGDAR01,VIGDAR01,100 K,Cc1ccc(cc1)C1=CC(=NN1c1ccc(cc1)S(N)(=O)=O)C(F)(F)F.NC(=O)c1cccnc1,P21/n,False,100.0,lowT,Cc1ccc(cc1)C1=CC(=NN1c1ccc(cc1)S(N)(=O)=O)C(F)(F)F,NC(=O)c1cccnc1
+LEPDAP,LEPDAP,120 K,CCCCC(O)=O.c1cc(ccn1)N=Nc1ccncc1,P-1,False,120.0,lowT,CCCCC(O)=O,c1cc(ccn1)N=Nc1ccncc1
+MIYBAX,MIYBAX,at 123 K,OC(=O)C=CC(=O)[O-].C[NH2+]CC(O)=O,C2/c,False,123.0,lowT,OC(=O)C=CC(=O)[O-],C[NH2+]CC(O)=O
+GUDTAC,GUDTAC,at 100 K,OC(=O)CC(O)=O.c1cnccn1,P-1,False,100.0,lowT,OC(=O)CC(O)=O,c1cnccn1
+XOBVOC,XOBVOC,100 K,OC(CC(c1ccccc1Br)S(=O)(=O)[O-])c1ccccc1.CC[N+](CC)(CC)Cc1ccccc1Br,P212121,False,100.0,lowT,OC(CC(c1ccccc1Br)S(=O)(=O)[O-])c1ccccc1,CC[N+](CC)(CC)Cc1ccccc1Br
+WOTDOB,WOTDOB,110 K,C[n+]1cccc2C=C3N(c4ccccc4C3=O)c12.FC(F)(F)S(=O)(=O)[O-],P-1,False,110.0,lowT,C[n+]1cccc2C=C3N(c4ccccc4C3=O)c12,FC(F)(F)S(=O)(=O)[O-]
+TAVZOI,TAVZOI,100 K,NC(=O)c1ccncc1.COc1ccc(cc1)C(O)=O,I2/a,False,100.0,lowT,NC(=O)c1ccncc1,COc1ccc(cc1)C(O)=O
+RERCIE,RERCIE,100 K,Oc1ccccc1C(=O)[O-].NC(N)=[NH+]C1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O,P212121,False,100.0,lowT,Oc1ccccc1C(=O)[O-],NC(N)=[NH+]C1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O
+KIHYUW,KIHYUW,at 100 K,Oc1ccc(cc1)c1ccc(O)cc1.N#Cc1cccnc1,P21/c,False,100.0,lowT,Oc1ccc(cc1)c1ccc(O)cc1,N#Cc1cccnc1
+XULMAS,XULMAS,at 110 K,CS(C)=O.CC(=NO)C(C)=NN=C(C)C(C)=NN=C(C)C(C)=NO,P-1,False,110.0,lowT,CS(C)=O,CC(=NO)C(C)=NN=C(C)C(C)=NN=C(C)C(C)=NO
+UMIWET,UMIWET,at 103 K,Nc1cccc(N)n1.CN1B(NC(=O)NC1=O)c1c(C)cc(C)cc1C,P-1,False,103.0,lowT,Nc1cccc(N)n1,CN1B(NC(=O)NC1=O)c1c(C)cc(C)cc1C
+CIMVED,CIMVED,93 K,CCOc1ccccc1C(N)=O.OC(=O)CC(O)=O,P21/c,False,93.0,lowT,CCOc1ccccc1C(N)=O,OC(=O)CC(O)=O
+FOMFET,FOMFET,at 120 K,OC(=O)c1cc(ccc1C(=O)[O-])N(=O)=O.[NH3+]c1ccc(Cl)cc1,C2/c,False,120.0,lowT,OC(=O)c1cc(ccc1C(=O)[O-])N(=O)=O,[NH3+]c1ccc(Cl)cc1
+ODIHOZ,ODIHOZ,at 100 K,CC1=CC(=O)[N-]S(=O)(=O)O1.C[N+](C)(C)CCO,P21/n,False,100.0,lowT,CC1=CC(=O)[N-]S(=O)(=O)O1,C[N+](C)(C)CCO
+MULPAN,MULPAN,123 K,O[n+]1ccc(cc1)c1ccccc1.O=C1[N-]S(=O)(=O)c2ccccc12,P-1,False,123.0,lowT,O[n+]1ccc(cc1)c1ccccc1,O=C1[N-]S(=O)(=O)c2ccccc12
+KOYWAW,KOYWAW,at 105 K,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O.C[N+](C)(C)CCO,P21/n,False,105.0,lowT,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,C[N+](C)(C)CCO
+XUJNOH,XUJNOH,93 K,[NH3+]C(CO)C(O)C(O)CO.OC(=O)C(=O)[O-],P212121,False,93.0,lowT,[NH3+]C(CO)C(O)C(O)CO,OC(=O)C(=O)[O-]
+DIDZEX,DIDZEX,at 98 K,Nc1ccccc1C(O)=O.O=C(NCc1ccccn1)C(=O)NCc1ccccn1,P-1,False,98.0,lowT,Nc1ccccc1C(O)=O,O=C(NCc1ccccn1)C(=O)NCc1ccccn1
+FEYZEQ,FEYZEQ,at 120 K,Cc1ccccc1C.COc1ccc(NS(=O)(=O)c2ccc3ccccc3c2)cc1,P21/c,False,120.0,lowT,Cc1ccccc1C,COc1ccc(NS(=O)(=O)c2ccc3ccccc3c2)cc1
+TOMXIE,TOMXIE,at 110 K,OC(=O)COc1ccc2ccccc2c1.O=C1C(=O)c2cccnc2c2ncccc12,Cc,False,110.0,lowT,OC(=O)COc1ccc2ccccc2c1,O=C1C(=O)c2cccnc2c2ncccc12
+KEKHAK,KEKHAK,at 120 K,O=C([O-])CN1C(=O)c2ccccc2C1=O.Oc1cccc2ccc[nH+]c12,P-1,False,120.0,lowT,O=C([O-])CN1C(=O)c2ccccc2C1=O,Oc1cccc2ccc[nH+]c12
+PEFGEO,PEFGEO,at 110 K,OC(=O)c1cc(O)c(O)c(O)c1.CC(N)=O,P21/c,False,110.0,lowT,OC(=O)c1cc(O)c(O)c(O)c1,CC(N)=O
+GUMVIU,GUMVIU,at 115 K,O=C([O-])c1ccc2ccccc2c1.[NH3+]C1C(O)Cc2ccccc12,P212121,False,115.0,lowT,O=C([O-])c1ccc2ccccc2c1,[NH3+]C1C(O)Cc2ccccc12
+ANILER01,ANILER01,110.9 K,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1.C1COCCO1,P-1,False,110.0,lowT,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1,C1COCCO1
+VUHFIO,VUHFIO,at 110 K,O=C1NS(=O)(=O)c2ccccc12.CCOc1ccccc1C(N)=O,P-1,False,110.0,lowT,O=C1NS(=O)(=O)c2ccccc12,CCOc1ccccc1C(N)=O
+TUFNUF,TUFNUF,100 K,OC(=O)c1cc(O)ccc1O.CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)Nc1ccccn1,P21/c,False,100.0,lowT,OC(=O)c1cc(O)ccc1O,CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)Nc1ccccn1
+KUZJIZ,KUZJIZ,at 100 K,Nc1[nH+]cc(Cl)cc1.OC(=O)c1ccccc1C(=O)[O-],P-1,False,100.0,lowT,Nc1[nH+]cc(Cl)cc1,OC(=O)c1ccccc1C(=O)[O-]
+XAQRAJ,XAQRAJ,at 100 K,Nc1ccc(cc1)C(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,C2/c,False,100.0,lowT,Nc1ccc(cc1)C(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+MECHAF,MECHAF,at 110 K,OC(=O)Cc1ccccc1.NC(=O)c1ccccc1,P-1,False,110.0,lowT,OC(=O)Cc1ccccc1,NC(=O)c1ccccc1
+WEDLUO,WEDLUO,at 120 K,OC(=O)c1c(F)c(F)c(F)c(F)c1F.Nc1ncc(Br)nc1Br,P21/n,False,120.0,lowT,OC(=O)c1c(F)c(F)c(F)c(F)c1F,Nc1ncc(Br)nc1Br
+TOJQUF,TOJQUF,at 100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.CN1C=C[N+](=C1)CC(O)=O,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,CN1C=C[N+](=C1)CC(O)=O
+YETFOV,YETFOV,100 K,CC(C)(C)N1[P+]N(c2ccccc12)C(C)(C)C.FC(F)(F)S(=O)(=O)[O-],Pc,False,100.0,lowT,CC(C)(C)N1[P+]N(c2ccccc12)C(C)(C)C,FC(F)(F)S(=O)(=O)[O-]
+KAYGOI,KAYGOI,at 120 K,O=C(Nc1ccccn1)c1ccncc1.OC(=O)CCCCCCCC(O)=O,P-1,False,120.0,lowT,O=C(Nc1ccccn1)c1ccncc1,OC(=O)CCCCCCCC(O)=O
+GARQIC,GARQIC,100 K,CC(=O)[O-].CC1(C)CC(O)CC2CCC[NH+]12,P212121,False,100.0,lowT,CC(=O)[O-],CC1(C)CC(O)CC2CCC[NH+]12
+VUKPAU,VUKPAU,100 K,Cc1[nH+]cc(CO)c(CO)c1O.O=C([O-])c1ccc(cc1)N(=O)=O,P-1,False,100.0,lowT,Cc1[nH+]cc(CO)c(CO)c1O,O=C([O-])c1ccc(cc1)N(=O)=O
+WUSMUU,WUSMUU,100 K,CN(C)C=O.CSC1=C(C#N)C(=O)N(NS(=O)(=O)c2ccc(Br)cc2)C(=N1)N,P-1,False,100.0,lowT,CN(C)C=O,CSC1=C(C#N)C(=O)N(NS(=O)(=O)c2ccc(Br)cc2)C(=N1)N
+FOXPOY,FOXPOY,at 85 K,OC(C(=O)[O-])c1ccccc1.[NH3+]CC1(CCCCC1)CC(O)=O,P-1,False,85.0,lowT,OC(C(=O)[O-])c1ccccc1,[NH3+]CC1(CCCCC1)CC(O)=O
+ULAWAF02,ULAWAF02,at 100 K,NC(=O)c1ccncc1.OC(=O)C(O)=O,P-1,False,100.0,lowT,NC(=O)c1ccncc1,OC(=O)C(O)=O
+RUYZAO,RUYZAO,100 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.CC1=CC(=O)c2ccccc2C1=O,P-1,False,100.0,lowT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,CC1=CC(=O)c2ccccc2C1=O
+MAVYUF,MAVYUF,at 123 K,[NH3+]C(C)c1ccc(Cl)cc1.O=C([O-])C1COC2OC(=O)CC12,P212121,False,123.0,lowT,[NH3+]C(C)c1ccc(Cl)cc1,O=C([O-])C1COC2OC(=O)CC12
+FALTET,FALTET,at 110 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.Cc1cccnc1,P-1,False,110.0,lowT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,Cc1cccnc1
+XICROS,XICROS,at 100 K,Nc1ccc(c(O)c1)C(=O)[O-].NC1=[NH+]C(=O)NC=C1,P21/c,False,100.0,lowT,Nc1ccc(c(O)c1)C(=O)[O-],NC1=[NH+]C(=O)NC=C1
+TRYPTB,TRYPTB,at 121 K,OC(=O)C(=O)[O-].[NH3+]C(CC1=CNc2ccccc12)C(O)=O,P212121,False,121.0,lowT,OC(=O)C(=O)[O-],[NH3+]C(CC1=CNc2ccccc12)C(O)=O
+VIPXOJ,VIPXOJ,at 98 K,C1CN2CCN1CC2.Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1,Pbcn,False,98.0,lowT,C1CN2CCN1CC2,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1
+YIRLOB,YIRLOB,at 120 K,COc1cc(OC)nc(N)n1.Nc1ccccc1C(O)=O,P-1,False,120.0,lowT,COc1cc(OC)nc(N)n1,Nc1ccccc1C(O)=O
+PIGHAP,PIGHAP,at 93 K,CN(C)c1cc[n+](CCF)cc1.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,93.0,lowT,CN(C)c1cc[n+](CCF)cc1,Cc1ccc(cc1)S(=O)(=O)[O-]
+CEWQEE,CEWQEE,100 K,[NH3+]CC(CC(C)C)CC(O)=O.OC(C(=O)[O-])c1ccccc1,P21,False,100.0,lowT,[NH3+]CC(CC(C)C)CC(O)=O,OC(C(=O)[O-])c1ccccc1
+KECTAQ,KECTAQ,120 K,OC(=O)CCC(O)=O.O=C(NN=Cc1ccncc1)c1cccnc1,Pbca,False,120.0,lowT,OC(=O)CCC(O)=O,O=C(NN=Cc1ccncc1)c1cccnc1
+KIPHOJ,KIPHOJ,100 K,c1cc(ccn1)c1ccncc1.Cc1cc(O)c2C(=O)c3c(O)cc(O)cc3C(=O)c2c1,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,Cc1cc(O)c2C(=O)c3c(O)cc(O)cc3C(=O)c2c1
+UHUFOU,UHUFOU,at 110.2 K,Nc1nc(N)nc(n1)c1ccccc1.OC(=O)CCSc1ccccc1,Cc,False,110.0,lowT,Nc1nc(N)nc(n1)c1ccccc1,OC(=O)CCSc1ccccc1
+XAQREN,XAQREN,at 100 K,Nc1ccc(cc1)C(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,100.0,lowT,Nc1ccc(cc1)C(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+ISIJAW,ISIJAW,at 120 K,NC(=O)c1ccncc1.OC(=O)CCCCCCCC(O)=O,P2/c,False,120.0,lowT,NC(=O)c1ccncc1,OC(=O)CCCCCCCC(O)=O
+EZIFEZ,EZIFEZ,at 100 K,OC(=O)c1cc(O)cc(O)c1.CC1=NN=C2CN=C(c3ccccc3)c3cc(Cl)ccc3N12,P-1,False,100.0,lowT,OC(=O)c1cc(O)cc(O)c1,CC1=NN=C2CN=C(c3ccccc3)c3cc(Cl)ccc3N12
+LOFJOH,LOFJOH,at 100 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.ClC1=C(Sc2ccccc12)C(=O)[O-],P21,False,100.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,ClC1=C(Sc2ccccc12)C(=O)[O-]
+GOGFOA,GOGFOA,100 K,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl.C(Cc1ccncc1)c1ccncc1,Pbcn,False,100.0,lowT,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,C(Cc1ccncc1)c1ccncc1
+MEDCOP,MEDCOP,at 123 K,Oc1cccc(c1)C(=O)[O-].[NH3+]CCc1ccc(O)cc1,P-1,False,123.0,lowT,Oc1cccc(c1)C(=O)[O-],[NH3+]CCc1ccc(O)cc1
+HURMUC,HURMUC,at 100 K,Clc1cccc(c1)C(=O)[O-].COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,P-1,False,100.0,lowT,Clc1cccc(c1)C(=O)[O-],COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC
+HOGGUH,HOGGUH,at 100 K,OC(=O)CC(O)=O.NC(=O)c1ccccn1,P-1,False,100.0,lowT,OC(=O)CC(O)=O,NC(=O)c1ccccn1
+UNEZOC,UNEZOC,at 100 K,OC=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/c,False,100.0,lowT,OC=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+NAQPIH,NAQPIH,100 K,NC1=Nc2ccc(OC(F)(F)F)cc2S1.OC(=O)CCCCCCCC(O)=O,P-1,False,100.0,lowT,NC1=Nc2ccc(OC(F)(F)F)cc2S1,OC(=O)CCCCCCCC(O)=O
+AMAYOF,AMAYOF,100 K,FC(F)(F)S(=O)(=O)[O-].O=C(c1ccccc1)C([N+]#N)=S1c2ccccc2c2ccccc12,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],O=C(c1ccccc1)C([N+]#N)=S1c2ccccc2c2ccccc12
+AJAGUN,AJAGUN,at 90 K,OC(=O)c1cc(O)ccc1O.O=C1CNC(=O)CN1,Pna21,False,90.0,lowT,OC(=O)c1cc(O)ccc1O,O=C1CNC(=O)CN1
+YUCPIW,YUCPIW,at 100 K,Oc1ccc(O)cc1.C1N2CN3CN1CN(C2)c1ccccc31,P21/n,False,100.0,lowT,Oc1ccc(O)cc1,C1N2CN3CN1CN(C2)c1ccccc31
+VAVKIP,VAVKIP,123 K,Oc1cccc(c1)C(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,P21/c,False,123.0,lowT,Oc1cccc(c1)C(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+CUKKUR,CUKKUR,100 K,C1N2CN3CN1CN(C2)C3.COc1cc(cc(OC)c1O)C(O)=O,P21/n,False,100.0,lowT,C1N2CN3CN1CN(C2)C3,COc1cc(cc(OC)c1O)C(O)=O
+AGIJAF,AGIJAF,100 K,COc1cc(cc(OC)c1OC)C=C1N=C(C)N(C)C1=O.Fc1c(F)c(Br)c(F)c(F)c1Br,P-1,False,100.0,lowT,COc1cc(cc(OC)c1OC)C=C1N=C(C)N(C)C1=O,Fc1c(F)c(Br)c(F)c(F)c1Br
+UGOHUV,UGOHUV,100 K,OC(=O)c1cc(O)cc(O)c1.O=C1CCCC(=O)N1,P-1,False,100.0,lowT,OC(=O)c1cc(O)cc(O)c1,O=C1CCCC(=O)N1
+NEQNOP,NEQNOP,120 K,CC1=CN=C(NC(=O)c2ccccc2)S1.OC(=O)CCCCCCCCC(O)=O,P-1,False,120.0,lowT,CC1=CN=C(NC(=O)c2ccccc2)S1,OC(=O)CCCCCCCCC(O)=O
+LIBTUN,LIBTUN,at 120 K,CCC(=O)[O-].Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,I41/a,False,120.0,lowT,CCC(=O)[O-],Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl
+SIHMAA,SIHMAA,100 K,Cc1nc(C)c(Cl)c(N)n1.CC1=CC=C(S1)C(O)=O,P21/c,False,100.0,lowT,Cc1nc(C)c(Cl)c(N)n1,CC1=CC=C(S1)C(O)=O
+MUYSIJ,MUYSIJ,at 90 K,CN(C)C=O.OC(=O)c1cccnc1Nc1cccc(F)c1F,Pcab,False,90.0,lowT,CN(C)C=O,OC(=O)c1cccnc1Nc1cccc(F)c1F
+TAPMEC,TAPMEC,at 105 K,CC1OC(CC1=O)C[N+](C)(C)C.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,105.0,lowT,CC1OC(CC1=O)C[N+](C)(C)C,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+MUPNER,MUPNER,at 100 K,NC(=O)c1ccncc1.COc1cc(C=CC(O)=O)ccc1O,P21/n,False,100.0,lowT,NC(=O)c1ccncc1,COc1cc(C=CC(O)=O)ccc1O
+AWOQUY,AWOQUY,at 103 K,[NH3+]C1(CCc2cc(Br)ccc2C1)C(=O)OC.OC(C(=O)[O-])c1ccccc1,P212121,False,103.0,lowT,[NH3+]C1(CCc2cc(Br)ccc2C1)C(=O)OC,OC(C(=O)[O-])c1ccccc1
+DIDZAT,DIDZAT,at 98 K,O=C(NCc1cccnc1)C(=O)NCc1cccnc1.Nc1ccccc1C(O)=O,P21/c,False,98.0,lowT,O=C(NCc1cccnc1)C(=O)NCc1cccnc1,Nc1ccccc1C(O)=O
+XUVQOV,XUVQOV,at 120 K,OC(=O)c1ccccc1O.CC1=NN2C=C(C)N=C2S1,P-1,False,120.0,lowT,OC(=O)c1ccccc1O,CC1=NN2C=C(C)N=C2S1
+XAQQOW,XAQQOW,at 100 K,OC(=O)c1cc(O)ccc1O.NC(=O)c1cnccn1,P21/n,False,100.0,lowT,OC(=O)c1cc(O)ccc1O,NC(=O)c1cnccn1
+FALSUI,FALSUI,at 110 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.CN(C)C(C)=O,P-1,False,110.0,lowT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,CN(C)C(C)=O
+ADAFOD01,ADAFOD01,100.0 K,FC(F)(F)S(=O)(=O)[O-].CN(C)c1cc[n+](cc1)S(=O)(=O)C(F)(F)F,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CN(C)c1cc[n+](cc1)S(=O)(=O)C(F)(F)F
+EZASEG,EZASEG,113.2 K,COc1[nH+]c(N)nc(OC)c1.Oc1cccc(C(=O)[O-])c1O,P-1,False,113.0,lowT,COc1[nH+]c(N)nc(OC)c1,Oc1cccc(C(=O)[O-])c1O
+JOKYEQ,JOKYEQ,123 K,C1CCOC1.Nc1ccc(cc1)S(=O)(=O)Nc1ccc(Cl)nn1,Pc,False,123.0,lowT,C1CCOC1,Nc1ccc(cc1)S(=O)(=O)Nc1ccc(Cl)nn1
+OHAGIO,OHAGIO,at 103 K,C1COCCO1.COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,C2/c,False,103.0,lowT,C1COCCO1,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC
+EYEHAT,EYEHAT,93 K,c1cc(ccn1)C=Cc1ccncc1.CCCCOc1ccc(cc1)C(O)=O,P-1,False,93.0,lowT,c1cc(ccn1)C=Cc1ccncc1,CCCCOc1ccc(cc1)C(O)=O
+NETTOZ,NETTOZ,100 K,Oc1ccccc1C(=O)[O-].OCC[NH+](CCO)C(CO)(CO)CO,P-1,False,100.0,lowT,Oc1ccccc1C(=O)[O-],OCC[NH+](CCO)C(CO)(CO)CO
+GUDVIM,GUDVIM,at 100 K,OC(=O)CCCCCC(O)=O.c1cnccn1,P-1,False,100.0,lowT,OC(=O)CCCCCC(O)=O,c1cnccn1
+HECROZ,HECROZ,100 K,C1N2CN3CN1CN(C2)C3.OC(=O)c1ccccc1,Pn,False,100.0,lowT,C1N2CN3CN1CN(C2)C3,OC(=O)c1ccccc1
+KIBQOC,KIBQOC,at 100 K,Nc1c(F)c(F)c(F)c(F)c1F.Oc1c(F)c(F)c(F)c(F)c1F,Cc,False,100.0,lowT,Nc1c(F)c(F)c(F)c(F)c1F,Oc1c(F)c(F)c(F)c(F)c1F
+WODDEZ,WODDEZ,at 120 K,O=C([O-])c1cccc2c1Cc1ccccc21.[NH3+]C(C(O)c1ccccc1)c1ccccc1,C2,False,120.0,lowT,O=C([O-])c1cccc2c1Cc1ccccc21,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+MEWNUA,MEWNUA,100 K,CC(C)OC(=S)Nc1ccccc1.c1cc(ccn1)c1ccncc1,P-1,False,100.0,lowT,CC(C)OC(=S)Nc1ccccc1,c1cc(ccn1)c1ccncc1
+NUZSOS,NUZSOS,100 K,OC(=O)C=Cc1ccccc1.c1cc(ccn1)c1ccncc1,P21/n,False,100.0,lowT,OC(=O)C=Cc1ccccc1,c1cc(ccn1)c1ccncc1
+BIZTOV,BIZTOV,at 100 K,NC(=O)c1cc[nH+]cc1.Oc1cc(O)c(c(O)c1)C(=O)[O-],Pna21,False,100.0,lowT,NC(=O)c1cc[nH+]cc1,Oc1cc(O)c(c(O)c1)C(=O)[O-]
+WEGMOM,WEGMOM,at 100 K,FC(F)(F)S(=O)(=O)[O-].NC(=O)C[n+]1ccc(cc1)C(N)=O,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],NC(=O)C[n+]1ccc(cc1)C(N)=O
+CUYKUF,CUYKUF,100 K,NC(=O)c1ccncc1.OCC(O)=O,P-1,False,100.0,lowT,NC(=O)c1ccncc1,OCC(O)=O
+LADDIF,LADDIF,at 100 K,OC(=O)CCC(O)=O.CC(=O)Nc1ccc(Br)cn1,P-1,False,100.0,lowT,OC(=O)CCC(O)=O,CC(=O)Nc1ccc(Br)cn1
+URUDER,URUDER,at 100 K,NNC(=O)c1ccncc1.Nc1ccc(C(O)=O)c(O)c1,Pna21,False,100.0,lowT,NNC(=O)c1ccncc1,Nc1ccc(C(O)=O)c(O)c1
+SIMKUV,SIMKUV,at 100 K,Cc1ccc(cc1)S(=O)(=O)[O-].COc1ccc(C[n+]2ccccc2)cc1,P21/n,False,100.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],COc1ccc(C[n+]2ccccc2)cc1
+OHAGUA,OHAGUA,at 103 K,Clc1ccccc1Cl.COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,P-1,False,103.0,lowT,Clc1ccccc1Cl,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC
+VUWQEL,VUWQEL,100 K,Clc1cccc(NC(=O)Nc2cccc(Cl)c2)c1.O=P(c1ccccc1)(c1ccccc1)c1ccccc1,P-1,False,100.0,lowT,Clc1cccc(NC(=O)Nc2cccc(Cl)c2)c1,O=P(c1ccccc1)(c1ccccc1)c1ccccc1
+GUXSUQ,GUXSUQ,100 K,CC(=O)NC1=NN=C(S1)S(N)(=O)=O.Nc1ccccn1,P-1,False,100.0,lowT,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,Nc1ccccn1
+RULYAA,RULYAA,120 K,[NH2+]1CCOCC1.COc1ccc(cc1)P(=S)([S-])N1CCOCC1,C2/c,False,120.0,lowT,[NH2+]1CCOCC1,COc1ccc(cc1)P(=S)([S-])N1CCOCC1
+FERLOH,FERLOH,113.15 K,OC(=O)C=Cc1ccccc1.CC1=NN=C(c2ccccc2)C(=O)N1N,P21/c,False,113.0,lowT,OC(=O)C=Cc1ccccc1,CC1=NN=C(c2ccccc2)C(=O)N1N
+VABVOL,VABVOL,at 98 K,c1cc(ccn1)C=NN=Cc1ccncc1.OC(=O)c1ccccc1,P21/n,False,98.0,lowT,c1cc(ccn1)C=NN=Cc1ccncc1,OC(=O)c1ccccc1
+ETEFAN,ETEFAN,100 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.c1ccc2nc3ccccc3cc2c1,P-1,False,100.0,lowT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,c1ccc2nc3ccccc3cc2c1
+WELCAV,WELCAV,100 K,CCCCCO.NCC=C,P21/c,False,100.0,lowT,CCCCCO,NCC=C
+WUVKOO,WUVKOO,at 100 K,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl.O=C1[N-]S(=O)(=O)c2ccccc12,P21/c,False,100.0,lowT,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,O=C1[N-]S(=O)(=O)c2ccccc12
+ATUVEQ,ATUVEQ,at 120 K,[NH3+]C1CCC(O)CC1.OC1CCC(CC1)NC(=O)[O-],P21/c,False,120.0,lowT,[NH3+]C1CCC(O)CC1,OC1CCC(CC1)NC(=O)[O-]
+MORVOF,MORVOF,at 100 K,Oc1cc(O)cc(O)c1.c1ccc2nc3ccccc3cc2c1,Pca21,False,100.0,lowT,Oc1cc(O)cc(O)c1,c1ccc2nc3ccccc3cc2c1
+RERDEB,RERDEB,100 K,Nc1ccc(cc1)C(=O)[O-].NC(N)=[NH+]C1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O,P21/c,False,100.0,lowT,Nc1ccc(cc1)C(=O)[O-],NC(N)=[NH+]C1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O
+XAYGUA,XAYGUA,at 93.1 K,NC(=[NH2+])SC#Cc1ccccc1.CS(=O)(=O)[O-],P212121,False,93.0,lowT,NC(=[NH2+])SC#Cc1ccccc1,CS(=O)(=O)[O-]
+JAZROU,JAZROU,100.0 K,OC(=O)C(=O)[O-].OCC[NH+](CCO)CCO,Pca21,False,100.0,lowT,OC(=O)C(=O)[O-],OCC[NH+](CCO)CCO
+VIMJAF,VIMJAF,120.2 K,c1ccccc1.Oc1cccc(CN2CCCC2=O)c1O,P21/n,False,120.0,lowT,c1ccccc1,Oc1cccc(CN2CCCC2=O)c1O
+UHUFUA,UHUFUA,at 110.2 K,Nc1nc(N)nc(n1)c1ccccc1.OC(=O)CSc1ccccc1,Pca21,False,110.0,lowT,Nc1nc(N)nc(n1)c1ccccc1,OC(=O)CSc1ccccc1
+IVUPAR,IVUPAR,at 123 K,OC(=O)C=CC(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,P21212,False,123.0,lowT,OC(=O)C=CC(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+KEFBAZ,KEFBAZ,at 100 K,CC(=O)Nc1ccccn1.OC(=O)C=CC(O)=O,P-1,False,100.0,lowT,CC(=O)Nc1ccccn1,OC(=O)C=CC(O)=O
+XEPBOL,XEPBOL,at 120 K,OC(=O)CCCCCCC(O)=O.c1cncc(c1)N=Nc1cccnc1,P-1,False,120.0,lowT,OC(=O)CCCCCCC(O)=O,c1cncc(c1)N=Nc1cccnc1
+FAFGUR,FAFGUR,90 K,COc1ccc2cccc(CCNC(C)=O)c2c1.CC(=O)C(O)=O,C2/c,False,90.0,lowT,COc1ccc2cccc(CCNC(C)=O)c2c1,CC(=O)C(O)=O
+YOGCUU,YOGCUU,at 100 K,Clc1ccc2N3CN(Cc2c1)c1ccc(Cl)cc1C3.Cc1ccc2N3CN(Cc2c1)c1ccc(C)cc1C3,P21212,False,100.0,lowT,Clc1ccc2N3CN(Cc2c1)c1ccc(Cl)cc1C3,Cc1ccc2N3CN(Cc2c1)c1ccc(C)cc1C3
+HEDSAM,HEDSAM,at 100 K,c1ccc2ncccc2c1.Oc1cccc(O)c1O,P-1,False,100.0,lowT,c1ccc2ncccc2c1,Oc1cccc(O)c1O
+BACRAB,BACRAB,99.7 K,O1C(=CN=C1c1ccccc1)c1ccccc1.Oc1ccc(O)cc1,Pca21,False,99.0,lowT,O1C(=CN=C1c1ccccc1)c1ccccc1,Oc1ccc(O)cc1
+GEKGIP,GEKGIP,100 K,Fc1c(F)c(F)c(F)c(F)c1F.Fc1ccc(cc1)C(=O)Nc1cccc(c1)C#C,P21/c,False,100.0,lowT,Fc1c(F)c(F)c(F)c(F)c1F,Fc1ccc(cc1)C(=O)Nc1cccc(c1)C#C
+KIPWIS,KIPWIS,100 K,NC(N)=S.O=C1CC(=O)NC(=S)N1,P21/m,False,100.0,lowT,NC(N)=S,O=C1CC(=O)NC(=S)N1
+PASLAY,PASLAY,at 120 K,CN(C)P(=O)(N(C)C)N(C)C.Fc1c(F)c(Br)c(F)c(Br)c1F,C2/c,False,120.0,lowT,CN(C)P(=O)(N(C)C)N(C)C,Fc1c(F)c(Br)c(F)c(Br)c1F
+LOGDOC,LOGDOC,at 100 K,Cc1cc(N)[nH+]cc1N(=O)=O.Oc1ccc(cc1)S(=O)(=O)[O-],P21/n,False,100.0,lowT,Cc1cc(N)[nH+]cc1N(=O)=O,Oc1ccc(cc1)S(=O)(=O)[O-]
+MUPMUG,MUPMUG,at 100 K,Oc1cc2C(=O)Oc3c(O)c(O)cc4C(=O)Oc(c1O)c2c34.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P-1,False,100.0,lowT,Oc1cc2C(=O)Oc3c(O)c(O)cc4C(=O)Oc(c1O)c2c34,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+SEZZIK,SEZZIK,90 K,COc1ccc(cc1)N1CC[NH2+]CC1.COc1ccc(cc1)C(=O)[O-],P21/c,False,90.0,lowT,COc1ccc(cc1)N1CC[NH2+]CC1,COc1ccc(cc1)C(=O)[O-]
+IVEKIG,IVEKIG,100 K,CC[NH+](CC)CC(=O)Nc1c(C)cccc1C.OC(=O)CCCCC(=O)[O-],P21/n,False,100.0,lowT,CC[NH+](CC)CC(=O)Nc1c(C)cccc1C,OC(=O)CCCCC(=O)[O-]
+BIXDIZ,BIXDIZ,100 K,FC(F)(F)S(=O)(=O)[O-].C[N+](C)(C)c1ccc2C(=O)OC(=O)N(CC#C)c2n1,P21,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[N+](C)(C)c1ccc2C(=O)OC(=O)N(CC#C)c2n1
+GIKBEL,GIKBEL,113.2 K,Oc1cc(cc(O)c1O)C(=O)[O-].COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,P21/c,False,113.0,lowT,Oc1cc(cc(O)c1O)C(=O)[O-],COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC
+IVORUI,IVORUI,120 K,Cc1ccncc1.NC(=O)Nc1ccc(O)c(c1)C(O)=O,P-1,False,120.0,lowT,Cc1ccncc1,NC(=O)Nc1ccc(O)c(c1)C(O)=O
+HEGHIL,HEGHIL,at 120 K,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC.O=C([O-])c1ccccn1,P-1,False,120.0,lowT,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,O=C([O-])c1ccccn1
+NUKYUO02,NUKYUO02,at 110 K,NC(=O)c1cccnc1.OC(=O)CCCCCC(O)=O,Pna21,False,110.0,lowT,NC(=O)c1cccnc1,OC(=O)CCCCCC(O)=O
+UHACUC,UHACUC,at 120 K,O=C1CCCN1.OC(=O)C=CC(O)=O,P21/n,False,120.0,lowT,O=C1CCCN1,OC(=O)C=CC(O)=O
+FANFUZ,FANFUZ,120 K,[NH3+]c1cccc(Cl)c1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,120.0,lowT,[NH3+]c1cccc(Cl)c1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+JEYTUG,JEYTUG,123 K,FC(F)(F)S(=O)(=O)[O-].COc1ccc(cc1)[N+]#CC(C)(C)C,P21/n,False,123.0,lowT,FC(F)(F)S(=O)(=O)[O-],COc1ccc(cc1)[N+]#CC(C)(C)C
+YACFEQ,YACFEQ,100 K,Oc1cc(O)cc(O)c1.CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O,P21/n,False,100.0,lowT,Oc1cc(O)cc(O)c1,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O
+VIRKIU,VIRKIU,113.2 K,NC(=O)c1cccnc1.CC=CC=CC(O)=O,P-1,False,113.0,lowT,NC(=O)c1cccnc1,CC=CC=CC(O)=O
+MIDRUN,MIDRUN,at 103 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.Cc1ccc(cc1)C(=O)[O-],P212121,False,103.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,Cc1ccc(cc1)C(=O)[O-]
+MOYLOC,MOYLOC,at 100 K,c1cc(ccn1)c1ccncc1.Nc1cccc(c1)B(O)O,Cc,False,100.0,lowT,c1cc(ccn1)c1ccncc1,Nc1cccc(c1)B(O)O
+QOFSIQ,QOFSIQ,100 K,NC(N)=O.c1cnccn1,P2/c,False,100.0,lowT,NC(N)=O,c1cnccn1
+QOVQEY,QOVQEY,at 120 K,COc1[nH+]c(N)nc(OC)c1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,120.0,lowT,COc1[nH+]c(N)nc(OC)c1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+OHAHAH,OHAHAH,at 103 K,c1ccccc1.COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,P-1,False,103.0,lowT,c1ccccc1,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC
+QANMEY,QANMEY,at 120 K,OC(=O)C(O)=O.O=C1CNC(=O)CN1,P-1,False,120.0,lowT,OC(=O)C(O)=O,O=C1CNC(=O)CN1
+UROHOZ,UROHOZ,at 123 K,CS(C)=O.Nc1nc(N)c2N=C3CCCCCN3c2n1,P21/c,False,123.0,lowT,CS(C)=O,Nc1nc(N)c2N=C3CCCCCN3c2n1
+WADXUX,WADXUX,100 K,O=C(NCc1ccncc1)C(=O)NCc1ccncc1.Cc1ccccc1C(O)=O,P-1,False,100.0,lowT,O=C(NCc1ccncc1)C(=O)NCc1ccncc1,Cc1ccccc1C(O)=O
+NAQNOL,NAQNOL,100 K,NC1=Nc2ccc(OC(F)(F)F)cc2S1.CC=CC=CC(O)=O,P-1,False,100.0,lowT,NC1=Nc2ccc(OC(F)(F)F)cc2S1,CC=CC=CC(O)=O
+KABLEG,KABLEG,at 98 K,OC(=O)Cc1ccccc1.c1cncc(c1)C=NN=Cc1cccnc1,P-1,False,98.0,lowT,OC(=O)Cc1ccccc1,c1cncc(c1)C=NN=Cc1cccnc1
+UDEPOM,UDEPOM,99.8 K,CCCCC(=O)[O-].[NH3+]Cc1ccc(cc1)S(N)(=O)=O,P-1,False,99.0,lowT,CCCCC(=O)[O-],[NH3+]Cc1ccc(cc1)S(N)(=O)=O
+HONVAI,HONVAI,at 100 K,OC(=O)c1cccc(O)c1.c1cc(ccn1)c1ccncc1,P-1,False,100.0,lowT,OC(=O)c1cccc(O)c1,c1cc(ccn1)c1ccncc1
+TUMWEF,TUMWEF,100 K,C[NH+]1C2CCC1C(Cc1ccccc1)C(=O)C2.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/c,False,100.0,lowT,C[NH+]1C2CCC1C(Cc1ccccc1)C(=O)C2,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+NOFQOR,NOFQOR,100 K,OC(C(=O)[O-])c1ccccc1.CC(=O)CC1[NH2+]CCCC1,P1,False,100.0,lowT,OC(C(=O)[O-])c1ccccc1,CC(=O)CC1[NH2+]CCCC1
+HONVUC,HONVUC,at 100 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccc(O)cc1,P-1,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccc(O)cc1
+ZATHAH,ZATHAH,100 K,Oc1cc(O)cc(O)c1.CN1C=CC(=O)C(=C1C)O,Pbca,False,100.0,lowT,Oc1cc(O)cc(O)c1,CN1C=CC(=O)C(=C1C)O
+OKOKIL,OKOKIL,113 K,CS(C)=O.CN1C(=C(N=O)C(=O)N(C)C1=O)N,Pbca,False,113.0,lowT,CS(C)=O,CN1C(=C(N=O)C(=O)N(C)C1=O)N
+LAVMED,LAVMED,100 K,FC(F)(F)C(=O)[O-].OC(=O)C=Cc1[nH+]cccc1,P-1,False,100.0,lowT,FC(F)(F)C(=O)[O-],OC(=O)C=Cc1[nH+]cccc1
+ENICIO,ENICIO,at 100 K,CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)NC1=NC=C(C)S1.OC(=O)C=CC(O)=O,P-1,False,100.0,lowT,CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)NC1=NC=C(C)S1,OC(=O)C=CC(O)=O
+DIPDUF,DIPDUF,120.0 K,CN(C)C(OS(=O)(=O)C(F)(F)F)=[N+](C)C.FC(F)(F)S(=O)(=O)[O-],P21/c,False,120.0,lowT,CN(C)C(OS(=O)(=O)C(F)(F)F)=[N+](C)C,FC(F)(F)S(=O)(=O)[O-]
+VECTUV,VECTUV,85 K,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl.OC(=O)CC(=O)[O-],Ia,False,85.0,lowT,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,OC(=O)CC(=O)[O-]
+BANPUC,BANPUC,at 123 K,[NH3+]C(CCSC)C(O)=O.ClC(Cl)(Cl)C(=O)[O-],P-1,False,123.0,lowT,[NH3+]C(CCSC)C(O)=O,ClC(Cl)(Cl)C(=O)[O-]
+IXEJIE,IXEJIE,at 100 K,CC1(C)COP(=O)([O-])OC1c1ccccc1.[NH3+]C(CCC)c1cccc(c1)N(=O)=O,P212121,False,100.0,lowT,CC1(C)COP(=O)([O-])OC1c1ccccc1,[NH3+]C(CCC)c1cccc(c1)N(=O)=O
+EMUZOE01,EMUZOE01,100 K,[2H]N(C(N([2H])[2H])=[N+]([2H])[2H])C(N([2H])[2H])=S.[2H]N([2H])c1ccc(cc1)C(=O)[O-],P21/c,False,100.0,lowT,[2H]N(C(N([2H])[2H])=[N+]([2H])[2H])C(N([2H])[2H])=S,[2H]N([2H])c1ccc(cc1)C(=O)[O-]
+HURMEN,HURMEN,at 115 K,O=C([O-])CC1=CC=CS1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,C2,False,115.0,lowT,O=C([O-])CC1=CC=CS1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+VUMTAB,VUMTAB,100 K,NC1=N[N+]2(CCOCC2)CC1.COc1ccc(cc1)S(=O)(=O)[O-],P21/n,False,100.0,lowT,NC1=N[N+]2(CCOCC2)CC1,COc1ccc(cc1)S(=O)(=O)[O-]
+SOLBEC,SOLBEC,120 K,OC(=O)C=Cc1ccc(O)cc1.NC(=O)c1cccnc1,C2/c,False,120.0,lowT,OC(=O)C=Cc1ccc(O)cc1,NC(=O)c1cccnc1
+WUTFEZ,WUTFEZ,103.1 K,C1N2CN3CN1CN(C2)C3.COc1cc(CC=C)ccc1O,Pbcn,False,103.0,lowT,C1N2CN3CN1CN(C2)C3,COc1cc(CC=C)ccc1O
+SEZDIL,SEZDIL,at 123 K,OC=O.NC(=O)N1c2ccccc2CCc2ccccc12,P-1,False,123.0,lowT,OC=O,NC(=O)N1c2ccccc2CCc2ccccc12
+IRUDOP,IRUDOP,at 103 K,BrC1=C(Br)C(=O)NC1=O.Nc1nc(N)c(Cl)cc1Cl,P-1,False,103.0,lowT,BrC1=C(Br)C(=O)NC1=O,Nc1nc(N)c(Cl)cc1Cl
+AGAQOQ,AGAQOQ,98 K,OC(=O)c1cc[nH+]cc1.OC(=O)c1cc(C(O)=O)c(cc1C(O)=O)C(=O)[O-],P-1,False,98.0,lowT,OC(=O)c1cc[nH+]cc1,OC(=O)c1cc(C(O)=O)c(cc1C(O)=O)C(=O)[O-]
+PADNUH,PADNUH,100.0 K,OC(=O)c1c(F)c(F)c(F)c(F)c1F.C(Cc1ccncc1)Cc1ccncc1,P21212,False,100.0,lowT,OC(=O)c1c(F)c(F)c(F)c(F)c1F,C(Cc1ccncc1)Cc1ccncc1
+PITPIV,PITPIV,123 K,Cc1ccc(cc1)S(=O)(=O)[O-].[NH3+]CCCC(=O)OCC,P21/n,False,123.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],[NH3+]CCCC(=O)OCC
+PUNXEC,PUNXEC,at 103.1 K,[NH3+]C(C)c1ccc(F)cc1.CCOP([O-])(=S)c1ccc(Cl)cc1,P21,False,103.0,lowT,[NH3+]C(C)c1ccc(F)cc1,CCOP([O-])(=S)c1ccc(Cl)cc1
+FICTAO,FICTAO,100 K,O=Cc1ccncc1.OC(=O)C=CC(O)=O,P-1,False,100.0,lowT,O=Cc1ccncc1,OC(=O)C=CC(O)=O
+GEQXEH,GEQXEH,at 100 K,OC(=O)c1c(O)cccc1O.CCOc1ccccc1C(N)=O,P21/n,False,100.0,lowT,OC(=O)c1c(O)cccc1O,CCOc1ccccc1C(N)=O
+ZATGOU,ZATGOU,100 K,Oc1cccc(O)c1.CN1C=CC(=O)C(=C1C)O,P21/n,False,100.0,lowT,Oc1cccc(O)c1,CN1C=CC(=O)C(=C1C)O
+EBALEB,EBALEB,110 K,C(Cc1ccncc1)c1ccncc1.Nc1cc(cc(c1)C(O)=O)C(O)=O,P21/n,False,110.0,lowT,C(Cc1ccncc1)c1ccncc1,Nc1cc(cc(c1)C(O)=O)C(O)=O
+COHWIF01,COHWIF01,at 93 K,C1CN2CCN1CC2.Oc1ccc(O)cc1,P21/n,False,93.0,lowT,C1CN2CCN1CC2,Oc1ccc(O)cc1
+TUVZIU,TUVZIU,at 110 K,OC1C(O)C(OC1COP(O)(=O)[O-])N1C=NC2=C1N=CNC2=O.[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-],P21,False,110.0,lowT,OC1C(O)C(OC1COP(O)(=O)[O-])N1C=NC2=C1N=CNC2=O,[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-]
+WUVLEF,WUVLEF,at 100 K,O=C([O-])c1cccnc1.Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,P21/c,False,100.0,lowT,O=C([O-])c1cccnc1,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl
+NEFFIQ,NEFFIQ,100 K,NC(=O)c1cccnc1.OC(=O)c1cccc(O)c1O,P21/n,False,100.0,lowT,NC(=O)c1cccnc1,OC(=O)c1cccc(O)c1O
+SIMXUK,SIMXUK,100 K,NC(N)=O.OC(=O)CC(O)(CC(O)=O)C(O)=O,P21/c,False,100.0,lowT,NC(N)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O
+SIHMEE,SIHMEE,120 K,Cc1nc(C)c(Cl)c(N)n1.OC(=O)c1ccccc1,P21/c,False,120.0,lowT,Cc1nc(C)c(Cl)c(N)n1,OC(=O)c1ccccc1
+NUJWEV,NUJWEV,at 100 K,CC1=Nc2ccccc2N1Cc1ccc(Br)cc1.ON=C(C#N)c1ccc(Br)cc1,P21/c,False,100.0,lowT,CC1=Nc2ccccc2N1Cc1ccc(Br)cc1,ON=C(C#N)c1ccc(Br)cc1
+KECKUB,KECKUB,120 K,O=C(NN=Cc1ccncc1)c1cccnc1.OC(=O)CCCC(O)=O,P-1,False,120.0,lowT,O=C(NN=Cc1ccncc1)c1cccnc1,OC(=O)CCCC(O)=O
+IBOSEZ,IBOSEZ,at 100 K,FC(F)(F)S(=O)(=O)[O-].C[Si](C)(C)OP(C)(C)=[N+]=P(C)(C)C,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[Si](C)(C)OP(C)(C)=[N+]=P(C)(C)C
+VECTOP,VECTOP,85 K,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl.OC(=O)C(=O)[O-],P21/c,False,85.0,lowT,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,OC(=O)C(=O)[O-]
+NUGJUX,NUGJUX,100 K,CCC([NH2+]CC[NH2+]C(CC)CO)CO.O=C([O-])C=CC(=O)[O-],P1,False,100.0,lowT,CCC([NH2+]CC[NH2+]C(CC)CO)CO,O=C([O-])C=CC(=O)[O-]
+DUNCOG,DUNCOG,110 K,O=C1CCC(=O)N1.OC(=O)c1cc(O)c(O)c(O)c1,P21/c,False,110.0,lowT,O=C1CCC(=O)N1,OC(=O)c1cc(O)c(O)c(O)c1
+TMABCA01,TMABCA01,81 K,CN(C)c1ccc(cc1)N(C)C.ClC1=C(Cl)C(=O)C(=C(Cl)C1=O)Cl,P-1,False,81.0,lowT,CN(C)c1ccc(cc1)N(C)C,ClC1=C(Cl)C(=O)C(=C(Cl)C1=O)Cl
+HIQMUT,HIQMUT,90 K,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-].COc1ccccc1N1CC[NH2+]CC1,P21/n,False,90.0,lowT,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-],COc1ccccc1N1CC[NH2+]CC1
+ZATHIP01,ZATHIP01,100 K,CN1C=CC(=O)C(=C1C)O.Oc1cccc(O)c1O,Pna21,False,100.0,lowT,CN1C=CC(=O)C(=C1C)O,Oc1cccc(O)c1O
+DEJWAT,DEJWAT,100 K,CC(=O)[O-].[NH3+]CCO,P21/n,False,100.0,lowT,CC(=O)[O-],[NH3+]CCO
+NEFGEN,NEFGEN,100 K,OC(=O)c1c(O)cccc1O.NC(=O)c1cnccn1,P21/c,False,100.0,lowT,OC(=O)c1c(O)cccc1O,NC(=O)c1cnccn1
+UMUZAG,UMUZAG,100 K,CC(C)=NNC(=O)c1cc[nH+]cc1.FC(F)(F)c1ccc(NC(=O)NCS(=O)(=O)[O-])cc1,Pna21,False,100.0,lowT,CC(C)=NNC(=O)c1cc[nH+]cc1,FC(F)(F)c1ccc(NC(=O)NCS(=O)(=O)[O-])cc1
+MORVEV01,MORVEV01,at 100 K,Oc1cc(O)cc(O)c1.c1ccc2nc3ccccc3nc2c1,P-1,False,100.0,lowT,Oc1cc(O)cc(O)c1,c1ccc2nc3ccccc3nc2c1
+PECWEB,PECWEB,at 100 K,Nc1cc(Cl)nc(N)n1.OC(=O)c1ccccc1,P21/c,False,100.0,lowT,Nc1cc(Cl)nc(N)n1,OC(=O)c1ccccc1
+KIHXEF,KIHXEF,at 100 K,Oc1cccc(c1)C#N.C(Cc1ccncc1)c1ccncc1,P21/c,False,100.0,lowT,Oc1cccc(c1)C#N,C(Cc1ccncc1)c1ccncc1
+REHNAT01,REHNAT01,100 K,N#Cc1cc(C#N)c(cc1C#N)C#N.Oc1ccc(O)cc1,P-1,False,100.0,lowT,N#Cc1cc(C#N)c(cc1C#N)C#N,Oc1ccc(O)cc1
+ROPTIB,ROPTIB,at 100 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]c1ccc(Cl)cc1,P1,False,100.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]c1ccc(Cl)cc1
+TAZRAO,TAZRAO,at 100 K,NC(=O)N1c2ccccc2C=Cc2ccccc12.CC(=O)Oc1ccccc1C(O)=O,P-1,False,100.0,lowT,NC(=O)N1c2ccccc2C=Cc2ccccc12,CC(=O)Oc1ccccc1C(O)=O
+GAXSAB,GAXSAB,at 85 K,OC(=O)c1cc(O)ccc1O.O=C1CC2(CCCCC2)CN1,P21/n,False,85.0,lowT,OC(=O)c1cc(O)ccc1O,O=C1CC2(CCCCC2)CN1
+LOFJEX,LOFJEX,at 100 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.ClC1=C(Sc2ccccc12)C(=O)[O-],C2,False,100.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,ClC1=C(Sc2ccccc12)C(=O)[O-]
+KUPBAB,KUPBAB,100.0 K,FC(F)(F)C(=O)[O-].CCc1[nH+]ccc2c3ccccc3N(OC)c12,P-1,False,100.0,lowT,FC(F)(F)C(=O)[O-],CCc1[nH+]ccc2c3ccccc3N(OC)c12
+ZATLOZ,ZATLOZ,100 K,OC(=O)C(=O)[O-].[NH3+]C(C(C)CC)C(O)=O,P21/n,False,100.0,lowT,OC(=O)C(=O)[O-],[NH3+]C(C(C)CC)C(O)=O
+IVUKIU,IVUKIU,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.Clc1ccccc1C(=O)[O-],P21,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Clc1ccccc1C(=O)[O-]
+NEWRUD,NEWRUD,at 100 K,OC(=O)CCCCCCCCC(O)=O.CC(=O)Nc1ccncc1,C2/c,False,100.0,lowT,OC(=O)CCCCCCCCC(O)=O,CC(=O)Nc1ccncc1
+DIYYOB,DIYYOB,97 K,CC(C)(C)c1cc(O)ccc1O.CCN1C=C(C(O)=O)C(=O)c2ccc(C)nc12,P-1,False,97.0,lowT,CC(C)(C)c1cc(O)ccc1O,CCN1C=C(C(O)=O)C(=O)c2ccc(C)nc12
+MEDCEF,MEDCEF,at 123 K,Fc1cccc(c1)C(=O)[O-].[NH3+]CCc1ccc(O)cc1,P21/c,False,123.0,lowT,Fc1cccc(c1)C(=O)[O-],[NH3+]CCc1ccc(O)cc1
+KAHCUV01,KAHCUV01,100 K,Oc1ccccc1C(=O)[O-].CC(O)C[NH+](CC(C)O)CC(C)O,P-1,False,100.0,lowT,Oc1ccccc1C(=O)[O-],CC(O)C[NH+](CC(C)O)CC(C)O
+KEKGUD,KEKGUD,at 120 K,Nc1ncccn1.OC(=O)CN1C(=O)c2cc3C(=O)N(CC(O)=O)C(=O)c3cc2C1=O,P21/c,False,120.0,lowT,Nc1ncccn1,OC(=O)CN1C(=O)c2cc3C(=O)N(CC(O)=O)C(=O)c3cc2C1=O
+BICQUB01,BICQUB01,at 110 K,NNC(=O)c1ccncc1.OC(=O)c1ccc(O)cc1,P21/n,False,110.0,lowT,NNC(=O)c1ccncc1,OC(=O)c1ccc(O)cc1
+NUNPUJ,NUNPUJ,100 K,OC1CC[NH2+]CC1.OC1CCN(CC1)C(=O)[O-],P-1,False,100.0,lowT,OC1CC[NH2+]CC1,OC1CCN(CC1)C(=O)[O-]
+KAYHUP,KAYHUP,at 120 K,O=C(Nc1ccccn1)c1cccnc1.OC(=O)CCCCCC(O)=O,P-1,False,120.0,lowT,O=C(Nc1ccccn1)c1cccnc1,OC(=O)CCCCCC(O)=O
+WIZBIR,WIZBIR,at 100 K,C[NH+](C)CC(SC(C)C)=CSC(C)C.OC(=O)C(=O)[O-],P21/c,False,100.0,lowT,C[NH+](C)CC(SC(C)C)=CSC(C)C,OC(=O)C(=O)[O-]
+PIVZAZ,PIVZAZ,123 K,OC1=[NH+]CCCCC1.FC(F)(F)S(=O)(=O)[O-],P212121,False,123.0,lowT,OC1=[NH+]CCCCC1,FC(F)(F)S(=O)(=O)[O-]
+UVIMAO,UVIMAO,at 120 K,OC(=O)C(F)(F)C(F)(F)C(=O)[O-].CN1C(=O)N(C)C2=C([N+](=CN2)C)C1=O,P21/n,False,120.0,lowT,OC(=O)C(F)(F)C(F)(F)C(=O)[O-],CN1C(=O)N(C)C2=C([N+](=CN2)C)C1=O
+XUVPOU,XUVPOU,at 120 K,O=C([O-])c1ccc(cc1)N(=O)=O.CC1=C[NH+]=C(N)S1,Pca21,False,120.0,lowT,O=C([O-])c1ccc(cc1)N(=O)=O,CC1=C[NH+]=C(N)S1
+UROLAQ,UROLAQ,100 K,CC(C)(C)OC(=O)N1CC2CC2C1C(=O)[O-].[NH3+]C(CO)c1ccccc1,P212121,False,100.0,lowT,CC(C)(C)OC(=O)N1CC2CC2C1C(=O)[O-],[NH3+]C(CO)c1ccccc1
+VATVAP,VATVAP,at 100 K,O=C1C=C([O-])C(=O)c2ccccc12.[NH3+]C(CO)(CO)CO,P-1,False,100.0,lowT,O=C1C=C([O-])C(=O)c2ccccc12,[NH3+]C(CO)(CO)CO
+BILXEA,BILXEA,at 120 K,O=C(Nc1ccccc1)C1=CC=C(S1)C(=O)Nc1ccccc1.CS(C)=O,P21/n,False,120.0,lowT,O=C(Nc1ccccc1)C1=CC=C(S1)C(=O)Nc1ccccc1,CS(C)=O
+FOSMIL,FOSMIL,100 K,OC(=O)C=Cc1ccc(O)c(O)c1.NNC(=O)c1ccncc1,P21/c,False,100.0,lowT,OC(=O)C=Cc1ccc(O)c(O)c1,NNC(=O)c1ccncc1
+YIPLAN,YIPLAN,100.0 K,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1.OC(CC(=O)[O-])C(O)=O,P21,False,100.0,lowT,[NH3+]CC(CC(O)=O)c1ccc(Cl)cc1,OC(CC(=O)[O-])C(O)=O
+KENCOY,KENCOY,120 K,OB(O)c1ccc(O)cc1.O=C1CCCCCN1,P21/n,False,120.0,lowT,OB(O)c1ccc(O)cc1,O=C1CCCCCN1
+BUNFUN,BUNFUN,120 K,Cc1nc(C)c(C)nc1C.Oc1c(F)c(F)c(Br)c(F)c1F,P-1,False,120.0,lowT,Cc1nc(C)c(C)nc1C,Oc1c(F)c(F)c(Br)c(F)c1F
+VIBBUG,VIBBUG,100 K,Oc1ccc(cc1)C(=O)[O-].[NH3+]C(Cc1ccccc1)C(=O)NNc1ccccc1,P21,False,100.0,lowT,Oc1ccc(cc1)C(=O)[O-],[NH3+]C(Cc1ccccc1)C(=O)NNc1ccccc1
+FIKJIW,FIKJIW,120 K,CN(C)c1cc[n+](cc1)c1nc(F)nc(F)n1.FC(F)(F)S(=O)(=O)[O-],C2/c,False,120.0,lowT,CN(C)c1cc[n+](cc1)c1nc(F)nc(F)n1,FC(F)(F)S(=O)(=O)[O-]
+ZIBDEX,ZIBDEX,100 K,[NH3+]C1CN(CC1F)C(=O)OC(C)(C)C.OC(=O)CC(C(=O)[O-])c1ccccc1,P21,False,100.0,lowT,[NH3+]C1CN(CC1F)C(=O)OC(C)(C)C,OC(=O)CC(C(=O)[O-])c1ccccc1
+HEZDAU,HEZDAU,93 K,FC(F)(F)S(=O)(=O)[O-].C[Si](C)(C)[n+]1ccccc1,P21/n,False,93.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[Si](C)(C)[n+]1ccccc1
+HUCYUB,HUCYUB,at 100 K,CN(C)C(=[NH2+])ON=C(N)c1ccccc1.Cc1ccc(cc1)S(=O)(=O)[O-],C2/c,False,100.0,lowT,CN(C)C(=[NH2+])ON=C(N)c1ccccc1,Cc1ccc(cc1)S(=O)(=O)[O-]
+HEMHAM,HEMHAM,100 K,FC(F)(F)S(=O)(=O)[O-].CC1(O)[n+]2ccccc2c2ccccc12,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CC1(O)[n+]2ccccc2c2ccccc12
+ZIYFOF,ZIYFOF,100 K,NC1=Nc2ccc(OC(F)(F)F)cc2S1.COc1cc(cc(OC)c1OC)C(O)=O,Pna21,False,100.0,lowT,NC1=Nc2ccc(OC(F)(F)F)cc2S1,COc1cc(cc(OC)c1OC)C(O)=O
+RIGTIM,RIGTIM,at 120 K,Oc1ccc2c(Oc3cc(O)ccc3C32OC(=O)c2ccccc32)c1.c1ccc2c(c1)cnc1ccccc21,Cmc21,False,120.0,lowT,Oc1ccc2c(Oc3cc(O)ccc3C32OC(=O)c2ccccc32)c1,c1ccc2c(c1)cnc1ccccc21
+UDEPUS,UDEPUS,99.8 K,CCC(=O)[O-].[NH3+]Cc1ccc(cc1)S(N)(=O)=O,P21/n,False,99.0,lowT,CCC(=O)[O-],[NH3+]Cc1ccc(cc1)S(N)(=O)=O
+MERWUF,MERWUF,100 K,Oc1ccc2ccccc2c1.COC(=O)c1ccncc1,P-1,False,100.0,lowT,Oc1ccc2ccccc2c1,COC(=O)c1ccncc1
+NIYJIR,NIYJIR,100 K,FC(F)(F)C(=O)[O-].O=S1(=O)CC(C1)C1C[NH2+]C1,C2/c,False,100.0,lowT,FC(F)(F)C(=O)[O-],O=S1(=O)CC(C1)C1C[NH2+]C1
+TICRUU,TICRUU,at 100 K,c1cc(ccn1)c1ccncc1.Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1
+GIWWUI,GIWWUI,123 K,Cc1ccc(cc1)S(=O)(=O)[O-].C[N+](C)=C(C)O,P21/c,False,123.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],C[N+](C)=C(C)O
+GAXSUV,GAXSUV,at 120 K,CN(C)C=NN=CN(C)C.CCOC(=O)c1ccccc1N,P-1,False,120.0,lowT,CN(C)C=NN=CN(C)C,CCOC(=O)c1ccccc1N
+VULVUV,VULVUV,100 K,Cc1[nH+]cc(CO)c(CO)c1O.O=C1[N-]S(=O)(=O)c2ccccc12,P21/c,False,100.0,lowT,Cc1[nH+]cc(CO)c(CO)c1O,O=C1[N-]S(=O)(=O)c2ccccc12
+TANZUH,TANZUH,100 K,[NH3+]F.FC(F)(F)S(=O)(=O)[O-],P-1,False,100.0,lowT,[NH3+]F,FC(F)(F)S(=O)(=O)[O-]
+MEDHOU,MEDHOU,at 123 K,OC(C(=O)[O-])c1ccccc1.[NH3+]CCc1ccc(O)cc1,P21,False,123.0,lowT,OC(C(=O)[O-])c1ccccc1,[NH3+]CCc1ccc(O)cc1
+DEJWEX,DEJWEX,100 K,CC(=O)[O-].C[N+](C)(C)CCO,P21,False,100.0,lowT,CC(=O)[O-],C[N+](C)(C)CCO
+TEWQAR,TEWQAR,100 K,FC1=C(F)C(=O)C(=C(F)C1=O)F.O1c2cccc3Oc4cccc5Oc6cccc1c6N(c23)c45,P-1,False,100.0,lowT,FC1=C(F)C(=O)C(=C(F)C1=O)F,O1c2cccc3Oc4cccc5Oc6cccc1c6N(c23)c45
+SOGFUS,SOGFUS,100 K,OB(O)c1c[nH+]c2ccccc2c1.OP(=O)([O-])Oc1cccc2ccccc12,P-1,False,100.0,lowT,OB(O)c1c[nH+]c2ccccc2c1,OP(=O)([O-])Oc1cccc2ccccc12
+XAFSUV01,XAFSUV01,101 K,[NH2+]1CCOCC1.OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O,C2/c,False,101.0,lowT,[NH2+]1CCOCC1,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O
+ILIZUB,ILIZUB,113 K,O=C1NC(=O)C=C(N1)C(=O)[O-].[NH3+]CCCCC(O)=O,P21/n,False,113.0,lowT,O=C1NC(=O)C=C(N1)C(=O)[O-],[NH3+]CCCCC(O)=O
+NEVLEI,NEVLEI,100 K,[NH2+]1CCOCC1.FC(F)(F)C([O-])C(F)(F)F,P-1,False,100.0,lowT,[NH2+]1CCOCC1,FC(F)(F)C([O-])C(F)(F)F
+UTIMOC,UTIMOC,100 K,Oc1c(cccc1N(=O)=O)C(=O)[O-].NC(=O)c1c[nH+]ccc1,P21/n,False,100.0,lowT,Oc1c(cccc1N(=O)=O)C(=O)[O-],NC(=O)c1c[nH+]ccc1
+XUKDEM,XUKDEM,at 100 K,CC(C)C1COc2c3OCC(C(C)C)n3[cH+]n12.FC(F)(F)S(=O)(=O)[O-],P212121,False,100.0,lowT,CC(C)C1COc2c3OCC(C(C)C)n3[cH+]n12,FC(F)(F)S(=O)(=O)[O-]
+GUDSUV,GUDSUV,at 100 K,OC(=O)C(O)=O.c1cnccn1,Cc,False,100.0,lowT,OC(=O)C(O)=O,c1cnccn1
+XOSFOB,XOSFOB,at 103 K,NC1=NON=C1Nc1nnc(NC2=NON=C2N)nn1.CS(C)=O,P21/c,False,103.0,lowT,NC1=NON=C1Nc1nnc(NC2=NON=C2N)nn1,CS(C)=O
+GIFFAF,GIFFAF,100 K,NC(N)=O.Cc1cncc(C)n1,Pnma,False,100.0,lowT,NC(N)=O,Cc1cncc(C)n1
+FIFDEH,FIFDEH,90 K,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1.Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-],P-1,False,90.0,lowT,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-]
+YIDLUW,YIDLUW,100 K,[NH2+]=C1NN=C(N1)C1=NNC=C1N(=O)=O.O=C1NC(=O)C(=C([O-])N1)N(=O)=O,P-1,False,100.0,lowT,[NH2+]=C1NN=C(N1)C1=NNC=C1N(=O)=O,O=C1NC(=O)C(=C([O-])N1)N(=O)=O
+TIYPEX,TIYPEX,at 100 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])c1ccc2ccc3cccc4ccc1c2c34,P21,False,100.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])c1ccc2ccc3cccc4ccc1c2c34
+EHIMOZ,EHIMOZ,100 K,CN(C)C=O.OOC(=O)c1ccc(cc1)C(=O)OO,P-1,False,100.0,lowT,CN(C)C=O,OOC(=O)c1ccc(cc1)C(=O)OO
+JIQHAT,JIQHAT,at 113 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-].N1C=C[NH+]=C1C1=CSC(S1)=C1SC=CS1,Pna21,False,113.0,lowT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-],N1C=C[NH+]=C1C1=CSC(S1)=C1SC=CS1
+GAVFUG,GAVFUG,at 123.1 K,[NH3+]C1CCC(CC1NS(=O)(=O)C(F)(F)F)C(=O)OCC.Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-],P21,False,123.0,lowT,[NH3+]C1CCC(CC1NS(=O)(=O)C(F)(F)F)C(=O)OCC,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-]
+XEPBIF,XEPBIF,at 120 K,c1cncc(c1)N=Nc1cccnc1.OC(=O)CCCCC(O)=O,P-1,False,120.0,lowT,c1cncc(c1)N=Nc1cccnc1,OC(=O)CCCCC(O)=O
+FALTAP,FALTAP,at 110 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.O=C1CCCC1,P-1,False,110.0,lowT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,O=C1CCCC1
+GUYVUU01,GUYVUU01,100 K,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O.NC(=O)c1cc[nH+]cc1,P-1,False,100.0,lowT,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O,NC(=O)c1cc[nH+]cc1
+AFONUH,AFONUH,100 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.c1cc(ccn1)N=Nc1ccncc1,P-1,False,100.0,lowT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,c1cc(ccn1)N=Nc1ccncc1
+GIKZOS,GIKZOS,100 K,[NH3+]CCC(=O)OO.CS(=O)(=O)[O-],P21/n,False,100.0,lowT,[NH3+]CCC(=O)OO,CS(=O)(=O)[O-]
+VECYAF,VECYAF,at 120 K,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.[NH3+]CC(C(O)CCC)c1ccccc1,P21,False,120.0,lowT,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,[NH3+]CC(C(O)CCC)c1ccccc1
+FOMXAH,FOMXAH,at 120 K,O=CC1=CC=CO1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,120.0,lowT,O=CC1=CC=CO1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+AZUQAP,AZUQAP,120 K,NC(N)=O.BrCCCCCCBr,P21/n,False,120.0,lowT,NC(N)=O,BrCCCCCCBr
+CEQBEI,CEQBEI,100 K,c1ccc2nc3ccccc3cc2c1.Oc1ccc(Br)cc1,P21/c,False,100.0,lowT,c1ccc2nc3ccccc3cc2c1,Oc1ccc(Br)cc1
+OJAHOY,OJAHOY,122 K,Oc1cc[nH+]cc1.OC(=O)c1cc(cc(c1)C(=O)[O-])C(O)=O,Pna21,False,122.0,lowT,Oc1cc[nH+]cc1,OC(=O)c1cc(cc(c1)C(=O)[O-])C(O)=O
+BAJXET,BAJXET,100 K,NNC(=O)c1cc[nH+]cc1.OC(=O)c1cc(cc(c1)C(=O)[O-])C(O)=O,Pca21,False,100.0,lowT,NNC(=O)c1cc[nH+]cc1,OC(=O)c1cc(cc(c1)C(=O)[O-])C(O)=O
+QOLNOW,QOLNOW,at 120 K,Cc1ccc2ccc3ccc(C)nc3c2n1.Oc1ccccc1O,P21/c,False,120.0,lowT,Cc1ccc2ccc3ccc(C)nc3c2n1,Oc1ccccc1O
+DAFLUV,DAFLUV,113.2 K,C1N2CN3CN1CN(C2)C3.CC(=O)c1ccc(O)cc1,P21/c,False,113.0,lowT,C1N2CN3CN1CN(C2)C3,CC(=O)c1ccc(O)cc1
+ZIPGIR,ZIPGIR,100 K,NC(=O)c1ccncc1.Nc1cccc(c1)C(O)=O,P-1,False,100.0,lowT,NC(=O)c1ccncc1,Nc1cccc(c1)C(O)=O
+CEQKOC,CEQKOC,100 K,NC(=[NH2+])Sc1ccc2cc(Br)ccc2n1.FC(F)(F)S(=O)(=O)[O-],P21/n,False,100.0,lowT,NC(=[NH2+])Sc1ccc2cc(Br)ccc2n1,FC(F)(F)S(=O)(=O)[O-]
+BIWVUY,BIWVUY,at 120 K,c1ccc2nc3ccccc3cc2c1.O=C1OC(=O)c2cc3C(=O)OC(=O)c3cc12,P21/c,False,120.0,lowT,c1ccc2nc3ccccc3cc2c1,O=C1OC(=O)c2cc3C(=O)OC(=O)c3cc12
+HONTEK,HONTEK,at 100 K,OC(=O)c1ccc(O)cc1.c1cnccn1,P-1,False,100.0,lowT,OC(=O)c1ccc(O)cc1,c1cnccn1
+FEPYUW,FEPYUW,at 100 K,COC(=O)C1[NH2+]CC(F)CC1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,100.0,lowT,COC(=O)C1[NH2+]CC(F)CC1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+UFEROO,UFEROO,at 100 K,FC(F)(F)C(=O)[O-].[NH2+]=C1NC2=C(N1)C(CCC2)N1NC(=O)N(C1=O)c1ccccc1,P-1,False,100.0,lowT,FC(F)(F)C(=O)[O-],[NH2+]=C1NC2=C(N1)C(CCC2)N1NC(=O)N(C1=O)c1ccccc1
+XARVIX,XARVIX,at 100 K,Cc1ccc(cc1)S(=O)(=O)[O-].[NH3+]c1cc2CCC(C)(C)Oc2c(C)c1C,P-1,False,100.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],[NH3+]c1cc2CCC(C)(C)Oc2c(C)c1C
+PASWEO,PASWEO,100 K,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O.CS(=O)(=O)N1CC[NH2+]CC1,P21/c,False,100.0,lowT,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,CS(=O)(=O)N1CC[NH2+]CC1
+YONCAI,YONCAI,100 K,CN(C)c1ccc(C=O)cc1.CN(C)c1ccc(cc1)C=C(O)C(O)=O,P-1,False,100.0,lowT,CN(C)c1ccc(C=O)cc1,CN(C)c1ccc(cc1)C=C(O)C(O)=O
+WEQHIN,WEQHIN,100 K,OC(=O)c1ccc(cc1)C(O)=O.N#Cc1ccncc1,P-1,False,100.0,lowT,OC(=O)c1ccc(cc1)C(O)=O,N#Cc1ccncc1
+NUQXIH,NUQXIH,at 100 K,OC1(CC[NH2+]CC1)c1ccc(Cl)cc1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21,False,100.0,lowT,OC1(CC[NH2+]CC1)c1ccc(Cl)cc1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+LADCEA,LADCEA,at 100 K,OC(=O)CCCCCCC(O)=O.CCC(=O)Nc1ccc(Br)cn1,P-1,False,100.0,lowT,OC(=O)CCCCCCC(O)=O,CCC(=O)Nc1ccc(Br)cn1
+IVEKUS,IVEKUS,100 K,OC(=O)CCCCCCC(=O)[O-].CC[NH+](CC)CC(=O)Nc1c(C)cccc1C,P-1,False,100.0,lowT,OC(=O)CCCCCCC(=O)[O-],CC[NH+](CC)CC(=O)Nc1c(C)cccc1C
+PUJNIS,PUJNIS,at 100 K,Nc1ccc(Cl)cn1.OC(=O)c1ccccc1,P21/c,False,100.0,lowT,Nc1ccc(Cl)cn1,OC(=O)c1ccccc1
+XICQAD,XICQAD,at 100 K,c1cc(ccn1)c1ccncc1.OC(=O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,P21/c,False,100.0,lowT,c1cc(ccn1)c1ccncc1,OC(=O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl
+OFEGEP,OFEGEP,100 K,OC(=O)Cc1ccccc1C(O)=O.NC(=O)c1cnccn1,P21/n,False,100.0,lowT,OC(=O)Cc1ccccc1C(O)=O,NC(=O)c1cnccn1
+ROPTEX,ROPTEX,at 100 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]c1ccc(Br)cc1,P1,False,100.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]c1ccc(Br)cc1
+CASMAL,CASMAL,at 123 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.Nc1ccccc1,P21/n,False,123.0,lowT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,Nc1ccccc1
+QIQSAO,QIQSAO,100 K,FC(F)(F)S(=O)(=O)[O-].CC(C)(C)N1C=[N+](C(=C1Cl)Cl)C(C)(C)C,Pbca,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CC(C)(C)N1C=[N+](C(=C1Cl)Cl)C(C)(C)C
+MEDBUU,MEDBUU,at 123 K,Cc1ccccc1C(=O)[O-].[NH3+]CCc1ccc(O)cc1,P21/c,False,123.0,lowT,Cc1ccccc1C(=O)[O-],[NH3+]CCc1ccc(O)cc1
+OJUQAN,OJUQAN,110.2 K,OC(=O)CCC1=NC(=C(O1)c1ccccc1)c1ccccc1.C(Cc1ccncc1)c1ccncc1,P-1,False,110.0,lowT,OC(=O)CCC1=NC(=C(O1)c1ccccc1)c1ccccc1,C(Cc1ccncc1)c1ccncc1
+HOLPEE,HOLPEE,at 103 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-].OC(=O)c1[nH+]cccc1,P21/c,False,103.0,lowT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-],OC(=O)c1[nH+]cccc1
+SIGPUW,SIGPUW,119 K,CC(=O)c1c2ccccc2cc2ccccc12.Fc1c(F)c(C#N)c(F)c(F)c1C#N,P21/n,False,119.0,lowT,CC(=O)c1c2ccccc2cc2ccccc12,Fc1c(F)c(C#N)c(F)c(F)c1C#N
+SUYPIN,SUYPIN,100 K,OC(=O)C=CC(=O)[O-].Brc1ccc(OC(=O)N2CC[NH+]3CCC2CC3)cc1,P21/c,False,100.0,lowT,OC(=O)C=CC(=O)[O-],Brc1ccc(OC(=O)N2CC[NH+]3CCC2CC3)cc1
+BICQUB,BICQUB,at 110 K,NNC(=O)c1ccncc1.OC(=O)c1ccc(O)cc1,P21,False,110.0,lowT,NNC(=O)c1ccncc1,OC(=O)c1ccc(O)cc1
+ACERAD,ACERAD,at 100 K,COC(=O)N1C=NC(=C1N)C(N)=O.CN1N=NC2=C(N=CN2C1=O)C(N)=O,P21/c,False,100.0,lowT,COC(=O)N1C=NC(=C1N)C(N)=O,CN1N=NC2=C(N=CN2C1=O)C(N)=O
+MOKNAC,MOKNAC,at 90 K,O=C1N(C[n+]2ccccc2)C(=O)c2ccccc12.Cc1ccc(cc1)S(=O)(=O)[O-],P21/c,False,90.0,lowT,O=C1N(C[n+]2ccccc2)C(=O)c2ccccc12,Cc1ccc(cc1)S(=O)(=O)[O-]
+PEFGIS,PEFGIS,at 110 K,OC(=O)c1cc(O)c(O)c(O)c1.CC(N)=O,P-1,False,110.0,lowT,OC(=O)c1cc(O)c(O)c(O)c1,CC(N)=O
+NUQKOA,NUQKOA,at 100 K,Nc1cccc(c1)C(O)=O.C(Cc1ccncc1)c1ccncc1,P-1,False,100.0,lowT,Nc1cccc(c1)C(O)=O,C(Cc1ccncc1)c1ccncc1
+MEDNUG,MEDNUG,at 90 K,OC1C2OP(=O)([O-])OCC2OC1N1C=NC2=C1N=CNC2=O.[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-],P212121,False,90.0,lowT,OC1C2OP(=O)([O-])OCC2OC1N1C=NC2=C1N=CNC2=O,[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-]
+HAPQUN,HAPQUN,100 K,O=C1NC(=C2C(=O)NC(=C12)C1=CC=CO1)C1=CC=CO1.CCCCCCCCC(O)=O,P-1,False,100.0,lowT,O=C1NC(=C2C(=O)NC(=C12)C1=CC=CO1)C1=CC=CO1,CCCCCCCCC(O)=O
+IZUCIS,IZUCIS,113.2 K,O=C1CCCC1.ONC(=O)C=Cc1cccc(c1)S(=O)(=O)Nc1ccccc1,P21/c,False,113.0,lowT,O=C1CCCC1,ONC(=O)C=Cc1cccc(c1)S(=O)(=O)Nc1ccccc1
+NUZTOT,NUZTOT,100 K,COc1ccc(C=CC(O)=O)cc1.c1cc(ccn1)c1ccncc1,P21/n,False,100.0,lowT,COc1ccc(C=CC(O)=O)cc1,c1cc(ccn1)c1ccncc1
+IFILAM,IFILAM,at 93 K,CP(C)(C)=[NH+]N(c1ccccc1)c1ccccc1.FC(F)(F)S(=O)(=O)[O-],P212121,False,93.0,lowT,CP(C)(C)=[NH+]N(c1ccccc1)c1ccccc1,FC(F)(F)S(=O)(=O)[O-]
+SUYYER,SUYYER,at 100 K,Oc1cccc2ccc[nH+]c12.OC(=O)CC(=O)[O-],P21/c,False,100.0,lowT,Oc1cccc2ccc[nH+]c12,OC(=O)CC(=O)[O-]
+HONTIO,HONTIO,at 100 K,Cc1nc(C)c(C)nc1C.OC(=O)c1ccc(O)cc1,P21/c,False,100.0,lowT,Cc1nc(C)c(C)nc1C,OC(=O)c1ccc(O)cc1
+KIGDOU,KIGDOU,at 100 K,CN1C=CN=C1C(O)(C1=NC=CN1C)C1=NC=CN1C.c1ccccc1,P-1,False,100.0,lowT,CN1C=CN=C1C(O)(C1=NC=CN1C)C1=NC=CN1C,c1ccccc1
+TORDUC,TORDUC,100 K,C1=CN2C(=P[n+]3ccccc23)C=C1.FC(F)(F)S(=O)(=O)[O-],P-1,False,100.0,lowT,C1=CN2C(=P[n+]3ccccc23)C=C1,FC(F)(F)S(=O)(=O)[O-]
+NITTAO,NITTAO,120 K,Clc1cc(cc(Cl)c1[O-])N(=O)=O.OCC[NH+]1CCCCC1,P-1,False,120.0,lowT,Clc1cc(cc(Cl)c1[O-])N(=O)=O,OCC[NH+]1CCCCC1
+IVUREX,IVUREX,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.O=C([O-])c1ccccc1,Pbca,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,O=C([O-])c1ccccc1
+FALSOC,FALSOC,at 110 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.CN(C)C=O,P-1,False,110.0,lowT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,CN(C)C=O
+BIRFIV,BIRFIV,123 K,OC1=[NH+]CCCCC1.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,123.0,lowT,OC1=[NH+]CCCCC1,Cc1ccc(cc1)S(=O)(=O)[O-]
+DUPFUQ,DUPFUQ,at 100 K,Nc1[nH+]cc(Cl)cc1.OC(=O)CCC(=O)[O-],P212121,False,100.0,lowT,Nc1[nH+]cc(Cl)cc1,OC(=O)CCC(=O)[O-]
+UNEYOB,UNEYOB,100 K,O=C1C=CC(=O)C=C1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/c,False,100.0,lowT,O=C1C=CC(=O)C=C1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+RIDSOQ,RIDSOQ,113.2 K,CCN1C=C(C(O)=O)C(=O)c2cnc(nc12)N1CC[NH2+]CC1.Oc1ccc(cc1O)C(=O)[O-],P-1,False,113.0,lowT,CCN1C=C(C(O)=O)C(=O)c2cnc(nc12)N1CC[NH2+]CC1,Oc1ccc(cc1O)C(=O)[O-]
+LIBYAY,LIBYAY,at 90 K,Oc1ccc(cc1)C(=O)[O-].Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,P21/c,False,90.0,lowT,Oc1ccc(cc1)C(=O)[O-],Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl
+RAXYEY,RAXYEY,100 K,OC(=O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl.C(Cc1ccncc1)c1ccncc1,P21/c,False,100.0,lowT,OC(=O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,C(Cc1ccncc1)c1ccncc1
+ULECEU,ULECEU,at 110 K,Nc1ncccn1.OC(=O)C1(CCCC1)c1ccccc1,P21/n,False,110.0,lowT,Nc1ncccn1,OC(=O)C1(CCCC1)c1ccccc1
+OKEJUK,OKEJUK,at 123 K,OC(=O)c1cc(O)cc(O)c1.ClCC#N,P-1,False,123.0,lowT,OC(=O)c1cc(O)cc(O)c1,ClCC#N
+UGOWEU,UGOWEU,100 K,OC(=O)c1ccc(O)cc1.O=C1NC(=O)C=C1,P21/n,False,100.0,lowT,OC(=O)c1ccc(O)cc1,O=C1NC(=O)C=C1
+DITJAS,DITJAS,at 100 K,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl.Cc1cccnc1C,C2/c,False,100.0,lowT,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Cc1cccnc1C
+QULLUF02,QULLUF02,at 110 K,OC(=O)c1cc(O)ccc1O.CCOc1ccccc1C(N)=O,P21/n,False,110.0,lowT,OC(=O)c1cc(O)ccc1O,CCOc1ccccc1C(N)=O
+DUVHAE,DUVHAE,at 98 K,Oc1cccc(O)c1.C1CN2CCN1CC2,P21/c,False,98.0,lowT,Oc1cccc(O)c1,C1CN2CCN1CC2
+ZATGAG,ZATGAG,100 K,CN1C=CC(=O)C(=C1C)O.Oc1ccccc1O,Pbca,False,100.0,lowT,CN1C=CC(=O)C(=C1C)O,Oc1ccccc1O
+GAXCEQ,GAXCEQ,100 K,[NH3+]C(C)CCO.Brc1ccc(cc1)C(=O)[O-],P21,False,100.0,lowT,[NH3+]C(C)CCO,Brc1ccc(cc1)C(=O)[O-]
+LUWHEQ,LUWHEQ,at 120 K,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC.Nc1ccc(cc1)S(=O)(=O)[O-],P21/c,False,120.0,lowT,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,Nc1ccc(cc1)S(=O)(=O)[O-]
+GIKZUY,GIKZUY,100 K,OOC(=O)CC[NH+]1CCCCC1.CS(=O)(=O)[O-],Pna21,False,100.0,lowT,OOC(=O)CC[NH+]1CCCCC1,CS(=O)(=O)[O-]
+HONSOT,HONSOT,at 100 K,OC(=O)c1cccc(O)c1.c1cnccn1,P21/n,False,100.0,lowT,OC(=O)c1cccc(O)c1,c1cnccn1
+ZIYVAH,ZIYVAH,93 K,CC12C[NH2+]CCN1C(=NO2)c1ccccc1.CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,P212121,False,93.0,lowT,CC12C[NH2+]CCN1C(=NO2)c1ccccc1,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2
+GIQHUM,GIQHUM,105 K,FC(F)(F)C(=O)[O-].O=C(Nc1ccccc1)Nc1[nH+]cccc1c1ccccc1,P-1,False,105.0,lowT,FC(F)(F)C(=O)[O-],O=C(Nc1ccccc1)Nc1[nH+]cccc1c1ccccc1
+WOJNEO,WOJNEO,at 123 K,CC(C)(C)N1[P+]N(C(=C1)Cl)C(C)(C)C.FC(F)(F)S(=O)(=O)[O-],Pbca,False,123.0,lowT,CC(C)(C)N1[P+]N(C(=C1)Cl)C(C)(C)C,FC(F)(F)S(=O)(=O)[O-]
+ZIYFAR,ZIYFAR,100 K,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1.O=C([O-])c1ccc(cc1)N(=O)=O,P21/c,False,100.0,lowT,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1,O=C([O-])c1ccc(cc1)N(=O)=O
+IVEKOM,IVEKOM,100 K,OC(=O)CCCCCC(=O)[O-].CC[NH+](CC)CC(=O)Nc1c(C)cccc1C,P-1,False,100.0,lowT,OC(=O)CCCCCC(=O)[O-],CC[NH+](CC)CC(=O)Nc1c(C)cccc1C
+MEWJIK,MEWJIK,100 K,c1cc(ccn1)c1ccncc1.CCOC(=S)Nc1ccccc1,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,CCOC(=S)Nc1ccccc1
+HONVOW,HONVOW,at 100 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccc2cc(O)ccc2c1,P-1,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccc2cc(O)ccc2c1
+TICROO,TICROO,at 100 K,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1.c1cc(ccn1)C#Cc1ccncc1,P-1,False,100.0,lowT,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1,c1cc(ccn1)C#Cc1ccncc1
+PUCLEH,PUCLEH,93 K,Cc1ccc(cc1)S(=O)(=O)[O-].CC(O)=[NH+]c1ccc(O)cc1,P21/n,False,93.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],CC(O)=[NH+]c1ccc(O)cc1
+RUQSOM,RUQSOM,at 103 K,OC(=O)c1cc(ccc1C(=O)[O-])N(=O)=O.[NH3+]CCc1ccc(O)cc1,P21/c,False,103.0,lowT,OC(=O)c1cc(ccc1C(=O)[O-])N(=O)=O,[NH3+]CCc1ccc(O)cc1
+GEBMEF,GEBMEF,at 105 K,CC(=O)OCC[N+](C)(C)C.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,Pbca,False,105.0,lowT,CC(=O)OCC[N+](C)(C)C,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+BULTUZ,BULTUZ,120 K,OC(=O)c1ccc(Br)cc1.N#Cc1ccncc1,P-1,False,120.0,lowT,OC(=O)c1ccc(Br)cc1,N#Cc1ccncc1
+JAKPOB,JAKPOB,at 120 K,Oc1ccc(cc1)c1ccc(O)cc1.Nc1ccc(Oc2ccc(N)cc2)cc1,Pbcn,False,120.0,lowT,Oc1ccc(cc1)c1ccc(O)cc1,Nc1ccc(Oc2ccc(N)cc2)cc1
+COBLAG,COBLAG,at 100 K,Oc1ccc(cc1)c1ccc(O)cc1.c1cc(ccn1)c1ccncc1,P-1,False,100.0,lowT,Oc1ccc(cc1)c1ccc(O)cc1,c1cc(ccn1)c1ccncc1
+ENICOU,ENICOU,at 100 K,OC(=O)CCC(O)=O.CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)NC1=NC=C(C)S1,P-1,False,100.0,lowT,OC(=O)CCC(O)=O,CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)NC1=NC=C(C)S1
+JIGJOB,JIGJOB,100 K,CS(C)=O.O=C1NC(=S)NC1(c1ccccc1)c1ccccc1,P21/n,False,100.0,lowT,CS(C)=O,O=C1NC(=S)NC1(c1ccccc1)c1ccccc1
+PARWOV,PARWOV,at 100 K,O=C([O-])c1cccc(c1)N(=O)=O.COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,Fdd2,False,100.0,lowT,O=C([O-])c1cccc(c1)N(=O)=O,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC
+NAQNAX,NAQNAX,100 K,NC1=Nc2ccc(OC(F)(F)F)cc2S1.OC(=O)CCCC(O)=O,C2/c,False,100.0,lowT,NC1=Nc2ccc(OC(F)(F)F)cc2S1,OC(=O)CCCC(O)=O
+NIJLIE,NIJLIE,115 K,O=C([O-])C12CC3CC(CC(C3)C1)C2.NC(=O)C1[NH2+]CCC1,P21,False,115.0,lowT,O=C([O-])C12CC3CC(CC(C3)C1)C2,NC(=O)C1[NH2+]CCC1
+KAYHID,KAYHID,at 120 K,O=C(Nc1ccccn1)c1cccnc1.OC(=O)CC(O)=O,C2/c,False,120.0,lowT,O=C(Nc1ccccn1)c1cccnc1,OC(=O)CC(O)=O
+IWOQES01,IWOQES01,100 K,c1ccc2ncccc2c1.OP(O)(O)=O,P-1,False,100.0,lowT,c1ccc2ncccc2c1,OP(O)(O)=O
+DINKAO,DINKAO,at 100 K,OC(=O)C=CC(=O)[O-].NC1=[NH+]C(=O)NC=C1F,P21/c,False,100.0,lowT,OC(=O)C=CC(=O)[O-],NC1=[NH+]C(=O)NC=C1F
+FIVXIU,FIVXIU,100 K,FC(F)(F)S(=O)(=O)[O-].[NH3+]OS(C)(=O)=O,Pna21,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],[NH3+]OS(C)(=O)=O
+CATHUC,CATHUC,at 100 K,O=C([O-])C1=CC=CN1.[NH3+]C(C(O)c1ccccc1)c1ccccc1,P212121,False,100.0,lowT,O=C([O-])C1=CC=CN1,[NH3+]C(C(O)c1ccccc1)c1ccccc1
+GOGQID,GOGQID,at 113 K,NC(=O)c1cccnc1.CCOC(=O)c1ccc(O)cc1,P21/n,False,113.0,lowT,NC(=O)c1cccnc1,CCOC(=O)c1ccc(O)cc1
+IVUNIX,IVUNIX,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.CS(=O)(=O)[O-],P21,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,CS(=O)(=O)[O-]
+KIHXOP,KIHXOP,at 100 K,Oc1cccc(c1)C#N.c1cc(ccn1)C=Cc1ccncc1,C2/c,False,100.0,lowT,Oc1cccc(c1)C#N,c1cc(ccn1)C=Cc1ccncc1
+DARWOJ,DARWOJ,at 100 K,FC(F)(F)C(=O)[O-].COC(=O)C1[NH2+]C2C=C(Cl)CCC2(CCC#C)C1,P21,False,100.0,lowT,FC(F)(F)C(=O)[O-],COC(=O)C1[NH2+]C2C=C(Cl)CCC2(CCC#C)C1
+HOFYOT,HOFYOT,100 K,NC(=O)c1ccncc1.OC(=O)CCCCCC(O)=O,P-1,False,100.0,lowT,NC(=O)c1ccncc1,OC(=O)CCCCCC(O)=O
+COZZOH,COZZOH,at 100 K,Cc1nc(C)c(C)nc1C.Oc1ccc(O)cc1,P21/c,False,100.0,lowT,Cc1nc(C)c(C)nc1C,Oc1ccc(O)cc1
+IVUPIZ,IVUPIZ,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.OC(=O)CC(=O)[O-],P1,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,OC(=O)CC(=O)[O-]
+HIDCEG,HIDCEG,100 K,OC(=O)C=CC(=O)[O-].[NH3+]CC(CC(C)C)CC(O)=O,P-1,False,100.0,lowT,OC(=O)C=CC(=O)[O-],[NH3+]CC(CC(C)C)CC(O)=O
+BAGFAS,BAGFAS,at 100 K,C[n+]1cccc(c1)B(O)O.CS(=O)(=O)[O-],P21/c,False,100.0,lowT,C[n+]1cccc(c1)B(O)O,CS(=O)(=O)[O-]
+CILLOA,CILLOA,at 123 K,Cc1cccc(NC(=O)C(C)(C)C)n1.OC(=O)c1ccccc1,P21/c,False,123.0,lowT,Cc1cccc(NC(=O)C(C)(C)C)n1,OC(=O)c1ccccc1
+ISIJEA,ISIJEA,at 120 K,NC(=O)c1ccncc1.OC(=O)CCCCCC(O)=O,P2/c,False,120.0,lowT,NC(=O)c1ccncc1,OC(=O)CCCCCC(O)=O
+LODHIX,LODHIX,at 100 K,Oc1cc(cc(O)c1O)C(=O)[O-].NNC(=O)c1cc[nH+]cc1,P21,False,100.0,lowT,Oc1cc(cc(O)c1O)C(=O)[O-],NNC(=O)c1cc[nH+]cc1
+XOKSUN,XOKSUN,at 110 K,OC(=O)c1cccc(O)c1.C1N2CN3CN1CN(C2)C3,Pccn,False,110.0,lowT,OC(=O)c1cccc(O)c1,C1N2CN3CN1CN(C2)C3
+VUKPEY,VUKPEY,100 K,Cc1[nH+]cc(CO)c(CO)c1O.Oc1ccc(cc1)C(=O)[O-],C2/c,False,100.0,lowT,Cc1[nH+]cc(CO)c(CO)c1O,Oc1ccc(cc1)C(=O)[O-]
+BIYGAT,BIYGAT,110.0 K,Fc1c(F)c([O-])c(F)c(F)c1Br.[NH2+]1CCSCC1,P-1,False,110.0,lowT,Fc1c(F)c([O-])c(F)c(F)c1Br,[NH2+]1CCSCC1
+CEZCUH,CEZCUH,at 100 K,FC(F)(F)S(=O)(=O)[O-].FCCN1C=C[N+](=C1)c1ccccc1,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],FCCN1C=C[N+](=C1)c1ccccc1
+KEFCEE,KEFCEE,at 100 K,OC(=O)CCCCCCCCC(O)=O.CC(=O)Nc1ccccn1,P-1,False,100.0,lowT,OC(=O)CCCCCCCCC(O)=O,CC(=O)Nc1ccccn1
+JEGBAZ,JEGBAZ,at 100 K,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1.ON=C(C#N)c1ccc(Br)cc1,P21/c,False,100.0,lowT,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1,ON=C(C#N)c1ccc(Br)cc1
+MUPNIV,MUPNIV,at 100 K,NC(=O)c1cccnc1.COc1cc(C=CC(O)=O)ccc1O,P21/n,False,100.0,lowT,NC(=O)c1cccnc1,COc1cc(C=CC(O)=O)ccc1O
+EJEDUU,EJEDUU,123 K,Cc1ccc(cc1)S(=O)(=O)[O-].COc1ccc2C3[NH+](CCc2c1)CC1CCC3C1,P-1,False,123.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],COc1ccc2C3[NH+](CCc2c1)CC1CCC3C1
+EXISOW,EXISOW,99.9 K,OCC[NH2+]CCO.Oc1c(ccc2ccccc12)C(=O)[O-],P21/n,False,99.0,lowT,OCC[NH2+]CCO,Oc1c(ccc2ccccc12)C(=O)[O-]
+CISDEP,CISDEP,at 100 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1=CN(N=C1)c1ccc(cc1N(=O)=O)N(=O)=O,P212121,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[N+]1=CN(N=C1)c1ccc(cc1N(=O)=O)N(=O)=O
+FOMFIX,FOMFIX,at 120 K,OC(=O)c1cc(ccc1C(=O)[O-])N(=O)=O.[NH3+]c1ccc(Br)cc1,C2/c,False,120.0,lowT,OC(=O)c1cc(ccc1C(=O)[O-])N(=O)=O,[NH3+]c1ccc(Br)cc1
+QUKKOY,QUKKOY,100 K,Nc1ccc(Cl)cn1.Cc1cccc(c1)C(O)=O,P21/c,False,100.0,lowT,Nc1ccc(Cl)cn1,Cc1cccc(c1)C(O)=O
+LIYBUT,LIYBUT,120 K,CN(C)C=O.Clc1ccc(NC(=S)N2CCOCC2)cc1,P-1,False,120.0,lowT,CN(C)C=O,Clc1ccc(NC(=S)N2CCOCC2)cc1
+DIGCIG,DIGCIG,at 100 K,O=C(Nc1c[nH+]ccc1)Nc1cccnc1.OC(=O)CCCCC(=O)[O-],P-1,False,100.0,lowT,O=C(Nc1c[nH+]ccc1)Nc1cccnc1,OC(=O)CCCCC(=O)[O-]
+DUVCIH,DUVCIH,at 100 K,Nc1[nH+]cc(Br)cc1.Oc1ccccc1C(=O)[O-],P21/c,False,100.0,lowT,Nc1[nH+]cc(Br)cc1,Oc1ccccc1C(=O)[O-]
+XETHEN,XETHEN,100 K,OC(=O)C(=O)[O-].C[NH+]1CC(O)c2cc(O)ccc2C1c1cccc(O)c1,P212121,False,100.0,lowT,OC(=O)C(=O)[O-],C[NH+]1CC(O)c2cc(O)ccc2C1c1cccc(O)c1
+XUYVAO,XUYVAO,at 105 K,OC(=O)C1[NH2+]CCC1.ClC(Cl)(Cl)C(=O)[O-],P31,False,105.0,lowT,OC(=O)C1[NH2+]CCC1,ClC(Cl)(Cl)C(=O)[O-]
+WEKDID01,WEKDID01,100 K,NC(=O)c1ccccc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,100.0,lowT,NC(=O)c1ccccc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+CURFOM,CURFOM,105 K,C[NH2+]C(C)C(O)c1ccccc1.CC(C)CC(CN(=O)=O)C(=O)[O-],P21,False,105.0,lowT,C[NH2+]C(C)C(O)c1ccccc1,CC(C)CC(CN(=O)=O)C(=O)[O-]
+VEMPOV,VEMPOV,100 K,[O-]N=C(C#N)C#N.CSC(N)=[NH2+],P-1,False,100.0,lowT,[O-]N=C(C#N)C#N,CSC(N)=[NH2+]
+IPEKUM,IPEKUM,100 K,NC=S.CCOC(C)=O,Pnma,False,100.0,lowT,NC=S,CCOC(C)=O
+EYEGOG,EYEGOG,93 K,c1cc(ccn1)C=Cc1ccncc1.CCOc1ccc(cc1)C(O)=O,P-1,False,93.0,lowT,c1cc(ccn1)C=Cc1ccncc1,CCOc1ccc(cc1)C(O)=O
+SOYQED,SOYQED,at 120 K,CS(=O)(=O)[O-].CC(=[OH+])NC12CC3CC(CC(C3)C1)C2,Pbca,False,120.0,lowT,CS(=O)(=O)[O-],CC(=[OH+])NC12CC3CC(CC(C3)C1)C2
+KOBHIW,KOBHIW,100 K,NC1=N[N+]2(CCSCC2)CC1.O=N(=O)c1ccccc1S(=O)(=O)[O-],P21/n,False,100.0,lowT,NC1=N[N+]2(CCSCC2)CC1,O=N(=O)c1ccccc1S(=O)(=O)[O-]
+IFOSUT,IFOSUT,at 100 K,C[N+]1=CN(C=C1)C1=Cc2ccccc2OC1=O.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21,False,100.0,lowT,C[N+]1=CN(C=C1)C1=Cc2ccccc2OC1=O,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+BURXUJ,BURXUJ,120 K,FC(F)(F)S(=O)(=O)[O-].C[NH2+]CCN(C)C(=O)Nc1cccc2cccnc12,Pbca,False,120.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[NH2+]CCN(C)C(=O)Nc1cccc2cccnc12
+XUMMAW,XUMMAW,100.0 K,[NH3+]C(CO)(CO)CO.OC(=O)CC(=O)[O-],P21/c,False,100.0,lowT,[NH3+]C(CO)(CO)CO,OC(=O)CC(=O)[O-]
+EQOSEL,EQOSEL,100 K,FC(F)COCc1cc[nH+]cc1.O=C1[N-]S(=O)(=O)c2ccccc12,P-1,False,100.0,lowT,FC(F)COCc1cc[nH+]cc1,O=C1[N-]S(=O)(=O)c2ccccc12
+YARPAL,YARPAL,93 K,FC(F)(F)S(=O)(=O)[O-].Fc1c(F)c(F)c2c3ccccc3c3cccc[n+]3c2c1F,P-1,False,93.0,lowT,FC(F)(F)S(=O)(=O)[O-],Fc1c(F)c(F)c2c3ccccc3c3cccc[n+]3c2c1F
+NUZTUZ,NUZTUZ,100 K,COc1ccc(C=CC(O)=O)cc1.NC(=O)c1ccncc1,P-1,False,100.0,lowT,COc1ccc(C=CC(O)=O)cc1,NC(=O)c1ccncc1
+HEXYIT,HEXYIT,at 100 K,FC(F)(F)C(=O)[O-].CC(NC(=S)C1[NH2+]CCC1)c1ccccc1,P21,False,100.0,lowT,FC(F)(F)C(=O)[O-],CC(NC(=S)C1[NH2+]CCC1)c1ccccc1
+PEXTUK,PEXTUK,100 K,[NH3+]Cc1cccc(Cl)c1.O=C[O-],P21/c,False,100.0,lowT,[NH3+]Cc1cccc(Cl)c1,O=C[O-]
+FUHMUT,FUHMUT,100.1 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.Cc1ccc(cc1)C(F)(F)[n+]1ccccc1,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,Cc1ccc(cc1)C(F)(F)[n+]1ccccc1
+ULUKOE,ULUKOE,100.2 K,COc1ccc(cc1OC)C(=NO)C#N.CS(C)=O,Pna21,False,100.0,lowT,COc1ccc(cc1OC)C(=NO)C#N,CS(C)=O
+MUDSIN,MUDSIN,at 100 K,C1N2CN3CN1CN(C2)C3.CCC1(CC)C(=O)NC(=O)NC1=O,Pbca,False,100.0,lowT,C1N2CN3CN1CN(C2)C3,CCC1(CC)C(=O)NC(=O)NC1=O
+YAJHUO,YAJHUO,at 120 K,CC(=O)[O-].NC(=[NH2+])NC1=Nc2ccccc2S1,Pca21,False,120.0,lowT,CC(=O)[O-],NC(=[NH2+])NC1=Nc2ccccc2S1
+UYOCAN,UYOCAN,at 100 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1ccc(Nc2ccccc2)cc1Cl,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[n+]1ccc(Nc2ccccc2)cc1Cl
+SUZZIX,SUZZIX,at 100 K,Nc1[nH+]cc(Br)cc1.OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],P-1,False,100.0,lowT,Nc1[nH+]cc(Br)cc1,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-]
+CEZCOB,CEZCOB,at 100 K,FC(F)(F)S(=O)(=O)[O-].FCCN1C=N[N+](=C1)c1ccccc1,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],FCCN1C=N[N+](=C1)c1ccccc1
+ATAYIG,ATAYIG,100 K,c1cc(ccn1)c1ccncc1.CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1,P21/c,False,100.0,lowT,c1cc(ccn1)c1ccncc1,CCCNC(=O)NS(=O)(=O)c1ccc(Cl)cc1
+TENNUX,TENNUX,at 110 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)COc1ccc(C=O)cc1,P21/n,False,110.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)COc1ccc(C=O)cc1
+PUMGOW,PUMGOW,120 K,NNC(=O)c1ccncc1.OC(=O)C=Cc1cccc(O)c1,P21/n,False,120.0,lowT,NNC(=O)c1ccncc1,OC(=O)C=Cc1cccc(O)c1
+PETQEM,PETQEM,at 120 K,c1cncc(c1)N=Nc1cccnc1.OC(=O)c1c(F)c(F)c(Br)c(F)c1F,P21/c,False,120.0,lowT,c1cncc(c1)N=Nc1cccnc1,OC(=O)c1c(F)c(F)c(Br)c(F)c1F
+WINMIQ,WINMIQ,at 120 K,Nc1nc(N)nc(n1)c1ccccc1.CC=CC=CC(O)=O,C2/c,False,120.0,lowT,Nc1nc(N)nc(n1)c1ccccc1,CC=CC=CC(O)=O
+DIHSAS,DIHSAS,100 K,CCOP(=O)([O-])OCC.CCOP(=O)(Nc1[nH+]c(N)ccc1)OCC,P21/n,False,100.0,lowT,CCOP(=O)([O-])OCC,CCOP(=O)(Nc1[nH+]c(N)ccc1)OCC
+HIDRAP,HIDRAP,at 120 K,Cc1cc2N=CN(Cc3ccncc3)c2cc1C.ON=C(C#N)c1ccc(O)cc1,P-1,False,120.0,lowT,Cc1cc2N=CN(Cc3ccncc3)c2cc1C,ON=C(C#N)c1ccc(O)cc1
+SOYGAP,SOYGAP,at 100 K,CC(=O)c1[nH+]cccc1.OC1=C(Br)C(=O)C(=C(Br)C1=O)[O-],P21/c,False,100.0,lowT,CC(=O)c1[nH+]cccc1,OC1=C(Br)C(=O)C(=C(Br)C1=O)[O-]
+UGOTUH,UGOTUH,100 K,OC(=O)c1ccc(O)cc1.O=C1CCC(=O)N1,P-1,False,100.0,lowT,OC(=O)c1ccc(O)cc1,O=C1CCC(=O)N1
+ZIYRUY,ZIYRUY,100 K,c1cc(ccn1)c1ccncc1.CC(C)c1ccc(C)cc1O,P21/c,False,100.0,lowT,c1cc(ccn1)c1ccncc1,CC(C)c1ccc(C)cc1O
+KAYGUO,KAYGUO,at 120 K,O=C(Nc1ccccn1)c1ccncc1.OC(=O)CCC(O)=O,P-1,False,120.0,lowT,O=C(Nc1ccccn1)c1ccncc1,OC(=O)CCC(O)=O
+IVUQUM,IVUQUM,at 123 K,Clc1cccc(c1)C(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,C2/c,False,123.0,lowT,Clc1cccc(c1)C(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+WAPQIP,WAPQIP,at 100 K,[NH3+]C(C(C)C)C(=O)OC.Cc1ccc(cc1)C=CC(=O)[O-],P212121,False,100.0,lowT,[NH3+]C(C(C)C)C(=O)OC,Cc1ccc(cc1)C=CC(=O)[O-]
+UGOWIY,UGOWIY,100 K,OC(=O)c1ccc(O)cc1O.O=C1NC(=O)C=C1,I2/a,False,100.0,lowT,OC(=O)c1ccc(O)cc1O,O=C1NC(=O)C=C1
+JUDPEG,JUDPEG,100 K,Cc1c(Cl)cccc1Nc1ccccc1C(O)=O.CN(C)C=O,P-1,False,100.0,lowT,Cc1c(Cl)cccc1Nc1ccccc1C(O)=O,CN(C)C=O
+QOSWOM,QOSWOM,at 100 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])CC1=CSc2ccccc12,P21,False,100.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])CC1=CSc2ccccc12
+HAHKOT,HAHKOT,100 K,CC(C)(C)C(=O)[O-].[NH3+]CCO,P21/c,False,100.0,lowT,CC(C)(C)C(=O)[O-],[NH3+]CCO
+JOWZIG,JOWZIG,at 100 K,NC(=O)c1ccncc1.OC(=O)c1cnccn1,P-1,False,100.0,lowT,NC(=O)c1ccncc1,OC(=O)c1cnccn1
+IFUSOS,IFUSOS,at 100.00 K,C[n+]1ccc(cc1)C=CC1=CC=CS1.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,100.0,lowT,C[n+]1ccc(cc1)C=CC1=CC=CS1,Cc1ccc(cc1)S(=O)(=O)[O-]
+WATREP,WATREP,at 100 K,Cc1nc(C)c(C)nc1C.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P21/c,False,100.0,lowT,Cc1nc(C)c(C)nc1C,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+ZILPET,ZILPET,100.2 K,FC(F)(F)C(=O)[O-].O=C1COCC2(CC[NH2+]CC2)N1Cc1ccccc1,Pbcn,False,100.0,lowT,FC(F)(F)C(=O)[O-],O=C1COCC2(CC[NH2+]CC2)N1Cc1ccccc1
+YAXPEW,YAXPEW,100 K,CC(=O)[O-].[NH3+]c1ccccc1O,P21/c,False,100.0,lowT,CC(=O)[O-],[NH3+]c1ccccc1O
+HOLWOW,HOLWOW,at 100 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.CC(=CC(O)=O)C(O)=O,Cc,False,100.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,CC(=CC(O)=O)C(O)=O
+UBUJIM03,UBUJIM03,at 100 K,c1cc(ccn1)c1ccncc1.Cc1cc(O)cc(O)c1,P21/n,False,100.0,lowT,c1cc(ccn1)c1ccncc1,Cc1cc(O)cc(O)c1
+SUZQOU,SUZQOU,at 100 K,N#Cc1ccc2ccccc2n1.OC(=O)C=CC(O)=O,P21/c,False,100.0,lowT,N#Cc1ccc2ccccc2n1,OC(=O)C=CC(O)=O
+VIPXUP,VIPXUP,98 K,C(Cc1ccncc1)c1ccncc1.Nc1ccccc1C(O)=O,P21/c,False,98.0,lowT,C(Cc1ccncc1)c1ccncc1,Nc1ccccc1C(O)=O
+FUHDAO,FUHDAO,at 110 K,Cc1ccc(cc1NC(N)=[NH2+])N(=O)=O.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,110.0,lowT,Cc1ccc(cc1NC(N)=[NH2+])N(=O)=O,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+OCAMUC,OCAMUC,at 98 K,Nc1ccccc1C(O)=O.S(Sc1ccncc1)c1ccncc1,Cc,False,98.0,lowT,Nc1ccccc1C(O)=O,S(Sc1ccncc1)c1ccncc1
+WIGWUG,WIGWUG,at 100 K,Nc1[nH+]cc(Br)cc1.Oc1ccc(Cl)cc1C(=O)[O-],P21,False,100.0,lowT,Nc1[nH+]cc(Br)cc1,Oc1ccc(Cl)cc1C(=O)[O-]
+DUTSOB,DUTSOB,at 98 K,Cc1ccc2ccc3ccc(C)nc3c2n1.OC(=O)c1ccccc1,P21/c,False,98.0,lowT,Cc1ccc2ccc3ccc(C)nc3c2n1,OC(=O)c1ccccc1
+XITROJ,XITROJ,at 100 K,[NH3+]Cc1ccccc1Br.O=C([O-])c1ccc2ccccc2c1,P-1,False,100.0,lowT,[NH3+]Cc1ccccc1Br,O=C([O-])c1ccc2ccccc2c1
+VEKZUI,VEKZUI,at 100 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])C1=Cc2ccccc2S1,C2,False,100.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])C1=Cc2ccccc2S1
+QAMBEO,QAMBEO,110 K,C[NH+]=C1N(C)C2C(N(C)C(=O)N2C)N1C.FC(F)(F)S(=O)(=O)[O-],P21/n,False,110.0,lowT,C[NH+]=C1N(C)C2C(N(C)C(=O)N2C)N1C,FC(F)(F)S(=O)(=O)[O-]
+QEPXEQ,QEPXEQ,at 100 K,FC(F)(F)C(=O)[O-].CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)NC1=[NH+]C=C(C)S1,P-1,False,100.0,lowT,FC(F)(F)C(=O)[O-],CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)NC1=[NH+]C=C(C)S1
+CIZPEH,CIZPEH,at 120 K,OB(O)O.COc1ccc(OC)nn1,P21/c,False,120.0,lowT,OB(O)O,COc1ccc(OC)nn1
+JAKDIM,JAKDIM,93 K,c1cc(ccn1)c1ccncc1.Brc1ccc(cc1)S(=O)(=O)Nc1cccc(Br)c1,P-1,False,93.0,lowT,c1cc(ccn1)c1ccncc1,Brc1ccc(cc1)S(=O)(=O)Nc1cccc(Br)c1
+ENIBUZ,ENIBUZ,at 100 K,OC(=O)CCCC(O)=O.CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)NC1=NC=C(C)S1,P-1,False,100.0,lowT,OC(=O)CCCC(O)=O,CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)NC1=NC=C(C)S1
+SAYMUB01,SAYMUB01,at 100 K,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O.C(Cc1ccncc1)c1ccncc1,Pbca,False,100.0,lowT,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O,C(Cc1ccncc1)c1ccncc1
+MEDBAA,MEDBAA,at 123 K,[NH3+]CCc1ccc(O)cc1.O=C([O-])c1ccccc1,P21,False,123.0,lowT,[NH3+]CCc1ccc(O)cc1,O=C([O-])c1ccccc1
+OVIMAJ,OVIMAJ,97 K,FC(F)(F)C(=O)[O-].CCCC(=O)CC1[NH2+]C(CC1)C(=O)OC,P212121,False,97.0,lowT,FC(F)(F)C(=O)[O-],CCCC(=O)CC1[NH2+]C(CC1)C(=O)OC
+HOFSAX,HOFSAX,at 100 K,Cc1ccc(cc1)S(=O)(=O)[O-].OC(=O)C[NH2+]CC(O)=O,Pbca,False,100.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],OC(=O)C[NH2+]CC(O)=O
+BALNEK,BALNEK,100 K,[NH3+]C(C(O)=O)c1ccccc1.CS(=O)(=O)[O-],P21/c,False,100.0,lowT,[NH3+]C(C(O)=O)c1ccccc1,CS(=O)(=O)[O-]
+VODWIV,VODWIV,at 90 K,NC1=NN=NN1NC1=NN=C(NN2N=NN=C2N)N=N1.CS(C)=O,P-1,False,90.0,lowT,NC1=NN=NN1NC1=NN=C(NN2N=NN=C2N)N=N1,CS(C)=O
+EYEGUM,EYEGUM,93 K,c1cc(ccn1)C=Cc1ccncc1.CCCOc1ccc(cc1)C(O)=O,Pc,False,93.0,lowT,c1cc(ccn1)C=Cc1ccncc1,CCCOc1ccc(cc1)C(O)=O
+LEZTET,LEZTET,120 K,OC(=O)c1c(F)c(F)c(F)c(F)c1F.O=C1Nc2cccc3cccc1c23,P21/n,False,120.0,lowT,OC(=O)c1c(F)c(F)c(F)c(F)c1F,O=C1Nc2cccc3cccc1c23
+BALFAZ,BALFAZ,120 K,Clc1cccc(c1)C(=O)[O-].NC1=N[N+]2(CCOCC2)CC1,C2/c,False,120.0,lowT,Clc1cccc(c1)C(=O)[O-],NC1=N[N+]2(CCOCC2)CC1
+PEXTAQ,PEXTAQ,100.0 K,[NH3+]Cc1ccc(OC)cc1.O=C[O-],Cc,False,100.0,lowT,[NH3+]Cc1ccc(OC)cc1,O=C[O-]
+DUNFUQ,DUNFUQ,100 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]C1CN(CC1C1CC1)C(=O)OC(C)(C)C,P41,False,100.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]C1CN(CC1C1CC1)C(=O)OC(C)(C)C
+JIPZEO,JIPZEO,at 100 K,[NH3+]c1ccccc1OC(=O)SC.FC(F)(F)S(=O)(=O)[O-],Pca21,False,100.0,lowT,[NH3+]c1ccccc1OC(=O)SC,FC(F)(F)S(=O)(=O)[O-]
+PAKRIG,PAKRIG,100 K,Oc1cccc(c1)C(=O)[O-].CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,C2/c,False,100.0,lowT,Oc1cccc(c1)C(=O)[O-],CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+MOZBEK,MOZBEK,120 K,Nc1ncccn1.OC(=O)c1ccccc1Br,P21/c,False,120.0,lowT,Nc1ncccn1,OC(=O)c1ccccc1Br
+IBIYUP,IBIYUP,at 123 K,C1N2CN3CN1CN(C2)C3.BrN1C(=O)CCC1=O,Pn,False,123.0,lowT,C1N2CN3CN1CN(C2)C3,BrN1C(=O)CCC1=O
+HUFZUE,HUFZUE,at 110 K,O=C1CC2(CCCCC2)CN1.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P-1,False,110.0,lowT,O=C1CC2(CCCCC2)CN1,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+UHACEM,UHACEM,at 120 K,OC(=O)CCC(O)=O.O=C1CCCN1,P-1,False,120.0,lowT,OC(=O)CCC(O)=O,O=C1CCCN1
+SAYMUB,SAYMUB,at 100 K,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O.C(Cc1ccncc1)c1ccncc1,P21/n,False,100.0,lowT,OC(=O)c1cc(cc(c1)C(O)=O)C(O)=O,C(Cc1ccncc1)c1ccncc1
+QUHRES,QUHRES,100 K,N#Cc1ccncc1.COc1cc(C=CC(O)=O)cc(OC)c1O,P21/c,False,100.0,lowT,N#Cc1ccncc1,COc1cc(C=CC(O)=O)cc(OC)c1O
+AJAHOI,AJAHOI,at 90 K,OC(=O)c1cc(O)c(cc1O)C(O)=O.O=C1CNC(=O)CN1,P-1,False,90.0,lowT,OC(=O)c1cc(O)c(cc1O)C(O)=O,O=C1CNC(=O)CN1
+MUMXEA,MUMXEA,100.0 K,Clc1ccc(cc1)N=Cc1cc[nH+]cc1.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/n,False,100.0,lowT,Clc1ccc(cc1)N=Cc1cc[nH+]cc1,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+JAKDAE,JAKDAE,93 K,COc1ccc(NS(=O)(=O)c2cccc(Cl)c2)cc1OC.c1cc(ccn1)c1ccncc1,P-1,False,93.0,lowT,COc1ccc(NS(=O)(=O)c2cccc(Cl)c2)cc1OC,c1cc(ccn1)c1ccncc1
+ACESUY,ACESUY,at 100 K,OC(=O)CCC(O)=O.CN1N=NC2=C(N=CN2C1=O)C(N)=O,P21/n,False,100.0,lowT,OC(=O)CCC(O)=O,CN1N=NC2=C(N=CN2C1=O)C(N)=O
+JEMTEE,JEMTEE,120 K,CC(=O)Nc1ccc(O)cc1.OC(=O)C=CC(O)=O,P-1,False,120.0,lowT,CC(=O)Nc1ccc(O)cc1,OC(=O)C=CC(O)=O
+KIGKER,KIGKER,at 120 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)CC(O)(CC(O)=O)C(O)=O,P-1,False,120.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)CC(O)(CC(O)=O)C(O)=O
+LIMCET,LIMCET,100.2 K,[NH3+]C(C(O)=O)c1cccc2ccccc12.CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,P212121,False,100.0,lowT,[NH3+]C(C(O)=O)c1cccc2ccccc12,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2
+BUVZIC,BUVZIC,at 100 K,NC1=CC2=Nc3ccccc3OC2=CC1=O.Oc1c(Cl)c(Cl)c(O)c(Cl)c1Cl,P-1,False,100.0,lowT,NC1=CC2=Nc3ccccc3OC2=CC1=O,Oc1c(Cl)c(Cl)c(O)c(Cl)c1Cl
+GUDVAE,GUDVAE,at 100 K,OC(=O)CCCCC(O)=O.c1cnccn1,P-1,False,100.0,lowT,OC(=O)CCCCC(O)=O,c1cnccn1
+WAYVEZ,WAYVEZ,at 100 K,C[n+]1ccc(cc1)B(O)O.CS(=O)(=O)[O-],P-1,False,100.0,lowT,C[n+]1ccc(cc1)B(O)O,CS(=O)(=O)[O-]
+TOQKAN,TOQKAN,at 105 K,O=C1C(=O)C(=C1NCc1ccccn1)NCc1ccccn1.OC(=O)C=CC(O)=O,C2/c,False,105.0,lowT,O=C1C(=O)C(=C1NCc1ccccn1)NCc1ccccn1,OC(=O)C=CC(O)=O
+SAYNUD,SAYNUD,at 100 K,OC(=O)c1cccc(O)c1.O=C(NN=C1CCCCCCC1)c1ccncc1,P21/c,False,100.0,lowT,OC(=O)c1cccc(O)c1,O=C(NN=C1CCCCCCC1)c1ccncc1
+UGOVET,UGOVET,100 K,O=C1CCC(=O)N1.OC(=O)c1ccc(O)c(O)c1,P21/c,False,100.0,lowT,O=C1CCC(=O)N1,OC(=O)c1ccc(O)c(O)c1
+VUNRON,VUNRON,100 K,OC1=C(Br)C(=O)C(=C(Br)C1=O)O.Cc1cncc(C)n1,P21/c,False,100.0,lowT,OC1=C(Br)C(=O)C(=C(Br)C1=O)O,Cc1cncc(C)n1
+UBUPEP,UBUPEP,85 K,FC1=C(F)C(=O)C(=C(F)C1=O)F.Nc1cccc2c(N)cccc12,P21/c,False,85.0,lowT,FC1=C(F)C(=O)C(=C(F)C1=O)F,Nc1cccc2c(N)cccc12
+YIKQIU,YIKQIU,at 100 K,Cc1cc[nH+]cc1Br.OC1=C(Br)C(=O)C(=C(Br)C1=O)[O-],P21/c,False,100.0,lowT,Cc1cc[nH+]cc1Br,OC1=C(Br)C(=O)C(=C(Br)C1=O)[O-]
+NEQNEF,NEQNEF,120 K,OC(=O)CCC(O)=O.CC1=CN=C(NC(=O)c2ccccc2)S1,P21/c,False,120.0,lowT,OC(=O)CCC(O)=O,CC1=CN=C(NC(=O)c2ccccc2)S1
+WUZPAL,WUZPAL,100 K,Fc1ccc2NC(=O)c3cc(F)ccc3NC(=O)c2c1.C1CCOC1,P21/n,False,100.0,lowT,Fc1ccc2NC(=O)c3cc(F)ccc3NC(=O)c2c1,C1CCOC1
+JAKBEG,JAKBEG,93 K,COc1ccc(NS(=O)(=O)c2cccc(C)c2)cc1.c1cc(ccn1)c1ccncc1,C2/c,False,93.0,lowT,COc1ccc(NS(=O)(=O)c2cccc(C)c2)cc1,c1cc(ccn1)c1ccncc1
+GOMDET,GOMDET,90 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)CCSc1ccccc1,P21/m,False,90.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)CCSc1ccccc1
+LOFLAV,LOFLAV,100 K,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl.Nc1ccc(cc1)C(O)=O,P21/n,False,100.0,lowT,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl,Nc1ccc(cc1)C(O)=O
+NAJMUK,NAJMUK,116.7 K,OC(=O)CC(=O)[O-].CC(O)C[NH+](CC(C)O)CC(C)O,P21/n,False,116.0,lowT,OC(=O)CC(=O)[O-],CC(O)C[NH+](CC(C)O)CC(C)O
+NERZET,NERZET,120 K,[NH3+]CCCO.CS(=O)(=O)[O-],P21,False,120.0,lowT,[NH3+]CCCO,CS(=O)(=O)[O-]
+RORNAP,RORNAP,at 120 K,OB(O)c1ccc(Br)cc1.c1cc(ccn1)c1ccncc1,P21/n,False,120.0,lowT,OB(O)c1ccc(Br)cc1,c1cc(ccn1)c1ccncc1
+ZATHIP,ZATHIP,100 K,CN1C=CC(=O)C(=C1C)O.Oc1cccc(O)c1O,C2/c,False,100.0,lowT,CN1C=CC(=O)C(=C1C)O,Oc1cccc(O)c1O
+WOBPUB,WOBPUB,104 K,[NH3+]C(CC1=CNC=[NH+]1)C(=O)[O-].Oc1cc(O)cc(c1)C(=O)[O-],P21,False,104.0,lowT,[NH3+]C(CC1=CNC=[NH+]1)C(=O)[O-],Oc1cc(O)cc(c1)C(=O)[O-]
+PAQMIG,PAQMIG,100 K,NC(=O)c1ccncc1.OC(=O)c1ccccn1,P-1,False,100.0,lowT,NC(=O)c1ccncc1,OC(=O)c1ccccn1
+RINQUC,RINQUC,at 100.0 K,O=N(=O)c1cccc(c1)S(=O)(=O)[O-].CN(C)C1=CC=C(S1)C=Cc1cc[n+](C)cc1,P1,False,100.0,lowT,O=N(=O)c1cccc(c1)S(=O)(=O)[O-],CN(C)C1=CC=C(S1)C=Cc1cc[n+](C)cc1
+NUZVAH,NUZVAH,100 K,NC(=O)c1ccncc1.COc1ccc(C=CC(O)=O)cc1OC,P21/c,False,100.0,lowT,NC(=O)c1ccncc1,COc1ccc(C=CC(O)=O)cc1OC
+QAJZEH,QAJZEH,at 100 K,CC1(C)COC2=C3OCC(C)(C)[N+]3=CN12.FC(F)(F)S(=O)(=O)[O-],P21/c,False,100.0,lowT,CC1(C)COC2=C3OCC(C)(C)[N+]3=CN12,FC(F)(F)S(=O)(=O)[O-]
+SUZQIO,SUZQIO,at 98 K,c1ccc(C=NN=Cc2ccccn2)nc1.OC(=O)Cc1ccc(Cl)cc1,Pca21,False,98.0,lowT,c1ccc(C=NN=Cc2ccccn2)nc1,OC(=O)Cc1ccc(Cl)cc1
+KAMQOH,KAMQOH,100 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.Oc1cc2OC(=CC(=O)c2c(O)c1O)c1ccccc1,P21/c,False,100.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,Oc1cc2OC(=CC(=O)c2c(O)c1O)c1ccccc1
+MENXAI,MENXAI,100 K,C1CN2CCN1CC2.CC(C)c1cccc(C(C)C)c1O,P21/c,False,100.0,lowT,C1CN2CCN1CC2,CC(C)c1cccc(C(C)C)c1O
+SUDDEC,SUDDEC,20 K,OC(=O)CCC(O)=O.CNC(N)=O,P21/n,False,20.0,lowT,OC(=O)CCC(O)=O,CNC(N)=O
+HIPVAH,HIPVAH,100 K,FC(F)(F)C(=O)[O-].OC1=[NH+]C=CN1,P-1,False,100.0,lowT,FC(F)(F)C(=O)[O-],OC1=[NH+]C=CN1
+KANBIN01,KANBIN01,120 K,CCCN(CCC)S(=O)(=O)c1ccc(cc1)C(O)=O.c1cc(ccn1)c1ccncc1,P-1,False,120.0,lowT,CCCN(CCC)S(=O)(=O)c1ccc(cc1)C(O)=O,c1cc(ccn1)c1ccncc1
+PIXZEF,PIXZEF,123 K,Cc1ccc(cc1)S(=O)(=O)[O-].OC1=[NH+]CCCCCCC1,Cc,False,123.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],OC1=[NH+]CCCCCCC1
+TEWRAS,TEWRAS,100 K,c1ccc2nc3ccccc3nc2c1.OC(=O)c1ccc(O)c(O)c1,P-1,False,100.0,lowT,c1ccc2nc3ccccc3nc2c1,OC(=O)c1ccc(O)c(O)c1
+HUQXAU,HUQXAU,123 K,[NH2+]=C(O)N1c2ccccc2C=Cc2ccccc12.Oc1ccc(cc1)S(=O)(=O)[O-],Pn,False,123.0,lowT,[NH2+]=C(O)N1c2ccccc2C=Cc2ccccc12,Oc1ccc(cc1)S(=O)(=O)[O-]
+TOQGUD,TOQGUD,at 120 K,OC(=O)C(=O)[O-].Cc1cc[nH+]c(N)c1N(=O)=O,P21,False,120.0,lowT,OC(=O)C(=O)[O-],Cc1cc[nH+]c(N)c1N(=O)=O
+IVUKUG,IVUKUG,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.O=C([O-])c1ccccc1N(=O)=O,P21,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,O=C([O-])c1ccccc1N(=O)=O
+TENYES,TENYES,at 110 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)COc1ccc2ccccc2c1,P21/c,False,110.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)COc1ccc2ccccc2c1
+XEQXEX,XEQXEX,at 120 K,CC1CC(C)(C)C[NH+]1O.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/n,False,120.0,lowT,CC1CC(C)(C)C[NH+]1O,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+BEJGUT,BEJGUT,at 113.2 K,O=C1NC(=O)C=C1.CC1=CC(=CC(=O)O1)OCc1cccc(Cl)c1,P-1,False,113.0,lowT,O=C1NC(=O)C=C1,CC1=CC(=CC(=O)O1)OCc1cccc(Cl)c1
+PAHNOD,PAHNOD,at 110 K,CC(=O)Nc1ccc(cc1)S(=O)(=O)Nc1nccc(C)n1.C1COCCO1,P-1,False,110.0,lowT,CC(=O)Nc1ccc(cc1)S(=O)(=O)Nc1nccc(C)n1,C1COCCO1
+OVILUC,OVILUC,97 K,FC(F)(F)C(=O)[O-].COC(=O)C1[NH2+]C(CC1)CC(C)=O,P21,False,97.0,lowT,FC(F)(F)C(=O)[O-],COC(=O)C1[NH2+]C(CC1)CC(C)=O
+VAWPEP,VAWPEP,at 100 K,C[NH2+]C(C)C(O)c1ccccc1.O=C1[N-]S(=O)(=O)c2ccccc12,P21,False,100.0,lowT,C[NH2+]C(C)C(O)c1ccccc1,O=C1[N-]S(=O)(=O)c2ccccc12
+LADCIE,LADCIE,at 120 K,OC(=O)C=CC(O)=O.CCC(=O)Nc1ccc(Br)cn1,P21/n,False,120.0,lowT,OC(=O)C=CC(O)=O,CCC(=O)Nc1ccc(Br)cn1
+RAXYEX,RAXYEX,100 K,C(Cc1ccncc1)c1ccncc1.Oc1c(F)c(F)c(O)c(F)c1F,P-1,False,100.0,lowT,C(Cc1ccncc1)c1ccncc1,Oc1c(F)c(F)c(O)c(F)c1F
+VECVAD,VECVAD,85 K,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl.OC(=O)CCCCCCCCC(=O)[O-],Pca21,False,85.0,lowT,Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,OC(=O)CCCCCCCCC(=O)[O-]
+INEDIP,INEDIP,at 100 K,OC(=O)CCCCCC(=O)[O-].C[NH2+]C(C)C(O)c1ccccc1,P21,False,100.0,lowT,OC(=O)CCCCCC(=O)[O-],C[NH2+]C(C)C(O)c1ccccc1
+DALJIN,DALJIN,100 K,CCN(CC)CC(=O)Nc1c(C)cccc1C.OC(=O)CCCCCCCC(O)=O,P21,False,100.0,lowT,CCN(CC)CC(=O)Nc1c(C)cccc1C,OC(=O)CCCCCCCC(O)=O
+PAKPAU,PAKPAU,at 100 K,C[n+]1cccc(c1)C(O)=O.OC1=C([O-])C(=O)C1=O,P21/c,False,100.0,lowT,C[n+]1cccc(c1)C(O)=O,OC1=C([O-])C(=O)C1=O
+XICPUW,XICPUW,at 100 K,[NH2+]=C1NC(=O)NC=C1.Clc1cccc(Cl)c1Nc1ccccc1CC(=O)OCC(=O)[O-],P21/n,False,100.0,lowT,[NH2+]=C1NC(=O)NC=C1,Clc1cccc(Cl)c1Nc1ccccc1CC(=O)OCC(=O)[O-]
+JETTOU,JETTOU,100.0 K,FC(F)(F)S(=O)(=O)[O-].CCOC(=C)[n+]1ccccc1Cl,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CCOC(=C)[n+]1ccccc1Cl
+GUXVAZ,GUXVAZ,100 K,CC(=O)NC1=NN=C(S1)S(N)(=O)=O.C(Cc1ccncc1)Cc1ccncc1,P-1,False,100.0,lowT,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,C(Cc1ccncc1)Cc1ccncc1
+IBIYOJ,IBIYOJ,at 123 K,C1CN2CCN1CC2.BrN1C(=O)CCC1=O,P21/a,False,123.0,lowT,C1CN2CCN1CC2,BrN1C(=O)CCC1=O
+YAJVAJ,YAJVAJ,97.3 K,Cc1ccc(O)c(c1)N1N=C2C=CC=CC2=N1.Fc1c(F)c(F)c2c(F)c(F)c(F)c(F)c2c1F,P21/c,False,97.0,lowT,Cc1ccc(O)c(c1)N1N=C2C=CC=CC2=N1,Fc1c(F)c(F)c2c(F)c(F)c(F)c(F)c2c1F
+ECUSUU,ECUSUU,100.2 K,Cc1ccc(cc1)S(=O)(=O)[O-].Nc1c(Br)cc(Br)cc1C[NH2+]C1CCC(O)CC1,P-1,False,100.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],Nc1c(Br)cc(Br)cc1C[NH2+]C1CCC(O)CC1
+MOYZIL,MOYZIL,120 K,Nc1ncccn1.OC(=O)c1ccccc1F,P21/n,False,120.0,lowT,Nc1ncccn1,OC(=O)c1ccccc1F
+HABJIG,HABJIG,110.2 K,CC(=O)Oc1cc(ccc1C(O)=O)C(F)(F)F.NC(=O)c1ccccn1,P-1,False,110.0,lowT,CC(=O)Oc1cc(ccc1C(O)=O)C(F)(F)F,NC(=O)c1ccccn1
+ABUQAR,ABUQAR,at 110 K,FC(F)(F)C(=O)[O-].Clc1ccc(cc1)C1[NH2+]CCN2C=CC=C12,P21,False,110.0,lowT,FC(F)(F)C(=O)[O-],Clc1ccc(cc1)C1[NH2+]CCN2C=CC=C12
+SOKZUQ,SOKZUQ,101.4 K,N#C[S+]1c2ccccc2c2ccccc12.FC(F)(F)S(=O)(=O)[O-],P21/n,False,101.0,lowT,N#C[S+]1c2ccccc2c2ccccc12,FC(F)(F)S(=O)(=O)[O-]
+PUJKOV,PUJKOV,at 100 K,Nc1[nH+]cc(Cl)cc1.Oc1ccc(cc1)C(=O)[O-],P21/c,False,100.0,lowT,Nc1[nH+]cc(Cl)cc1,Oc1ccc(cc1)C(=O)[O-]
+QIDKOF,QIDKOF,at 100 K,C[N+]1=CN(C=C1)c1ccc(cc1N(=O)=O)N(=O)=O.FC(F)(F)S(=O)(=O)[O-],P-1,False,100.0,lowT,C[N+]1=CN(C=C1)c1ccc(cc1N(=O)=O)N(=O)=O,FC(F)(F)S(=O)(=O)[O-]
+WEDMEZ,WEDMEZ,at 120 K,OC(=O)c1c(F)cccc1F.Nc1ncc(Br)nc1Br,P21/c,False,120.0,lowT,OC(=O)c1c(F)cccc1F,Nc1ncc(Br)nc1Br
+ZECQUW,ZECQUW,100 K,FC(F)(F)C(F)(F)COCc1c[nH+]ccc1.O=C1[N-]S(=O)(=O)c2ccccc12,I-4,False,100.0,lowT,FC(F)(F)C(F)(F)COCc1c[nH+]ccc1,O=C1[N-]S(=O)(=O)c2ccccc12
+LODHOD,LODHOD,110 K,NNC(=O)c1ccncc1.OC(=O)c1cc(O)c(O)c(O)c1,P-1,False,110.0,lowT,NNC(=O)c1ccncc1,OC(=O)c1cc(O)c(O)c(O)c1
+CUYKIT,CUYKIT,100 K,OCC(O)=O.NC(=O)c1ccccn1,P21/n,False,100.0,lowT,OCC(O)=O,NC(=O)c1ccccn1
+QEYMIU,QEYMIU,120 K,CCNC1=NC(NC(=O)N1)=[NH+]C(C)C.CS(=O)(=O)[O-],C2/c,False,120.0,lowT,CCNC1=NC(NC(=O)N1)=[NH+]C(C)C,CS(=O)(=O)[O-]
+AGIGEE,AGIGEE,110 K,OC(=O)C=Cc1ccccc1.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P-1,False,110.0,lowT,OC(=O)C=Cc1ccccc1,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+HURCIH,HURCIH,at 120 K,[NH3+]C(C)(C)CO.OB1OB(O)O[B-]2(O1)OB(O)OB(O)O2,P1,False,120.0,lowT,[NH3+]C(C)(C)CO,OB1OB(O)O[B-]2(O1)OB(O)OB(O)O2
+YUQLOM,YUQLOM,at 100 K,Oc1cc2ccccc2cc1O.CN1N(C(=O)C(=C1C)NC(C)=O)c1ccccc1,P21/c,False,100.0,lowT,Oc1cc2ccccc2cc1O,CN1N(C(=O)C(=C1C)NC(C)=O)c1ccccc1
+DIYYUH,DIYYUH,at 97 K,CCCOC(=O)c1cc(O)c(O)c(O)c1.CCN1C=C(C(O)=O)C(=O)c2ccc(C)nc12,P-1,False,97.0,lowT,CCCOC(=O)c1cc(O)c(O)c(O)c1,CCN1C=C(C(O)=O)C(=O)c2ccc(C)nc12
+QUYVEO,QUYVEO,120 K,[NH2+]1CCOCC1.ClCCN1N=NC2=C(N=CN2C1=O)C(=O)[N-]N(=O)=O,P21/c,False,120.0,lowT,[NH2+]1CCOCC1,ClCCN1N=NC2=C(N=CN2C1=O)C(=O)[N-]N(=O)=O
+CEKMEM,CEKMEM,at 100 K,OC(=O)c1ccc(F)cc1.CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)Nc1ccccn1,P42/n,False,100.0,lowT,OC(=O)c1ccc(F)cc1,CN1C(=C(O)c2ccccc2S1(=O)=O)C(=O)Nc1ccccn1
+VIHNOT,VIHNOT,90 K,FC(F)(F)C(=O)[O-].COc1ccc(cc1)N1CC[NH2+]CC1,Pbca,False,90.0,lowT,FC(F)(F)C(=O)[O-],COc1ccc(cc1)N1CC[NH2+]CC1
+VUKPIC,VUKPIC,100.0 K,Cc1[nH+]cc(CO)c(CO)c1O.Nc1ccc(cc1)C(=O)[O-],P-1,False,100.0,lowT,Cc1[nH+]cc(CO)c(CO)c1O,Nc1ccc(cc1)C(=O)[O-]
+SOVKAS,SOVKAS,100 K,Cc1cc(cc(C)c1O)[N+](C)(C)C.FC(F)(F)S(=O)(=O)[O-],P21/c,False,100.0,lowT,Cc1cc(cc(C)c1O)[N+](C)(C)C,FC(F)(F)S(=O)(=O)[O-]
+LAJKEQ,LAJKEQ,100 K,[2H]N(C(N([2H])[2H])=[N+]([2H])[2H])C(N([2H])[2H])=S.O=C([O-])c1cccc(c1)N(=O)=O,P21/n,False,100.0,lowT,[2H]N(C(N([2H])[2H])=[N+]([2H])[2H])C(N([2H])[2H])=S,O=C([O-])c1cccc(c1)N(=O)=O
+VAVKEL,VAVKEL,123 K,C[NH+](C)C(C)C(O)c1ccccc1.OC(=O)CCC(=O)[O-],P212121,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,OC(=O)CCC(=O)[O-]
+TENPAF,TENPAF,at 110 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)COc1ccccc1C=O,P-1,False,110.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)COc1ccccc1C=O
+JAKBOQ,JAKBOQ,93 K,c1cc(ccn1)c1ccncc1.Cc1cccc(c1)S(=O)(=O)Nc1cccc(F)c1,P21/c,False,93.0,lowT,c1cc(ccn1)c1ccncc1,Cc1cccc(c1)S(=O)(=O)Nc1cccc(F)c1
+JAZSAH,JAZSAH,100 K,OC(=O)CC(=O)[O-].OCC[NH+](CCO)CCO,P21/c,False,100.0,lowT,OC(=O)CC(=O)[O-],OCC[NH+](CCO)CCO
+GICXEZ,GICXEZ,120 K,CC1(C)N2C(=Nc3ccc(Cl)c(Cl)c3C2=O)NC1=O.CS(C)=O,Pnma,False,120.0,lowT,CC1(C)N2C(=Nc3ccc(Cl)c(Cl)c3C2=O)NC1=O,CS(C)=O
+BOQNUS,BOQNUS,at 100 K,OC(=O)CSCc1ccc(CSCC(O)=O)cc1.Cc1cc(C)nc(N)n1,Cmce,False,100.0,lowT,OC(=O)CSCc1ccc(CSCC(O)=O)cc1,Cc1cc(C)nc(N)n1
+GIJTEC,GIJTEC,113.2 K,O=C1NC(=O)C=C(N1)C(=O)[O-].COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,P-1,False,113.0,lowT,O=C1NC(=O)C=C(N1)C(=O)[O-],COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC
+JOYJAK01,JOYJAK01,at 120 K,Nc1ncccn1.OC(=O)CCCC(O)=O,Pbcm,False,120.0,lowT,Nc1ncccn1,OC(=O)CCCC(O)=O
+OFAZII,OFAZII,100 K,FC(F)(F)S(=O)(=O)[O-].Fc1cc(F)c2c(CC[N+]3=C2c2c(F)cc(F)cc2CC3)c1,Pna21,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],Fc1cc(F)c2c(CC[N+]3=C2c2c(F)cc(F)cc2CC3)c1
+COZZEX,COZZEX,at 100 K,Oc1ccc(cc1)c1ccc(O)cc1.C(Cc1ccncc1)c1ccncc1,P21/c,False,100.0,lowT,Oc1ccc(cc1)c1ccc(O)cc1,C(Cc1ccncc1)c1ccncc1
+UBUQIU,UBUQIU,85 K,Nc1cccc2c(N)cccc12.BrC1=C(Br)C(=O)C(=C(Br)C1=O)Br,P21/n,False,85.0,lowT,Nc1cccc2c(N)cccc12,BrC1=C(Br)C(=O)C(=C(Br)C1=O)Br
+NIRMIN,NIRMIN,100 K,Brc1ccc(OCC2=CNN=[NH+]2)cc1.Cc1ccc(cc1)S(=O)(=O)[O-],C2/c,False,100.0,lowT,Brc1ccc(OCC2=CNN=[NH+]2)cc1,Cc1ccc(cc1)S(=O)(=O)[O-]
+HURDEE,HURDEE,at 120 K,OCC[NH+]1CCCC1.OB1OB(O)O[B-]2(O1)OB(O)OB(O)O2,P21/c,False,120.0,lowT,OCC[NH+]1CCCC1,OB1OB(O)O[B-]2(O1)OB(O)OB(O)O2
+ZIYDAP,ZIYDAP,100 K,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1.Oc1ccc(O)c(c1)C(=O)[O-],C2,False,100.0,lowT,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1,Oc1ccc(O)c(c1)C(=O)[O-]
+TUDKIO,TUDKIO,100 K,Cc1cc(Br)cc2CN3C[NH+](Cc4cc(Br)cc(C)c34)c12.CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,P1,False,100.0,lowT,Cc1cc(Br)cc2CN3C[NH+](Cc4cc(Br)cc(C)c34)c12,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2
+SOGGED,SOGGED,100 K,O=P([O-])(Oc1ccccc1)Oc1ccccc1.OB(O)c1c[nH+]c2ccccc2c1,P-1,False,100.0,lowT,O=P([O-])(Oc1ccccc1)Oc1ccccc1,OB(O)c1c[nH+]c2ccccc2c1
+HONVIQ,HONVIQ,at 100 K,OC(=O)c1cccc(O)c1.Cc1nc(C)c(C)nc1C,P21/c,False,100.0,lowT,OC(=O)c1cccc(O)c1,Cc1nc(C)c(C)nc1C
+AKISEU,AKISEU,100 K,NC(=O)CN1CCCC1=O.OC(=O)c1cc(O)c(O)c(O)c1,P21/c,False,100.0,lowT,NC(=O)CN1CCCC1=O,OC(=O)c1cc(O)c(O)c(O)c1
+UFEZOY,UFEZOY,100 K,CN1C=C[N+](=C1)[B-](Cl)(N1C=C[N+](=C1)C)c1ccccc1.FC(F)(F)S(=O)(=O)[O-],P-1,False,100.0,lowT,CN1C=C[N+](=C1)[B-](Cl)(N1C=C[N+](=C1)C)c1ccccc1,FC(F)(F)S(=O)(=O)[O-]
+QUCKEH,QUCKEH,100 K,OC(=O)c1ccc2OCOc2c1.NC(=O)c1ccncc1,P-1,False,100.0,lowT,OC(=O)c1ccc2OCOc2c1,NC(=O)c1ccncc1
+KETZEQ,KETZEQ,at 100 K,c1cc(ccn1)C=Cc1ccncc1.CC(=O)Nc1ccc(O)cc1,P-1,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,CC(=O)Nc1ccc(O)cc1
+DOWSAK,DOWSAK,at 100 K,OC(=O)C(=O)[O-].C[NH+](C)CC1=CSCCCCS1,P21/c,False,100.0,lowT,OC(=O)C(=O)[O-],C[NH+](C)CC1=CSCCCCS1
+UYILEV,UYILEV,110 K,C[NH+](C)c1cccc2cccc(C(O)=O)c12.FC(F)(F)S(=O)(=O)[O-],P-1,False,110.0,lowT,C[NH+](C)c1cccc2cccc(C(O)=O)c12,FC(F)(F)S(=O)(=O)[O-]
+HIDRET,HIDRET,at 120 K,C(N1C=CN=C1c1ccccc1)c1cccnc1.ON=C(C#N)c1ccc(O)cc1,P21/n,False,120.0,lowT,C(N1C=CN=C1c1ccccc1)c1cccnc1,ON=C(C#N)c1ccc(O)cc1
+ONIDEX,ONIDEX,100 K,FC(F)(F)S(=O)(=O)[O-].CS(=O)(=N[S+]1c2ccccc2c2ccccc12)c1ccccc1,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CS(=O)(=N[S+]1c2ccccc2c2ccccc12)c1ccccc1
+QIWFEJ,QIWFEJ,at 100 K,O=N(=O)c1ccc(cc1)S(=O)(=O)[O-].[NH3+]CCOS(=O)(=O)c1ccc(cc1)N(=O)=O,P21/c,False,100.0,lowT,O=N(=O)c1ccc(cc1)S(=O)(=O)[O-],[NH3+]CCOS(=O)(=O)c1ccc(cc1)N(=O)=O
+ISANIB,ISANIB,100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.C[N+](C)=CO,P212121,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,C[N+](C)=CO
+NEQMUU,NEQMUU,120 K,CC(=O)NC1=NC=C(C)S1.OC(=O)c1ccc(O)cc1,P21/n,False,120.0,lowT,CC(=O)NC1=NC=C(C)S1,OC(=O)c1ccc(O)cc1
+IDELIO,IDELIO,100 K,NC(N)=O.Cc1ccc2ccc(C)nc2n1,C2/c,False,100.0,lowT,NC(N)=O,Cc1ccc2ccc(C)nc2n1
+JOKPUW,JOKPUW,at 100 K,CCOS(=O)(=O)[O-].CCOC1=CC(CCC1)=[NH+]CCCOC,P-1,False,100.0,lowT,CCOS(=O)(=O)[O-],CCOC1=CC(CCC1)=[NH+]CCCOC
+NAQMOK,NAQMOK,100 K,OC(=O)CCC(O)=O.NC1=Nc2ccc(OC(F)(F)F)cc2S1,C2/c,False,100.0,lowT,OC(=O)CCC(O)=O,NC1=Nc2ccc(OC(F)(F)F)cc2S1
+RECQUM,RECQUM,at 120.2 K,NC(N)=S.COc1ccccc1C(N)=O,Pbca,False,120.0,lowT,NC(N)=S,COc1ccccc1C(N)=O
+SIBYOV,SIBYOV,113.2 K,ONC(=O)C=Cc1cccc(c1)S(=O)(=O)Nc1ccccc1.NNC(=O)c1ccncc1,P-1,False,113.0,lowT,ONC(=O)C=Cc1cccc(c1)S(=O)(=O)Nc1ccccc1,NNC(=O)c1ccncc1
+UHORUF,UHORUF,at 98 K,c1cc(ccn1)C=Cc1ccncc1.COC(=S)Nc1ccccc1,P-1,False,98.0,lowT,c1cc(ccn1)C=Cc1ccncc1,COC(=S)Nc1ccccc1
+OTESEM,OTESEM,at 100 K,O=C1NS(=O)(=O)c2ccccc12.NC(=O)N1c2ccccc2CCc2ccccc12,P21/n,False,100.0,lowT,O=C1NS(=O)(=O)c2ccccc12,NC(=O)N1c2ccccc2CCc2ccccc12
+IVULIV,IVULIV,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.Fc1cccc(c1)C(=O)[O-],C2/c,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Fc1cccc(c1)C(=O)[O-]
+BUNHEZ,BUNHEZ,120 K,c1cc(ccn1)c1ccncc1.OC(=O)c1ccc(Br)cc1,P21/c,False,120.0,lowT,c1cc(ccn1)c1ccncc1,OC(=O)c1ccc(Br)cc1
+KAYHEZ,KAYHEZ,at 120 K,OC(=O)CCCCCCCCC(O)=O.O=C(Nc1ccccn1)c1cccnc1,P-1,False,120.0,lowT,OC(=O)CCCCCCCCC(O)=O,O=C(Nc1ccccn1)c1cccnc1
+REHSAA,REHSAA,at 100 K,OC(=O)c1ccccc1O.CCOc1ccccc1C(N)=O,P21/n,False,100.0,lowT,OC(=O)c1ccccc1O,CCOc1ccccc1C(N)=O
+VAVHIM,VAVHIM,123 K,Nc1ccccc1C(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,P21,False,123.0,lowT,Nc1ccccc1C(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+XUMMEA,XUMMEA,100.0 K,[NH3+]C(CO)(CO)CO.OC(=O)CCC(=O)[O-],P212121,False,100.0,lowT,[NH3+]C(CO)(CO)CO,OC(=O)CCC(=O)[O-]
+YACRAY,YACRAY,100 K,OC(=O)c1cc(O)cc(O)c1.CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O,P-1,False,100.0,lowT,OC(=O)c1cc(O)cc(O)c1,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O
+LOFKIB,LOFKIB,at 120 K,NC(=O)c1ccncc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,120.0,lowT,NC(=O)c1ccncc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+UGOWOE,UGOWOE,100 K,OC(=O)c1cc(O)cc(O)c1.O=C1NC(=O)C=C1,P-1,False,100.0,lowT,OC(=O)c1cc(O)cc(O)c1,O=C1NC(=O)C=C1
+SIHLED,SIHLED,100 K,Cc1nc(C)c(Cl)c(N)n1.OC(=O)C1=C(Br)C=CS1,P-1,False,100.0,lowT,Cc1nc(C)c(Cl)c(N)n1,OC(=O)C1=C(Br)C=CS1
+BIVSIJ02,BIVSIJ02,at 90 K,c1cc(ccn1)C=Cc1ccncc1.Oc1ccc(cc1)C(=O)c1ccc(O)cc1,C2/c,False,90.0,lowT,c1cc(ccn1)C=Cc1ccncc1,Oc1ccc(cc1)C(=O)c1ccc(O)cc1
+LATBOZ,LATBOZ,at 110 K,NC(=O)CN1CCCC1=O.OC(=O)c1ccc(O)cc1,P-1,False,110.0,lowT,NC(=O)CN1CCCC1=O,OC(=O)c1ccc(O)cc1
+IVUPEV,IVUPEV,at 123 K,OC(=O)C=CC(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,P21/c,False,123.0,lowT,OC(=O)C=CC(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+POVZIK,POVZIK,at 100 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-].NC(=O)c1c[nH+]ccc1,Pc,False,100.0,lowT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-],NC(=O)c1c[nH+]ccc1
+XITRID,XITRID,at 93 K,O=C([O-])c1ccc2ccccc2c1.[NH3+]Cc1cccc(Cl)c1,Pbca,False,93.0,lowT,O=C([O-])c1ccc2ccccc2c1,[NH3+]Cc1cccc(Cl)c1
+AWAZUV,AWAZUV,100 K,CN(C)C=O.CNC(=S)NN=Cc1cccc(c1O)C(C)(C)C,P-1,False,100.0,lowT,CN(C)C=O,CNC(=S)NN=Cc1cccc(c1O)C(C)(C)C
+VUMTEF,VUMTEF,100 K,NC1=N[N+]2(CCOCC2)CC1.O=N(=O)c1ccc(cc1)S(=O)(=O)[O-],P21/c,False,100.0,lowT,NC1=N[N+]2(CCOCC2)CC1,O=N(=O)c1ccc(cc1)S(=O)(=O)[O-]
+OTUKUM,OTUKUM,113.2 K,OC(=O)c1c(F)c(F)c(C(O)=O)c(F)c1F.CCCOc1ccc(cc1)N=Nc1ccncc1,P-1,False,113.0,lowT,OC(=O)c1c(F)c(F)c(C(O)=O)c(F)c1F,CCCOc1ccc(cc1)N=Nc1ccncc1
+NEFFEM,NEFFEM,100 K,OC(=O)c1ccc(O)cc1O.NC(=O)c1cnccn1,P21/c,False,100.0,lowT,OC(=O)c1ccc(O)cc1O,NC(=O)c1cnccn1
+YEXPOK,YEXPOK,100 K,FC(F)(F)S(=O)(=O)[O-].C[NH+]=P(c1ccccc1)(c1ccccc1)c1ccccc1,P212121,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[NH+]=P(c1ccccc1)(c1ccccc1)c1ccccc1
+DAVPEW,DAVPEW,at 100 K,NC(=O)CN1CCCC1=O.OC(=O)c1ccc(O)cc1,P21/n,False,100.0,lowT,NC(=O)CN1CCCC1=O,OC(=O)c1ccc(O)cc1
+SETYEY,SETYEY,123 K,[NH3+]CCO.Nc1ccc(cc1)S(=O)(=O)[N-]c1ncccn1,P21/c,False,123.0,lowT,[NH3+]CCO,Nc1ccc(cc1)S(=O)(=O)[N-]c1ncccn1
+LADDEB,LADDEB,at 120 K,Nc1ncc(Br)cc1Br.OC(=O)C=CC(O)=O,P21/c,False,120.0,lowT,Nc1ncc(Br)cc1Br,OC(=O)C=CC(O)=O
+TEBREA,TEBREA,100 K,[NH3+]c1ccc(OC)cc1C1(O)N(C)C(=O)N(C)C1=O.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,100.0,lowT,[NH3+]c1ccc(OC)cc1C1(O)N(C)C(=O)N(C)C1=O,Cc1ccc(cc1)S(=O)(=O)[O-]
+BOKHAM01,BOKHAM01,100 K,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl.c1cc(ccn1)c1ccncc1,C2/c,False,100.0,lowT,NS(=O)(=O)c1cc(C(O)=O)c(NCC2=CC=CO2)cc1Cl,c1cc(ccn1)c1ccncc1
+CEPFEJ,CEPFEJ,at 93.1 K,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)[C-](Br)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.FC(F)(F)c1ccc(cc1)[n+]1ccccc1,P21/n,False,93.0,lowT,FC(F)(F)C(F)(F)C(F)(F)C(F)(F)S(=O)(=O)[C-](Br)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,FC(F)(F)c1ccc(cc1)[n+]1ccccc1
+PUQGOY,PUQGOY,at 100 K,[NH3+]c1ccc(cc1OC)C(O)=O.OC(=O)c1cccc(c1C(=O)[O-])N(=O)=O,P-1,False,100.0,lowT,[NH3+]c1ccc(cc1OC)C(O)=O,OC(=O)c1cccc(c1C(=O)[O-])N(=O)=O
+VIPXUQ,VIPXUQ,120 K,Nc1cc(ccc1C(=O)[O-])N(=O)=O.[NH3+]C(CO)(CO)CO,P21/c,False,120.0,lowT,Nc1cc(ccc1C(=O)[O-])N(=O)=O,[NH3+]C(CO)(CO)CO
+OKOROY,OKOROY,100 K,CC1=CC(=O)[N-]S(=O)(=O)O1.Cc1[nH+]c(NS(=O)(=O)c2ccc(N)cc2)nc(C)c1,P21/n,False,100.0,lowT,CC1=CC(=O)[N-]S(=O)(=O)O1,Cc1[nH+]c(NS(=O)(=O)c2ccc(N)cc2)nc(C)c1
+FEPZAD,FEPZAD,at 100 K,COC(=O)C1[NH2+]CC(F)CC1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,100.0,lowT,COC(=O)C1[NH2+]CC(F)CC1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+AJAHIC,AJAHIC,at 90 K,OC(=O)C=CC(O)=O.O=C1CNC(=O)CN1,P-1,False,90.0,lowT,OC(=O)C=CC(O)=O,O=C1CNC(=O)CN1
+UBAJOZ,UBAJOZ,93 K,c1cc(ccn1)C=Cc1ccncc1.CCCCCOc1ccc(cc1)C(O)=O,P-1,False,93.0,lowT,c1cc(ccn1)C=Cc1ccncc1,CCCCCOc1ccc(cc1)C(O)=O
+OWOJER,OWOJER,100 K,CNC(N)=S.C1COCCO1,P-1,False,100.0,lowT,CNC(N)=S,C1COCCO1
+VEQKIN,VEQKIN,at 113 K,Oc1cc2ccccc2cc1C(=O)[O-].[NH2+]=C1Nc2ccccc2S1,P21/c,False,113.0,lowT,Oc1cc2ccccc2cc1C(=O)[O-],[NH2+]=C1Nc2ccccc2S1
+EMUMAC,EMUMAC,100 K,OC(=O)c1ccccc1C(=O)[O-].COc1cc(C)[nH+]c(N)n1,P-1,False,100.0,lowT,OC(=O)c1ccccc1C(=O)[O-],COc1cc(C)[nH+]c(N)n1
+JAZSOV,JAZSOV,100 K,OC(=O)CCC(=O)[O-].OCC[NH+](CCO)CCO,P21/c,False,100.0,lowT,OC(=O)CCC(=O)[O-],OCC[NH+](CCO)CCO
+AMUZUE,AMUZUE,at 93 K,CCN(CC)CC.COc1ccc(cc1)C(=O)C(=NO)c1ccc(OC)cc1,Pbca,False,93.0,lowT,CCN(CC)CC,COc1ccc(cc1)C(=O)C(=NO)c1ccc(OC)cc1
+BOVZAO,BOVZAO,at 100 K,C[n+]1ccccc1C=Cc1ccc(Cl)cc1.COc1ccc(cc1)S(=O)(=O)[O-],P21/c,False,100.0,lowT,C[n+]1ccccc1C=Cc1ccc(Cl)cc1,COc1ccc(cc1)S(=O)(=O)[O-]
+QOTLIW,QOTLIW,at 100 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])CC1=CSc2ccccc12,P212121,False,100.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])CC1=CSc2ccccc12
+VECVEH,VECVEH,85 K,Nc1nnc(c(N)n1)c1cccc(Cl)c1Cl.CCC1(C(=O)NC(=O)NC1=O)c1ccccc1,Cc,False,85.0,lowT,Nc1nnc(c(N)n1)c1cccc(Cl)c1Cl,CCC1(C(=O)NC(=O)NC1=O)c1ccccc1
+CEPZUV,CEPZUV,100 K,c1ccc2nc3ccccc3cc2c1.Oc1ccc(Cl)cc1,P21/c,False,100.0,lowT,c1ccc2nc3ccccc3cc2c1,Oc1ccc(Cl)cc1
+GUYVUU,GUYVUU,100 K,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O.NC(=O)c1cc[nH+]cc1,P21/c,False,100.0,lowT,O=C([O-])c1ccc(cc1N(=O)=O)N(=O)=O,NC(=O)c1cc[nH+]cc1
+KAXSEJ,KAXSEJ,at 100 K,NC(N)=O.COc1ccc2cccc(CCNC(C)=O)c2c1,P21/n,False,100.0,lowT,NC(N)=O,COc1ccc2cccc(CCNC(C)=O)c2c1
+QADLOY,QADLOY,at 113 K,CCC12CC[NH2+]CC1Oc1ccc(OC)cc21.OC(C(=O)[O-])c1ccccc1,P21,False,113.0,lowT,CCC12CC[NH2+]CC1Oc1ccc(OC)cc21,OC(C(=O)[O-])c1ccccc1
+SUYPIN01,SUYPIN01,100 K,OC(=O)C=CC(=O)[O-].Brc1ccc(OC(=O)N2CC[NH+]3CCC2CC3)cc1,P21/n,False,100.0,lowT,OC(=O)C=CC(=O)[O-],Brc1ccc(OC(=O)N2CC[NH+]3CCC2CC3)cc1
+NUZTAF,NUZTAF,100 K,OC(=O)C=Cc1ccccc1.NC(=O)c1cccnc1,P21/c,False,100.0,lowT,OC(=O)C=Cc1ccccc1,NC(=O)c1cccnc1
+PODRAC,PODRAC,at 120 K,CCN1c2ccccc2C=C2C(=O)NC(=[NH2+])N=C12.Cc1ccc(cc1)S(=O)(=O)[O-],P21/n,False,120.0,lowT,CCN1c2ccccc2C=C2C(=O)NC(=[NH2+])N=C12,Cc1ccc(cc1)S(=O)(=O)[O-]
+OCIJUG,OCIJUG,at 113 K,CN(C)C=O.ON1C(=O)N(O)C(=O)N(O)C1=O,P-1,False,113.0,lowT,CN(C)C=O,ON1C(=O)N(O)C(=O)N(O)C1=O
+XONPUN,XONPUN,at 100 K,Nc1cccc(Cl)n1.OC(=O)c1ccccc1,P212121,False,100.0,lowT,Nc1cccc(Cl)n1,OC(=O)c1ccccc1
+NERLIJ,NERLIJ,120 K,OC(=O)C(=O)[O-].[NH3+]CCCO,P21/n,False,120.0,lowT,OC(=O)C(=O)[O-],[NH3+]CCCO
+DOWSEO,DOWSEO,at 100 K,OC(=O)C(=O)[O-].C[NH+](C)CC1=CSCC(C)(C)CS1,P21/c,False,100.0,lowT,OC(=O)C(=O)[O-],C[NH+](C)CC1=CSCC(C)(C)CS1
+WAPQAH,WAPQAH,at 100 K,O=C([O-])C=Cc1ccccc1.[NH3+]C(C)C(=O)OC,P212121,False,100.0,lowT,O=C([O-])C=Cc1ccccc1,[NH3+]C(C)C(=O)OC
+GEBMIJ,GEBMIJ,at 105 K,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O.COC(=O)OCC[N+](C)(C)C,P2/n,False,105.0,lowT,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,COC(=O)OCC[N+](C)(C)C
+MENREG,MENREG,100 K,Nc1ccc(Br)cn1.Cc1ccc(cc1)C(O)=O,P21/c,False,100.0,lowT,Nc1ccc(Br)cn1,Cc1ccc(cc1)C(O)=O
+EBOJAK,EBOJAK,115 K,COc1cc(O)cc(OC)c1O.N#Cc1cc(C#N)c(cc1C#N)C#N,C2/c,False,115.0,lowT,COc1cc(O)cc(OC)c1O,N#Cc1cc(C#N)c(cc1C#N)C#N
+TEWQEV,TEWQEV,100 K,FC1=C(F)C(C(=C(F)C1=C(C#N)C#N)F)=C(C#N)C#N.O1c2cccc3Oc4cccc5Oc6cccc1c6N(c23)c45,P21/c,False,100.0,lowT,FC1=C(F)C(C(=C(F)C1=C(C#N)C#N)F)=C(C#N)C#N,O1c2cccc3Oc4cccc5Oc6cccc1c6N(c23)c45
+VAVKUB,VAVKUB,123 K,Nc1ccc(cc1)C(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,Pbca,False,123.0,lowT,Nc1ccc(cc1)C(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+VAVMAJ,VAVMAJ,123 K,C[NH+](C)C(C)C(O)c1ccccc1.OC(C(=O)[O-])c1ccccc1,P21/c,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,OC(C(=O)[O-])c1ccccc1
+UHOSOA,UHOSOA,at 98 K,c1cc(ccn1)C=Cc1ccncc1.CC(C)OC(=S)Nc1ccccc1,C2/c,False,98.0,lowT,c1cc(ccn1)C=Cc1ccncc1,CC(C)OC(=S)Nc1ccccc1
+RIBFIT,RIBFIT,at 120 K,OC(=O)c1ccccc1C(=O)[O-].NC1=[NH+]C(=O)N(C=C1)C1CSC(CO)O1,P21,False,120.0,lowT,OC(=O)c1ccccc1C(=O)[O-],NC1=[NH+]C(=O)N(C=C1)C1CSC(CO)O1
+TIPGIK,TIPGIK,at 98 K,OC(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(O)=O.[nH+]1ccc(SSc2cc[nH+]cc2)cc1,P-1,False,98.0,lowT,OC(=O)c1cc(C(=O)[O-])c(cc1C(=O)[O-])C(O)=O,[nH+]1ccc(SSc2cc[nH+]cc2)cc1
+TOQGUD01,TOQGUD01,90 K,[2H]OC(=O)C(=O)[O-].[2H][n+]1ccc(C)c(c1N([2H])[2H])N(=O)=O,P21,False,90.0,lowT,[2H]OC(=O)C(=O)[O-],[2H][n+]1ccc(C)c(c1N([2H])[2H])N(=O)=O
+FOSMIL01,FOSMIL01,100 K,OC(=O)C=Cc1ccc(O)c(O)c1.NNC(=O)c1ccncc1,P-1,False,100.0,lowT,OC(=O)C=Cc1ccc(O)c(O)c1,NNC(=O)c1ccncc1
+DUDNIA,DUDNIA,at 120 K,[NH2+]1OCC2COc3ccccc3C12.CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,P212121,False,120.0,lowT,[NH2+]1OCC2COc3ccccc3C12,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2
+IRUFIL,IRUFIL,at 123 K,ClC1=C(Cl)C(=O)NC1=O.Nc1nc(N)c(Cl)cc1Cl,P-1,False,123.0,lowT,ClC1=C(Cl)C(=O)NC1=O,Nc1nc(N)c(Cl)cc1Cl
+DEGTIW,DEGTIW,100 K,C#Cc1cncc(c1)C#C.BrN1C(=O)CCC1=O,P21/n,False,100.0,lowT,C#Cc1cncc(c1)C#C,BrN1C(=O)CCC1=O
+GUZXOQ,GUZXOQ,100 K,Cc1ccc(cc1)S(=O)(=O)[O-].CN(C)C(=[NH2+])ON=C(N)Cc1ccccc1,P21/c,False,100.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],CN(C)C(=[NH2+])ON=C(N)Cc1ccccc1
+HEBHOM,HEBHOM,at 113 K,Nc1ccc(N)cc1.COc1ccc(cc1)C1(O)c2ccccc2Oc2ccccc12,P-1,False,113.0,lowT,Nc1ccc(N)cc1,COc1ccc(cc1)C1(O)c2ccccc2Oc2ccccc12
+CYTBGL01,CYTBGL01,at 105 K,[NH2+]=C1NC(=O)NC=C1.O=C([O-])CNC(=O)c1ccccc1,P21/c,False,105.0,lowT,[NH2+]=C1NC(=O)NC=C1,O=C([O-])CNC(=O)c1ccccc1
+WEDLAU,WEDLAU,at 120 K,OC(=O)CCCCCC(O)=O.Nc1cnccn1,P21/c,False,120.0,lowT,OC(=O)CCCCCC(O)=O,Nc1cnccn1
+ZESMES,ZESMES,120 K,NC(N)=O.OC(=O)CC(O)(CC(O)=O)C(O)=O,P-1,False,120.0,lowT,NC(N)=O,OC(=O)CC(O)(CC(O)=O)C(O)=O
+VAKTOR01,VAKTOR01,107 K,NC(=O)c1ccncc1.OC(=O)c1ccc(O)cc1,P21/c,False,107.0,lowT,NC(=O)c1ccncc1,OC(=O)c1ccc(O)cc1
+ENAGIK,ENAGIK,at 100 K,O=S(c1ccccc1)c1ccccc1.Nc1ccc(cc1)C(O)=O,P2/c,False,100.0,lowT,O=S(c1ccccc1)c1ccccc1,Nc1ccc(cc1)C(O)=O
+GUMVOA,GUMVOA,at 115 K,O=C([O-])c1ccc2cc3ccccc3cc2c1.[NH3+]C1C(O)Cc2ccccc12,P212121,False,115.0,lowT,O=C([O-])c1ccc2cc3ccccc3cc2c1,[NH3+]C1C(O)Cc2ccccc12
+MUDSEJ,MUDSEJ,at 100 K,c1cnc2c(c1)ccc1cccnc21.CCC1(CC)C(=O)NC(=O)NC1=O,P21/c,False,100.0,lowT,c1cnc2c(c1)ccc1cccnc21,CCC1(CC)C(=O)NC(=O)NC1=O
+PEQQAE,PEQQAE,at 100 K,Cc1c(C)c(C)c(c(C)c1C)C(O)=O.COc1ccc(cn1)c1cc(C)nc(N)n1,P-1,False,100.0,lowT,Cc1c(C)c(C)c(c(C)c1C)C(O)=O,COc1ccc(cn1)c1cc(C)nc(N)n1
+JOLCOE,JOLCOE,at 100 K,NC(N)=O.Cc1cncc(C)c1,Cc,False,100.0,lowT,NC(N)=O,Cc1cncc(C)c1
+RERCEA,RERCEA,100 K,Nc1ccccc1C(=O)[O-].NC(N)=[NH+]C1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O,P212121,False,100.0,lowT,Nc1ccccc1C(=O)[O-],NC(N)=[NH+]C1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O
+NEQPAD,NEQPAD,120 K,CC1=CN=C(NC(=O)c2ccccc2)S1.OC(=O)CCCCCCCC(O)=O,Cc,False,120.0,lowT,CC1=CN=C(NC(=O)c2ccccc2)S1,OC(=O)CCCCCCCC(O)=O
+LETJUT,LETJUT,100 K,ON1CCN(O)CC1.Nc1ccc(cc1)C(O)=O,P21/n,False,100.0,lowT,ON1CCN(O)CC1,Nc1ccc(cc1)C(O)=O
+UMEXIU,UMEXIU,at 100 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].CN1C(=O)N(C)C2=C([NH+]=CN2)C1=O,P21/c,False,100.0,lowT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],CN1C(=O)N(C)C2=C([NH+]=CN2)C1=O
+XICRAE,XICRAE,at 100 K,NC(=O)c1cccnc1.Nc1ccc(C(O)=O)c(O)c1,P-1,False,100.0,lowT,NC(=O)c1cccnc1,Nc1ccc(C(O)=O)c(O)c1
+DITJEW,DITJEW,at 100 K,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl.Cc1cccc(C)n1,P-1,False,100.0,lowT,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Cc1cccc(C)n1
+LATQII,LATQII,at 100 K,Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12.OC(=O)C=CC(O)=O,P21/n,False,100.0,lowT,Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12,OC(=O)C=CC(O)=O
+PAPJEZ,PAPJEZ,100 K,CC(=O)C(=NNc1cccc(c1)C(O)=O)C(C)=O.CS(C)=O,C2/c,False,100.0,lowT,CC(=O)C(=NNc1cccc(c1)C(O)=O)C(C)=O,CS(C)=O
+VIBYOX,VIBYOX,100 K,c1cnc2c(c1)ccc1cccnc21.Oc1ccccc1,P21/c,False,100.0,lowT,c1cnc2c(c1)ccc1cccnc21,Oc1ccccc1
+BIWMAZ,BIWMAZ,100 K,CCc1[nH+]c(C)ccc1O.OC(=O)CC(ON(=O)=O)C(=O)[O-],P212121,False,100.0,lowT,CCc1[nH+]c(C)ccc1O,OC(=O)CC(ON(=O)=O)C(=O)[O-]
+FEJWID,FEJWID,120 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1c(N)cccc1Sc1nccnc1N,P-1,False,120.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[n+]1c(N)cccc1Sc1nccnc1N
+WOBQUC,WOBQUC,100.0 K,OC(=O)C=CC1=CNC=[NH+]1.Oc1cccc(C(=O)[O-])c1O,Pbca,False,100.0,lowT,OC(=O)C=CC1=CNC=[NH+]1,Oc1cccc(C(=O)[O-])c1O
+RUYTAI,RUYTAI,100 K,CC(=NO)C(C)=NO.C1CN=C(N1)c1ccccc1C1=NCCN1,P-1,False,100.0,lowT,CC(=NO)C(C)=NO,C1CN=C(N1)c1ccccc1C1=NCCN1
+OFIYOT,OFIYOT,100 K,CNC(N)=S.C1COCCN1,P21/n,False,100.0,lowT,CNC(N)=S,C1COCCN1
+PUPGUD,PUPGUD,at 100 K,OC(=O)c1cccc(c1)C(O)=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,100.0,lowT,OC(=O)c1cccc(c1)C(O)=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+SIHLUT,SIHLUT,120 K,Cc1nc(C)c(Cl)c(N)n1.Nc1ccccc1C(O)=O,P21/n,False,120.0,lowT,Cc1nc(C)c(Cl)c(N)n1,Nc1ccccc1C(O)=O
+HITQUA,HITQUA,100 K,OC(=O)c1ccc2OCOc2c1.CC(=O)c1ccncc1,P-1,False,100.0,lowT,OC(=O)c1ccc2OCOc2c1,CC(=O)c1ccncc1
+JOYJEO,JOYJEO,at 120 K,Nc1ncccn1.OC(=O)CCCC(O)=O,P21/n,False,120.0,lowT,Nc1ncccn1,OC(=O)CCCC(O)=O
+SERNAH,SERNAH,100.2 K,Oc1cc(O)c(Br)cc1Br.c1ccc(cc1)N=Nc1cccnc1,P-1,False,100.0,lowT,Oc1cc(O)c(Br)cc1Br,c1ccc(cc1)N=Nc1cccnc1
+YIKMAI,YIKMAI,at 120 K,[NH2+]=C(O)N1c2ccccc2C=Cc2ccccc12.CS(=O)(=O)[O-],P21/c,False,120.0,lowT,[NH2+]=C(O)N1c2ccccc2C=Cc2ccccc12,CS(=O)(=O)[O-]
+XECXOV,XECXOV,100 K,NC(=O)C(Br)(Br)Br.CN(C)c1ccc(cc1)N(C)C,P21/c,False,100.0,lowT,NC(=O)C(Br)(Br)Br,CN(C)c1ccc(cc1)N(C)C
+LUTXUV,LUTXUV,93 K,c1cc(ccn1)c1ccncc1.CCCCOc1ccc(cc1)C(O)=O,P-1,False,93.0,lowT,c1cc(ccn1)c1ccncc1,CCCCOc1ccc(cc1)C(O)=O
+QAHNOF,QAHNOF,100.6 K,N#Cc1cc(C#N)c(cc1C#N)C#N.CC(=O)c1c2ccccc2cc2ccccc12,P21/c,False,100.0,lowT,N#Cc1cc(C#N)c(cc1C#N)C#N,CC(=O)c1c2ccccc2cc2ccccc12
+ETUBUT,ETUBUT,120 K,CCNc1nc(Cl)nc(NC(C)C)n1.OC(=O)C=CC(O)=O,C2/c,False,120.0,lowT,CCNc1nc(Cl)nc(NC(C)C)n1,OC(=O)C=CC(O)=O
+NEQNIJ,NEQNIJ,120 K,CC1=CN=C(NC(=O)c2ccccc2)S1.OC(=O)CCCCCCC(O)=O,P21/n,False,120.0,lowT,CC1=CN=C(NC(=O)c2ccccc2)S1,OC(=O)CCCCCCC(O)=O
+CIRNAU,CIRNAU,at 120 K,OC(=O)c1ccc(O)cc1.C(N1C=Nc2ccccc12)c1cccnc1,P-1,False,120.0,lowT,OC(=O)c1ccc(O)cc1,C(N1C=Nc2ccccc12)c1cccnc1
+DAQZIH,DAQZIH,100 K,Nc1ncccn1.OC(=O)C1=NN(Cc2ccc(Cl)cc2Cl)c2ccccc12,P21/c,False,100.0,lowT,Nc1ncccn1,OC(=O)C1=NN(Cc2ccc(Cl)cc2Cl)c2ccccc12
+EQAVOJ,EQAVOJ,100 K,FC(F)(F)C(=O)[O-].COc1cc(C)[nH+]c(N)n1,P-1,False,100.0,lowT,FC(F)(F)C(=O)[O-],COc1cc(C)[nH+]c(N)n1
+TIHFOG,TIHFOG,at 123 K,Fc1cccc2C(=O)C(=O)Nc12.C1COCCO1,P21/n,False,123.0,lowT,Fc1cccc2C(=O)C(=O)Nc12,C1COCCO1
+EKECOM01,EKECOM01,at 123 K,C1N2CN3CN1CN(C2)C3.OC(=O)CCCCCCCCCC(O)=O,P21/c,False,123.0,lowT,C1N2CN3CN1CN(C2)C3,OC(=O)CCCCCCCCCC(O)=O
+DUMWEO,DUMWEO,at 100 K,Brc1ccc(cc1)S(=O)(=O)[O-].CCOc1ccc(cc1)C=Cc1cccc[n+]1C,P21/c,False,100.0,lowT,Brc1ccc(cc1)S(=O)(=O)[O-],CCOc1ccc(cc1)C=Cc1cccc[n+]1C
+LEPFOF,LEPFOF,100 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]CC(CC(O)=O)c1ccccc1,P21,False,100.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]CC(CC(O)=O)c1ccccc1
+ODAPIV,ODAPIV,100 K,CCC1=C(C)C2=CC3=CC=C(C=NO)N3C(=O)N2C1=O.CS(C)=O,P-1,False,100.0,lowT,CCC1=C(C)C2=CC3=CC=C(C=NO)N3C(=O)N2C1=O,CS(C)=O
+XUVQUB,XUVQUB,at 120 K,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl.CC1=NN2C=C(C)N=C2S1,P-1,False,120.0,lowT,OC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,CC1=NN2C=C(C)N=C2S1
+HURMOW,HURMOW,at 100K,Clc1cccc(c1)C(=O)[O-].COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,P21/n,False,100.0,lowT,Clc1cccc(c1)C(=O)[O-],COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC
+BOBXAU,BOBXAU,100 K,CN(C)C=O.COc1cccc(CNc2ccc(cc2)C(O)=O)c1O,Pbca,False,100.0,lowT,CN(C)C=O,COc1cccc(CNc2ccc(cc2)C(O)=O)c1O
+DUVHOR10,DUVHOR10,at 123 K,CC(=O)NC(C)=O.CC(N)=O,P21/m,False,123.0,lowT,CC(=O)NC(C)=O,CC(N)=O
+PUQGIS,PUQGIS,at 100 K,[NH3+]c1cc(N)cc(c1)C(O)=O.O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O,P21/n,False,100.0,lowT,[NH3+]c1cc(N)cc(c1)C(O)=O,O=C([O-])c1cc(cc(c1)N(=O)=O)N(=O)=O
+ACESOS,ACESOS,at 100 K,OC(=O)c1ccc(O)cc1.CN1N=NC2=C(N=CN2C1=O)C(N)=O,P21/c,False,100.0,lowT,OC(=O)c1ccc(O)cc1,CN1N=NC2=C(N=CN2C1=O)C(N)=O
+ZIPJEQ,ZIPJEQ,100 K,NC(=O)c1ccncc1.OC(=O)c1cc(Cl)ccc1O,P21/c,False,100.0,lowT,NC(=O)c1ccncc1,OC(=O)c1cc(Cl)ccc1O
+IVULAN,IVULAN,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.O=C([O-])c1ccccc1N(=O)=O,Pbca,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,O=C([O-])c1ccccc1N(=O)=O
+KEZXAR,KEZXAR,100.0 K,Cc1cc(C)cc(C)c1.S1C=CSC1=C1SC=CS1,P-1,False,100.0,lowT,Cc1cc(C)cc(C)c1,S1C=CSC1=C1SC=CS1
+GAVMAV,GAVMAV,100 K,F[P-]1(F)(F)(F)[n+]2ccccc2[n+]2ccccc12.FC(F)(F)S(=O)(=O)[O-],Pn,False,100.0,lowT,F[P-]1(F)(F)(F)[n+]2ccccc2[n+]2ccccc12,FC(F)(F)S(=O)(=O)[O-]
+NEQNUV,NEQNUV,120 K,CC1=CN=C(NC(=O)c2ccccc2)S1.OC(=O)CCCCCCCCCCC(O)=O,P-1,False,120.0,lowT,CC1=CN=C(NC(=O)c2ccccc2)S1,OC(=O)CCCCCCCCCCC(O)=O
+ODUQIO,ODUQIO,at 113 K,COc1ccc(cc1)C1(O)c2ccccc2Oc2ccccc12.CN(C)C=O,P-1,False,113.0,lowT,COc1ccc(cc1)C1(O)c2ccccc2Oc2ccccc12,CN(C)C=O
+CIWFOF,CIWFOF,at 120 K,OC(=O)CCCCCCC(O)=O.O=C(NCCCCNC(=O)c1ccncc1)c1ccncc1,P-1,False,120.0,lowT,OC(=O)CCCCCCC(O)=O,O=C(NCCCCNC(=O)c1ccncc1)c1ccncc1
+GINNIB,GINNIB,at 120 K,O=C([O-])c1cccnc1.CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,P21,False,120.0,lowT,O=C([O-])c1cccnc1,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+ABOQUF,ABOQUF,at 110 K,Oc1ccc(O)cc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,110.0,lowT,Oc1ccc(O)cc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+CACWEK,CACWEK,at 100 K,C[NH2+]C(C)C(O)c1ccccc1.CC(C)(C)OC(=O)NC1CC1CC(=O)[O-],P212121,False,100.0,lowT,C[NH2+]C(C)C(O)c1ccccc1,CC(C)(C)OC(=O)NC1CC1CC(=O)[O-]
+PAQPIK,PAQPIK,123 K,NC(=O)c1ccccc1.OC(=O)CCl,P-1,False,123.0,lowT,NC(=O)c1ccccc1,OC(=O)CCl
+XIKLUA,XIKLUA,at 110 K,CC(N)=C1C(=O)Oc2c(F)c(F)c(F)c(F)c2C1=O.CS(C)=O,P-1,False,110.0,lowT,CC(N)=C1C(=O)Oc2c(F)c(F)c(F)c(F)c2C1=O,CS(C)=O
+FIDLOU,FIDLOU,at 100 K,Nc1ccc(Cc2ccc(N)cc2)cc1.Oc1ccc(Sc2ccc(O)cc2)cc1,P21/n,False,100.0,lowT,Nc1ccc(Cc2ccc(N)cc2)cc1,Oc1ccc(Sc2ccc(O)cc2)cc1
+KEFBIH,KEFBIH,at 100 K,OC(=O)CCCC(O)=O.CC(=O)Nc1ccccn1,P21/c,False,100.0,lowT,OC(=O)CCCC(O)=O,CC(=O)Nc1ccccn1
+BEMLOV,BEMLOV,at 77 K,COc1cc(O)cc(O)c1.C(C=Cc1ccncc1)=Cc1ccncc1,P21/c,False,77.0,lowT,COc1cc(O)cc(O)c1,C(C=Cc1ccncc1)=Cc1ccncc1
+RORMUI,RORMUI,at 120 K,c1cnc2ccc3ncccc3c2c1.OB(O)c1ccc(Cl)cc1,P-1,False,120.0,lowT,c1cnc2ccc3ncccc3c2c1,OB(O)c1ccc(Cl)cc1
+WUQQUW,WUQQUW,100 K,BrC#CC#CBr.O=C(NCc1cccnc1)C(=O)NCc1cccnc1,P-1,False,100.0,lowT,BrC#CC#CBr,O=C(NCc1cccnc1)C(=O)NCc1cccnc1
+MUBNED,MUBNED,at 113 K,CN(C)C(C)=O.OC(=O)c1ccc(cc1)C(O)=O,P21/n,False,113.0,lowT,CN(C)C(C)=O,OC(=O)c1ccc(cc1)C(O)=O
+KASXIN,KASXIN,at 123 K,OCC[NH+]1CCCC1.Oc1ccccc1C(=O)[O-],P21/c,False,123.0,lowT,OCC[NH+]1CCCC1,Oc1ccccc1C(=O)[O-]
+KAYGAU,KAYGAU,at 120 K,O=C(Nc1ccccn1)c1ccncc1.OC(=O)CCCCCCCCC(O)=O,P21/n,False,120.0,lowT,O=C(Nc1ccccn1)c1ccncc1,OC(=O)CCCCCCCCC(O)=O
+NINFIB,NINFIB,at 100 K,O=C1NC(=O)C2=C1C(=O)c1cccc3cccc2c13.CS(C)=O,P21/c,False,100.0,lowT,O=C1NC(=O)C2=C1C(=O)c1cccc3cccc2c13,CS(C)=O
+LIBXUR,LIBXUR,at 90 K,CC(=O)[O-].Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl,P21/c,False,90.0,lowT,CC(=O)[O-],Nc1[nH+]nc(c(N)n1)c1cccc(Cl)c1Cl
+OCIQAT,OCIQAT,at 100 K,NC(=O)c1ccc(CN2C=CC=N2)cc1.OC(=O)c1ccccc1,P-1,False,100.0,lowT,NC(=O)c1ccc(CN2C=CC=N2)cc1,OC(=O)c1ccccc1
+URIRAR,URIRAR,100 K,O=C1NCCNc2ccc(cc2S(=O)(=O)c2ccccc12)C#N.CS(C)=O,P21/c,False,100.0,lowT,O=C1NCCNc2ccc(cc2S(=O)(=O)c2ccccc12)C#N,CS(C)=O
+EYOLIO,EYOLIO,at 93 K,OC(C(F)(F)F)C(F)(F)F.C1CNCCN1,P-1,False,93.0,lowT,OC(C(F)(F)F)C(F)(F)F,C1CNCCN1
+ZIYDUJ,ZIYDUJ,100 K,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1.CS(=O)(=O)[O-],P21/c,False,100.0,lowT,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1,CS(=O)(=O)[O-]
+BILKIS,BILKIS,at 120 K,OC(C(O)C(=O)[O-])C(O)=O.[NH3+]CCS,P212121,False,120.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,[NH3+]CCS
+VISMUI,VISMUI,119.8 K,CCC1(CC)C(=O)NC(=O)[N-]C1=O.[NH3+]CCc1ccc(O)cc1,R-3c,False,119.0,lowT,CCC1(CC)C(=O)NC(=O)[N-]C1=O,[NH3+]CCc1ccc(O)cc1
+NAQPAZ,NAQPAZ,100 K,NC1=Nc2ccc(OC(F)(F)F)cc2S1.OC(=O)CCCCCCC(O)=O,P21,False,100.0,lowT,NC1=Nc2ccc(OC(F)(F)F)cc2S1,OC(=O)CCCCCCC(O)=O
+YIVQUQ,YIVQUQ,at 113 K,Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12.C1COCCO1,P21/n,False,113.0,lowT,Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12,C1COCCO1
+WAPPUA,WAPPUA,at 100 K,[NH3+]C(C)C(=O)OC.Cc1ccc(cc1)C=CC(=O)[O-],P21,False,100.0,lowT,[NH3+]C(C)C(=O)OC,Cc1ccc(cc1)C=CC(=O)[O-]
+SEZZOQ,SEZZOQ,90 K,Oc1ccc(cc1)C(=O)[O-].COc1ccc(cc1)N1CC[NH2+]CC1,P-1,False,90.0,lowT,Oc1ccc(cc1)C(=O)[O-],COc1ccc(cc1)N1CC[NH2+]CC1
+ROSYIK,ROSYIK,101 K,CCCC(CCC)C(O)=O.Nc1nnc(c(N)n1)c1cccc(Cl)c1Cl,P21/n,False,101.0,lowT,CCCC(CCC)C(O)=O,Nc1nnc(c(N)n1)c1cccc(Cl)c1Cl
+POVZEG,POVZEG,at 100 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-].NC(=O)c1[nH+]cccc1,P21/c,False,100.0,lowT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-],NC(=O)c1[nH+]cccc1
+PAHHAK,PAHHAK,120 K,NC(=O)c1ccc(O)cc1.Nc1ccc(C(O)=O)c(O)c1,Pca21,False,120.0,lowT,NC(=O)c1ccc(O)cc1,Nc1ccc(C(O)=O)c(O)c1
+BOQNIG,BOQNIG,at 100 K,OC(=O)CSCc1ccc(CSCC(O)=O)cc1.Cc1cc(C)nc(N)n1,P21/c,False,100.0,lowT,OC(=O)CSCc1ccc(CSCC(O)=O)cc1,Cc1cc(C)nc(N)n1
+BALDOL,BALDOL,120 K,NC1=N[N+]2(CCOCC2)CC1.O=C([O-])c1ccccc1,P21/c,False,120.0,lowT,NC1=N[N+]2(CCOCC2)CC1,O=C([O-])c1ccccc1
+AMECUT,AMECUT,100 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1=NN(N2CCOCC2)C(=C1)c1ccc(Br)cc1,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[N+]1=NN(N2CCOCC2)C(=C1)c1ccc(Br)cc1
+PARVOW,PARVOW,100 K,CN1C(=O)C(=O)c2ccccc12.CN1C(=O)C(=Nc2ccccc2)c2ccccc12,P-1,False,100.0,lowT,CN1C(=O)C(=O)c2ccccc12,CN1C(=O)C(=Nc2ccccc2)c2ccccc12
+RORNIX,RORNIX,at 120 K,OB(O)c1ccc(Br)cc1.c1cnc2ccc3ncccc3c2c1,P-1,False,120.0,lowT,OB(O)c1ccc(Br)cc1,c1cnc2ccc3ncccc3c2c1
+BIXMUS,BIXMUS,at 100 K,OC(=O)c1cc[nH+]cc1.OC(=O)C#CC(=O)[O-],P-1,False,100.0,lowT,OC(=O)c1cc[nH+]cc1,OC(=O)C#CC(=O)[O-]
+IVORAO,IVORAO,120 K,C1CCOC1.NC(=O)Nc1ccc(O)c(c1)C(O)=O,P21/c,False,120.0,lowT,C1CCOC1,NC(=O)Nc1ccc(O)c(c1)C(O)=O
+GIMPIF,GIMPIF,80 K,CN(C)c1ccc(cc1)N(C)C.BrC1=C(Br)C(=O)C(=C(Br)C1=O)Br,P-1,False,80.0,lowT,CN(C)c1ccc(cc1)N(C)C,BrC1=C(Br)C(=O)C(=C(Br)C1=O)Br
+HEDRAL,HEDRAL,at 100 K,NC(=O)c1cnccn1.Oc1cccc(O)c1O,P-1,False,100.0,lowT,NC(=O)c1cnccn1,Oc1cccc(O)c1O
+YACQUR,YACQUR,100 K,COC(=O)c1ccc(O)cc1.CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O,P212121,False,100.0,lowT,COC(=O)c1ccc(O)cc1,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O
+HIQNAA,HIQNAA,90 K,OC(C(O)C(=O)[O-])C(O)=O.COc1ccccc1N1CC[NH2+]CC1,P21,False,90.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,COc1ccccc1N1CC[NH2+]CC1
+PILKEB,PILKEB,at 123 K,OC=O.NS(=O)(=O)c1cc2c(NC=NS2(=O)=O)cc1Cl,P21/c,False,123.0,lowT,OC=O,NS(=O)(=O)c1cc2c(NC=NS2(=O)=O)cc1Cl
+ABORAM,ABORAM,at 110 K,NC(=O)CN1CCCC1=O.Oc1ccc(O)cc1,P-1,False,110.0,lowT,NC(=O)CN1CCCC1=O,Oc1ccc(O)cc1
+ZUFPEX,ZUFPEX,at 100 K,CN(C)P(=O)(N(C)C)N(C)C.FC(F)(Br)C(F)(F)Br,P21/c,False,100.0,lowT,CN(C)P(=O)(N(C)C)N(C)C,FC(F)(Br)C(F)(F)Br
+PARWUB,PARWUB,at 100 K,O=C([O-])c1ccc(cc1)N(=O)=O.COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,P21/n,False,100.0,lowT,O=C([O-])c1ccc(cc1)N(=O)=O,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC
+HEBHUS,HEBHUS,at 113 K,Nc1ccccc1.COc1cccc(c1)C1(O)c2ccccc2Oc2ccccc12,P21/c,False,113.0,lowT,Nc1ccccc1,COc1cccc(c1)C1(O)c2ccccc2Oc2ccccc12
+GUXTUR,GUXTUR,100 K,CC(=O)NC1=NN=C(S1)S(N)(=O)=O.C(Cc1ccncc1)c1ccncc1,P-1,False,100.0,lowT,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,C(Cc1ccncc1)c1ccncc1
+YOKPEW,YOKPEW,100 K,[NH3+]CCC(O)=O.Oc1ccc(cc1)S(=O)(=O)[O-],P21/c,False,100.0,lowT,[NH3+]CCC(O)=O,Oc1ccc(cc1)S(=O)(=O)[O-]
+AXUSUJ,AXUSUJ,120 K,OC(=O)CCCC(O)=O.c1ccc2N3N=NC=C3C=Cc2c1,Fdd2,False,120.0,lowT,OC(=O)CCCC(O)=O,c1ccc2N3N=NC=C3C=Cc2c1
+XOJZIH,XOJZIH,120 K,[NH3+]CCO.O=S(=O)([O-])c1ccc2ccccc2c1,P21/c,False,120.0,lowT,[NH3+]CCO,O=S(=O)([O-])c1ccc2ccccc2c1
+UNEZUI,UNEZUI,at 100 K,CCCC(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,100.0,lowT,CCCC(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+NAFKAJ,NAFKAJ,100 K,FC(F)(F)C(=O)[O-].[NH3+]C1CC(N(C1)C(C)=O)C(=O)OC,P21,False,100.0,lowT,FC(F)(F)C(=O)[O-],[NH3+]C1CC(N(C1)C(C)=O)C(=O)OC
+VAVKAH,VAVKAH,123 K,C[NH+](C)C(C)C(O)c1ccccc1.OC(C(=O)[O-])c1ccccc1,P21,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,OC(C(=O)[O-])c1ccccc1
+GAXCIU,GAXCIU,100 K,[NH3+]C(CCO)CCCCC.Brc1ccc(cc1)C(=O)[O-],P212121,False,100.0,lowT,[NH3+]C(CCO)CCCCC,Brc1ccc(cc1)C(=O)[O-]
+NUPBEH,NUPBEH,100 K,[2H]OC(=O)C(=O)[O-].[2H][n+]1ccc(cc1)C(N([2H])[2H])=O,P-1,False,100.0,lowT,[2H]OC(=O)C(=O)[O-],[2H][n+]1ccc(cc1)C(N([2H])[2H])=O
+VAXWAU,VAXWAU,at 120 K,OC(=O)CCC(O)=O.c1cnccn1,P21/n,False,120.0,lowT,OC(=O)CCC(O)=O,c1cnccn1
+MEDBOO,MEDBOO,at 123 K,Clc1ccccc1C(=O)[O-].[NH3+]CCc1ccc(O)cc1,P21/c,False,123.0,lowT,Clc1ccccc1C(=O)[O-],[NH3+]CCc1ccc(O)cc1
+AMEBUS,AMEBUS,100 K,FC(F)(F)S(=O)(=O)[O-].FC(F)(F)C([N+]#N)=S1c2ccccc2c2ccccc12,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],FC(F)(F)C([N+]#N)=S1c2ccccc2c2ccccc12
+OVIGEG,OVIGEG,at 120 K,OC(C(O)C(=O)[O-])C(O)=O.OC(=O)C1C[NH2+]CCC1,P21,False,120.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,OC(=O)C1C[NH2+]CCC1
+MENRAC,MENRAC,100 K,Nc1ccc(Br)cn1.Cc1ccccc1C(O)=O,P21/c,False,100.0,lowT,Nc1ccc(Br)cn1,Cc1ccccc1C(O)=O
+WOBQIQ,WOBQIQ,100 K,OC(=O)C=CC1=CNC=[NH+]1.Oc1cc(O)cc(c1)C(=O)[O-],Pccn,False,100.0,lowT,OC(=O)C=CC1=CNC=[NH+]1,Oc1cc(O)cc(c1)C(=O)[O-]
+GUMHAZ,GUMHAZ,100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.O=C1CC[NH2+]CC1,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,O=C1CC[NH2+]CC1
+GONQIL,GONQIL,100 K,Nc1nc(N)nc(N)n1.CS(C)=O,P21/c,False,100.0,lowT,Nc1nc(N)nc(N)n1,CS(C)=O
+JIYQEQ,JIYQEQ,100 K,Fc1cc(F)c([n+]2ccccc2)c(F)c1C#N.FC(F)(F)S(=O)(=O)[O-],P-1,False,100.0,lowT,Fc1cc(F)c([n+]2ccccc2)c(F)c1C#N,FC(F)(F)S(=O)(=O)[O-]
+AWIJUM,AWIJUM,at 90 K,NC(=[NH2+])NN=Cc1c(Cl)cc(O)cc1Cl.CC(=O)[O-],Pbca,False,90.0,lowT,NC(=[NH2+])NN=Cc1c(Cl)cc(O)cc1Cl,CC(=O)[O-]
+LUTDUR01,LUTDUR01,at 100 K,NC(N)=O.Cc1cccc(C)n1,P-1,False,100.0,lowT,NC(N)=O,Cc1cccc(C)n1
+MOXVIF01,MOXVIF01,at 85 K,OC(=O)c1ccc(O)cc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,85.0,lowT,OC(=O)c1ccc(O)cc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+JIYQIU,JIYQIU,100 K,FC(F)(F)S(=O)(=O)[O-].Clc1cnc([n+]2ccccc2)c(Cl)n1,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],Clc1cnc([n+]2ccccc2)c(Cl)n1
+VAVHUY,VAVHUY,123 K,C[NH+](C)C(C)C(O)c1ccccc1.Oc1ccccc1C(=O)[O-],P212121,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Oc1ccccc1C(=O)[O-]
+YIKMEM,YIKMEM,at 100 K,[NH2+]=C(O)N1c2ccccc2CCc2ccccc12.CS(=O)(=O)[O-],P21/c,False,100.0,lowT,[NH2+]=C(O)N1c2ccccc2CCc2ccccc12,CS(=O)(=O)[O-]
+ASAVAU,ASAVAU,120 K,C[N+]1=C(SCC1)SC[Si](C)(C)C.FC(F)(F)S(=O)(=O)[O-],P21/c,False,120.0,lowT,C[N+]1=C(SCC1)SC[Si](C)(C)C,FC(F)(F)S(=O)(=O)[O-]
+ADARIH,ADARIH,at 120 K,ON=C1CCCCC1.C1CCC(CC1)NC1CCCCC1,Pna21,False,120.0,lowT,ON=C1CCCCC1,C1CCC(CC1)NC1CCCCC1
+SAVMEK,SAVMEK,100 K,OB(O)c1c[nH+]ccc1.OC(=O)c1cc(cc(c1)C(=O)[O-])C(O)=O,P-1,False,100.0,lowT,OB(O)c1c[nH+]ccc1,OC(=O)c1cc(cc(c1)C(=O)[O-])C(O)=O
+GUXVON,GUXVON,100 K,CC(=O)NC1=NN=C(S1)S(N)(=O)=O.c1cc(ccn1)N=Nc1ccncc1,P-1,False,100.0,lowT,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,c1cc(ccn1)N=Nc1ccncc1
+UGOWAQ,UGOWAQ,100 K,OC(=O)c1cc(O)cc(O)c1.O=C1CCC(=O)N1,P-1,False,100.0,lowT,OC(=O)c1cc(O)cc(O)c1,O=C1CCC(=O)N1
+PETNEJ,PETNEJ,at 120 K,ON=Cc1c(F)c(F)c(Br)c(F)c1F.c1cc(ccn1)N=Nc1ccncc1,P21/n,False,120.0,lowT,ON=Cc1c(F)c(F)c(Br)c(F)c1F,c1cc(ccn1)N=Nc1ccncc1
+HABNON,HABNON,at 105 K,CC1OC(CC1O)C[N+](C)(C)C.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,105.0,lowT,CC1OC(CC1O)C[N+](C)(C)C,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+QUBQOT,QUBQOT,at 93 K,CC1=CC(=CC(=O)O1)OCc1cccc2ccccc12.O=C1NC(=O)C=C1,P-1,False,93.0,lowT,CC1=CC(=CC(=O)O1)OCc1cccc2ccccc12,O=C1NC(=O)C=C1
+ULAZEM,ULAZEM,at 120 K,Oc1cc(O)cc(O)c1.OCCN1C(=O)c2ccccc2C1=O,P21/n,False,120.0,lowT,Oc1cc(O)cc(O)c1,OCCN1C(=O)c2ccccc2C1=O
+JUFVAJ,JUFVAJ,at 100 K,OCC1[NH2+]CCC1.OB1OB(O)O[B-]2(O1)OB(O)OB(O)O2,P1,False,100.0,lowT,OCC1[NH2+]CCC1,OB1OB(O)O[B-]2(O1)OB(O)OB(O)O2
+KIHYAC,KIHYAC,at 100 K,c1cc(ccn1)c1ccncc1.Oc1ccc(cc1)C#N,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,Oc1ccc(cc1)C#N
+XOMTUP02,XOMTUP02,at 100 K,Cc1ccc(cc1)S(=O)(=O)[O-].C[NH2+]CC(O)=O,P21/n,False,100.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],C[NH2+]CC(O)=O
+DUNWIU,DUNWIU,100 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cccc(O)c1O,P-1,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cccc(O)c1O
+TICREE,TICREE,at 100 K,Cc1ccncc1.Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1,P-1,False,100.0,lowT,Cc1ccncc1,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1
+KEKFOW,KEKFOW,at 120 K,OC(=O)CN1C(=O)c2cc3C(=O)N(CC(O)=O)C(=O)c3cc2C1=O.CS(C)=O,P21/m,False,120.0,lowT,OC(=O)CN1C(=O)c2cc3C(=O)N(CC(O)=O)C(=O)c3cc2C1=O,CS(C)=O
+DAVPAS,DAVPAS,at 100 K,OC(=O)c1cc(O)ccc1O.NC(=O)CN1CCCC1=O,C2/c,False,100.0,lowT,OC(=O)c1cc(O)ccc1O,NC(=O)CN1CCCC1=O
+FOBNIV,FOBNIV,at 100 K,FC(F)(F)S(=O)(=O)[O-].[BH2-]1[N+]2=CC=CN2P(N2C=CC=[N+]12)c1ccccc1,Pna21,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],[BH2-]1[N+]2=CC=CN2P(N2C=CC=[N+]12)c1ccccc1
+MUPNOB,MUPNOB,at 100 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.OC(=O)c1cc(O)c(O)c(O)c1,C2/c,False,100.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,OC(=O)c1cc(O)c(O)c(O)c1
+RERCOK,RERCOK,100 K,NC(=[NH2+])NC1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O.Oc1cccc(c1)C(=O)[O-],P-1,False,100.0,lowT,NC(=[NH2+])NC1=NC(=CS1)CSCCC(N)=NS(N)(=O)=O,Oc1cccc(c1)C(=O)[O-]
+WIVDUA05,WIVDUA05,at 110 K,OC1=C(Br)C(=O)C(=C(Br)C1=O)O.c1ccc2nc3ccccc3nc2c1,P21,False,110.0,lowT,OC1=C(Br)C(=O)C(=C(Br)C1=O)O,c1ccc2nc3ccccc3nc2c1
+GAVWOR,GAVWOR,at 100 K,FC(F)(F)C(=O)[O-].COC(=O)C1=C(O)CC[NH2+]C1c1ccc(C)cc1,P21/c,False,100.0,lowT,FC(F)(F)C(=O)[O-],COC(=O)C1=C(O)CC[NH2+]C1c1ccc(C)cc1
+GULSIR,GULSIR,100 K,FC(F)(F)S(=O)(=O)[O-].O=C1CC[NH2+]CC1,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],O=C1CC[NH2+]CC1
+ILIZOV,ILIZOV,113.2 K,O=C1NC(=O)C=C(N1)C(=O)[O-].[NH3+]CCCC(O)=O,P-1,False,113.0,lowT,O=C1NC(=O)C=C(N1)C(=O)[O-],[NH3+]CCCC(O)=O
+NUJWIZ,NUJWIZ,at 100 K,Brc1ccc(CN2C=Nc3ccccc23)cc1.ON=C(C#N)c1ccc(Br)cc1,P-1,False,100.0,lowT,Brc1ccc(CN2C=Nc3ccccc23)cc1,ON=C(C#N)c1ccc(Br)cc1
+ZATHEL,ZATHEL,100 K,Oc1cc(O)cc(O)c1.CN1C=CC(=O)C(=C1C)O,P-1,False,100.0,lowT,Oc1cc(O)cc(O)c1,CN1C=CC(=O)C(=C1C)O
+JOYJAK,JOYJAK,at 120 K,Nc1ncccn1.OC(=O)CCCC(O)=O,P-1,False,120.0,lowT,Nc1ncccn1,OC(=O)CCCC(O)=O
+CIHDOP,CIHDOP,123 K,[NH2+]=C1NC(=O)N(C=C1)C1CSC(CO)O1.CC1=CC(=O)[N-]S(=O)(=O)O1,P212121,False,123.0,lowT,[NH2+]=C1NC(=O)N(C=C1)C1CSC(CO)O1,CC1=CC(=O)[N-]S(=O)(=O)O1
+PEFGEO03,PEFGEO03,at 120 K,OC(=O)c1cc(O)c(O)c(O)c1.CC(N)=O,C2/c,False,120.0,lowT,OC(=O)c1cc(O)c(O)c(O)c1,CC(N)=O
+TAPJIF,TAPJIF,at 100 K,FC(F)(F)S(=O)(=O)[O-].CCOC(=O)c1ccc[n+](CC(N)=O)c1,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CCOC(=O)c1ccc[n+](CC(N)=O)c1
+HUQXEY,HUQXEY,123 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].[NH2+]=C(O)N1c2ccccc2C=Cc2ccccc12,P-1,False,123.0,lowT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],[NH2+]=C(O)N1c2ccccc2C=Cc2ccccc12
+MODDIU,MODDIU,110 K,Nc1nc(N)nc(N)n1.CCC1(CC)C(=O)NC(=O)NC1=O,Pmn21,False,110.0,lowT,Nc1nc(N)nc(N)n1,CCC1(CC)C(=O)NC(=O)NC1=O
+EQAYOM,EQAYOM,100 K,Cc1[nH+]c(C)c(Cl)c(N)n1.OC(=O)C1=CC=C(S1)C(=O)[O-],P21/n,False,100.0,lowT,Cc1[nH+]c(C)c(Cl)c(N)n1,OC(=O)C1=CC=C(S1)C(=O)[O-]
+RAXZEZ,RAXZEZ,100 K,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1.c1cc(ccn1)N=Nc1ccncc1,C2/c,False,100.0,lowT,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,c1cc(ccn1)N=Nc1ccncc1
+VAVLUC,VAVLUC,123 K,C[NH+](C)C(C)C(O)c1ccccc1.Cc1cccc(c1)C(=O)[O-],C2/c,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Cc1cccc(c1)C(=O)[O-]
+OTESAI,OTESAI,at 100 K,O=C1NS(=O)(=O)c2ccccc12.NC(=O)C1c2ccccc2CCc2ccccc12,P21/n,False,100.0,lowT,O=C1NS(=O)(=O)c2ccccc12,NC(=O)C1c2ccccc2CCc2ccccc12
+PEQPOR,PEQPOR,at 100 K,COc1ccc(cn1)c1cc(C)nc(N)n1.CN(C)c1ccc(cc1)C(O)=O,P-1,False,100.0,lowT,COc1ccc(cn1)c1cc(C)nc(N)n1,CN(C)c1ccc(cc1)C(O)=O
+TUFPER,TUFPER,100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.CC1(C)CCCC(C)(C)[N+]1=O,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,CC1(C)CCCC(C)(C)[N+]1=O
+ZIRWEG,ZIRWEG,123 K,[NH3+]CCc1ccc(O)c(O)c1.O=C([O-])c1ccccc1,P21/c,False,123.0,lowT,[NH3+]CCc1ccc(O)c(O)c1,O=C([O-])c1ccccc1
+VAVKOV,VAVKOV,123 K,C[NH+](C)C(C)C(O)c1ccccc1.O=C([O-])c1cccc(c1)N(=O)=O,C2/c,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,O=C([O-])c1cccc(c1)N(=O)=O
+PAMFIV,PAMFIV,100 K,CC1=C(O)C(=O)C=CO1.OC(=O)c1cc(O)cc(c1)C(O)=O,P21/n,False,100.0,lowT,CC1=C(O)C(=O)C=CO1,OC(=O)c1cc(O)cc(c1)C(O)=O
+ZIYFEV,ZIYFEV,100 K,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1.Oc1ccccc1C(=O)[O-],P21/c,False,100.0,lowT,NC1=[NH+]c2ccc(OC(F)(F)F)cc2S1,Oc1ccccc1C(=O)[O-]
+AMAYIZ,AMAYIZ,100 K,FC(F)(F)S(=O)(=O)[O-].CCOC(=O)C([N+]#N)=S1c2ccccc2c2ccccc12,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CCOC(=O)C([N+]#N)=S1c2ccccc2c2ccccc12
+EBIXEW,EBIXEW,100.0 K,FC(F)(F)S(=O)(=O)[O-].Fc1c(F)c(F)c(c(F)c1F)[P+](F)(c1ccccn1)c1c(F)c(F)c(F)c(F)c1F,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],Fc1c(F)c(F)c(c(F)c1F)[P+](F)(c1ccccn1)c1c(F)c(F)c(F)c(F)c1F
+FEYZAM,FEYZAM,at 120 K,COc1ccc(NS(=O)(=O)c2ccc3ccccc3c2)cc1.Cc1ccc(C)cc1,P21/c,False,120.0,lowT,COc1ccc(NS(=O)(=O)c2ccc3ccccc3c2)cc1,Cc1ccc(C)cc1
+OJUQER,OJUQER,110.2 K,O=C([O-])CCC1=NC(=C(O1)c1ccccc1)c1ccccc1.CC(C)(C)[NH2+]CC(O)c1ccc(O)c(CO)c1,P-1,False,110.0,lowT,O=C([O-])CCC1=NC(=C(O1)c1ccccc1)c1ccccc1,CC(C)(C)[NH2+]CC(O)c1ccc(O)c(CO)c1
+TETYOI,TETYOI,at 100 K,COC(=O)C(=O)Nc1ccccc1NC(=O)C(=O)OC.CS(C)=O,C2/c,False,100.0,lowT,COC(=O)C(=O)Nc1ccccc1NC(=O)C(=O)OC,CS(C)=O
+WAPQOV,WAPQOV,at 100 K,O=C([O-])C=Cc1ccccc1.[NH3+]C(C(C)C)C(=O)OC,P212121,False,100.0,lowT,O=C([O-])C=Cc1ccccc1,[NH3+]C(C(C)C)C(=O)OC
+PAQNOO,PAQNOO,100 K,[NH3+]c1ccc(O)cc1.CS(=O)(=O)[O-],P21/c,False,100.0,lowT,[NH3+]c1ccc(O)cc1,CS(=O)(=O)[O-]
+OWOJIV,OWOJIV,100 K,CN(C)C(N)=S.C1COCCN1,P-1,False,100.0,lowT,CN(C)C(N)=S,C1COCCN1
+IVUPOF,IVUPOF,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.OC(=O)CC(=O)[O-],P-1,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,OC(=O)CC(=O)[O-]
+LEBWAR,LEBWAR,at 120 K,C[NH+](C)CC(=C)Sc1ccccc1.OC(=O)C(=O)[O-],Cc,False,120.0,lowT,C[NH+](C)CC(=C)Sc1ccccc1,OC(=O)C(=O)[O-]
+QAJXUV,QAJXUV,at 100 K,C1CCC2(C1)COC1=C3OCC4(CCCC4)[N+]3=CN21.FC(F)(F)S(=O)(=O)[O-],Pbca,False,100.0,lowT,C1CCC2(C1)COC1=C3OCC4(CCCC4)[N+]3=CN21,FC(F)(F)S(=O)(=O)[O-]
+UFEVIN,UFEVIN,120 K,OC(=O)CCC(O)=O.NC(=O)c1ccc(N)cc1,P21/c,False,120.0,lowT,OC(=O)CCC(O)=O,NC(=O)c1ccc(N)cc1
+VUXXAP,VUXXAP,93 K,CCOc1ccc(cc1)C(O)=O.C(Cc1ccncc1)c1ccncc1,P-1,False,93.0,lowT,CCOc1ccc(cc1)C(O)=O,C(Cc1ccncc1)c1ccncc1
+CATHOW,CATHOW,at 103 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])C1=CC=CS1,P212121,False,103.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])C1=CC=CS1
+ADETOT,ADETOT,at 120 K,OC(=O)c1ccc(O)cc1.Cc1cc(C)nc(N)n1,Cc,False,120.0,lowT,OC(=O)c1ccc(O)cc1,Cc1cc(C)nc(N)n1
+IPABOR,IPABOR,at 100 K,N#CC1=NN=N[N-]1.[NH3+]NC(N)=O,C2/c,False,100.0,lowT,N#CC1=NN=N[N-]1,[NH3+]NC(N)=O
+GIYDEZ,GIYDEZ,at 100 K,[NH3+]CC(O)=O.CS(=O)(=O)[O-],P21/c,False,100.0,lowT,[NH3+]CC(O)=O,CS(=O)(=O)[O-]
+TOJQOZ,TOJQOZ,at 100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.CCOC(=O)C[N+]1(C)CCOCC1,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,CCOC(=O)C[N+]1(C)CCOCC1
+UZADOQ,UZADOQ,100 K,C[N+]1=C(C)N(CCCS(O)(=O)=O)C=C1.FC(F)(F)S(=O)(=O)[O-],C2/c,False,100.0,lowT,C[N+]1=C(C)N(CCCS(O)(=O)=O)C=C1,FC(F)(F)S(=O)(=O)[O-]
+BAVJIT,BAVJIT,at 110 K,C[N+](C)(N)CCl.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,C2/c,False,110.0,lowT,C[N+](C)(N)CCl,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+MEDHOU01,MEDHOU01,at 123 K,OC(C(=O)[O-])c1ccccc1.[NH3+]CCc1ccc(O)cc1,P-1,False,123.0,lowT,OC(C(=O)[O-])c1ccccc1,[NH3+]CCc1ccc(O)cc1
+BUNHOJ,BUNHOJ,120 K,c1cc(ccn1)c1ccncc1.Oc1c(F)c(F)c(Br)c(F)c1F,P21/c,False,120.0,lowT,c1cc(ccn1)c1ccncc1,Oc1c(F)c(F)c(Br)c(F)c1F
+WOBTIT,WOBTIT,100 K,Oc1ccc(cc1O)C(=O)[O-].[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-],P212121,False,100.0,lowT,Oc1ccc(cc1O)C(=O)[O-],[NH3+]C(CC1=C[NH+]=CN1)C(=O)[O-]
+COGJOZ,COGJOZ,106 K,O1C(=CN=C1c1ccccc1)c1ccccc1.Oc1c(F)c(F)c(F)c(F)c1F,P21,False,106.0,lowT,O1C(=CN=C1c1ccccc1)c1ccccc1,Oc1c(F)c(F)c(F)c(F)c1F
+KENCAK,KENCAK,120 K,OB(O)O.O=C1CCCN1CCOCCN1CCCC1=O,P-1,False,120.0,lowT,OB(O)O,O=C1CCCN1CCOCCN1CCCC1=O
+WUCDEG,WUCDEG,100 K,FC(F)(F)S(=O)(=O)[O-].[NH3+]C(C(O)=O)c1ccccc1,C2/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],[NH3+]C(C(O)=O)c1ccccc1
+IVUMAO,IVUMAO,at 123 K,Cc1ccccc1C(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,P21,False,123.0,lowT,Cc1ccccc1C(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+XUGBOT01,XUGBOT01,100.0 K,OC(C(=O)[O-])C(F)(F)F.[NH3+]C(CO)C(O)c1ccccc1,P212121,False,100.0,lowT,OC(C(=O)[O-])C(F)(F)F,[NH3+]C(CO)C(O)c1ccccc1
+GEXTEK,GEXTEK,at 100 K,O=C([O-])c1ccc2ccccc2c1.[NH3+]Cc1cccc(F)c1,P21/n,False,100.0,lowT,O=C([O-])c1ccc2ccccc2c1,[NH3+]Cc1cccc(F)c1
+XOKVIE,XOKVIE,110 K,C1N2CN3CN1CN(C2)C3.OC(=O)c1cc(O)c(O)c(O)c1,P21/c,False,110.0,lowT,C1N2CN3CN1CN(C2)C3,OC(=O)c1cc(O)c(O)c(O)c1
+LADBUP,LADBUP,at 120 K,Nc1[nH+]cc(Br)cc1.O=C([O-])c1ccc(cc1)N(=O)=O,P21/c,False,120.0,lowT,Nc1[nH+]cc(Br)cc1,O=C([O-])c1ccc(cc1)N(=O)=O
+OSEVOY,OSEVOY,at 115 K,O=C([O-])c1ccc2ccccc2c1.[NH3+]C(C)c1ccc(OC)cc1,P21/c,False,115.0,lowT,O=C([O-])c1ccc2ccccc2c1,[NH3+]C(C)c1ccc(OC)cc1
+VAWPIT,VAWPIT,at 100 K,NC1=[NH+]C(=O)N(C=C1)C1CSC(CO)O1.O=C1[N-]S(=O)(=O)c2ccccc12,P212121,False,100.0,lowT,NC1=[NH+]C(=O)N(C=C1)C1CSC(CO)O1,O=C1[N-]S(=O)(=O)c2ccccc12
+REBXED,REBXED,at 100 K,COc1cc(ccc1O)C(O)=O.NC(=O)c1cnccn1,P-1,False,100.0,lowT,COc1cc(ccc1O)C(O)=O,NC(=O)c1cnccn1
+HIYREN,HIYREN,at 100 K,OC(C(=O)[O-])c1ccccc1.[NH3+]C(C)c1cccc(OC)c1,P21,False,100.0,lowT,OC(C(=O)[O-])c1ccccc1,[NH3+]C(C)c1cccc(OC)c1
+AFEVEN,AFEVEN,at 120 K,NC(=O)N1c2ccccc2CCc2ccccc12.NC=O,P-1,False,120.0,lowT,NC(=O)N1c2ccccc2CCc2ccccc12,NC=O
+YESSUL,YESSUL,at 100 K,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.C[N+](C)(C)CC(O)=O,Pbca,False,100.0,lowT,FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F,C[N+](C)(C)CC(O)=O
+VAKTOS01,VAKTOS01,at 110 K,CCC(C(O)=O)C(O)=O.CCOc1ccccc1C(N)=O,P21/c,False,110.0,lowT,CCC(C(O)=O)C(O)=O,CCOc1ccccc1C(N)=O
+TUQKEW,TUQKEW,at 100 K,Nc1[nH+]cc(Cl)cc1.OC(=O)CC(=O)[O-],P21/c,False,100.0,lowT,Nc1[nH+]cc(Cl)cc1,OC(=O)CC(=O)[O-]
+UFUHAF,UFUHAF,at 93 K,C[NH+]1CCC23CCCC1C2Oc1ccc(cc31)N(=O)=O.CC1(CS(=O)(=O)[O-])C2CCC1(C)C(=O)C2Br,P212121,False,93.0,lowT,C[NH+]1CCC23CCCC1C2Oc1ccc(cc31)N(=O)=O,CC1(CS(=O)(=O)[O-])C2CCC1(C)C(=O)C2Br
+ZURFOJ,ZURFOJ,120 K,ClP(Cl)(=O)[O-].CC(C)c1[nH+]c(O)cc(Cl)n1,P-1,False,120.0,lowT,ClP(Cl)(=O)[O-],CC(C)c1[nH+]c(O)cc(Cl)n1
+ZIRWIK,ZIRWIK,123 K,O=C([O-])c1ccc(cc1)N(=O)=O.[NH3+]CCc1ccc(O)c(O)c1,P21/n,False,123.0,lowT,O=C([O-])c1ccc(cc1)N(=O)=O,[NH3+]CCc1ccc(O)c(O)c1
+RIGTOS,RIGTOS,at 120 K,Oc1ccc2c(Oc3cc(O)ccc3C32OC(=O)c2ccccc32)c1.c1ccc2nc3ccccc3cc2c1,P21/c,False,120.0,lowT,Oc1ccc2c(Oc3cc(O)ccc3C32OC(=O)c2ccccc32)c1,c1ccc2nc3ccccc3cc2c1
+TOYLOI,TOYLOI,at 123 K,NC(=O)C(=O)[O-].Nc1[nH+]cc(cc1)N(=O)=O,P21/c,False,123.0,lowT,NC(=O)C(=O)[O-],Nc1[nH+]cc(cc1)N(=O)=O
+HUJQIP,HUJQIP,100 K,c1ccc2nc3ccccc3cc2c1.CC(C)c1ccc(C)cc1O,P21/c,False,100.0,lowT,c1ccc2nc3ccccc3cc2c1,CC(C)c1ccc(C)cc1O
+QUWYEN,QUWYEN,at 123 K,[NH3+]c1cc(Cl)ccc1Cl.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,Cc,False,123.0,lowT,[NH3+]c1cc(Cl)ccc1Cl,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+LOWNUJ,LOWNUJ,100 K,Clc1ccc(cc1)C1=CSC(=N1)NC=O.NC1=NC(=CS1)c1ccc(Cl)cc1,P-1,False,100.0,lowT,Clc1ccc(cc1)C1=CSC(=N1)NC=O,NC1=NC(=CS1)c1ccc(Cl)cc1
+OREBIZ,OREBIZ,100.0 K,Clc1ccc2Oc3ccccc3N=C(N3CC[NH2+]CC3)c2c1.OC(=O)C=CC(=O)[O-],P21/c,False,100.0,lowT,Clc1ccc2Oc3ccccc3N=C(N3CC[NH2+]CC3)c2c1,OC(=O)C=CC(=O)[O-]
+HIDBUV,HIDBUV,100.0 K,OC(=O)C=CC(=O)[O-].[NH3+]CC1(CCCCC1)CC(O)=O,P-1,False,100.0,lowT,OC(=O)C=CC(=O)[O-],[NH3+]CC1(CCCCC1)CC(O)=O
+JAKBAC,JAKBAC,93 K,O=S(=O)(Nc1ccc(Oc2ccccc2)cc1)c1ccccc1.c1cc(ccn1)c1ccncc1,P21/n,False,93.0,lowT,O=S(=O)(Nc1ccc(Oc2ccccc2)cc1)c1ccccc1,c1cc(ccn1)c1ccncc1
+COZZUN,COZZUN,at 100 K,Oc1cccc(O)c1.Cc1nc(C)c(C)nc1C,P-1,False,100.0,lowT,Oc1cccc(O)c1,Cc1nc(C)c(C)nc1C
+IRUGEI,IRUGEI,at 103 K,O=C1NC(=O)C=C1.Nc1nc(N)c(Cl)cc1Cl,P-1,False,103.0,lowT,O=C1NC(=O)C=C1,Nc1nc(N)c(Cl)cc1Cl
+YEKDUR,YEKDUR,120 K,ON=C(CBr)C(CBr)=NO.C1COCCO1,P-1,False,120.0,lowT,ON=C(CBr)C(CBr)=NO,C1COCCO1
+UQEKAF,UQEKAF,100 K,OCC(O)=O.NNC(=O)c1ccncc1,P21/n,False,100.0,lowT,OCC(O)=O,NNC(=O)c1ccncc1
+KEFBED,KEFBED,at 100 K,OC(=O)CCC(O)=O.CC(=O)Nc1ccccn1,P21/n,False,100.0,lowT,OC(=O)CCC(O)=O,CC(=O)Nc1ccccn1
+KEQPEC,KEQPEC,at 100 K,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-].NC1=[NH+]C(=O)NC=C1,P21/n,False,100.0,lowT,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)[O-],NC1=[NH+]C(=O)NC=C1
+VAVJOU,VAVJOU,123 K,OC(C(O)C(=O)[O-])C(O)=O.C[NH+](C)C(C)C(O)c1ccccc1,P21,False,123.0,lowT,OC(C(O)C(=O)[O-])C(O)=O,C[NH+](C)C(C)C(O)c1ccccc1
+ZAMNAG,ZAMNAG,100 K,C[N+]1=C(Sc2ccccc12)C1CCCO1.FC(F)(F)S(=O)(=O)[O-],Pbca,False,100.0,lowT,C[N+]1=C(Sc2ccccc12)C1CCCO1,FC(F)(F)S(=O)(=O)[O-]
+LATQUU02,LATQUU02,100.0 K,OC(=O)c1ccccc1O.Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12,P-1,False,100.0,lowT,OC(=O)c1ccccc1O,Cc1ccnc2N(C3CC3)c3ncccc3C(=O)Nc12
+FICYEX,FICYEX,100 K,Cc1ccc(cc1)c1nc(N)nc(N)n1.OC(=O)c1ccccc1,P-1,False,100.0,lowT,Cc1ccc(cc1)c1nc(N)nc(N)n1,OC(=O)c1ccccc1
+BULVAH,BULVAH,120 K,N#Cc1ccncc1.Oc1c(F)c(F)c(Br)c(F)c1F,P21/n,False,120.0,lowT,N#Cc1ccncc1,Oc1c(F)c(F)c(Br)c(F)c1F
+BOPDAO,BOPDAO,100 K,C1Cc2cc3cccnc3c3c4ncccc4cc1c23.Oc1ccccc1,P21/n,False,100.0,lowT,C1Cc2cc3cccnc3c3c4ncccc4cc1c23,Oc1ccccc1
+UTAQUE,UTAQUE,100 K,COC(=O)c1ccc2ccccc2n1.OC(C(F)(F)F)C(F)(F)F,P21/c,False,100.0,lowT,COC(=O)c1ccc2ccccc2n1,OC(C(F)(F)F)C(F)(F)F
+XAQQUC,XAQQUC,at 100 K,c1cc(ccn1)c1ccncc1.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,100.0,lowT,c1cc(ccn1)c1ccncc1,NC(=O)N1c2ccccc2C=Cc2ccccc12
+XONQIC,XONQIC,at 100 K,Nc1cccc(Cl)n1.OC(=O)c1cccc(Cl)c1,P-1,False,100.0,lowT,Nc1cccc(Cl)n1,OC(=O)c1cccc(Cl)c1
+HIDCAC,HIDCAC,100 K,OC(=O)C=CC(=O)[O-].[NH3+]CC(CC(C)C)CC(O)=O,C2,False,100.0,lowT,OC(=O)C=CC(=O)[O-],[NH3+]CC(CC(C)C)CC(O)=O
+EFUXOT,EFUXOT,at 90 K,O=N(=O)c1ccccc1[N+]#N.Cc1ccc(cc1)S(=O)(=O)[O-],P-1,False,90.0,lowT,O=N(=O)c1ccccc1[N+]#N,Cc1ccc(cc1)S(=O)(=O)[O-]
+XAQQIQ,XAQQIQ,at 100 K,OC(=O)c1cccc(O)c1.NC(=O)c1cccnc1,P21/c,False,100.0,lowT,OC(=O)c1cccc(O)c1,NC(=O)c1cccnc1
+SEWHEL,SEWHEL,120 K,ON=C(Cc1ccc(O)c(Br)c1)C(=O)NCCSC#N.CCOC(C)=O,P21/c,False,120.0,lowT,ON=C(Cc1ccc(O)c(Br)c1)C(=O)NCCSC#N,CCOC(C)=O
+JAMQOG,JAMQOG,100 K,FC(F)(F)S(=O)(=O)[O-].CN(C)C(=[NH2+])ON=C(N)c1ccccc1,C2/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CN(C)C(=[NH2+])ON=C(N)c1ccccc1
+PIQPAK,PIQPAK,123 K,OC1=[NH+]CCCCC1.CS(=O)(=O)[O-],Pbca,False,123.0,lowT,OC1=[NH+]CCCCC1,CS(=O)(=O)[O-]
+JIYPOZ,JIYPOZ,100 K,FC(F)(F)S(=O)(=O)O[n+]1ccccc1.FC(F)(F)S(=O)(=O)[O-],P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)O[n+]1ccccc1,FC(F)(F)S(=O)(=O)[O-]
+PUNWUR,PUNWUR,at 103.1 K,[NH3+]C(C)c1ccc(Br)cc1.CCOP([O-])(=S)c1ccc(Cl)cc1,C2,False,103.0,lowT,[NH3+]C(C)c1ccc(Br)cc1,CCOP([O-])(=S)c1ccc(Cl)cc1
+VUHFIO01,VUHFIO01,at 110 K,O=C1NS(=O)(=O)c2ccccc12.CCOc1ccccc1C(N)=O,P21/n,False,110.0,lowT,O=C1NS(=O)(=O)c2ccccc12,CCOc1ccccc1C(N)=O
+NUJXEW,NUJXEW,at 120 K,Cc1cc2N=CN(Cc3ccncc3)c2cc1C.ON=C(C#N)c1ccc(F)cc1,P21/n,False,120.0,lowT,Cc1cc2N=CN(Cc3ccncc3)c2cc1C,ON=C(C#N)c1ccc(F)cc1
+VIHNUZ,VIHNUZ,90 K,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-].COc1ccc(cc1)N1CC[NH2+]CC1,P21/c,False,90.0,lowT,Fc1c(F)c(F)c(c(F)c1F)C(=O)[O-],COc1ccc(cc1)N1CC[NH2+]CC1
+WAKKAV01,WAKKAV01,100 K,CC(C(O)c1ccccc1)N(C)C(=S)[S-].C[NH2+]C(C)C(O)c1ccccc1,P212121,False,100.0,lowT,CC(C(O)c1ccccc1)N(C)C(=S)[S-],C[NH2+]C(C)C(O)c1ccccc1
+QASNOR,QASNOR,120 K,OC(=O)c1ccc(O)cc1O.CN(C)C=O,P21/c,False,120.0,lowT,OC(=O)c1ccc(O)cc1O,CN(C)C=O
+LABYOC,LABYOC,at 123 K,Cc1ccc(cc1)S(=O)(=O)[O-].COC(=O)C1C2OC(C3[NH2+]C23)C1C(=O)OC,P21/n,False,123.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],COC(=O)C1C2OC(C3[NH2+]C23)C1C(=O)OC
+ETEFIV,ETEFIV,100 K,Cc1c(Cl)cccc1Nc1ccccc1C(O)=O.c1ccc2nc3ccccc3cc2c1,P-1,False,100.0,lowT,Cc1c(Cl)cccc1Nc1ccccc1C(O)=O,c1ccc2nc3ccccc3cc2c1
+CIDCIC,CIDCIC,at 120 K,Oc1ccc(cc1)C(=O)[O-].COc1[nH+]c(N)nc(OC)c1,P21/c,False,120.0,lowT,Oc1ccc(cc1)C(=O)[O-],COc1[nH+]c(N)nc(OC)c1
+WIRNEU,WIRNEU,100 K,CCOC(=C)[n+]1ccccc1N(C)c1ccccc1.FC(F)(F)S(=O)(=O)[O-],P21/c,False,100.0,lowT,CCOC(=C)[n+]1ccccc1N(C)c1ccccc1,FC(F)(F)S(=O)(=O)[O-]
+YESCEI,YESCEI,100 K,O=C([O-])c1cccnc1.NC(=[NH2+])NC(N)=S,P212121,False,100.0,lowT,O=C([O-])c1cccnc1,NC(=[NH2+])NC(N)=S
+JAKCIL,JAKCIL,93 K,c1cc(ccn1)c1ccncc1.CCc1cccc(NS(=O)(=O)c2ccc(F)cc2)c1,P-1,False,93.0,lowT,c1cc(ccn1)c1ccncc1,CCc1cccc(NS(=O)(=O)c2ccc(F)cc2)c1
+KECKOV,KECKOV,120 K,O=C(NN=Cc1cccnc1)c1cccnc1.OC(=O)CCCCCCCCCCC(O)=O,P-1,False,120.0,lowT,O=C(NN=Cc1cccnc1)c1cccnc1,OC(=O)CCCCCCCCCCC(O)=O
+HOLJAU03,HOLJAU03,at 100 K,CC(=O)c1ccncc1.OC(=O)c1cccc(F)c1,P21/n,False,100.0,lowT,CC(=O)c1ccncc1,OC(=O)c1cccc(F)c1
+DADGEX,DADGEX,100 K,Nc1[nH+]cc(Br)cc1.O=C([O-])COc1ccccc1,P41212,False,100.0,lowT,Nc1[nH+]cc(Br)cc1,O=C([O-])COc1ccccc1
+MECZAX,MECZAX,at 123 K,[NH3+]CCc1ccc(O)cc1.CS(=O)(=O)[O-],P212121,False,123.0,lowT,[NH3+]CCc1ccc(O)cc1,CS(=O)(=O)[O-]
+WUZPEP,WUZPEP,100 K,C1CCOC1.Brc1ccc2NC(=O)c3cc(Br)ccc3NC(=O)c2c1,Pbca,False,100.0,lowT,C1CCOC1,Brc1ccc2NC(=O)c3cc(Br)ccc3NC(=O)c2c1
+VAXVUN01,VAXVUN01,100 K,OC(=O)c1ccccc1C(O)=O.c1cnccn1,P-1,False,100.0,lowT,OC(=O)c1ccccc1C(O)=O,c1cnccn1
+MEDDAC,MEDDAC,at 123 K,O=C([O-])c1cccc(c1)N(=O)=O.[NH3+]CCc1ccc(O)cc1,P21/c,False,123.0,lowT,O=C([O-])c1cccc(c1)N(=O)=O,[NH3+]CCc1ccc(O)cc1
+YACFAM,YACFAM,100 K,OC(=O)c1ccc(O)cc1.CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O,P21/c,False,100.0,lowT,OC(=O)c1ccc(O)cc1,CC(C)C1=C(C)N(C)N(c2ccccc2)C1=O
+VEPGIJ,VEPGIJ,120 K,FC(F)(F)C(=O)[O-].[NH3+]CCCNC(=O)C(=O)Nc1ccccc1,P21/c,False,120.0,lowT,FC(F)(F)C(=O)[O-],[NH3+]CCCNC(=O)C(=O)Nc1ccccc1
+SUYNUW,SUYNUW,at 100 K,Nc1[nH+]cc(Br)cc1.OC(=O)C=CC(=O)[O-],P-1,False,100.0,lowT,Nc1[nH+]cc(Br)cc1,OC(=O)C=CC(=O)[O-]
+UGOHOP,UGOHOP,100 K,OC(=O)c1ccc(O)cc1.O=C1CCCC(=O)N1,Pca21,False,100.0,lowT,OC(=O)c1ccc(O)cc1,O=C1CCCC(=O)N1
+SUDFOO,SUDFOO,at 100 K,CNC(N)=O.OC(=O)C=CC(O)=O,P21/n,False,100.0,lowT,CNC(N)=O,OC(=O)C=CC(O)=O
+KIDMAO,KIDMAO,100 K,O=N(=O)c1cccc(c1)S(=O)(=O)[O-].O=N(=O)c1cccc(c1)S(=O)(=O)NNC1=[NH+]c2ccccc2S1,P-1,False,100.0,lowT,O=N(=O)c1cccc(c1)S(=O)(=O)[O-],O=N(=O)c1cccc(c1)S(=O)(=O)NNC1=[NH+]c2ccccc2S1
+MENQOP,MENQOP,100 K,Nc1ccc(Br)cn1.Cc1cccc(c1)C(O)=O,P21/c,False,100.0,lowT,Nc1ccc(Br)cn1,Cc1cccc(c1)C(O)=O
+AFIROA,AFIROA,100 K,CC(=O)Nc1cccc(c1)C(O)=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P21/n,False,100.0,lowT,CC(=O)Nc1cccc(c1)C(O)=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+XUGBOT,XUGBOT,100.0 K,OC(C(=O)[O-])C(F)(F)F.[NH3+]C(CO)C(O)c1ccccc1,P21,False,100.0,lowT,OC(C(=O)[O-])C(F)(F)F,[NH3+]C(CO)C(O)c1ccccc1
+BACREF,BACREF,99.7 K,Fc1c(F)c(c(F)c(F)c1Br)c1c(F)c(F)c(Br)c(F)c1F.O1C(=CN=C1c1ccccc1)c1ccccc1,P-1,False,99.0,lowT,Fc1c(F)c(c(F)c(F)c1Br)c1c(F)c(F)c(Br)c(F)c1F,O1C(=CN=C1c1ccccc1)c1ccccc1
+QANQUS,QANQUS,at 123 K,CN(C)C=O.NC(=O)N1c2ccccc2C=Cc2ccccc12,P-1,False,123.0,lowT,CN(C)C=O,NC(=O)N1c2ccccc2C=Cc2ccccc12
+WUVMIK,WUVMIK,at 123 K,Nc1[nH+]c(CF)c(c(N)n1)c1cc(Cl)cc(Cl)c1Cl.CS(=O)(=O)[O-],P1,False,123.0,lowT,Nc1[nH+]c(CF)c(c(N)n1)c1cc(Cl)cc(Cl)c1Cl,CS(=O)(=O)[O-]
+COZYIA,COZYIA,at 100 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)CCCC(O)=O,C2/c,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)CCCC(O)=O
+KUVQAW,KUVQAW,100 K,c1ccc2c(c1)[S+](C1=CN=C3C=CC=NN13)c1ccccc21.FC(F)(F)C(=O)[O-],P-1,False,100.0,lowT,c1ccc2c(c1)[S+](C1=CN=C3C=CC=NN13)c1ccccc21,FC(F)(F)C(=O)[O-]
+HIDQUI,HIDQUI,at 120 K,Cc1cc2N=CN(Cc3cccnc3)c2cc1C.ON=C(C#N)c1ccc(O)cc1,P21/n,False,120.0,lowT,Cc1cc2N=CN(Cc3cccnc3)c2cc1C,ON=C(C#N)c1ccc(O)cc1
+LILGEV01,LILGEV01,100.0 K,O=C1[N-]S(=O)(=O)c2ccccc12.CC1=CC(=O)NC(=[NH+]1)N,P21/n,False,100.0,lowT,O=C1[N-]S(=O)(=O)c2ccccc12,CC1=CC(=O)NC(=[NH+]1)N
+CARWEZ,CARWEZ,at 115 K,O=C([O-])c1ccc2ccccc2c1.[NH3+]C(C)c1ccc(OC)cc1,P1,False,115.0,lowT,O=C([O-])c1ccc2ccccc2c1,[NH3+]C(C)c1ccc(OC)cc1
+LOFQOO,LOFQOO,at 100 K,FC(F)(F)S(=O)(=O)[O-].C[N+]1(C)c2cccc3cccc(c23)C1(O)C(F)(F)F,P21/c,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[N+]1(C)c2cccc3cccc(c23)C1(O)C(F)(F)F
+WAFRIH,WAFRIH,93 K,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O.CCOC(=O)C1[NH2+]C(C)C=CC1,P21,False,93.0,lowT,O=N(=O)c1cc(c(c(c1)N(=O)=O)S(=O)(=O)[O-])N(=O)=O,CCOC(=O)C1[NH2+]C(C)C=CC1
+HONWEN,HONWEN,at 100 K,Oc1c[nH+]ccc1.O=C([O-])c1ccccc1,Pc,False,100.0,lowT,Oc1c[nH+]ccc1,O=C([O-])c1ccccc1
+PIVBAX,PIVBAX,at 122 K,OC(C(=O)[O-])c1ccccc1.[NH3+]C(CO)c1ccccc1,P1,False,122.0,lowT,OC(C(=O)[O-])c1ccccc1,[NH3+]C(CO)c1ccccc1
+EXISIQ,EXISIQ,100 K,OCC[NH2+]CCO.O=C([O-])c1ccccc1,P21/n,False,100.0,lowT,OCC[NH2+]CCO,O=C([O-])c1ccccc1
+NUZTIN,NUZTIN,100 K,NC(=O)c1ccncc1.Cc1ccc(cc1)C=CC(O)=O,P-1,False,100.0,lowT,NC(=O)c1ccncc1,Cc1ccc(cc1)C=CC(O)=O
+XIPTOG,XIPTOG,at 120 K,OC(=O)c1c(O)cc(O)cc1O.c1cnccn1,P21/c,False,120.0,lowT,OC(=O)c1c(O)cc(O)cc1O,c1cnccn1
+FOPXAK,FOPXAK,at 113 K,CN(C)C(C)=O.Cc1ccc(cc1)C1(O)c2ccccc2Oc2ccccc12,P21/n,False,113.0,lowT,CN(C)C(C)=O,Cc1ccc(cc1)C1(O)c2ccccc2Oc2ccccc12
+PAKROM,PAKROM,100 K,Cc1cccc(C(=O)[O-])c1O.CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1,P-1,False,100.0,lowT,Cc1cccc(C(=O)[O-])c1O,CCc1[nH+]c(N)nc(N)c1c1ccc(Cl)cc1
+EXAQOK01,EXAQOK01,100.0 K,Cc1cccc(Nc2ccccc2C(O)=O)c1C.NC(=O)c1cccnc1,P-1,False,100.0,lowT,Cc1cccc(Nc2ccccc2C(O)=O)c1C,NC(=O)c1cccnc1
+RUYHEZ,RUYHEZ,at 100 K,NC(=O)c1cccnc1.OC(=O)c1ccc(O)cc1,C2/c,False,100.0,lowT,NC(=O)c1cccnc1,OC(=O)c1ccc(O)cc1
+VAKTOS,VAKTOS,at 110 K,CCC(C(O)=O)C(O)=O.CCOc1ccccc1C(N)=O,P-1,False,110.0,lowT,CCC(C(O)=O)C(O)=O,CCOc1ccccc1C(N)=O
+DAFMAC,DAFMAC,113.2 K,CC(=O)c1ccc(O)cc1.C1CNCCN1,P-1,False,113.0,lowT,CC(=O)c1ccc(O)cc1,C1CNCCN1
+MIQFAU,MIQFAU,at 93 K,CCNCC.OC1(C#C)c2cc(Br)ccc2c2ccc(Br)cc12,Cmce,False,93.0,lowT,CCNCC,OC1(C#C)c2cc(Br)ccc2c2ccc(Br)cc12
+AMUSIN,AMUSIN,100 K,CN(C)C=O.O=P(Nc1ccccn1)(Nc1ccccn1)Nc1ccccn1,P21/n,False,100.0,lowT,CN(C)C=O,O=P(Nc1ccccn1)(Nc1ccccn1)Nc1ccccn1
+GUYXEE,GUYXEE,at 123 K,NC1=C(C#N)c2c(O1)c(C#C)c1c(OC(=C1C#N)N)c2C#C.CN(C)C=O,P21/c,False,123.0,lowT,NC1=C(C#N)c2c(O1)c(C#C)c1c(OC(=C1C#N)N)c2C#C,CN(C)C=O
+VECKEU,VECKEU,at 86 K,[NH2+]1CCOCC1.FC(F)(F)C(=O)C=C([O-])C(F)(F)F,P21/c,False,86.0,lowT,[NH2+]1CCOCC1,FC(F)(F)C(=O)C=C([O-])C(F)(F)F
+NETTEP,NETTEP,99.9 K,OC(=O)C(=O)[O-].OCC[NH+](CCO)C(CO)(CO)CO,P21/c,False,99.0,lowT,OC(=O)C(=O)[O-],OCC[NH+](CCO)C(CO)(CO)CO
+VAVJUA,VAVJUA,123 K,C[NH+](C)C(C)C(O)c1ccccc1.OC(C(=O)[O-])c1ccccc1,P212121,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,OC(C(=O)[O-])c1ccccc1
+CIMKES,CIMKES,93 K,Cc1ccc(cc1)S(=O)(=O)[O-].C[N+](C)(C)CCO,P21/c,False,93.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],C[N+](C)(C)CCO
+XOGTIX,XOGTIX,at 123 K,OC=O.NC(=O)C1c2ccccc2C=Cc2ccccc12,P21/c,False,123.0,lowT,OC=O,NC(=O)C1c2ccccc2C=Cc2ccccc12
+VIPXOK,VIPXOK,120 K,Nc1cc(ccc1C(=O)[O-])N(=O)=O.CC(C)(C)[NH2+]CCO,C2/c,False,120.0,lowT,Nc1cc(ccc1C(=O)[O-])N(=O)=O,CC(C)(C)[NH2+]CCO
+VIPMAK,VIPMAK,at 100 K,COCCN1C(=C(C)[N+](=C1C(C)C)C)C.CS(=O)(=O)[O-],P21/n,False,100.0,lowT,COCCN1C(=C(C)[N+](=C1C(C)C)C)C,CS(=O)(=O)[O-]
+PETNOT,PETNOT,at 120 K,Oc1c(F)c(F)c(Br)c(F)c1F.c1cc(ccn1)N=Nc1ccncc1,P-1,False,120.0,lowT,Oc1c(F)c(F)c(Br)c(F)c1F,c1cc(ccn1)N=Nc1ccncc1
+ACOYOG01,ACOYOG01,at 120 K,Oc1cccc(O)c1.C(Cc1ccncc1)c1ccncc1,P21/n,False,120.0,lowT,Oc1cccc(O)c1,C(Cc1ccncc1)c1ccncc1
+PESLUX,PESLUX,102 K,c1ccncc1.NC(N)=O,P21/c,False,102.0,lowT,c1ccncc1,NC(N)=O
+UDAPUM,UDAPUM,at 100 K,FC(F)(F)S(=O)(=O)[O-].CC(C)(C)OC(=O)C1[NH2+]C(CC1)C=C,P212121,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CC(C)(C)OC(=O)C1[NH2+]C(CC1)C=C
+NUTPEZ,NUTPEZ,100 K,CN1C=NC2=C1C(=O)N(C)C(=O)N2C.Oc1cc(O)c2C(=O)C(=C(Oc2c1)c1ccc(O)c(O)c1)O,P21/c,False,100.0,lowT,CN1C=NC2=C1C(=O)N(C)C(=O)N2C,Oc1cc(O)c2C(=O)C(=C(Oc2c1)c1ccc(O)c(O)c1)O
+LADCAW,LADCAW,at 120 K,OC(=O)c1ccc(Cl)c(Cl)c1.CCC(=O)Nc1ccc(Br)cn1,P-1,False,120.0,lowT,OC(=O)c1ccc(Cl)c(Cl)c1,CCC(=O)Nc1ccc(Br)cn1
+VAVLAI,VAVLAI,120 K,Fc1ccc(cc1)C(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,P21/c,False,120.0,lowT,Fc1ccc(cc1)C(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+JEGBON,JEGBON,at 100 K,ON=C(C#N)c1cccc(Cl)c1.C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1,P-1,False,100.0,lowT,ON=C(C#N)c1cccc(Cl)c1,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1
+QAKSUS,QAKSUS,at 120 K,OC(=O)c1ccc2cc(ccc2c1)C(O)=O.CN1CCCC1=O,Fdd2,False,120.0,lowT,OC(=O)c1ccc2cc(ccc2c1)C(O)=O,CN1CCCC1=O
+GAVMEZ,GAVMEZ,100 K,FC(F)(F)S(=O)(=O)[O-].Cl[P-]1(Cl)[n+]2ccccc2[n+]2ccccc12,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],Cl[P-]1(Cl)[n+]2ccccc2[n+]2ccccc12
+FIDMAH,FIDMAH,at 120 K,Nc1ccc(Sc2ccc(N)cc2)cc1.Oc1ccc(Sc2ccc(O)cc2)cc1,P212121,False,120.0,lowT,Nc1ccc(Sc2ccc(N)cc2)cc1,Oc1ccc(Sc2ccc(O)cc2)cc1
+GUXTAX,GUXTAX,100 K,CC(=O)NC1=NN=C(S1)S(N)(=O)=O.c1cc(ccn1)N=Nc1ccncc1,P21/c,False,100.0,lowT,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,c1cc(ccn1)N=Nc1ccncc1
+UHADUD,UHADUD,at 120 K,OC(=O)CCCC(O)=O.O=C1NCCN1,Cc,False,120.0,lowT,OC(=O)CCCC(O)=O,O=C1NCCN1
+BOQDOA,BOQDOA,at 100 K,c1cc(ccn1)c1ccncc1.Oc1ccc(Sc2ccc(O)cc2)cc1,P21/c,False,100.0,lowT,c1cc(ccn1)c1ccncc1,Oc1ccc(Sc2ccc(O)cc2)cc1
+VAXVOH,VAXVOH,at 120 K,OC(=O)C=CC(O)=O.c1cnccn1,P-1,False,120.0,lowT,OC(=O)C=CC(O)=O,c1cnccn1
+FALSIW,FALSIW,at 110 K,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1.C1COCCO1,P-1,False,110.0,lowT,Cc1ccnc(NS(=O)(=O)c2ccc(N)cc2)n1,C1COCCO1
+MUKVUM,MUKVUM,100 K,FC(F)(F)S(=O)(=O)[O-].CC[S+]1CCN(CC1)c1ccccc1,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CC[S+]1CCN(CC1)c1ccccc1
+CIWVIP,CIWVIP,at 100 K,O=N(=O)[N-]C1=NON=C1N=NC1=NON=C1[N-]N(=O)=O.[NH3+]NC(=O)N[NH3+],P-1,False,100.0,lowT,O=N(=O)[N-]C1=NON=C1N=NC1=NON=C1[N-]N(=O)=O,[NH3+]NC(=O)N[NH3+]
+ECOQEV,ECOQEV,123 K,Clc1ccc(cc1)S(=O)(=O)[O-].CC(O)=[NH+]c1ccc(O)cc1,P21/c,False,123.0,lowT,Clc1ccc(cc1)S(=O)(=O)[O-],CC(O)=[NH+]c1ccc(O)cc1
+QOLMAH,QOLMAH,at 123 K,Cc1ccc2ccc3ccc(C)nc3c2n1.Oc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,I2/a,False,123.0,lowT,Cc1ccc2ccc3ccc(C)nc3c2n1,Oc1c(O)c(Cl)c(Cl)c(Cl)c1Cl
+IVUSAU,IVUSAU,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.Oc1ccc(cc1)S(=O)(=O)[O-],P-1,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Oc1ccc(cc1)S(=O)(=O)[O-]
+SEVPOC,SEVPOC,100 K,NC1=NC(=NO1)C1=NN2N=NN=C2N=C1N.CS(C)=O,P-1,False,100.0,lowT,NC1=NC(=NO1)C1=NN2N=NN=C2N=C1N,CS(C)=O
+HARHIV,HARHIV,113.2 K,OC(=O)COc1ccc(Cl)cc1Cl.C(Cc1ccncc1)c1ccncc1,P-1,False,113.0,lowT,OC(=O)COc1ccc(Cl)cc1Cl,C(Cc1ccncc1)c1ccncc1
+GIFPER,GIFPER,at 100 K,FC(F)(F)S(=O)(=O)[O-].COC(=O)C1Cc2ccccc2C(N1)=[NH+]C(C)(C)C,P21,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],COC(=O)C1Cc2ccccc2C(N1)=[NH+]C(C)(C)C
+IJEZUT,IJEZUT,at 120 K,OC(=O)C=Cc1ccc(O)cc1.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,P21/c,False,120.0,lowT,OC(=O)C=Cc1ccc(O)cc1,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+MOZBOU,MOZBOU,120 K,Nc1ncccn1.OC(=O)c1cccc(Br)c1,Pnma,False,120.0,lowT,Nc1ncccn1,OC(=O)c1cccc(Br)c1
+MUPPIX,MUPPIX,at 100 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.NC(=O)c1ccncc1,P-1,False,100.0,lowT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,NC(=O)c1ccncc1
+ACEROR,ACEROR,at 100 K,OC=O.CN1N=NC2=C(N=CN2C1=O)C(N)=O,P-1,False,100.0,lowT,OC=O,CN1N=NC2=C(N=CN2C1=O)C(N)=O
+JUPBII,JUPBII,120 K,COC(=O)NC1=[NH+]c2ccccc2N1.OC(=O)C=CC(=O)[O-],P21/c,False,120.0,lowT,COC(=O)NC1=[NH+]c2ccccc2N1,OC(=O)C=CC(=O)[O-]
+DIDNAI,DIDNAI,100 K,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12.c1ccc2nc3ccccc3nc2c1,P21,False,100.0,lowT,Oc1ccc2ccccc2c1c1c(O)ccc2ccccc12,c1ccc2nc3ccccc3nc2c1
+WUZNOX,WUZNOX,100 K,C1CCOC1.Clc1ccc2NC(=O)c3cc(Cl)ccc3NC(=O)c2c1,Pbca,False,100.0,lowT,C1CCOC1,Clc1ccc2NC(=O)c3cc(Cl)ccc3NC(=O)c2c1
+WUBYUN,WUBYUN,at 93.2 K,CC1=CC(=CC(=O)O1)OCc1cccc(C)c1.O=C1NC(=O)C=C1,C2/c,False,93.0,lowT,CC1=CC(=CC(=O)O1)OCc1cccc(C)c1,O=C1NC(=O)C=C1
+IVULUH,IVULUH,at 123 K,O=C([O-])c1ccc(cc1)N(=O)=O.C[NH+](C)C(C)C(O)c1ccccc1,P21/c,False,123.0,lowT,O=C([O-])c1ccc(cc1)N(=O)=O,C[NH+](C)C(C)C(O)c1ccccc1
+COZXOF,COZXOF,at 100 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1ccccc1,P21/c,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1ccccc1
+CASCAB,CASCAB,at 123 K,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl.C1COCCO1,P-1,False,123.0,lowT,NS(=O)(=O)c1cc2c(NCNS2(=O)=O)cc1Cl,C1COCCO1
+LATHUL,LATHUL,at 120 K,Nc1ccc(cc1)C(O)=O.c1ccc2nc3ccccc3nc2c1,P-1,False,120.0,lowT,Nc1ccc(cc1)C(O)=O,c1ccc2nc3ccccc3nc2c1
+PUHBUQ,PUHBUQ,at 123 K,FC(F)C(=O)[O-].NC(=O)c1c[nH+]ccc1,P21/c,False,123.0,lowT,FC(F)C(=O)[O-],NC(=O)c1c[nH+]ccc1
+CUYLAM,CUYLAM,100 K,OCC(O)=O.CN1C=NC2=C1C(=O)N(C)C(=O)N2C,Pnma,False,100.0,lowT,OCC(O)=O,CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+RAXYAU,RAXYAU,100.0 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl,P21/c,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)COC(=O)Cc1ccccc1Nc1c(Cl)cccc1Cl
+MECZUR,MECZUR,at 123 K,[NH3+]CCc1ccc(O)cc1.Oc1ccc(cc1)S(=O)(=O)[O-],P212121,False,123.0,lowT,[NH3+]CCc1ccc(O)cc1,Oc1ccc(cc1)S(=O)(=O)[O-]
+FEHQIV,FEHQIV,100 K,OC(=O)[O-].CC(C)(C)[NH2+]CCO,P21/c,False,100.0,lowT,OC(=O)[O-],CC(C)(C)[NH2+]CCO
+XUGCAG,XUGCAG,100.0 K,OC(C(=O)[O-])C(F)(F)F.[NH3+]C(CO)c1ccccc1,P21,False,100.0,lowT,OC(C(=O)[O-])C(F)(F)F,[NH3+]C(CO)c1ccccc1
+PITZUN,PITZUN,at 122 K,OC(C(=O)[O-])c1ccccc1.[NH3+]C(CO)c1ccccc1,C2,False,122.0,lowT,OC(C(=O)[O-])c1ccccc1,[NH3+]C(CO)c1ccccc1
+MECZOL,MECZOL,at 123 K,O=S(=O)([O-])c1ccccc1.[NH3+]CCc1ccc(O)cc1,P212121,False,123.0,lowT,O=S(=O)([O-])c1ccccc1,[NH3+]CCc1ccc(O)cc1
+IZUCEO,IZUCEO,113.2 K,ONC(=O)C=Cc1cccc(c1)S(=O)(=O)Nc1ccccc1.CS(C)=O,P-1,False,113.0,lowT,ONC(=O)C=Cc1cccc(c1)S(=O)(=O)Nc1ccccc1,CS(C)=O
+XEPBUR,XEPBUR,at 120 K,OC(=O)CCCCCCCCC(O)=O.c1cncc(c1)N=Nc1cccnc1,P-1,False,120.0,lowT,OC(=O)CCCCCCCCC(O)=O,c1cncc(c1)N=Nc1cccnc1
+GIJTAY,GIJTAY,113.2 K,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC.Oc1ccc(O)c(c1)C(=O)[O-],P21/n,False,113.0,lowT,COc1cc(Cc2c[nH+]c(N)nc2N)cc(OC)c1OC,Oc1ccc(O)c(c1)C(=O)[O-]
+MUXSAB,MUXSAB,90 K,Cc1ccccc1.CCCCN(c1ccccc1)c1ncccc1C(O)=O,P21/c,False,90.0,lowT,Cc1ccccc1,CCCCN(c1ccccc1)c1ncccc1C(O)=O
+COQYOX,COQYOX,at 100 K,FC(F)(F)S(=O)(=O)[O-].N1P=[NH+]c2ccccc12,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],N1P=[NH+]c2ccccc12
+BEFGOM,BEFGOM,90 K,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1.OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O,P-1,False,90.0,lowT,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1,OC(=O)c1cc(cc(c1[O-])N(=O)=O)N(=O)=O
+MOZBAG,MOZBAG,120 K,Nc1ncccn1.OC(=O)c1ccc(Cl)cc1,Pnma,False,120.0,lowT,Nc1ncccn1,OC(=O)c1ccc(Cl)cc1
+OZETEU,OZETEU,100 K,OC(=O)c1ccc(O)cc1.Cc1ccnc(N)n1,Pc,False,100.0,lowT,OC(=O)c1ccc(O)cc1,Cc1ccnc(N)n1
+XEPCAY,XEPCAY,at 120 K,OC(=O)CCCCCCC(O)=O.c1cc(ccn1)N=Nc1ccncc1,P-1,False,120.0,lowT,OC(=O)CCCCCCC(O)=O,c1cc(ccn1)N=Nc1ccncc1
+FOXPEO,FOXPEO,at 85 K,Oc1c(ccc2ccccc12)C(=O)[O-].[NH3+]CC1(CCCCC1)CC(O)=O,P21/c,False,85.0,lowT,Oc1c(ccc2ccccc12)C(=O)[O-],[NH3+]CC1(CCCCC1)CC(O)=O
+ASAPIV,ASAPIV,100 K,CC(C(=O)[O-])C(F)(F)F.[NH3+]C(CO)C(C)O,P1,False,100.0,lowT,CC(C(=O)[O-])C(F)(F)F,[NH3+]C(CO)C(C)O
+UHOSEQ,UHOSEQ,at 120 K,c1cc(ccn1)C=Cc1ccncc1.CCOC(=S)Nc1ccccc1,P-1,False,120.0,lowT,c1cc(ccn1)C=Cc1ccncc1,CCOC(=S)Nc1ccccc1
+NOKLAD,NOKLAD,100 K,ClC1=NSN=C(Cl)C21NC(=O)c1ccccc1N2.C1CCOC1,P21/c,False,100.0,lowT,ClC1=NSN=C(Cl)C21NC(=O)c1ccccc1N2,C1CCOC1
+REBXIH,REBXIH,at 100 K,OC(=O)c1cc(O)c(O)c(O)c1.NC(=O)c1cnccn1,P21/c,False,100.0,lowT,OC(=O)c1cc(O)c(O)c(O)c1,NC(=O)c1cnccn1
+EWOJIM,EWOJIM,100.2 K,O1C(=Nc2ccccc12)C=Cc1ccncc1.N#Cc1cc(C#N)c(cc1C#N)C#N,P21/c,False,100.0,lowT,O1C(=Nc2ccccc12)C=Cc1ccncc1,N#Cc1cc(C#N)c(cc1C#N)C#N
+OCIPUM,OCIPUM,at 100 K,OC(=O)CCC(O)=O.NC(=O)c1ccc(CN2C=CC=N2)cc1,P21/n,False,100.0,lowT,OC(=O)CCC(O)=O,NC(=O)c1ccc(CN2C=CC=N2)cc1
+BENWUO,BENWUO,at 100 K,O=C1NC(=O)C=C([O-])N1.CC[NH+](CC)CC(=O)Nc1c(C)cccc1C,P21,False,100.0,lowT,O=C1NC(=O)C=C([O-])N1,CC[NH+](CC)CC(=O)Nc1c(C)cccc1C
+SOHMUZ,SOHMUZ,90 K,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-].NC(=O)c1cc[nH+]cc1,Pbca,False,90.0,lowT,OC(=O)c1cc(ccc1O)S(=O)(=O)[O-],NC(=O)c1cc[nH+]cc1
+HABJUS,HABJUS,110.2 K,CC(=O)Oc1cc(ccc1C(O)=O)C(F)(F)F.NC(N)=O,C2/c,False,110.0,lowT,CC(=O)Oc1cc(ccc1C(O)=O)C(F)(F)F,NC(N)=O
+BODVOH,BODVOH,at 123.2 K,CC[n+]1ccc(cc1)C=Cc1ccc(OC)c(OC)c1.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P21/c,False,123.0,lowT,CC[n+]1ccc(cc1)C=Cc1ccc(OC)c(OC)c1,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+IVUMES,IVUMES,at 120 K,Cc1ccccc1C(=O)[O-].C[NH+](C)C(C)C(O)c1ccccc1,Pbc21,False,120.0,lowT,Cc1ccccc1C(=O)[O-],C[NH+](C)C(C)C(O)c1ccccc1
+FIFDAD,FIFDAD,90 K,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1.Clc1ccc(CC(=O)[O-])cc1,P-1,False,90.0,lowT,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1,Clc1ccc(CC(=O)[O-])cc1
+WATREP02,WATREP02,at 14 K,Cc1nc(C)c(C)nc1C.OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O,P21/n,False,14.0,lowT,Cc1nc(C)c(C)nc1C,OC1=C(Cl)C(=O)C(=C(Cl)C1=O)O
+YEPGOT,YEPGOT,100 K,NC1=NN=C(O1)N=NC1=NN=C(N)O1.CS(C)=O,P-1,False,100.0,lowT,NC1=NN=C(O1)N=NC1=NN=C(N)O1,CS(C)=O
+GUXVIH,GUXVIH,100 K,CC(=O)NC1=NN=C(S1)S(N)(=O)=O.c1cnccn1,P-1,False,100.0,lowT,CC(=O)NC1=NN=C(S1)S(N)(=O)=O,c1cnccn1
+FAFGOL,FAFGOL,106 K,COc1ccc2cccc(CCNC(C)=O)c2c1.Oc1ccc(O)cc1,P21,False,106.0,lowT,COc1ccc2cccc(CCNC(C)=O)c2c1,Oc1ccc(O)cc1
+TIGTOU,TIGTOU,at 90 K,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2.Brc1ccc(cc1)[N+]#N,P21,False,90.0,lowT,CC1(C)C2CCC1(CS(=O)(=O)[O-])C(=O)C2,Brc1ccc(cc1)[N+]#N
+ORELEE,ORELEE,100 K,OC(C(F)(F)F)C(F)(F)F.CN1C=Nc2c(N)ncnc12,P-1,False,100.0,lowT,OC(C(F)(F)F)C(F)(F)F,CN1C=Nc2c(N)ncnc12
+XISLIV01,XISLIV01,at 111 K,O=N(=O)c1ccc(cc1)S(=O)(=O)Nc1cc[nH+]cc1.ClC(Cl)(Cl)C(=O)[O-],P21/c,False,111.0,lowT,O=N(=O)c1ccc(cc1)S(=O)(=O)Nc1cc[nH+]cc1,ClC(Cl)(Cl)C(=O)[O-]
+OBAWUM,OBAWUM,100 K,Cc1ccccc1C(O)=O.C1N2CN3CN1CN(C2)C3,P21/c,False,100.0,lowT,Cc1ccccc1C(O)=O,C1N2CN3CN1CN(C2)C3
+CIDCOI,CIDCOI,at 120 K,OC(=O)c1cccc(n1)C(=O)[O-].COc1[nH+]c(N)nc(OC)c1,P-1,False,120.0,lowT,OC(=O)c1cccc(n1)C(=O)[O-],COc1[nH+]c(N)nc(OC)c1
+SIHLON,SIHLON,120 K,OC(=O)c1ccc(Cl)cc1Cl.Cc1nc(C)c(Cl)c(N)n1,P-1,False,120.0,lowT,OC(=O)c1ccc(Cl)cc1Cl,Cc1nc(C)c(Cl)c(N)n1
+HONWAJ,HONWAJ,at 100 K,c1cc(ccn1)C=Cc1ccncc1.OC(=O)c1cccc(O)c1,P-1,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,OC(=O)c1cccc(O)c1
+BEFGIG,BEFGIG,90 K,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1.O=C([O-])c1ccccc1,P-1,False,90.0,lowT,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1,O=C([O-])c1ccccc1
+LIQSIQ,LIQSIQ,100 K,OC(=O)c1cccc(C(O)=O)c1C(O)=O.c1cnccn1,P-1,False,100.0,lowT,OC(=O)c1cccc(C(O)=O)c1C(O)=O,c1cnccn1
+GULQAH,GULQAH,100 K,c1cc(ccn1)C=NN=Cc1ccncc1.OC(=O)CCCCC(O)=O,P21/c,False,100.0,lowT,c1cc(ccn1)C=NN=Cc1ccncc1,OC(=O)CCCCC(O)=O
+COZXIZ,COZXIZ,at 100 K,C(Cc1ccncc1)c1ccncc1.OC(=O)c1ccccc1,P-1,False,100.0,lowT,C(Cc1ccncc1)c1ccncc1,OC(=O)c1ccccc1
+VUXXIX,VUXXIX,93 K,C(Cc1ccncc1)c1ccncc1.CCCCOc1ccc(cc1)C(O)=O,P-1,False,93.0,lowT,C(Cc1ccncc1)c1ccncc1,CCCCOc1ccc(cc1)C(O)=O
+VAXJAJ,VAXJAJ,100 K,CCOc1ccc2[nH+]c3cc(N)ccc3c(N)c2c1.Cc1cccc(Nc2ccccc2C(=O)[O-])c1C,P-1,False,100.0,lowT,CCOc1ccc2[nH+]c3cc(N)ccc3c(N)c2c1,Cc1cccc(Nc2ccccc2C(=O)[O-])c1C
+FIFCUW,FIFCUW,90 K,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1.Nc1ccc(cc1)C(=O)[O-],P-1,False,90.0,lowT,O=N(=O)c1ccc(cc1)N1CC[NH2+]CC1,Nc1ccc(cc1)C(=O)[O-]
+HAVYEL,HAVYEL,100 K,[NH3+]C(C)C(F)(F)F.FC(F)(F)S(=O)(=O)[O-],P212121,False,100.0,lowT,[NH3+]C(C)C(F)(F)F,FC(F)(F)S(=O)(=O)[O-]
+REHTAB,REHTAB,at 110 K,CCOc1ccccc1C(N)=O.OC(=O)C=CC(O)=O,P-1,False,110.0,lowT,CCOc1ccccc1C(N)=O,OC(=O)C=CC(O)=O
+TICRII,TICRII,at 100 K,c1cc(ccn1)C=Cc1ccncc1.Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1,P-1,False,100.0,lowT,c1cc(ccn1)C=Cc1ccncc1,Nc1ccc(cc1)S(=O)(=O)Nc1ncccn1
+CUBBAD,CUBBAD,at 100 K,Cc1nc(C)c(C)nc1C.Oc1ccc2ccc(O)cc2c1,P21/c,False,100.0,lowT,Cc1nc(C)c(C)nc1C,Oc1ccc2ccc(O)cc2c1
+HONTUA,HONTUA,at 100 K,OC(=O)c1cccc(O)c1.C(Cc1ccncc1)c1ccncc1,P-1,False,100.0,lowT,OC(=O)c1cccc(O)c1,C(Cc1ccncc1)c1ccncc1
+HIDBOP,HIDBOP,100.0 K,OC(=O)C=CC(=O)[O-].[NH3+]CCCC(O)=O,P21/c,False,100.0,lowT,OC(=O)C=CC(=O)[O-],[NH3+]CCCC(O)=O
+ORUXEF,ORUXEF,at 100 K,[NH3+]C(CCCNC(N)=[NH2+])C(=O)[O-].O=C1CN(N=CC2=CC=C(O2)N(=O)=O)C(=O)[N-]1,P212121,False,100.0,lowT,[NH3+]C(CCCNC(N)=[NH2+])C(=O)[O-],O=C1CN(N=CC2=CC=C(O2)N(=O)=O)C(=O)[N-]1
+ODUSUE,ODUSUE,90 K,FC(F)(F)S(=O)(=O)[O-].Cc1cc[n+](O[Si](C)(C)C)cc1,Pnma,False,90.0,lowT,FC(F)(F)S(=O)(=O)[O-],Cc1cc[n+](O[Si](C)(C)C)cc1
+IVUKOA,IVUKOA,at 123 K,C[NH+](C)C(C)C(O)c1ccccc1.Clc1ccccc1C(=O)[O-],Pca21,False,123.0,lowT,C[NH+](C)C(C)C(O)c1ccccc1,Clc1ccccc1C(=O)[O-]
+TIMQIT,TIMQIT,100 K,Cc1ccc(cc1)S(=O)(=O)[O-].O=C1N[NH2+]C21CCCCC2,Pna21,False,100.0,lowT,Cc1ccc(cc1)S(=O)(=O)[O-],O=C1N[NH2+]C21CCCCC2
+VELBEV,VELBEV,at 100 K,[NH3+]C(C(O)c1ccccc1)c1ccccc1.O=C([O-])C1=Cc2ccccc2N1,C2,False,100.0,lowT,[NH3+]C(C(O)c1ccccc1)c1ccccc1,O=C([O-])C1=Cc2ccccc2N1
+HEPQIG,HEPQIG,100 K,OC(=O)c1ccccc1Cl.CN1N(C(=O)C=C1C)c1ccccc1,P21/c,False,100.0,lowT,OC(=O)c1ccccc1Cl,CN1N(C(=O)C=C1C)c1ccccc1
+COSLIG,COSLIG,at 110 K,FC(F)(F)C(=O)[O-].[NH3+]C1CSC=C(NC1=O)C(=O)OC,P1,False,110.0,lowT,FC(F)(F)C(=O)[O-],[NH3+]C1CSC=C(NC1=O)C(=O)OC
+GIFFEJ,GIFFEJ,100 K,NC(N)=O.Cc1cnc(C)cn1,P21/c,False,100.0,lowT,NC(N)=O,Cc1cnc(C)cn1
+CAMHIJ,CAMHIJ,at 110 K,FC(F)(F)S(=O)(=O)[O-].C[NH+](C)c1cccc2cccc(F)c12,P21/c,False,110.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[NH+](C)c1cccc2cccc(F)c12
+OXANEI,OXANEI,100 K,Oc1c(CC(=O)NCC2=CC=CO2)c2OC(=O)Cc2c2OC(=O)Cc12.c1ccccc1,P21/n,False,100.0,lowT,Oc1c(CC(=O)NCC2=CC=CO2)c2OC(=O)Cc2c2OC(=O)Cc12,c1ccccc1
+HIFCOQ,HIFCOQ,at 100 K,FC(F)(F)C(=O)[O-].CC1CC2C3CCC[NH+]4CCC(=C(O)C2=O)C34C1,P21,False,100.0,lowT,FC(F)(F)C(=O)[O-],CC1CC2C3CCC[NH+]4CCC(=C(O)C2=O)C34C1
+SUCTIV,SUCTIV,at 100 K,OC(=O)C=CC(O)=O.CN(C)C(N)=O,P21/n,False,100.0,lowT,OC(=O)C=CC(O)=O,CN(C)C(N)=O
+NENWEM,NENWEM,100 K,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1.OC(=O)c1ccc(cc1)C(O)=O,C2/c,False,100.0,lowT,C(N1C=CN=C1)c1ccc(CN2C=CN=C2)cc1,OC(=O)c1ccc(cc1)C(O)=O
+DUZPAQ,DUZPAQ,at 120 K,OC(=O)CCC(O)=O.NC(=O)c1cccnc1,P-1,False,120.0,lowT,OC(=O)CCC(O)=O,NC(=O)c1cccnc1
+LOGDIW,LOGDIW,at 100 K,Cc1cc(N)[nH+]cc1N(=O)=O.FC(F)(F)C(=O)[O-],P21/m,False,100.0,lowT,Cc1cc(N)[nH+]cc1N(=O)=O,FC(F)(F)C(=O)[O-]
+SIHBIX,SIHBIX,120 K,Nc1ccc(cc1)C(O)=O.Cc1nc(C)c(Cl)c(N)n1,P21/c,False,120.0,lowT,Nc1ccc(cc1)C(O)=O,Cc1nc(C)c(Cl)c(N)n1
+GAXFUI,GAXFUI,at 107.4 K,[NH2+]=C1NC(=O)N(C=C1)C1CSC(CO)O1.Oc1ccccc1C(=O)[O-],P21,False,107.0,lowT,[NH2+]=C1NC(=O)N(C=C1)C1CSC(CO)O1,Oc1ccccc1C(=O)[O-]
+UNIHUU,UNIHUU,at 123 K,CC1=CC(=[NH+]c2c(O)cccc2N1)C.O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O,P-1,False,123.0,lowT,CC1=CC(=[NH+]c2c(O)cccc2N1)C,O=N(=O)c1cc(c([O-])c(c1)N(=O)=O)N(=O)=O
+MUZTUY,MUZTUY,100 K,FC(F)(F)S(=O)(=O)[O-].CN1C=CN(C)C1=[P+]=C1N(C)C=CN1C,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CN1C=CN(C)C1=[P+]=C1N(C)C=CN1C
+ZIPGOX,ZIPGOX,100 K,NC(=O)c1cc[nH+]cc1.OC(=O)c1ccccc1C(=O)[O-],P21/c,False,100.0,lowT,NC(=O)c1cc[nH+]cc1,OC(=O)c1ccccc1C(=O)[O-]
+REKTAG,REKTAG,100 K,O=C(NCc1ccncc1)C(=O)NCc1ccncc1.OC(=O)c1cccc(Cl)c1,P-1,False,100.0,lowT,O=C(NCc1ccncc1)C(=O)NCc1ccncc1,OC(=O)c1cccc(Cl)c1
+CEHJEF,CEHJEF,at 120 K,C[N+](C)(C)S(=O)(=O)[N-]S(=O)(=O)[N+](C)(C)C.ClS(=O)(=O)[N-]S(Cl)(=O)=O,P-1,False,120.0,lowT,C[N+](C)(C)S(=O)(=O)[N-]S(=O)(=O)[N+](C)(C)C,ClS(=O)(=O)[N-]S(Cl)(=O)=O
+YUGQEZ,YUGQEZ,110 K,O=P(c1ccccc1)(c1ccccc1)c1ccccc1.O=S(=O)(NS(=O)(=O)c1ccccc1)c1ccccc1,P212121,False,110.0,lowT,O=P(c1ccccc1)(c1ccccc1)c1ccccc1,O=S(=O)(NS(=O)(=O)c1ccccc1)c1ccccc1
+YAJHIE,YAJHIE,93.2 K,FC(F)(F)C(=O)[O-].COc1c(O)c(nc(c2[nH+]cccc2)c1OC)C(N)=O,P-1,False,93.0,lowT,FC(F)(F)C(=O)[O-],COc1c(O)c(nc(c2[nH+]cccc2)c1OC)C(N)=O
+YICNEH,YICNEH,100 K,Oc1ccc(cc1O)C(=O)[O-].NC1=[NH+]C(=O)NC=C1F,P21,False,100.0,lowT,Oc1ccc(cc1O)C(=O)[O-],NC1=[NH+]C(=O)NC=C1F
+JAXSOR,JAXSOR,at 100 K,c1ncncn1.Oc1cccc(O)c1O,P21/n,False,100.0,lowT,c1ncncn1,Oc1cccc(O)c1O
+EWIKAY,EWIKAY,100.2 K,c1ccc2nc3ccccc3nc2c1.CC(C)c1cccc(C(C)C)c1O,C2/c,False,100.0,lowT,c1ccc2nc3ccccc3nc2c1,CC(C)c1cccc(C(C)C)c1O
+MEDHAG,MEDHAG,at 123 K,[NH3+]CCc1ccc(O)cc1.OC(CC(O)=O)C(=O)[O-],Pna21,False,123.0,lowT,[NH3+]CCc1ccc(O)cc1,OC(CC(O)=O)C(=O)[O-]
+DEZDAO,DEZDAO,at 123 K,FC(F)(F)C(=O)[O-].FC1=CNC(=C1F)C1=CC(=[NH+]N1)C1=C(F)C(=CN1)F,P21/n,False,123.0,lowT,FC(F)(F)C(=O)[O-],FC1=CNC(=C1F)C1=CC(=[NH+]N1)C1=C(F)C(=CN1)F
+JIYQAM,JIYQAM,100 K,FC(F)(F)S(=O)(=O)[O-].COC(=O)c1ccc(C(=O)OC)c(c1)[n+]1ccccc1,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],COC(=O)c1ccc(C(=O)OC)c(c1)[n+]1ccccc1
+INEFIQ01,INEFIQ01,at 93 K,[NH3+]C(CCCNC(N)=[NH2+])C(O)=O.FC(F)(F)C(=O)[O-],P21,False,93.0,lowT,[NH3+]C(CCCNC(N)=[NH2+])C(O)=O,FC(F)(F)C(=O)[O-]
+NUGKAE,NUGKAE,100 K,CCC([NH2+]CC[NH2+]C(CC)CO)CO.CS(=O)(=O)[O-],P21212,False,100.0,lowT,CCC([NH2+]CC[NH2+]C(CC)CO)CO,CS(=O)(=O)[O-]
+TAFGAM,TAFGAM,100 K,OC(=O)C[NH+](CC[NH+](CC(O)=O)CC(O)=O)CC(O)=O.CS(=O)(=O)[O-],C2/c,False,100.0,lowT,OC(=O)C[NH+](CC[NH+](CC(O)=O)CC(O)=O)CC(O)=O,CS(=O)(=O)[O-]
+WACNIA,WACNIA,100 K,CC1[NH2+]CCOC1c1cccc(F)c1.O=C([O-])C=CC(=O)[O-],P21/c,False,100.0,lowT,CC1[NH2+]CCOC1c1cccc(F)c1,O=C([O-])C=CC(=O)[O-]
+LUVQEZ,LUVQEZ,at 123 K,FC(F)(F)S(=O)(=O)[O-].C[NH+](C)CCC[n+]1ccccc1O,P-1,False,123.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[NH+](C)CCC[n+]1ccccc1O
+FOBNUH,FOBNUH,at 100 K,FC(F)(F)S(=O)(=O)[O-].C1=CN(N=C1)[B-]12[N+]3=CC=CN3P(N3C=CC=[N+]13)N1C=CC=[N+]21,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C1=CN(N=C1)[B-]12[N+]3=CC=CN3P(N3C=CC=[N+]13)N1C=CC=[N+]21
+FOBPAP,FOBPAP,at 100 K,FC(F)(F)S(=O)(=O)[O-].CCN(CC)P1N2C=CC=[N+]2CN2C=CC=[N+]12,P21/n,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],CCN(CC)P1N2C=CC=[N+]2CN2C=CC=[N+]12
+SUYYAN,SUYYAN,at 100 K,Nc1[nH+]cc(Br)cc1.O=C([O-])C=CC(=O)[O-],P21/c,False,100.0,lowT,Nc1[nH+]cc(Br)cc1,O=C([O-])C=CC(=O)[O-]
+TINQOZ,TINQOZ,120 K,FC(F)(F)S(=O)(=O)[O-].C[n+]1cccc(c1)C1=NS[S+]=N1,P-1,False,120.0,lowT,FC(F)(F)S(=O)(=O)[O-],C[n+]1cccc(c1)C1=NS[S+]=N1
+QUYKUS01,QUYKUS01,113 K,O[n+]1ccc(cc1)c1cc[n+](O)cc1.ClC(Cl)(Cl)C(=O)[O-],C2/c,False,113.0,lowT,O[n+]1ccc(cc1)c1cc[n+](O)cc1,ClC(Cl)(Cl)C(=O)[O-]
+ICOWAB,ICOWAB,100 K,[O-]N1N=NN=C1C1=NN=NN1[O-].NC(=[NH2+])O,P21/n,False,100.0,lowT,[O-]N1N=NN=C1C1=NN=NN1[O-],NC(=[NH2+])O
+KODLAT,KODLAT,100 K,OC(=O)CCCNc1nc[nH+]c2N=CNc12.O=C([O-])CCCNc1ncnc2NC=Nc12,P21/c,False,100.0,lowT,OC(=O)CCCNc1nc[nH+]c2N=CNc12,O=C([O-])CCCNc1ncnc2NC=Nc12
+QUWGOH,QUWGOH,120 K,Cc1cc(CSC(N)=[NH2+])c(C)cc1CSC(N)=[NH2+].CC(=O)[O-],P21/c,False,120.0,lowT,Cc1cc(CSC(N)=[NH2+])c(C)cc1CSC(N)=[NH2+],CC(=O)[O-]
+FOBNOB,FOBNOB,at 100 K,FC(F)(F)S(=O)(=O)[O-].C1[N+]2=CC=CN2P(N2C=CC=[N+]12)c1ccccc1,P-1,False,100.0,lowT,FC(F)(F)S(=O)(=O)[O-],C1[N+]2=CC=CN2P(N2C=CC=[N+]12)c1ccccc1
+DINJUH,DINJUH,at 100 K,NC1=[NH+]C(=O)NC=C1F.O=C([O-])C=CC(=O)[O-],P21/c,False,100.0,lowT,NC1=[NH+]C(=O)NC=C1F,O=C([O-])C=CC(=O)[O-]

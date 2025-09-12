@@ -1,0 +1,25 @@
+Feature,Contribution,Category
+Dipole_average,0.14996392733563996,Electronic feature
+NumHDonors_average,0.06285700692041483,Geometry feature
+Polarizability_min,0.04811401384083024,Electronic feature
+NumAromaticRings_average,0.038700432525951206,Geometry feature
+NumHAcceptors_average,0.03798918685121066,Geometry feature
+HOMO_LUMO_Gap_min,0.03748564013840794,Electronic feature
+NumHAcceptors_diff,0.03729368512110699,Geometry feature
+Dipole_max,0.03336332179930781,Electronic feature
+NumHAcceptors_min,0.028291435986158714,Geometry feature
+NumHAcceptors_max,0.02771894463667782,Geometry feature
+Polarizability_diff,0.027449740484428654,Electronic feature
+Dipole_min,0.02677794117647033,Electronic feature
+NumAromaticRings_min,0.024371972318338837,Geometry feature
+NumHDonors_diff,0.024292041522490895,Geometry feature
+HOMO_LUMO_Gap_average,0.02367802768166054,Electronic feature
+HOMO_LUMO_Gap_diff,0.023296193771625996,Electronic feature
+NumHDonors_min,0.02254437716262945,Geometry feature
+Polarizability_max,0.022400519031141524,Electronic feature
+NumAromaticRings_diff,0.021760034602075845,Geometry feature
+NumHDonors_max,0.021358996539792136,Geometry feature
+Dipole_diff,0.0211789792387539,Electronic feature
+HOMO_LUMO_Gap_max,0.020127335640138043,Electronic feature
+NumAromaticRings_max,0.019457871972318137,Geometry feature
+Polarizability_average,0.017574394463667556,Electronic feature
