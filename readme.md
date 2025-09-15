@@ -13,7 +13,7 @@ Corresponding scientific report:
 ## **Git Clone**
 
 ```sh
-git clone https://xxxxxxx.git
+[git clone https://xxxxxxx.git](https://github.com/Strathm0re/Cocrystal.git)
 ```
 
 ## **Segment 1: Cocrystal Prediction Section**
