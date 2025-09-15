@@ -6,7 +6,7 @@
 
 ## **Summary**
 
-This library consists of two parts: the Cocrystal prediction by machine learning section (using `Python 3.9`)  and the computer vision classification section (using `Python 3.10 `). 
+This library consists of two parts: the Cocrystal prediction by machine learning section (using `Python 3.9`)  and the computer vision classification section (using `Python 3.10`). 
 
 Corresponding scientific report:
 
