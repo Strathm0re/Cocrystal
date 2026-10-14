@@ -1,7 +1,7 @@
 ﻿# **Data-driven Discovery of Polar Organic Cocrystals: Integration of Machine Learning and Automated Screening**
 
 
-<img src="./fig1.png"  width="600" >
+<img src="./figure/figure1.png"  width="600" >
 
 
 ## **Summary**
@@ -9,6 +9,10 @@
 This library consists of two parts: the Cocrystal prediction by machine learning section (using `Python 3.7`)  and the computer vision classification section (using `Python 3.10`). 
 
 Corresponding scientific report:
+
+> **Data-Driven Discovery of Polar Organic Cocrystals: Integration of Machine Learning and Automated Screening**
+> *Journal of the American Chemical Society* **2025**, *147* (49), 45523–45535
+> DOI: [10.1021/jacs.5c16276](https://doi.org/10.1021/jacs.5c16276)
 
 ## **Git Clone**
 
@@ -29,7 +33,7 @@ Activate venv: `conda activate cocrystal`
  
 Install libraries: `pip install -r requirement.txt`
 
-<img src="./fig2.png"  width="600" >
+<img src="./figure/figure2.png"  width="600" >
 
 ### Part 1 :Detailed methodology for t-SNE visualization of cocrystal chemical space
 
